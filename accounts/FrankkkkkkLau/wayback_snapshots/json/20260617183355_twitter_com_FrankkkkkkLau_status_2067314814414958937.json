@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2067106074252267953",
+    "created_at": "2026-06-17T18:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067314814414958937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974510779043889152",
+          "start": 0,
+          "username": "admi242418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067314814414958937",
+    "in_reply_to_user_id": "1974510779043889152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067285991870845253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@admi242418 所以理论上只要有人用他们的Private Bin写点东西, 然后在墙内大规模传播, 就会被墙...?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2067106074252267953",
+        "created_at": "2026-06-17T18:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067314814414958937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974510779043889152",
+              "start": 0,
+              "username": "admi242418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067314814414958937",
+        "in_reply_to_user_id": "1974510779043889152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067285991870845253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@admi242418 所以理论上只要有人用他们的Private Bin写点东西, 然后在墙内大规模传播, 就会被墙...?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974510779043889152",
+        "conversation_id": "2067106074252267953",
+        "created_at": "2026-06-17T16:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067285991870845253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067285991870845253",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067106074252267953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 首先需要流量足够大，然后再触发一些违禁词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 350,
+          "like_count": 4503,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 947
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T16:24:03.000Z",
+        "description": "",
+        "id": "1974510779043889152",
+        "name": "admi242418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974510924644954112/78bur0vN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "admi242418",
+        "verified": false
+      }
+    ]
+  }
+}

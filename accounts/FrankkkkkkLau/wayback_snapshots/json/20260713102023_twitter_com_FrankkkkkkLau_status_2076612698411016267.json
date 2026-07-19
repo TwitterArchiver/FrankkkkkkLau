@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2076493795814990086",
+    "created_at": "2026-07-13T10:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T11:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076612698411016267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2022680344160612352",
+          "start": 0,
+          "username": "3209C93086"
+        },
+        {
+          "end": 26,
+          "id": "2065198058443620353",
+          "start": 12,
+          "username": "Autonomous667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076612698411016267",
+    "in_reply_to_user_id": "2022680344160612352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076609154794541329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3209C93086 @Autonomous667 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2076493795814990086",
+        "created_at": "2026-07-13T10:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076612698411016267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022680344160612352",
+              "start": 0,
+              "username": "3209C93086"
+            },
+            {
+              "end": 26,
+              "id": "2065198058443620353",
+              "start": 12,
+              "username": "Autonomous667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076612698411016267",
+        "in_reply_to_user_id": "2022680344160612352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076609154794541329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3209C93086 @Autonomous667 草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022680344160612352",
+        "conversation_id": "2076493795814990086",
+        "created_at": "2026-07-13T10:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076609154794541329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            },
+            {
+              "end": 29,
+              "id": "2065198058443620353",
+              "start": 15,
+              "username": "Autonomous667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076609154794541329",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076578156702785552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura @Autonomous667 我的没有，我也在cn啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 676,
+          "like_count": 7649,
+          "listed_count": 1,
+          "media_count": 341,
+          "tweet_count": 1556
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-14T14:32:51.000Z",
+        "description": "",
+        "id": "2022680344160612352",
+        "location": "員林",
+        "name": "琪露诺是个数学天才",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022680441543888897/cDtROA3C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 75,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1059
+        },
+        "url": "",
+        "username": "3209C93086",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T22:24:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "automous.lol",
+                "end": 23,
+                "expanded_url": "https://automous.lol",
+                "start": 0,
+                "url": "https://t.co/cuxICd3LHR"
+              }
+            ]
+          }
+        },
+        "id": "2065198058443620353",
+        "location": "你家的床上",
+        "name": "🌊Autonomous🏳️‍⚧️🇹🇼🇳🇫🍥",
+        "pinned_tweet_id": "2067883740177821740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075088473640636416/qUpLrboB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 126,
+          "like_count": 1211,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1351
+        },
+        "url": "https://t.co/cuxICd3LHR",
+        "username": "Autonomous667",
+        "verified": false
+      }
+    ]
+  }
+}

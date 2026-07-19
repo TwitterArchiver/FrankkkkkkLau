@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058417470478917632"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058417472978682297",
+    "created_at": "2026-05-24T05:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T06:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058417472978682297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vd6rwuNDqf",
+          "end": 33,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2058417472978682297/photo/1",
+          "media_key": "3_2058417470478917632",
+          "start": 10,
+          "url": "https://t.co/vd6rwuNDqf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058417472978682297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小米钱包这是何意味 https://t.co/vd6rwuNDqf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 855,
+        "media_key": "3_2058417470478917632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJD3yI9aoAATZJR.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058417470478917632"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058417472978682297",
+        "created_at": "2026-05-24T05:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058417472978682297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vd6rwuNDqf",
+              "end": 33,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2058417472978682297/photo/1",
+              "media_key": "3_2058417470478917632",
+              "start": 10,
+              "url": "https://t.co/vd6rwuNDqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058417472978682297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小米钱包这是何意味 https://t.co/vd6rwuNDqf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 118,
+          "like_count": 2080,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 504
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

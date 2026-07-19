@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2072586420187967687",
+    "created_at": "2026-07-02T08:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072597381997355161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054197521690611712",
+          "start": 0,
+          "username": "Yanamimi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072597381997355161",
+    "in_reply_to_user_id": "2054197521690611712",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072596663252975997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yanamimi8964 ））"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2072586420187967687",
+        "created_at": "2026-07-02T08:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072597381997355161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054197521690611712",
+              "start": 0,
+              "username": "Yanamimi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072597381997355161",
+        "in_reply_to_user_id": "2054197521690611712",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072596663252975997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yanamimi8964 ））"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054197521690611712",
+        "conversation_id": "2072586420187967687",
+        "created_at": "2026-07-02T08:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072596663252975997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072596663252975997",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072595318961774715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 不能 优惠系统不互通😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 550,
+          "like_count": 5939,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 1218
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T13:50:57.000Z",
+        "description": "中国几千年来是世界上头一等的强国，我们的文明、进步比各国是领先的。\n当中国顶强盛的时代，正所谓“千邦进贡，万国来朝”。那个时候，中国的文明在世界是第一的，中国是世界上头一等的强国。  ———孙中山（Sun Yat-sen）《孙中山全集·勉励国民》1924.5.30",
+        "id": "2054197521690611712",
+        "location": "中華人民共和國香港特別行政區、中華人民共和國台灣省",
+        "name": "八奈见见💜Yanamimi",
+        "pinned_tweet_id": "2072356190898766312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055895763868434432/7MU67AyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 1186,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "Yanamimi8964",
+        "verified": false
+      }
+    ]
+  }
+}

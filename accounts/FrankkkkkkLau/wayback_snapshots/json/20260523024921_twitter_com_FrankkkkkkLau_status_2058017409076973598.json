@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2058016742098809190",
+    "created_at": "2026-05-23T02:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058017409076973598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1885557129588948992",
+          "start": 0,
+          "username": "jfrd163461"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058017409076973598",
+    "in_reply_to_user_id": "1885557129588948992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058016742098809190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jfrd163461 😱发不出去的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2058016742098809190",
+        "created_at": "2026-05-23T02:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058017409076973598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "jfrd163461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058017409076973598",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058016742098809190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jfrd163461 😱发不出去的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885557129588948992",
+        "conversation_id": "2058016742098809190",
+        "created_at": "2026-05-23T02:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058016742098809190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058016742098809190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爲什麽在大陸的平臺上 countryball裏的台灣\n爲什麽不是青天白日滿地紅 是網路審查的問題？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 100,
+          "like_count": 1993,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Revolutionary Democratic Socialism\nOriginal Marxism\nCountryhuman lover\nDemocracy&Freedom\nHongkonger\nFree China\nLove Playing CS2\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼",
+        "id": "1885557129588948992",
+        "location": " Republic of China - Hong Kong",
+        "name": "+852 40609891 RDSKMTROC G3SG1 HONG KONG FREE🇭🇰",
+        "pinned_tweet_id": "2042964092470620631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049926182766780416/xAdrEsq9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 6113,
+          "like_count": 13642,
+          "listed_count": 5,
+          "media_count": 645,
+          "tweet_count": 3724
+        },
+        "username": "jfrd163461",
+        "verified": false
+      }
+    ]
+  }
+}

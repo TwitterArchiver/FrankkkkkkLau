@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2067917159682961505",
+    "created_at": "2026-06-20T07:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068228118301835471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1362548440245227522",
+          "start": 0,
+          "username": "BlurryFace2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068228118301835471",
+    "in_reply_to_user_id": "1362548440245227522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067917159682961505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlurryFace2025 抓包丢给ai分析一下（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2067917159682961505",
+        "created_at": "2026-06-20T07:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068228118301835471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1362548440245227522",
+              "start": 0,
+              "username": "BlurryFace2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068228118301835471",
+        "in_reply_to_user_id": "1362548440245227522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067917159682961505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlurryFace2025 抓包丢给ai分析一下（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362548440245227522",
+        "conversation_id": "2067917159682961505",
+        "created_at": "2026-06-19T10:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067917159682961505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067917159682961505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 975,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太神秘了吧为什么我的平板可以直连推特。其他网站和手机都做不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 380,
+          "like_count": 4792,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 997
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-18T23:44:05.000Z",
+        "description": "我是模糊，臭搞oc的底层小画师。19y。赛博精神病，社交能力低下。来这里发自己oc的黄暴内容🔞(也可以是自己的，还有一些日常和碎碎念，想发啥发啥。Thank you for your support.",
+        "id": "1362548440245227522",
+        "name": "模糊",
+        "pinned_tweet_id": "2048047537282855191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953323753699684352/M7ixwGHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2468,
+          "following_count": 3531,
+          "like_count": 48874,
+          "listed_count": 1,
+          "media_count": 427,
+          "tweet_count": 2597
+        },
+        "url": "",
+        "username": "BlurryFace2025",
+        "verified": false
+      }
+    ]
+  }
+}

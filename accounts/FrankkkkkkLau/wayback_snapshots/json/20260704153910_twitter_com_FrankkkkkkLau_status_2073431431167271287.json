@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073431362179383296"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2073431431167271287",
+    "created_at": "2026-07-04T15:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T16:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073431431167271287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KruAKV8oG2",
+          "end": 34,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2073431431167271287/photo/1",
+          "media_key": "3_2073431362179383296",
+          "start": 11,
+          "url": "https://t.co/KruAKV8oG2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073431431167271287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来炒作这么简单的吗 https://t.co/KruAKV8oG2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_2073431362179383296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZO1qDbQAAu2NR.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073431362179383296"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073431431167271287",
+        "created_at": "2026-07-04T15:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073431431167271287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KruAKV8oG2",
+              "end": 34,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2073431431167271287/photo/1",
+              "media_key": "3_2073431362179383296",
+              "start": 11,
+              "url": "https://t.co/KruAKV8oG2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073431431167271287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来炒作这么简单的吗 https://t.co/KruAKV8oG2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 584,
+          "like_count": 6309,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 1308
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

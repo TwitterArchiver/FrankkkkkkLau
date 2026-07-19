@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2063273136305619245",
+    "created_at": "2026-06-06T15:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063281949029110138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1500467291913261058",
+          "start": 0,
+          "username": "Smarita_orz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063281949029110138",
+    "in_reply_to_user_id": "1500467291913261058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063281542127034399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Smarita_orz 我这里移动也走lax😿😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2063273136305619245",
+        "created_at": "2026-06-06T15:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063281949029110138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1500467291913261058",
+              "start": 0,
+              "username": "Smarita_orz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063281949029110138",
+        "in_reply_to_user_id": "1500467291913261058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063281542127034399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smarita_orz 我这里移动也走lax😿😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500467291913261058",
+        "conversation_id": "2063273136305619245",
+        "created_at": "2026-06-06T15:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063281542127034399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063281542127034399",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063273136305619245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 应该是根据ISP而异，似乎只有移动走得了HKG，而电信 联通走的是LAX或者SJC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 284,
+          "like_count": 3253,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 721
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-06T13:44:32.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thefurcom.sbs",
+                "end": 23,
+                "expanded_url": "http://thefurcom.sbs",
+                "start": 0,
+                "url": "https://t.co/ryLYLBwfof"
+              }
+            ]
+          }
+        },
+        "id": "1500467291913261058",
+        "location": "江西省",
+        "name": "Smarita",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002071666655186944/wPWPbBpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 4422,
+          "like_count": 83896,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 5808
+        },
+        "url": "https://t.co/ryLYLBwfof",
+        "username": "Smarita_orz",
+        "verified": false
+      }
+    ]
+  }
+}

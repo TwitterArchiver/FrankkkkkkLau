@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051980491289698304"
+      ],
+      "media_source_tweet_id": [
+        "2051980525628526879"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2052318048825340370",
+    "created_at": "2026-05-07T09:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052318048825340370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1548619992001785859",
+          "start": 3,
+          "username": "frankshiki73"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wzhmZiDyKf",
+          "end": 58,
+          "expanded_url": "https://x.com/frankshiki73/status/2051980525628526879/photo/1",
+          "media_key": "3_2051980491289698304",
+          "start": 35,
+          "url": "https://t.co/wzhmZiDyKf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052318048825340370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051980525628526879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @frankshiki73: 看起来咱的梯子被推特标记成中国了 https://t.co/wzhmZiDyKf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1626,
+        "media_key": "3_2051980491289698304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoZYo1aoAAwKjj.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051980491289698304"
+          ],
+          "media_source_tweet_id": [
+            "2051980525628526879"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2052318048825340370",
+        "created_at": "2026-05-07T09:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052318048825340370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1548619992001785859",
+              "start": 3,
+              "username": "frankshiki73"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzhmZiDyKf",
+              "end": 58,
+              "expanded_url": "https://x.com/frankshiki73/status/2051980525628526879/photo/1",
+              "media_key": "3_2051980491289698304",
+              "start": 35,
+              "url": "https://t.co/wzhmZiDyKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052318048825340370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051980525628526879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @frankshiki73: 看起来咱的梯子被推特标记成中国了 https://t.co/wzhmZiDyKf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051980491289698304"
+          ]
+        },
+        "author_id": "1548619992001785859",
+        "conversation_id": "2051980525628526879",
+        "created_at": "2026-05-06T11:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051980525628526879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzhmZiDyKf",
+              "end": 40,
+              "expanded_url": "https://x.com/frankshiki73/status/2051980525628526879/photo/1",
+              "media_key": "3_2051980491289698304",
+              "start": 17,
+              "url": "https://t.co/wzhmZiDyKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051980525628526879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5485,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看起来咱的梯子被推特标记成中国了 https://t.co/wzhmZiDyKf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 76,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T10:46:02.000Z",
+        "description": "坐标HNCS / 社恐 /  Dev / Game / Anime / 🚇🚌🚄🧳💻🧋🍥 碎碎念@franksuisuinian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "franksuisuinian"
+              }
+            ]
+          }
+        },
+        "id": "1548619992001785859",
+        "location": "Earth",
+        "name": "frank_782🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592617823862784/tRNWUTh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 158,
+          "like_count": 1683,
+          "listed_count": 4,
+          "media_count": 225,
+          "tweet_count": 986
+        },
+        "username": "frankshiki73",
+        "verified": true
+      }
+    ]
+  }
+}

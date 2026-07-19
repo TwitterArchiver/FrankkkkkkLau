@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2068603376666055103",
+    "created_at": "2026-06-21T09:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068621698145161279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026081318497665024",
+          "start": 0,
+          "username": "852RDSFREEDOM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068621698145161279",
+    "in_reply_to_user_id": "2026081318497665024",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068621474722959733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@852RDSFREEDOM 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2068603376666055103",
+        "created_at": "2026-06-21T09:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068621698145161279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026081318497665024",
+              "start": 0,
+              "username": "852RDSFREEDOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068621698145161279",
+        "in_reply_to_user_id": "2026081318497665024",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068621474722959733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@852RDSFREEDOM 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026081318497665024",
+        "conversation_id": "2068603376666055103",
+        "created_at": "2026-06-21T09:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068621474722959733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068621474722959733",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068603376666055103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau cls！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 434,
+          "like_count": 4978,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 1032
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-23T23:47:34.000Z",
+        "description": "Revolutionary Democratic Socialism\nOriginal Marxism\nCountryhuman lover\nDemocracy&Freedom\nHongkonger\nLove Playing CS2\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼",
+        "id": "2026081318497665024",
+        "location": "中華民國 香港特別市 ROC HK",
+        "name": "+852 4060 9891 ：（ 第二賬戶🎗️",
+        "pinned_tweet_id": "2067380533630505129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068240585102929920/2uQkaE_C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 242,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "852RDSFREEDOM",
+        "verified": false
+      }
+    ]
+  }
+}

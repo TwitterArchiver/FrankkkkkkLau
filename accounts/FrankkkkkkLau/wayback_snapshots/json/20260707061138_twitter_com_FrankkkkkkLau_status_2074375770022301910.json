@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2074370979871240521",
+    "created_at": "2026-07-07T06:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074375770022301910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752365546916720640",
+          "start": 0,
+          "username": "Yuzumikonami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074375770022301910",
+    "in_reply_to_user_id": "1752365546916720640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074374831605510562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuzumikonami isp坏😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2074370979871240521",
+        "created_at": "2026-07-07T06:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074375770022301910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752365546916720640",
+              "start": 0,
+              "username": "Yuzumikonami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074375770022301910",
+        "in_reply_to_user_id": "1752365546916720640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074374831605510562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuzumikonami isp坏😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752365546916720640",
+        "conversation_id": "2074370979871240521",
+        "created_at": "2026-07-07T06:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074374831605510562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074374831605510562",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074370979871240521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 每次连都是喵，然后还要换端点QAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 644,
+          "like_count": 6812,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 1399
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-30T16:18:13.000Z",
+        "description": "男（？ | 11年 | 准高一 | ISFP | 猫猫 | 友好温柔 | 中度社恐 | 没钱暂不含糖/不割手 | 友跨🏳️‍⚧️🍥 | 成分复杂 | Kotlin | Python | 批处理 | 网页开发 | 语言 🇨🇳 🇯🇵 🇺🇸 | 日语学习中🇯🇵 | 玛丽厨|发点梗图和日常喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuzumikonami",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuzumikonami",
+                "start": 0,
+                "url": "https://t.co/DwXVwJmCR1"
+              }
+            ]
+          }
+        },
+        "id": "1752365546916720640",
+        "location": "坐标南京 | NGL↓",
+        "name": "柚见小南Yuzumikonami🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2073338775724331463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072479599095877632/PuUiLFEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 350,
+          "like_count": 6458,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 265
+        },
+        "url": "https://t.co/DwXVwJmCR1",
+        "username": "Yuzumikonami",
+        "verified": false
+      }
+    ]
+  }
+}

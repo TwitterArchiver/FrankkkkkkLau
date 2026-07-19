@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067117490564714496"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2067100091115356340",
+    "created_at": "2026-06-17T05:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T06:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067117542322442303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035758475209572352",
+          "start": 0,
+          "username": "LoveMikuBX"
+        },
+        {
+          "end": 23,
+          "id": "1885557129588948992",
+          "start": 12,
+          "username": "jfrd163461"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TSI9Bsbiqt",
+          "end": 49,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2067117542322442303/photo/1",
+          "media_key": "3_2067117490564714496",
+          "start": 26,
+          "url": "https://t.co/TSI9Bsbiqt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067117542322442303",
+    "in_reply_to_user_id": "2035758475209572352",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067106498631905706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveMikuBX @jfrd163461 🤯 https://t.co/TSI9Bsbiqt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_2067117490564714496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_gZ9YbUAA1N74.jpg",
+        "width": 1045
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067117490564714496"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2067100091115356340",
+        "created_at": "2026-06-17T05:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067117542322442303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035758475209572352",
+              "start": 0,
+              "username": "LoveMikuBX"
+            },
+            {
+              "end": 23,
+              "id": "1885557129588948992",
+              "start": 12,
+              "username": "jfrd163461"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TSI9Bsbiqt",
+              "end": 49,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2067117542322442303/photo/1",
+              "media_key": "3_2067117490564714496",
+              "start": 26,
+              "url": "https://t.co/TSI9Bsbiqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067117542322442303",
+        "in_reply_to_user_id": "2035758475209572352",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067106498631905706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveMikuBX @jfrd163461 🤯 https://t.co/TSI9Bsbiqt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035758475209572352",
+        "conversation_id": "2067100091115356340",
+        "created_at": "2026-06-17T04:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067106498631905706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "jfrd163461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067106498631905706",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067100091115356340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jfrd163461 你都用“爲”了，竟然還會覺得你是台灣人。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 345,
+          "like_count": 4402,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 920
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T16:40:39.000Z",
+        "description": "初始之音，響徹未來！八閩大地，萬頃重洋！\n|友跨🏳️‍⚧️🏳️‍🌈|順男|陽性精分|泛性戀|國族主義/社會民主主義/左翼民族主義/溫和左翼|泛統派|理性思考，包容不同政見，我說的話要是有問題那請指出|閩臺係\n歡迎加入「中華統一復興大會」@ChineseURC_BOT\n望友好交流。查成分互fo\n藍v暑假再續",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 118,
+                "username": "ChineseURC_BOT"
+              }
+            ]
+          }
+        },
+        "id": "2035758475209572352",
+        "location": "Fukien Ningteh,China",
+        "name": "💮伴下💮",
+        "pinned_tweet_id": "2054149752208679110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062897677717946368/bHujNViG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 1650,
+          "like_count": 17031,
+          "listed_count": 0,
+          "media_count": 335,
+          "tweet_count": 5311
+        },
+        "username": "LoveMikuBX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Revolutionary Democratic Socialism\nOriginal Marxism\nCountryhuman lover\nDemocracy&Freedom\nHongkonger\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼",
+        "id": "1885557129588948992",
+        "location": " Republic of China - Hong Kong",
+        "name": "🇭🇰+852 4060 9891🇭🇰",
+        "pinned_tweet_id": "2066880660581822896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066466786904870912/xG412lqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 6940,
+          "like_count": 15814,
+          "listed_count": 5,
+          "media_count": 779,
+          "tweet_count": 4395
+        },
+        "username": "jfrd163461",
+        "verified": false
+      }
+    ]
+  }
+}

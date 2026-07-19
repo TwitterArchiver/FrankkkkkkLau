@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2063871224804163596",
+    "created_at": "2026-06-08T12:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063955860750217271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040439374362365952",
+          "start": 0,
+          "username": "Autonomousuvp8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063955860750217271",
+    "in_reply_to_user_id": "2040439374362365952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063933876263927927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autonomousuvp8 没有这种东西罢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2063871224804163596",
+        "created_at": "2026-06-08T12:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063955860750217271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040439374362365952",
+              "start": 0,
+              "username": "Autonomousuvp8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063955860750217271",
+        "in_reply_to_user_id": "2040439374362365952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063933876263927927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autonomousuvp8 没有这种东西罢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040439374362365952",
+        "conversation_id": "2063871224804163596",
+        "created_at": "2026-06-08T10:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063933876263927927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063933876263927927",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063871224804163596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 南极家宽🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 288,
+          "like_count": 3420,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 751
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-04T14:41:28.000Z",
+        "description": "如果想要进SimpleX群一起玩，私信，请，，， 我在这里先放一堆申必emoji:🌊🪬💶🗣️🇭🇰🫆🪡👑🍭🎫⌚️⌨️🖥️⏰💴🚬💊💉🧸📩📬📘🧮🇩🇪🇰🇵🇫🇮🇺🇸🇻🇮🇳🇵🎌🇨🇾🇼🇸🇻🇳🇨🇳🇳🇿🇷🇺🇵🇬🏳️‍🌈🏳️‍⚧️🇹🇼",
+        "id": "2040439374362365952",
+        "location": "你家卧室的床上😁",
+        "name": "🌊Autonomous 🏳️‍⚧️🏳️‍🌈🇭🇰🇲🇴🍥",
+        "pinned_tweet_id": "2057426344364122559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050738418590879744/a5m8C4-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 327,
+          "like_count": 1705,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1211
+        },
+        "username": "Autonomousuvp8",
+        "verified": false
+      }
+    ]
+  }
+}

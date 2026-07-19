@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050187511000133632",
+        "3_2050187541262073856"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2050187582701769137",
+    "created_at": "2026-05-01T12:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T13:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050187582701769137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RDufLre3HD",
+          "end": 25,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2050187582701769137/photo/1",
+          "media_key": "3_2050187511000133632",
+          "start": 2,
+          "url": "https://t.co/RDufLre3HD"
+        },
+        {
+          "display_url": "pic.x.com/RDufLre3HD",
+          "end": 25,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2050187582701769137/photo/1",
+          "media_key": "3_2050187541262073856",
+          "start": 2,
+          "url": "https://t.co/RDufLre3HD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050187582701769137",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😋 https://t.co/RDufLre3HD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2050187511000133632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHO6rcwa8AAR5uG.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2050187541262073856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHO6tNfbgAAbdpR.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050187511000133632",
+            "3_2050187541262073856"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050187582701769137",
+        "created_at": "2026-05-01T12:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050187582701769137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RDufLre3HD",
+              "end": 25,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2050187582701769137/photo/1",
+              "media_key": "3_2050187511000133632",
+              "start": 2,
+              "url": "https://t.co/RDufLre3HD"
+            },
+            {
+              "display_url": "pic.x.com/RDufLre3HD",
+              "end": 25,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2050187582701769137/photo/1",
+              "media_key": "3_2050187541262073856",
+              "start": 2,
+              "url": "https://t.co/RDufLre3HD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050187582701769137",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/RDufLre3HD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 75,
+          "like_count": 1613,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 405
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      }
+    ]
+  }
+}

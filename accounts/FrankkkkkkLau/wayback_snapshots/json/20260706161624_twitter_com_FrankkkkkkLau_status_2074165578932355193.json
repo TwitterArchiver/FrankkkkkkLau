@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2073950670122549310",
+    "created_at": "2026-07-06T16:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074165578932355193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752365546916720640",
+          "start": 0,
+          "username": "Yuzumikonami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074165578932355193",
+    "in_reply_to_user_id": "1752365546916720640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073950670122549310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuzumikonami 非+86注册的号在内地不开代理, 好像也会弹这个🫥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_2073950664535797760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgnJCFXcAADWRb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073950670122549310",
+        "created_at": "2026-07-06T16:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074165578932355193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752365546916720640",
+              "start": 0,
+              "username": "Yuzumikonami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074165578932355193",
+        "in_reply_to_user_id": "1752365546916720640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073950670122549310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuzumikonami 非+86注册的号在内地不开代理, 好像也会弹这个🫥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073950664535797760"
+          ]
+        },
+        "author_id": "1752365546916720640",
+        "conversation_id": "2073950670122549310",
+        "created_at": "2026-07-06T02:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073950670122549310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M4RzdqOeyP",
+              "end": 33,
+              "expanded_url": "https://x.com/Yuzumikonami/status/2073950670122549310/photo/1",
+              "media_key": "3_2073950664535797760",
+              "start": 10,
+              "url": "https://t.co/M4RzdqOeyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073950670122549310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1000,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱来自非大陆地区喵 https://t.co/M4RzdqOeyP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 612,
+          "like_count": 6700,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 1369
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-30T16:18:13.000Z",
+        "description": "男（？ | 11年 | 准高一 | ISFP | 猫猫 | 友好温柔 | 中度社恐 | 没钱暂不含糖/不割手 | 友跨🏳️‍⚧️🍥 | 成分复杂 | Kotlin | Python | 批处理 | 网页开发 | 语言 🇨🇳 🇯🇵 🇺🇸 | 日语学习中🇯🇵 | 玛丽厨|发点梗图和日常喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuzumikonami",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuzumikonami",
+                "start": 0,
+                "url": "https://t.co/DwXVwJmCR1"
+              }
+            ]
+          }
+        },
+        "id": "1752365546916720640",
+        "location": "坐标南京 | NGL↓",
+        "name": "柚见小南Yuzumikonami🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2073338775724331463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072479599095877632/PuUiLFEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 307,
+          "like_count": 5952,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/DwXVwJmCR1",
+        "username": "Yuzumikonami",
+        "verified": false
+      }
+    ]
+  }
+}

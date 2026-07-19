@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2077645884565922041",
+    "created_at": "2026-07-16T06:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T07:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077646858449797377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2024068861134528512",
+          "start": 0,
+          "username": "1gdsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077646858449797377",
+    "in_reply_to_user_id": "2024068861134528512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077645884565922041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1gdsb 害怕什么咪😶‍🌫️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077645877968343040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVH6w1bkAA4rkO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2077645884565922041",
+        "created_at": "2026-07-16T06:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077646858449797377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2024068861134528512",
+              "start": 0,
+              "username": "1gdsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077646858449797377",
+        "in_reply_to_user_id": "2024068861134528512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077645884565922041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1gdsb 害怕什么咪😶‍🌫️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077645877968343040"
+          ]
+        },
+        "author_id": "2024068861134528512",
+        "conversation_id": "2077645884565922041",
+        "created_at": "2026-07-16T06:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077645884565922041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xNSV0QOLv",
+              "end": 33,
+              "expanded_url": "https://x.com/1gdsb/status/2077645884565922041/photo/1",
+              "media_key": "3_2077645877968343040",
+              "start": 10,
+              "url": "https://t.co/2xNSV0QOLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077645884565922041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上飞机了😭我害怕啊 https://t.co/2xNSV0QOLv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 681,
+          "like_count": 7925,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 1599
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-18T10:30:04.000Z",
+        "description": "mtf/x？ 缺爱？抖m？ 🚪0r🥺一分不用\n不o不割纯发癫 我决定只发正常的东西了发疯的东西都去我草稿箱待着吧😋\n天残年龄党\n小号@ovvvvvvvvvvomtf\n出厂日期2011.8.31（开学前一天悲:(\n身高179 57.4kg\nhrt2026.4.15 同类100%回fo\n其他不想写",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "ovvvvvvvvvvomtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cn_1gdsb1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cn_1gdsb1",
+                "start": 0,
+                "url": "https://t.co/nDeqjDhbvO"
+              }
+            ]
+          }
+        },
+        "id": "2024068861134528512",
+        "location": "广州海珠赤岗",
+        "name": "cn_1gdsb",
+        "pinned_tweet_id": "2077300686853992684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068400073894236160/GFl-Hbh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 516,
+          "like_count": 2684,
+          "listed_count": 1,
+          "media_count": 449,
+          "tweet_count": 1694
+        },
+        "url": "https://t.co/nDeqjDhbvO",
+        "username": "1gdsb",
+        "verified": true
+      }
+    ]
+  }
+}

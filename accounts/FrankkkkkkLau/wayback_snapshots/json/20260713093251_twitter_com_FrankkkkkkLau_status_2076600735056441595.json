@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076600729054384128"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2076315308772802724",
+    "created_at": "2026-07-13T09:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T10:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076600735056441595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1271512602145730560",
+          "start": 0,
+          "username": "Akino_QwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OQcemTNJog",
+          "end": 48,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2076600735056441595/photo/1",
+          "media_key": "3_2076600729054384128",
+          "start": 25,
+          "url": "https://t.co/OQcemTNJog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076600735056441595",
+    "in_reply_to_user_id": "1271512602145730560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076315308772802724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akino_QwQ 搜大麻之类的反而不会弹这个 https://t.co/OQcemTNJog"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 299,
+        "media_key": "3_2076600729054384128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGRXFuakAAIPur.jpg",
+        "width": 1200
+      },
+      {
+        "height": 777,
+        "media_key": "3_2076313860781559808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCMdKIa0AAxIKU.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076600729054384128"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2076315308772802724",
+        "created_at": "2026-07-13T09:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076600735056441595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1271512602145730560",
+              "start": 0,
+              "username": "Akino_QwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OQcemTNJog",
+              "end": 48,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2076600735056441595/photo/1",
+              "media_key": "3_2076600729054384128",
+              "start": 25,
+              "url": "https://t.co/OQcemTNJog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076600735056441595",
+        "in_reply_to_user_id": "1271512602145730560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076315308772802724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akino_QwQ 搜大麻之类的反而不会弹这个 https://t.co/OQcemTNJog"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076313860781559808"
+          ]
+        },
+        "author_id": "1271512602145730560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076315308772802724",
+        "created_at": "2026-07-12T14:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076315308772802724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ck20LqGb6n",
+              "end": 31,
+              "expanded_url": "https://x.com/Akino_QwQ/status/2076315308772802724/photo/1",
+              "media_key": "3_2076313860781559808",
+              "start": 8,
+              "url": "https://t.co/Ck20LqGb6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076315308772802724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2314,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "顺女也要参与吗 https://t.co/Ck20LqGb6n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 675,
+          "like_count": 7636,
+          "listed_count": 1,
+          "media_count": 342,
+          "tweet_count": 1556
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-12T18:40:10.000Z",
+        "description": "这里是银离子/银喵！🚪（？）/持证含糖友跨顺猫/想变可爱/收破烂的/Maimai/摄影器材/想拍小姐姐/软件工程/一点网络工程/修电脑/二轮车/魔改硬件/SSD/医疗电子/拆机/LLer/火车迷/mc原版/化学已/ADHD/想od/想要5HT2A激动剂/不键政!/对象(不混圈)/主人@HoshinoMako0131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 142,
+                "username": "HoshinoMako0131"
+              }
+            ]
+          }
+        },
+        "id": "1271512602145730560",
+        "location": "华立科技展厅",
+        "name": "一定不是银喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011153409378754560/HMEgRHqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3400,
+          "following_count": 945,
+          "like_count": 18442,
+          "listed_count": 6,
+          "media_count": 668,
+          "tweet_count": 3901
+        },
+        "url": "",
+        "username": "Akino_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

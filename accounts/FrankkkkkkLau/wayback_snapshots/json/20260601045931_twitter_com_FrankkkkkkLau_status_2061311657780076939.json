@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061311645700567040"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2061070526861447359",
+    "created_at": "2026-06-01T04:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T05:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061311657780076939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1890848153525706752",
+          "start": 0,
+          "username": "MoxiYolo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X7frd6ZDZi",
+          "end": 35,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2061311657780076939/photo/1",
+          "media_key": "3_2061311645700567040",
+          "start": 12,
+          "url": "https://t.co/X7frd6ZDZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061311657780076939",
+    "in_reply_to_user_id": "1890848153525706752",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061070526861447359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoxiYolo 😭 https://t.co/X7frd6ZDZi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1224,
+        "media_key": "3_2061311645700567040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtABT1bsAAVX5S.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061311645700567040"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2061070526861447359",
+        "created_at": "2026-06-01T04:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061311657780076939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1890848153525706752",
+              "start": 0,
+              "username": "MoxiYolo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X7frd6ZDZi",
+              "end": 35,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2061311657780076939/photo/1",
+              "media_key": "3_2061311645700567040",
+              "start": 12,
+              "url": "https://t.co/X7frd6ZDZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061311657780076939",
+        "in_reply_to_user_id": "1890848153525706752",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061070526861447359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoxiYolo 😭 https://t.co/X7frd6ZDZi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890848153525706752",
+        "conversation_id": "2061070526861447359",
+        "created_at": "2026-05-31T13:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061070526861447359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061070526861447359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1345,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中文推特圈貌似集体上流量锁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 253,
+          "like_count": 2849,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 667
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-15T19:38:35.000Z",
+        "description": "请输入文本",
+        "id": "1890848153525706752",
+        "location": "Roblox Forsaken",
+        "name": "消防🏖️➡️被遗弃forsaken",
+        "pinned_tweet_id": "2046580902281818487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024189922018807815/pn7Dxf3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8960,
+          "following_count": 851,
+          "like_count": 1649,
+          "listed_count": 7,
+          "media_count": 295,
+          "tweet_count": 2928
+        },
+        "username": "MoxiYolo",
+        "verified": true
+      }
+    ]
+  }
+}

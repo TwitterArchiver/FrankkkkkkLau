@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2056794378278998402",
+    "created_at": "2026-05-19T17:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056794378278998402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1672761170040692739",
+          "start": 3,
+          "username": "FrankkkkkkLau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056794378278998402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056289644074115567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FrankkkkkkLau: 印象中2022年到2024年的时候经常能直连推特来着, 当时每次刷到类似的推文就会试着不开代理刷推发推, 好奇是什么原理🧐\n经常看到有人说是ipv6漏风, 但是推特不支持ipv6访问来着, 感觉应该是握手包被分片了...?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2056794378278998402",
+        "created_at": "2026-05-19T17:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056794378278998402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1672761170040692739",
+              "start": 3,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056794378278998402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056289644074115567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FrankkkkkkLau: 印象中2022年到2024年的时候经常能直连推特来着, 当时每次刷到类似的推文就会试着不开代理刷推发推, 好奇是什么原理🧐\n经常看到有人说是ipv6漏风, 但是推特不支持ipv6访问来着, 感觉应该是握手包被分片了...?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2056289644074115567",
+        "created_at": "2026-05-18T08:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056289644074115567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lizisu2000/sta…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/lizisu2000/status/2055568703614525782",
+              "start": 112,
+              "url": "https://t.co/T2TOi8Mhya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056289644074115567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2528,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055568703614525782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "印象中2022年到2024年的时候经常能直连推特来着, 当时每次刷到类似的推文就会试着不开代理刷推发推, 好奇是什么原理🧐\n经常看到有人说是ipv6漏风, 但是推特不支持ipv6访问来着, 感觉应该是握手包被分片了...? https://t.co/T2TOi8Mhya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 86,
+          "like_count": 1854,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

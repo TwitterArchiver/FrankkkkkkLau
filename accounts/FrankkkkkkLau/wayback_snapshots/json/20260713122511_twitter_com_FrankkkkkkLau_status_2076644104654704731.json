@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2076622929861947695",
+    "created_at": "2026-07-13T12:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076644104654704731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752198913753546752",
+          "start": 0,
+          "username": "fsf678149237"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076644104654704731",
+    "in_reply_to_user_id": "1752198913753546752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076643920700940569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fsf678149237 不行的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2076622929861947695",
+        "created_at": "2026-07-13T12:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076644104654704731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752198913753546752",
+              "start": 0,
+              "username": "fsf678149237"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076644104654704731",
+        "in_reply_to_user_id": "1752198913753546752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076643920700940569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fsf678149237 不行的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752198913753546752",
+        "conversation_id": "2076622929861947695",
+        "created_at": "2026-07-13T12:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076643920700940569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            },
+            {
+              "end": 25,
+              "id": "2048331424504463360",
+              "start": 15,
+              "username": "Sarooneov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076643920700940569",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076625771507191990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau @Sarooneov warp可以自由切换IP吗QWQ?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 679,
+          "like_count": 7672,
+          "listed_count": 1,
+          "media_count": 344,
+          "tweet_count": 1562
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-30T05:15:59.000Z",
+        "description": "1",
+        "id": "1752198913753546752",
+        "location": "马嘉祺",
+        "name": "浅仓星凛Official🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068097157362782208/AYQgjZeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 17,
+          "like_count": 1851,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "fsf678149237",
+        "verified": false
+      }
+    ]
+  }
+}

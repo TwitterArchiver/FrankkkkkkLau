@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066403970617393152"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2066403980364652965",
+    "created_at": "2026-06-15T06:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T07:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066403980364652965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7s3hqKcxAf",
+          "end": 59,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2066403980364652965/photo/1",
+          "media_key": "3_2066403970617393152",
+          "start": 36,
+          "url": "https://t.co/7s3hqKcxAf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066403980364652965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推特的搜索机制越来越烂了, 不给关键词加英文引号几乎搜不出有关的东西😇 https://t.co/7s3hqKcxAf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2458,
+        "media_key": "3_2066403970617393152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1XdocbQAAXHyX.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066403970617393152"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2066403980364652965",
+        "created_at": "2026-06-15T06:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066403980364652965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7s3hqKcxAf",
+              "end": 59,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2066403980364652965/photo/1",
+              "media_key": "3_2066403970617393152",
+              "start": 36,
+              "url": "https://t.co/7s3hqKcxAf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066403980364652965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特的搜索机制越来越烂了, 不给关键词加英文引号几乎搜不出有关的东西😇 https://t.co/7s3hqKcxAf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 340,
+          "like_count": 4198,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 888
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

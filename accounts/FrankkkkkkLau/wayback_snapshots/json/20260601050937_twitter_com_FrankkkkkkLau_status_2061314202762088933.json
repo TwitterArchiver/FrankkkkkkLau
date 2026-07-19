@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061313552363999232"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2061314202762088933",
+    "created_at": "2026-06-01T05:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061314202762088933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mZxkddr500",
+          "end": 69,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2061314202762088933/photo/1",
+          "media_key": "3_2061313552363999232",
+          "start": 46,
+          "url": "https://t.co/mZxkddr500"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2050881251226394943",
+          "start": 70,
+          "url": "https://t.co/gkklmD4Y7P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061314202762088933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050881251226394943",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "话说 GFiber 这个测速页面看起来好干净🧐不会像speedtest那样塞一堆本地化广告 https://t.co/mZxkddr500 https://t.co/gkklmD4Y7P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1176,
+        "media_key": "3_2061313552363999232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtBwSta0AAWViO.jpg",
+        "width": 2529
+      },
+      {
+        "height": 956,
+        "media_key": "3_2050880892386848768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYxTjtasAA5P3L.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061313552363999232"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2061314202762088933",
+        "created_at": "2026-06-01T05:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061314202762088933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mZxkddr500",
+              "end": 69,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2061314202762088933/photo/1",
+              "media_key": "3_2061313552363999232",
+              "start": 46,
+              "url": "https://t.co/mZxkddr500"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2050881251226394943",
+              "start": 70,
+              "url": "https://t.co/gkklmD4Y7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061314202762088933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050881251226394943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "话说 GFiber 这个测速页面看起来好干净🧐不会像speedtest那样塞一堆本地化广告 https://t.co/mZxkddr500 https://t.co/gkklmD4Y7P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050880892386848768"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2050881251226394943",
+        "created_at": "2026-05-03T10:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050881251226394943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pDt2PAqdak",
+              "end": 30,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2050881251226394943/photo/1",
+              "media_key": "3_2050880892386848768",
+              "start": 7,
+              "url": "https://t.co/pDt2PAqdak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050881251226394943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "滥用, 爽😋 https://t.co/pDt2PAqdak"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 254,
+          "like_count": 2853,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 668
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2073467990667076053",
+    "created_at": "2026-07-05T09:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073702533059731735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1846596976265326592",
+          "start": 0,
+          "username": "voidsama777"
+        },
+        {
+          "end": 20,
+          "id": "11367452",
+          "start": 13,
+          "username": "kosovo"
+        },
+        {
+          "end": 27,
+          "id": "12361582",
+          "start": 21,
+          "username": "Macao"
+        },
+        {
+          "end": 34,
+          "id": "2350645004",
+          "start": 28,
+          "username": "macau"
+        },
+        {
+          "end": 44,
+          "id": "17118944",
+          "start": 35,
+          "username": "Slovakia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073702533059731735",
+    "in_reply_to_user_id": "1846596976265326592",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073467990667076053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@voidsama777 @kosovo @Macao @macau @Slovakia"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073467987408146432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZwJhqbUAA4q2c.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073467990667076053",
+        "created_at": "2026-07-05T09:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073702533059731735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1846596976265326592",
+              "start": 0,
+              "username": "voidsama777"
+            },
+            {
+              "end": 20,
+              "id": "11367452",
+              "start": 13,
+              "username": "kosovo"
+            },
+            {
+              "end": 27,
+              "id": "12361582",
+              "start": 21,
+              "username": "Macao"
+            },
+            {
+              "end": 34,
+              "id": "2350645004",
+              "start": 28,
+              "username": "macau"
+            },
+            {
+              "end": 44,
+              "id": "17118944",
+              "start": 35,
+              "username": "Slovakia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073702533059731735",
+        "in_reply_to_user_id": "1846596976265326592",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073467990667076053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voidsama777 @kosovo @Macao @macau @Slovakia"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073467987408146432"
+          ]
+        },
+        "author_id": "1846596976265326592",
+        "conversation_id": "2073467990667076053",
+        "created_at": "2026-07-04T18:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073467990667076053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5148xcXLc2",
+              "end": 35,
+              "expanded_url": "https://x.com/voidsama777/status/2073467990667076053/photo/1",
+              "media_key": "3_2073467987408146432",
+              "start": 12,
+              "url": "https://t.co/5148xcXLc2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073467990667076053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 282,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有这个（\n也笑死我了 https://t.co/5148xcXLc2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 591,
+          "like_count": 6481,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 1344
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-16T17:01:02.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡ ✞ \n✟⛧✟ (ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans ⭒\n\n✞ ♡ dm开放 欢迎找我聊天喵 ♡ ✞",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "https://twitter.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/hBwaD5CsX6"
+              }
+            ]
+          }
+        },
+        "id": "1846596976265326592",
+        "location": "ＩＮＴＥＲＮＥＴ",
+        "name": "✟ クウキ ✟  🎌🎌🎌🇯🇵🇹🇼🇺🇸🇦🇺🇩🇪🇲🇨",
+        "pinned_tweet_id": "2067943198509707636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 415,
+          "like_count": 15415,
+          "listed_count": 2,
+          "media_count": 500,
+          "tweet_count": 2383
+        },
+        "url": "https://t.co/hBwaD5CsX6",
+        "username": "voidsama777",
+        "verified": true
+      },
+      {
+        "created_at": "2007-12-20T10:16:43.000Z",
+        "description": "Kosovo news",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telework.ro/en/category/en…",
+                "end": 23,
+                "expanded_url": "https://www.telework.ro/en/category/en/world/europe/balkans/",
+                "start": 0,
+                "url": "https://t.co/hTGSANprEL"
+              }
+            ]
+          }
+        },
+        "id": "11367452",
+        "location": "Kosovo",
+        "name": "Kosovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000577010394/cc860f4e3f1131163cebc1fdf4851777_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5099,
+          "following_count": 41,
+          "like_count": 19,
+          "listed_count": 46,
+          "media_count": 91,
+          "tweet_count": 2055
+        },
+        "url": "https://t.co/hTGSANprEL",
+        "username": "kosovo",
+        "verified": false
+      },
+      {
+        "created_at": "2008-01-17T15:43:06.000Z",
+        "description": "Macau hotel reviews, Macau info & all good stuff about Macau by http://t.co/WH9xkgIrBA - The biggest site for Macau tourism information",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "macaocenter.com",
+                "end": 86,
+                "expanded_url": "http://www.macaocenter.com",
+                "start": 64,
+                "url": "http://t.co/WH9xkgIrBA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "macaocenter.com",
+                "end": 22,
+                "expanded_url": "http://www.macaocenter.com",
+                "start": 0,
+                "url": "http://t.co/WH9xkgIrBA"
+              }
+            ]
+          }
+        },
+        "id": "12361582",
+        "location": "Macau",
+        "name": "Macao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/986713913655005184/mmc-EFQq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 0,
+          "like_count": 40,
+          "listed_count": 32,
+          "media_count": 1,
+          "tweet_count": 582
+        },
+        "url": "http://t.co/WH9xkgIrBA",
+        "username": "Macao",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-18T20:37:49.000Z",
+        "description": "porra!! afff",
+        "id": "2350645004",
+        "name": "Macau Peixoto",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "macau",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-02T20:08:13.000Z",
+        "description": "",
+        "id": "17118944",
+        "name": "Slovakia",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 5,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "Slovakia",
+        "verified": false
+      }
+    ]
+  }
+}

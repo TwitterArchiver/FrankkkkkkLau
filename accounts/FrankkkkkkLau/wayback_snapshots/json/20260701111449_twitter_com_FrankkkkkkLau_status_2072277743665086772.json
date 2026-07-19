@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072277733892382722"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2072277743665086772",
+    "created_at": "2026-07-01T11:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T12:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072277743665086772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4p2U6MuEr0",
+          "end": 37,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2072277743665086772/photo/1",
+          "media_key": "3_2072277733892382722",
+          "start": 14,
+          "url": "https://t.co/4p2U6MuEr0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072277743665086772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃呃我怎么不能编辑推文了🫠 https://t.co/4p2U6MuEr0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2477,
+        "media_key": "3_2072277733892382722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMI1npybYAI5Jnd.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072277733892382722"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2072277743665086772",
+        "created_at": "2026-07-01T11:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072277743665086772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4p2U6MuEr0",
+              "end": 37,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2072277743665086772/photo/1",
+              "media_key": "3_2072277733892382722",
+              "start": 14,
+              "url": "https://t.co/4p2U6MuEr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072277743665086772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃我怎么不能编辑推文了🫠 https://t.co/4p2U6MuEr0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 537,
+          "like_count": 5851,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 1192
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067906086439686144"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2067906330170700245",
+    "created_at": "2026-06-19T09:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067906330170700245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T6Ox1ORpYP",
+          "end": 44,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2067906330170700245/photo/1",
+          "media_key": "3_2067906086439686144",
+          "start": 21,
+          "url": "https://t.co/T6Ox1ORpYP"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2066127885799457075",
+          "start": 45,
+          "url": "https://t.co/FBNbbAHEBz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067906330170700245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066127885799457075",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "难绷诈骗bot公式化起号, 可惜没人看😁 https://t.co/T6Ox1ORpYP https://t.co/FBNbbAHEBz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1191,
+        "media_key": "3_2067906086439686144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKtoR8bEAA3m7F.jpg",
+        "width": 891
+      },
+      {
+        "height": 711,
+        "media_key": "3_2066127781986234369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxcRVna8AEhqVu.png",
+        "width": 889
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067906086439686144"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2067906330170700245",
+        "created_at": "2026-06-19T09:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067906330170700245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T6Ox1ORpYP",
+              "end": 44,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2067906330170700245/photo/1",
+              "media_key": "3_2067906086439686144",
+              "start": 21,
+              "url": "https://t.co/T6Ox1ORpYP"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2066127885799457075",
+              "start": 45,
+              "url": "https://t.co/FBNbbAHEBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067906330170700245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066127885799457075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难绷诈骗bot公式化起号, 可惜没人看😁 https://t.co/T6Ox1ORpYP https://t.co/FBNbbAHEBz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066127781986234369"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2066127885799457075",
+        "created_at": "2026-06-14T11:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066127885799457075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EOtEYD3Jgk",
+              "end": 27,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2066127885799457075/photo/1",
+              "media_key": "3_2066127781986234369",
+              "start": 4,
+              "url": "https://t.co/EOtEYD3Jgk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066127885799457075",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2386,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤖🤖🤖 https://t.co/EOtEYD3Jgk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 358,
+          "like_count": 4649,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 975
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

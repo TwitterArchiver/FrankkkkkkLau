@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2066071818830758140",
+    "created_at": "2026-06-14T08:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066074223785988347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1732724006787420160",
+          "start": 0,
+          "username": "Venti718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066074223785988347",
+    "in_reply_to_user_id": "1732724006787420160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066071818830758140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Venti718 啊? 澳门有cm吗🤯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2066071808374349824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwpXPqaIAAy9L2.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2066071808370253824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwpXPpboAApGBt.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2066071818830758140",
+        "created_at": "2026-06-14T08:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066074223785988347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732724006787420160",
+              "start": 0,
+              "username": "Venti718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066074223785988347",
+        "in_reply_to_user_id": "1732724006787420160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066071818830758140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Venti718 啊? 澳门有cm吗🤯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066071808374349824",
+            "3_2066071808370253824"
+          ]
+        },
+        "author_id": "1732724006787420160",
+        "conversation_id": "2066071818830758140",
+        "created_at": "2026-06-14T08:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066071818830758140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dg33aKJ0nP",
+              "end": 33,
+              "expanded_url": "https://x.com/Venti718/status/2066071818830758140/photo/1",
+              "media_key": "3_2066071808374349824",
+              "start": 10,
+              "url": "https://t.co/dg33aKJ0nP"
+            },
+            {
+              "display_url": "pic.x.com/dg33aKJ0nP",
+              "end": 33,
+              "expanded_url": "https://x.com/Venti718/status/2066071818830758140/photo/1",
+              "media_key": "3_2066071808370253824",
+              "start": 10,
+              "url": "https://t.co/dg33aKJ0nP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066071818830758140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ip最干净的一集😋 https://t.co/dg33aKJ0nP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 307,
+          "like_count": 3895,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 828
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-07T11:29:57.000Z",
+        "description": "准高三/友跨/简中/繁中/English/欢迎互fo/Ciallo～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.akiyamamio.one",
+                "end": 23,
+                "expanded_url": "http://blog.akiyamamio.one",
+                "start": 0,
+                "url": "https://t.co/iAPAG2H15q"
+              }
+            ]
+          }
+        },
+        "id": "1732724006787420160",
+        "location": "Tianjin",
+        "name": "澪老师不是零老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009901557371056129/NtoWVt0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 2401,
+          "like_count": 22031,
+          "listed_count": 0,
+          "media_count": 495,
+          "tweet_count": 6988
+        },
+        "url": "https://t.co/iAPAG2H15q",
+        "username": "Venti718",
+        "verified": false
+      }
+    ]
+  }
+}

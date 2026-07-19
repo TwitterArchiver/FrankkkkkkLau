@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2058755542835925454",
+    "created_at": "2026-05-25T15:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058930618344644847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1953384843519336448",
+          "start": 0,
+          "username": "haomingzi445"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058930618344644847",
+    "in_reply_to_user_id": "1953384843519336448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058928536954839422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haomingzi445 秘密\n(某些机场的万人骑节点貌似会被标成这样?)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2244,
+        "media_key": "3_2058928533498671105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLIl7EasAEukVJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2058755542835925454",
+        "created_at": "2026-05-25T15:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058930618344644847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1953384843519336448",
+              "start": 0,
+              "username": "haomingzi445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058930618344644847",
+        "in_reply_to_user_id": "1953384843519336448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058928536954839422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haomingzi445 秘密\n(某些机场的万人骑节点貌似会被标成这样?)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058928533498671105"
+          ]
+        },
+        "author_id": "1953384843519336448",
+        "conversation_id": "2058755542835925454",
+        "created_at": "2026-05-25T15:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058928536954839422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ehsMhTkJKH",
+              "end": 49,
+              "expanded_url": "https://x.com/haomingzi445/status/2058928536954839422/photo/1",
+              "media_key": "3_2058928533498671105",
+              "start": 26,
+              "url": "https://t.co/ehsMhTkJKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058928536954839422",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058755542835925454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 等會 原生ip哪搞得 https://t.co/ehsMhTkJKH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 131,
+          "like_count": 2174,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 533
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-07T09:17:11.000Z",
+        "description": "",
+        "id": "1953384843519336448",
+        "name": "好名字",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954004000958988288/FGAgueou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 41,
+          "like_count": 5215,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 551
+        },
+        "username": "haomingzi445",
+        "verified": false
+      }
+    ]
+  }
+}

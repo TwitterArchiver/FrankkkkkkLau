@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2059180905793831326",
+    "created_at": "2026-05-26T14:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059276033753534930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1519661030309502977",
+          "start": 0,
+          "username": "aiixi_bear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059276033753534930",
+    "in_reply_to_user_id": "1519661030309502977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059275725077926135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiixi_bear 是大陆的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2059180905793831326",
+        "created_at": "2026-05-26T14:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059276033753534930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1519661030309502977",
+              "start": 0,
+              "username": "aiixi_bear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059276033753534930",
+        "in_reply_to_user_id": "1519661030309502977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059275725077926135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiixi_bear 是大陆的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519661030309502977",
+        "conversation_id": "2059180905793831326",
+        "created_at": "2026-05-26T14:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059275725077926135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Access trusted IP data for your applications — from fraud prevention to geolocation. See why developers rely on IPinfo.",
+              "display_url": "ipinfo.io/what-is-my-ip/",
+              "end": 68,
+              "expanded_url": "https://ipinfo.io/what-is-my-ip/",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/2059094233139826688/dig2sxI9?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059094233139826688/dig2sxI9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 45,
+              "status": 200,
+              "title": "IPinfo | The Trusted IP Data Provider",
+              "unwound_url": "https://ipinfo.io/what-is-my-ip/",
+              "url": "https://t.co/XHjpUKQQWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059275725077926135",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059270159785980247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 或許，試試用瀏覽器訪問一下查詢IP的網站，看看IP所在地？\nhttps://t.co/XHjpUKQQWI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 136,
+          "like_count": 2259,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 556
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:56:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Port.BearShen.TOP",
+                "end": 23,
+                "expanded_url": "https://Port.BearShen.TOP/",
+                "start": 0,
+                "url": "https://t.co/zUj7l3PRLI"
+              }
+            ]
+          }
+        },
+        "id": "1519661030309502977",
+        "name": "Aiixi Bear",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052953184143028225/CdWs0D_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 662,
+          "like_count": 2192,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 246
+        },
+        "url": "https://t.co/zUj7l3PRLI",
+        "username": "aiixi_bear",
+        "verified": false
+      }
+    ]
+  }
+}

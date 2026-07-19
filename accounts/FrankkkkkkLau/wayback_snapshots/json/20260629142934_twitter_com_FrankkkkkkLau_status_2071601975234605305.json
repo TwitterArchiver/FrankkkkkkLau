@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2071589893571281045",
+    "created_at": "2026-06-29T14:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071601975234605305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1792158516096180224",
+          "start": 0,
+          "username": "Dr_Duckter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071601975234605305",
+    "in_reply_to_user_id": "1792158516096180224",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071600313283551728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dr_Duckter 🤯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 471,
+        "media_key": "3_2071600277711626241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_Neg2aIAEhalV.jpg",
+        "width": 1948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2071589893571281045",
+        "created_at": "2026-06-29T14:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071601975234605305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1792158516096180224",
+              "start": 0,
+              "username": "Dr_Duckter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071601975234605305",
+        "in_reply_to_user_id": "1792158516096180224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071600313283551728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dr_Duckter 🤯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071600277711626241"
+          ]
+        },
+        "author_id": "1792158516096180224",
+        "conversation_id": "2071589893571281045",
+        "created_at": "2026-06-29T14:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071600313283551728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tieFyOkXS7",
+              "end": 42,
+              "expanded_url": "https://x.com/Dr_Duckter/status/2071600313283551728/photo/1",
+              "media_key": "3_2071600277711626241",
+              "start": 19,
+              "url": "https://t.co/tieFyOkXS7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071600313283551728",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071599473818734977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 吓哭了 https://t.co/tieFyOkXS7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 489,
+          "like_count": 5607,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 1132
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T11:41:14.000Z",
+        "description": "@Dr__Duckter  \n\nIns : @DrDuckter \n与推特该帐号无关\n\ndrduckter@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "Dr__Duckter"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "DrDuckter"
+              }
+            ]
+          }
+        },
+        "id": "1792158516096180224",
+        "location": "Toronto, Ontario",
+        "name": "Dr Ducky Drizzy Duckter Duckworth DingDongji",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068586675538964480/MBhpDF9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 1113,
+          "like_count": 20897,
+          "listed_count": 21,
+          "media_count": 548,
+          "tweet_count": 2901
+        },
+        "url": "",
+        "username": "Dr_Duckter",
+        "verified": false
+      }
+    ]
+  }
+}

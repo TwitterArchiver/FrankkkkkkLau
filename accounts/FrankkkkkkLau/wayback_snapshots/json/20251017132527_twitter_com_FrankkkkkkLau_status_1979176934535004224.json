@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "1979094952178262181",
+    "created_at": "2025-10-17T13:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T14:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979176934535004224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1817584080437014528",
+          "start": 0,
+          "username": "N552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979176934535004224",
+    "in_reply_to_user_id": "1817584080437014528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979094952178262181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N552AA 战雷太坏了）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979094941201575936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3coXQMXsAApsk3.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "1979094952178262181",
+        "created_at": "2025-10-17T13:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T14:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979176934535004224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1817584080437014528",
+              "start": 0,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979176934535004224",
+        "in_reply_to_user_id": "1817584080437014528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979094952178262181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N552AA 战雷太坏了）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979094941201575936"
+          ]
+        },
+        "author_id": "1817584080437014528",
+        "conversation_id": "1979094952178262181",
+        "created_at": "2025-10-17T07:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T08:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979094952178262181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZVLfmIYjk",
+              "end": 50,
+              "expanded_url": "https://x.com/N552AA/status/1979094952178262181/photo/1",
+              "media_key": "3_1979094941201575936",
+              "start": 27,
+              "url": "https://t.co/1ZVLfmIYjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979094952178262181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3912,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊？\n我在精神病院遇到mtf了\n（打码是她要求的 https://t.co/1ZVLfmIYjk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "很没耐心, 讨厌不讲信用的人",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 55,
+          "like_count": 657,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 267
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/家长吓坏党/ADHD/BPD/断续含糖/坐标上海/有小证/抱抱最最可爱的姐姐: @yizhikapaiqaq 妈妈：@bolichara0 主人：@yumekaayumi @nahida_miao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "bolichara0"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "yumekaayumi"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "nahida_miao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍰🥥",
+        "pinned_tweet_id": "1953496186738069992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927899559306612736/St9dcsoX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 958,
+          "like_count": 3561,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      }
+    ]
+  }
+}

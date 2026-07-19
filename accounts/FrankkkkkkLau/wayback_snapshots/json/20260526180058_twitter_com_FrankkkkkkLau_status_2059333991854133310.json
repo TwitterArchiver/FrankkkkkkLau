@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2059180905793831326",
+    "created_at": "2026-05-26T18:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T19:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059333991854133310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "749516837067583488",
+          "start": 0,
+          "username": "BigBread0192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059333991854133310",
+    "in_reply_to_user_id": "749516837067583488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059323748696863062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigBread0192 你这个是warp吧, warp是要用wireguard和魔改masque协议过墙的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2059180905793831326",
+        "created_at": "2026-05-26T18:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059333991854133310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "749516837067583488",
+              "start": 0,
+              "username": "BigBread0192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059333991854133310",
+        "in_reply_to_user_id": "749516837067583488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059323748696863062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigBread0192 你这个是warp吧, warp是要用wireguard和魔改masque协议过墙的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "749516837067583488",
+        "conversation_id": "2059180905793831326",
+        "created_at": "2026-05-26T17:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059323748696863062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059323748696863062",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 438,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059180905793831326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 我说我在大陆上推不需要翻墙你信吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 139,
+          "like_count": 2275,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-03T08:15:14.000Z",
+        "description": "Nothing",
+        "id": "749516837067583488",
+        "location": "China",
+        "name": "BigBread",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044022627099189248/YhRZm7yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "BigBread0192",
+        "verified": false
+      }
+    ]
+  }
+}

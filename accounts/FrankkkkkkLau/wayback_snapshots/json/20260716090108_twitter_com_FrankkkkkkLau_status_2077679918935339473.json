@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2077676197279125921",
+    "created_at": "2026-07-16T09:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T10:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077679918935339473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994001059493367810",
+          "start": 0,
+          "username": "UniHako8980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077679918935339473",
+    "in_reply_to_user_id": "1994001059493367810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077678906648486037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UniHako8980 欧盟成员国应该都会🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2077676197279125921",
+        "created_at": "2026-07-16T09:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077679918935339473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994001059493367810",
+              "start": 0,
+              "username": "UniHako8980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077679918935339473",
+        "in_reply_to_user_id": "1994001059493367810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077678906648486037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UniHako8980 欧盟成员国应该都会🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994001059493367810",
+        "conversation_id": "2077676197279125921",
+        "created_at": "2026-07-16T08:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077678906648486037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077678906648486037",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077676197279125921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 希腊\n我朋友落地打开X 就弹出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 681,
+          "like_count": 7945,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 1606
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-27T11:11:24.000Z",
+        "description": "ただの記録",
+        "id": "1994001059493367810",
+        "location": "Hong Kong",
+        "name": "uni_hako",
+        "pinned_tweet_id": "2072192868580753662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994102859789697024/4BlayBte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 74,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 877
+        },
+        "url": "",
+        "username": "UniHako8980",
+        "verified": true
+      }
+    ]
+  }
+}

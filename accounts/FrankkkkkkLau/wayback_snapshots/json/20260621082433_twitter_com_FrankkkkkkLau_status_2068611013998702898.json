@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2068529181550661935",
+    "created_at": "2026-06-21T08:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T09:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068611013998702898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1980140172726673408",
+          "start": 0,
+          "username": "RenChan_VmV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068611013998702898",
+    "in_reply_to_user_id": "1980140172726673408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068529181550661935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RenChan_VmV 遇到过, 发轻技术向的推文有一堆看黄男刷到然后回一个\"放屁\"😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2068529181550661935",
+        "created_at": "2026-06-21T08:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068611013998702898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1980140172726673408",
+              "start": 0,
+              "username": "RenChan_VmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068611013998702898",
+        "in_reply_to_user_id": "1980140172726673408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068529181550661935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RenChan_VmV 遇到过, 发轻技术向的推文有一堆看黄男刷到然后回一个\"放屁\"😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980140172726673408",
+        "conversation_id": "2068529181550661935",
+        "created_at": "2026-06-21T02:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068529181550661935"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "今日话题"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068529181550661935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 905,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#今日话题 你被ratio过吗？你们各自的推文内容又是什么呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 434,
+          "like_count": 4961,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 1027
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T05:13:10.000Z",
+        "description": "He/They|02/21/12究极小登|gay🏳️‍🌈🏳️‍⚧️激进挺跨|中间偏左社民入🌹亲社会主义🥰🚩🏴|日常发些碎碎念呀|爱听术曲 可能是东方众（？） Mac最棒！\n不OD不自残但是缺爱逼阴暗网区qwq\n想一下把这么温良这么友善的我block了是谁的问题╮(╯_╰)╭",
+        "id": "1980140172726673408",
+        "location": "中華自由聯邦京畿道",
+        "name": "東洋蓮花酥🌹🏳️‍🌈🏳️‍⚧️（PRIDE!🌈❤️🧡💛💚💙💜）",
+        "pinned_tweet_id": "2067935252606226518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 836,
+          "like_count": 67696,
+          "listed_count": 4,
+          "media_count": 236,
+          "tweet_count": 12811
+        },
+        "url": "",
+        "username": "RenChan_VmV",
+        "verified": true
+      }
+    ]
+  }
+}

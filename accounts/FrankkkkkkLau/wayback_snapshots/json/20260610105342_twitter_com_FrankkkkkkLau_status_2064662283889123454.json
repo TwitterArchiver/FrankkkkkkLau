@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2064660753551184215",
+    "created_at": "2026-06-10T10:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064662283889123454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1852556718393413633",
+          "start": 0,
+          "username": "icecreamnong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064662283889123454",
+    "in_reply_to_user_id": "1852556718393413633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064660753551184215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icecreamnong 没有吧, 今天warp免费版都还能连上（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2064660753551184215",
+        "created_at": "2026-06-10T10:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064662283889123454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1852556718393413633",
+              "start": 0,
+              "username": "icecreamnong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064662283889123454",
+        "in_reply_to_user_id": "1852556718393413633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064660753551184215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icecreamnong 没有吧, 今天warp免费版都还能连上（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852556718393413633",
+        "conversation_id": "2064660753551184215",
+        "created_at": "2026-06-10T10:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064660753551184215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064660753551184215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天主流的 VPN 梯子基本都又炸了\n\n现在还能翻墙出来刷到此推的中国人，基本都是人中龙凤🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 291,
+          "like_count": 3544,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 779
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-02T03:42:16.000Z",
+        "description": "ENTP/外贸soho/销售技巧/心理学/探索中...",
+        "id": "1852556718393413633",
+        "name": "QuQ(努力涨粉中...)",
+        "pinned_tweet_id": "2063972022502478073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062929509981233152/XKmfJdU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 1309,
+          "like_count": 4277,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1188
+        },
+        "username": "icecreamnong",
+        "verified": true
+      }
+    ]
+  }
+}

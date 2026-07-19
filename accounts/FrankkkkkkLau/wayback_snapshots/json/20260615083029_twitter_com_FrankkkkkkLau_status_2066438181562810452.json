@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2066436432609370333",
+    "created_at": "2026-06-15T08:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066438181562810452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035758475209572352",
+          "start": 0,
+          "username": "LoveMikuBX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066438181562810452",
+    "in_reply_to_user_id": "2035758475209572352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066436432609370333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveMikuBX 福建不是有省墙嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2066436432609370333",
+        "created_at": "2026-06-15T08:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066438181562810452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035758475209572352",
+              "start": 0,
+              "username": "LoveMikuBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066438181562810452",
+        "in_reply_to_user_id": "2035758475209572352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066436432609370333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveMikuBX 福建不是有省墙嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035758475209572352",
+        "conversation_id": "2066436432609370333",
+        "created_at": "2026-06-15T08:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066436432609370333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2059180905793831326",
+              "start": 22,
+              "url": "https://t.co/Ze8jkhS42D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066436432609370333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059180905793831326",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "地點：福建寧德，網路環境：中國移動\n連不上 https://t.co/Ze8jkhS42D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 340,
+          "like_count": 4221,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 893
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T16:40:39.000Z",
+        "description": "初始之音，響徹未來！八閩大地，萬頃重洋！\n|友跨🏳️‍⚧️🏳️‍🌈|順男|陽性精分|泛性戀|國族主義/社會民主主義/左翼民族主義/溫和左翼|泛統派|理性思考，包容不同政見，我說的話要是有問題那請指出|閩臺係\n歡迎加入「中華統一復興大會」@ChineseURC_BOT\n望友好交流。查成分互fo\n藍v暑假再續",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 118,
+                "username": "ChineseURC_BOT"
+              }
+            ]
+          }
+        },
+        "id": "2035758475209572352",
+        "location": "Fukien Ningteh,China",
+        "name": "💮伴下💮",
+        "pinned_tweet_id": "2054149752208679110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062897677717946368/bHujNViG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 1620,
+          "like_count": 16604,
+          "listed_count": 0,
+          "media_count": 328,
+          "tweet_count": 5239
+        },
+        "username": "LoveMikuBX",
+        "verified": false
+      }
+    ]
+  }
+}

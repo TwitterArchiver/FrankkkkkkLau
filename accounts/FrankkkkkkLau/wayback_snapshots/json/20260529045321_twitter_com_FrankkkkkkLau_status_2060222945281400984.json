@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060213577760616448"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2060222945281400984",
+    "created_at": "2026-05-29T04:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060222945281400984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/traans4mM5",
+          "end": 190,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2060222945281400984/photo/1",
+          "media_key": "3_2060213577760616448",
+          "start": 167,
+          "url": "https://t.co/traans4mM5"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 214,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2056703091622490127",
+          "start": 191,
+          "url": "https://t.co/r5fTefcOLR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060222945281400984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "中国IP比例➖➖➖\n\n其实主页账号所在地是中国的不一定是晶哥, 更有可能是以下几种情况:\n1. warp/zero trust, 它们会根据你 连接时用的ip在ipinfo库里的定位 分配一个对应地方的广播ip (主页会有VPN标识)\n2. 大厂VPN的万人骑送中节点 (主页可能会没有VPN标识?)\n3. 某些远古时期的工具\n4. 澳门新街坊(横琴), 可以加钱办无sni阻断的三大运营商的家宽, 大概200mop/月\n5. 海南5G, 需要企业帮忙申请\n6. CN IP的专线, 需要营业执照和跨境电商资质"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056703091622490127",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国IP比例➖➖➖\n\n其实主页账号所在地是中国的不一定是晶哥, 更有可能是以下几种情况:\n1. warp/zero trust, 它们会根据你 连接时用的ip在ipinfo库里的定位 分配一个对应地方的广播ip (主页会有VPN标识)\n2. 大厂VPN的万人骑送中节点 (主页可能会没有VPN标识?)\n3. 某些远古时期的工具\n4. https://t.co/traans4mM5 https://t.co/r5fTefcOLR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1696,
+        "media_key": "3_2060213577760616448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdZVV_bsAAENSc.jpg",
+        "width": 1148
+      },
+      {
+        "height": 2471,
+        "media_key": "3_2056702279978508288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrf06ba4AAAVxO.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060213577760616448"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2060222945281400984",
+        "created_at": "2026-05-29T04:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060222945281400984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/traans4mM5",
+              "end": 190,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2060222945281400984/photo/1",
+              "media_key": "3_2060213577760616448",
+              "start": 167,
+              "url": "https://t.co/traans4mM5"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 214,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2056703091622490127",
+              "start": 191,
+              "url": "https://t.co/r5fTefcOLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060222945281400984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国IP比例➖➖➖\n\n其实主页账号所在地是中国的不一定是晶哥, 更有可能是以下几种情况:\n1. warp/zero trust, 它们会根据你 连接时用的ip在ipinfo库里的定位 分配一个对应地方的广播ip (主页会有VPN标识)\n2. 大厂VPN的万人骑送中节点 (主页可能会没有VPN标识?)\n3. 某些远古时期的工具\n4. 澳门新街坊(横琴), 可以加钱办无sni阻断的三大运营商的家宽, 大概200mop/月\n5. 海南5G, 需要企业帮忙申请\n6. CN IP的专线, 需要营业执照和跨境电商资质"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056703091622490127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国IP比例➖➖➖\n\n其实主页账号所在地是中国的不一定是晶哥, 更有可能是以下几种情况:\n1. warp/zero trust, 它们会根据你 连接时用的ip在ipinfo库里的定位 分配一个对应地方的广播ip (主页会有VPN标识)\n2. 大厂VPN的万人骑送中节点 (主页可能会没有VPN标识?)\n3. 某些远古时期的工具\n4. https://t.co/traans4mM5 https://t.co/r5fTefcOLR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056702279978508288"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2056703091622490127",
+        "created_at": "2026-05-19T11:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056703091622490127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ut2tvcCHGf",
+              "end": 68,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2056703091622490127/photo/1",
+              "media_key": "3_2056702279978508288",
+              "start": 45,
+              "url": "https://t.co/ut2tvcCHGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056703091622490127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "可能是全中推圈CN比例最高的（?）\n\n(另外这个应该是按ip地址而不是设置里的地区来的)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可能是全中推圈CN比例最高的（?）\n\n(另外这个应该是按ip地址而不是设置里的地区来的) https://t.co/ut2tvcCHGf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 165,
+          "like_count": 2460,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 598
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

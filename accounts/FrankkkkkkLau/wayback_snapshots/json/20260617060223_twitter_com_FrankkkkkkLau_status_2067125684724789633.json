@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067125630513393664"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2067107138347118844",
+    "created_at": "2026-06-17T06:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T07:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067125684724789633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065198058443620353",
+          "start": 0,
+          "username": "Autonomous667"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AbrNxpoYAC",
+          "end": 44,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2067125684724789633/photo/1",
+          "media_key": "3_2067125630513393664",
+          "start": 21,
+          "url": "https://t.co/AbrNxpoYAC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067125684724789633",
+    "in_reply_to_user_id": "2065198058443620353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067125186852458557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autonomous667 在用了（） https://t.co/AbrNxpoYAC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2067125630513393664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_nzxDbMAACugo.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067125630513393664"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2067107138347118844",
+        "created_at": "2026-06-17T06:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067125684724789633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065198058443620353",
+              "start": 0,
+              "username": "Autonomous667"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AbrNxpoYAC",
+              "end": 44,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2067125684724789633/photo/1",
+              "media_key": "3_2067125630513393664",
+              "start": 21,
+              "url": "https://t.co/AbrNxpoYAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067125684724789633",
+        "in_reply_to_user_id": "2065198058443620353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067125186852458557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autonomous667 在用了（） https://t.co/AbrNxpoYAC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065198058443620353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          }
+        ],
+        "conversation_id": "2067107138347118844",
+        "created_at": "2026-06-17T06:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067125186852458557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067125186852458557",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067107138347118844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau bing谷歌至少比百度好，所以去用Firefox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 345,
+          "like_count": 4410,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 922
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T22:24:09.000Z",
+        "description": "如果想要进SimpleX群一起玩，私信，请，，， 我在这里先放一堆申必emoji:🌊🪬💶🗣️🇭🇰🫆🪡👑🍭🎫⌚️⌨️🖥️⏰💴🚬💊💉🧸📩📬📘🧮🇩🇪🇰🇵🇫🇮🇺🇸🇻🇮🇳🇵🎌🇨🇾🇼🇸🇻🇳🇨🇳🇳🇿🇷🇺🇵🇬🏳️‍🌈🏳️‍⚧️🇹🇼",
+        "id": "2065198058443620353",
+        "location": "你家的床上",
+        "name": "🌊Autonomous🏳️‍⚧️🇹🇼🇭🇰🍥",
+        "pinned_tweet_id": "2066527648873091144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065199093807464448/9K0BrpHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 64,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 241
+        },
+        "username": "Autonomous667",
+        "verified": true
+      }
+    ]
+  }
+}

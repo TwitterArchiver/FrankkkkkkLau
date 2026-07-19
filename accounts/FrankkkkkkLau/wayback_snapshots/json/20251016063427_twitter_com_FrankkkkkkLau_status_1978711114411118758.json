@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978711111999672320",
+        "3_1978711111169118208"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "1978711114411118758",
+    "created_at": "2025-10-16T06:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T07:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978711114411118758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zuPj9hwibZ",
+          "end": 36,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/1978711114411118758/photo/1",
+          "media_key": "3_1978711111999672320",
+          "start": 13,
+          "url": "https://t.co/zuPj9hwibZ"
+        },
+        {
+          "display_url": "pic.x.com/zuPj9hwibZ",
+          "end": 36,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/1978711114411118758/photo/1",
+          "media_key": "3_1978711111169118208",
+          "start": 13,
+          "url": "https://t.co/zuPj9hwibZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978711114411118758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊我草cf怎么这么坏啊😭 https://t.co/zuPj9hwibZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 606,
+        "media_key": "3_1978711111999672320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3XLRc_b0AAEa0l.jpg",
+        "width": 873
+      },
+      {
+        "height": 94,
+        "media_key": "3_1978711111169118208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3XLRZ5akAAyHkH.png",
+        "width": 144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978711111999672320",
+            "3_1978711111169118208"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "1978711114411118758",
+        "created_at": "2025-10-16T06:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T07:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978711114411118758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuPj9hwibZ",
+              "end": 36,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/1978711114411118758/photo/1",
+              "media_key": "3_1978711111999672320",
+              "start": 13,
+              "url": "https://t.co/zuPj9hwibZ"
+            },
+            {
+              "display_url": "pic.x.com/zuPj9hwibZ",
+              "end": 36,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/1978711114411118758/photo/1",
+              "media_key": "3_1978711111169118208",
+              "start": 13,
+              "url": "https://t.co/zuPj9hwibZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978711114411118758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊我草cf怎么这么坏啊😭 https://t.co/zuPj9hwibZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "很没耐心, 讨厌不讲信用的人",
+        "id": "1672761170040692739",
+        "location": "Macau",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 55,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 265
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      }
+    ]
+  }
+}

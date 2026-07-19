@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2067107138347118844",
+    "created_at": "2026-06-17T08:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067157365611446760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1962742055446462464",
+          "start": 0,
+          "username": "OtakuQin25085"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067157365611446760",
+    "in_reply_to_user_id": "1962742055446462464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067156082200543555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OtakuQin25085 这个好用嘛👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2067107138347118844",
+        "created_at": "2026-06-17T08:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067157365611446760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1962742055446462464",
+              "start": 0,
+              "username": "OtakuQin25085"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067157365611446760",
+        "in_reply_to_user_id": "1962742055446462464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067156082200543555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OtakuQin25085 这个好用嘛👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962742055446462464",
+        "conversation_id": "2067107138347118844",
+        "created_at": "2026-06-17T08:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067156082200543555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067156082200543555",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067107138347118844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau duckduckgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 346,
+          "like_count": 4428,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 926
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-02T04:59:34.000Z",
+        "description": "21世纪精神病人\n生物 制药 AI",
+        "id": "1962742055446462464",
+        "location": "朝鮮人民民主主義共和國",
+        "name": "弗里德曼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048789055685656576/El2pMhJ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 21,
+          "like_count": 2475,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "OtakuQin25085",
+        "verified": false
+      }
+    ]
+  }
+}

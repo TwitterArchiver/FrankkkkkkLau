@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2074739640205287600",
+    "created_at": "2026-07-08T06:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074741596927771089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065198058443620353",
+          "start": 0,
+          "username": "Autonomous667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074741596927771089",
+    "in_reply_to_user_id": "2065198058443620353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074739640205287600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autonomous667 羡慕111Mbps上行\n话说你@的这个不是勇哥）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074739637613162496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMr0tT1a8AA7vu0.jpg",
+        "width": 1335
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2074739640205287600",
+        "created_at": "2026-07-08T06:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074741596927771089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065198058443620353",
+              "start": 0,
+              "username": "Autonomous667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074741596927771089",
+        "in_reply_to_user_id": "2065198058443620353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074739640205287600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autonomous667 羡慕111Mbps上行\n话说你@的这个不是勇哥）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074739637613162496"
+          ]
+        },
+        "author_id": "2065198058443620353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074739640205287600",
+        "created_at": "2026-07-08T06:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074739640205287600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "130108845",
+              "start": 4,
+              "username": "YGKKK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3jYQF7AGl",
+              "end": 69,
+              "expanded_url": "https://x.com/Autonomous667/status/2074739640205287600/photo/1",
+              "media_key": "3_2074739637613162496",
+              "start": 46,
+              "url": "https://t.co/c3jYQF7AGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074739640205287600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟着勇哥@ygkkk 搞了一下优选结果还不错，这个速度至少比我5usd5g的esim快多了 https://t.co/c3jYQF7AGl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 648,
+          "like_count": 6920,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 1410
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T22:24:09.000Z",
+        "description": "如果想要进SimpleX群一起玩，私信，请，，， 或者给我发发邮件：114514@automous.lol 打赏地址（bsc/bep20）：0x30B9D214e5f9E935D934040dc13Aa1c1abD8296a 我先在这里放一堆申必emoji：🇹🇼🇭🇰🏳️‍⚧️🏳️‍🌈🍥🇦🇶🇧🇿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "automous.lol",
+                "end": 23,
+                "expanded_url": "https://automous.lol",
+                "start": 0,
+                "url": "https://t.co/cuxICd3LHR"
+              }
+            ]
+          }
+        },
+        "id": "2065198058443620353",
+        "location": "你家的床上",
+        "name": "🌊Autonomous🏳️‍⚧️🇹🇼🇳🇫🍥",
+        "pinned_tweet_id": "2067883740177821740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071015515150270464/JwE4BzXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 123,
+          "like_count": 1068,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1186
+        },
+        "url": "https://t.co/cuxICd3LHR",
+        "username": "Autonomous667",
+        "verified": true
+      }
+    ]
+  }
+}

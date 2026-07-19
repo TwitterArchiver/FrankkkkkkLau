@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2069058218723274767",
+    "created_at": "2026-06-22T15:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069079033581826348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883076846281228288",
+          "start": 0,
+          "username": "liynchn331903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069079033581826348",
+    "in_reply_to_user_id": "1883076846281228288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069058218723274767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liynchn331903 发生什么事情了🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2069058216672346112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbFfFhbwAAj9Vs.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2069058218723274767",
+        "created_at": "2026-06-22T15:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069079033581826348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883076846281228288",
+              "start": 0,
+              "username": "liynchn331903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069079033581826348",
+        "in_reply_to_user_id": "1883076846281228288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069058218723274767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liynchn331903 发生什么事情了🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069058216672346112"
+          ]
+        },
+        "author_id": "1883076846281228288",
+        "conversation_id": "2069058218723274767",
+        "created_at": "2026-06-22T14:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069058218723274767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXCmrpnhA0",
+              "end": 26,
+              "expanded_url": "https://x.com/liynchn331903/status/2069058218723274767/photo/1",
+              "media_key": "3_2069058216672346112",
+              "start": 3,
+              "url": "https://t.co/NXCmrpnhA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069058218723274767",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😇🫠 https://t.co/NXCmrpnhA0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 451,
+          "like_count": 5152,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 1053
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-25T08:59:02.000Z",
+        "description": "13.08.05\n我會時不時發點怪東西\n友跨（好吧可能真的翻車了\n初中喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/azez21/%E…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/azez21/%E9%A6%96%E9%A0%81",
+                "start": 0,
+                "url": "https://t.co/Bypq1lF4VO"
+              }
+            ]
+          }
+        },
+        "id": "1883076846281228288",
+        "location": "myhome",
+        "name": "AZEZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054200736368750594/Nssvvqku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 160,
+          "like_count": 3892,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 1189
+        },
+        "url": "https://t.co/Bypq1lF4VO",
+        "username": "liynchn331903",
+        "verified": false
+      }
+    ]
+  }
+}

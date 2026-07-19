@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2065031300545917295",
+    "created_at": "2026-06-11T13:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065063438741880866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2062240705796575232",
+          "start": 0,
+          "username": "NeuroNaCler"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065063438741880866",
+    "in_reply_to_user_id": "2062240705796575232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065059091006083506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeuroNaCler 可能是什么新bug...?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2065031300545917295",
+        "created_at": "2026-06-11T13:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065063438741880866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062240705796575232",
+              "start": 0,
+              "username": "NeuroNaCler"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065063438741880866",
+        "in_reply_to_user_id": "2062240705796575232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065059091006083506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeuroNaCler 可能是什么新bug...?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062240705796575232",
+        "conversation_id": "2065031300545917295",
+        "created_at": "2026-06-11T13:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065059091006083506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            },
+            {
+              "end": 26,
+              "id": "2035758475209572352",
+              "start": 15,
+              "username": "LoveMikuBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065059091006083506",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065049810940608861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau @LoveMikuBX woc 用的库不一样吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 295,
+          "like_count": 3601,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 792
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-03T18:35:10.000Z",
+        "description": "Idk",
+        "id": "2062240705796575232",
+        "name": "NeuroNaCler",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062242777526882304/aanLyHjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 13,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "NeuroNaCler",
+        "verified": false
+      }
+    ]
+  }
+}

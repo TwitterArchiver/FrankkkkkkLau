@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2000224285453951065",
+    "created_at": "2025-12-14T15:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T16:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000224285453951065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "dns.google/query?name=x.c…",
+          "end": 62,
+          "expanded_url": "https://dns.google/query?name=x.com&rr_type=HTTPS&ecs=",
+          "start": 39,
+          "status": 200,
+          "title": "Query: x.com - Google Public DNS",
+          "unwound_url": "https://dns.google/query?name=x.com&rr_type=HTTPS&ecs=",
+          "url": "https://t.co/1s3oE1O7pK"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/1992574554607329337",
+          "start": 75,
+          "url": "https://t.co/dx3uFUU6pb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000224285453951065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992574554607329337",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "试了下ech+doh, x貌似不支持(这就是高贵的enterprise计划吗)https://t.co/1s3oE1O7pK\n不过能直连轮系网站🤯😱 https://t.co/dx3uFUU6pb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2000224285453951065",
+        "created_at": "2025-12-14T15:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T16:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000224285453951065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "dns.google/query?name=x.c…",
+              "end": 62,
+              "expanded_url": "https://dns.google/query?name=x.com&rr_type=HTTPS&ecs=",
+              "start": 39,
+              "status": 200,
+              "title": "Query: x.com - Google Public DNS",
+              "unwound_url": "https://dns.google/query?name=x.com&rr_type=HTTPS&ecs=",
+              "url": "https://t.co/1s3oE1O7pK"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/1992574554607329337",
+              "start": 75,
+              "url": "https://t.co/dx3uFUU6pb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000224285453951065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992574554607329337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "试了下ech+doh, x貌似不支持(这就是高贵的enterprise计划吗)https://t.co/1s3oE1O7pK\n不过能直连轮系网站🤯😱 https://t.co/dx3uFUU6pb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "1992572599289913703",
+        "created_at": "2025-11-23T12:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992574554607329337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992574554607329337",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992572599289913703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果是iepl, x检测的也是出口(境外端)服务器的ip\n直连warp的话应该会显示unknown\ntls分片不清楚x支不支持, 不过sni伪造应该是没办法用了\n(2/2)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "很没耐心, 讨厌不讲信用的人",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 55,
+          "like_count": 764,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 299
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      }
+    ]
+  }
+}

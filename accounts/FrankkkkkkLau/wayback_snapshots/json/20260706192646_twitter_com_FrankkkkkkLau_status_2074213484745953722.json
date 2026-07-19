@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2074202318741098959",
+    "created_at": "2026-07-06T19:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T20:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074213484745953722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074213484745953722",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074202318741098959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne hyw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2116,
+        "height": 2622,
+        "media_key": "13_2074202254081740800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074202254081740800/img/scT_b-dzxDHRcjIN.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074202254081740800/pl/t17jxEojy7yiPKSj.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074202254081740800/vid/avc1/480x1042/zu6UN_89UFp-URKy.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074202254081740800/vid/avc1/320x694/oE8WB_ijk6pOhuhf.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074202254081740800/vid/avc1/1206x2622/jvjH1um0xn8w8wvt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074202254081740800/vid/avc1/720x1564/uUdr6czeg-mpjHm7.mp4"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2074202318741098959",
+        "created_at": "2026-07-06T19:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074213484745953722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074213484745953722",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074202318741098959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne hyw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074202254081740800"
+          ]
+        },
+        "author_id": "1247054463329656832",
+        "conversation_id": "2074202318741098959",
+        "created_at": "2026-07-06T18:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074202318741098959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJGHIzvvbK",
+              "end": 31,
+              "expanded_url": "https://x.com/quasarne/status/2074202318741098959/video/1",
+              "media_key": "13_2074202254081740800",
+              "start": 8,
+              "url": "https://t.co/qJGHIzvvbK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074202318741098959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡得晚有好戏看 https://t.co/qJGHIzvvbK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 614,
+          "like_count": 6739,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 1385
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "FUMO中｜éla 數碼/科幻/政治/Wikier｜🚩◼️ 🌹自意社｜🏳️‍🌈gay/pan🏳️‍⚧️｜ 🌐漢語 吴、普/English OK/打卡Deutsch｜ 社恐，但欢迎来聊天（真的）｜安人Alt @JunenKim \n⬇️加群谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "JunenKim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZkgxPtV5OpVmO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZkgxPtV5OpVmOTU1",
+                "start": 0,
+                "url": "https://t.co/xRff4RTd9x"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "北京市西城区长安街174号",
+        "name": "Ⓐστήρ |星ない",
+        "pinned_tweet_id": "2058825811151450595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066762624986128384/QLOsTOqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 1132,
+          "like_count": 84470,
+          "listed_count": 6,
+          "media_count": 1435,
+          "tweet_count": 18402
+        },
+        "url": "https://t.co/xRff4RTd9x",
+        "username": "quasarne",
+        "verified": true
+      }
+    ]
+  }
+}

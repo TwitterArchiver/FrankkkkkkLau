@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053482827354943488"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2053128991817490781",
+    "created_at": "2026-05-10T14:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053482837802909930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1660561544441393157",
+          "start": 0,
+          "username": "sambridges233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/algvJaLDjg",
+          "end": 38,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2053482837802909930/photo/1",
+          "media_key": "3_2053482827354943488",
+          "start": 15,
+          "url": "https://t.co/algvJaLDjg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053482837802909930",
+    "in_reply_to_user_id": "1660561544441393157",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053408240101470432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sambridges233 https://t.co/algvJaLDjg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 426,
+        "media_key": "3_2053482827354943488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9vwGzbMAAMtaE.png",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053482827354943488"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2053128991817490781",
+        "created_at": "2026-05-10T14:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053482837802909930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1660561544441393157",
+              "start": 0,
+              "username": "sambridges233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/algvJaLDjg",
+              "end": 38,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2053482837802909930/photo/1",
+              "media_key": "3_2053482827354943488",
+              "start": 15,
+              "url": "https://t.co/algvJaLDjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053482837802909930",
+        "in_reply_to_user_id": "1660561544441393157",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053408240101470432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sambridges233 https://t.co/algvJaLDjg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660561544441393157",
+        "conversation_id": "2053128991817490781",
+        "created_at": "2026-05-10T09:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053408240101470432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "jfrd163461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053408240101470432",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053128991817490781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jfrd163461 你们看到我地址是哪里呀喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 80,
+          "like_count": 1718,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T08:21:47.000Z",
+        "description": "喵喵喵",
+        "id": "1660561544441393157",
+        "location": "Zhejiang",
+        "name": "是只宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053080756382248960/tRLurW2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 1529,
+          "like_count": 59,
+          "listed_count": 3,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "sambridges233",
+        "verified": false
+      }
+    ]
+  }
+}

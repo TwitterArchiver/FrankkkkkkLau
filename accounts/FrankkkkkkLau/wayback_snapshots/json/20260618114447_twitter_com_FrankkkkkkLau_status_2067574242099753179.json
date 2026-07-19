@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2067319970191872428",
+    "created_at": "2026-06-18T11:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067574242099753179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774811478480101377",
+          "start": 0,
+          "username": "MinserSurx29711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067574242099753179",
+    "in_reply_to_user_id": "1774811478480101377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067567809375412401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinserSurx29711 有的, 估计人还不少（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2067319970191872428",
+        "created_at": "2026-06-18T11:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067574242099753179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774811478480101377",
+              "start": 0,
+              "username": "MinserSurx29711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067574242099753179",
+        "in_reply_to_user_id": "1774811478480101377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067567809375412401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinserSurx29711 有的, 估计人还不少（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774811478480101377",
+        "conversation_id": "2067319970191872428",
+        "created_at": "2026-06-18T11:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067567809375412401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067567809375412401",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067319970191872428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau x还有中国区？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 357,
+          "like_count": 4564,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 961
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-01T14:50:25.000Z",
+        "description": "✈️已飞0国|🎓清华北大没考 |🏆诺贝尔奖觊觎者|🇨🇳 华籍华人|国家级身份证持有者|PDD资深买家\n精通简体中文（中国）、简体中文（马来西亚）、简体中文（新加坡）、繁體中文（中國香港）、繁體中文（中國澳門）、正體中文（中華民國台灣）、English (UK), English (US) 等多種语言",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "genyuu.com",
+                "end": 23,
+                "expanded_url": "https://www.genyuu.com",
+                "start": 0,
+                "url": "https://t.co/j74KXgxP4n"
+              }
+            ]
+          }
+        },
+        "id": "1774811478480101377",
+        "location": "玄幽帝国",
+        "name": "幽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051293706507169792/3xL8uExO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 68,
+          "like_count": 1716,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/j74KXgxP4n",
+        "username": "MinserSurx29711",
+        "verified": false
+      }
+    ]
+  }
+}

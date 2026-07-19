@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029053157800853508",
+        "3_2029053449736994816"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2029053826188361923",
+    "created_at": "2026-03-04T04:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T05:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029053826188361923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zyWmmcBF1P",
+          "end": 48,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2029053826188361923/photo/1",
+          "media_key": "3_2029053157800853508",
+          "start": 25,
+          "url": "https://t.co/zyWmmcBF1P"
+        },
+        {
+          "display_url": "pic.x.com/zyWmmcBF1P",
+          "end": 48,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2029053826188361923/photo/1",
+          "media_key": "3_2029053449736994816",
+          "start": 25,
+          "url": "https://t.co/zyWmmcBF1P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029053826188361923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么直连x会变成based in HK...? https://t.co/zyWmmcBF1P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_2029053157800853508",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCilGL0awAQEqEi.png",
+        "width": 865
+      },
+      {
+        "height": 661,
+        "media_key": "3_2029053449736994816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCilXLXawAAMWnz.jpg",
+        "width": 1132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029053157800853508",
+            "3_2029053449736994816"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2029053826188361923",
+        "created_at": "2026-03-04T04:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029053826188361923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zyWmmcBF1P",
+              "end": 48,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2029053826188361923/photo/1",
+              "media_key": "3_2029053157800853508",
+              "start": 25,
+              "url": "https://t.co/zyWmmcBF1P"
+            },
+            {
+              "display_url": "pic.x.com/zyWmmcBF1P",
+              "end": 48,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2029053826188361923/photo/1",
+              "media_key": "3_2029053449736994816",
+              "start": 25,
+              "url": "https://t.co/zyWmmcBF1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029053826188361923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么直连x会变成based in HK...? https://t.co/zyWmmcBF1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "喜欢手冲咖啡",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 63,
+          "like_count": 1050,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 341
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      }
+    ]
+  }
+}

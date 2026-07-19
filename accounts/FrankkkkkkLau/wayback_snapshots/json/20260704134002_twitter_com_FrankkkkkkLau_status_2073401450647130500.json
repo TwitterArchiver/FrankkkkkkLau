@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073401095674908672"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2073401450647130500",
+    "created_at": "2026-07-04T13:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073401450647130500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IS1qAkeRU1",
+          "end": 69,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2073401450647130500/photo/1",
+          "media_key": "3_2073401095674908672",
+          "start": 46,
+          "url": "https://t.co/IS1qAkeRU1"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2073328481493229985",
+          "start": 70,
+          "url": "https://t.co/Pt1kNkRgeR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073401450647130500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073328481493229985",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发完这条推文之后才发现用来套warp的vps忘记续费了\n等以后有什么好机器了再买算了😵‍💫 https://t.co/IS1qAkeRU1 https://t.co/Pt1kNkRgeR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 740,
+        "media_key": "3_2073401095674908672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYzT6ib0AACJbN.jpg",
+        "width": 1165
+      },
+      {
+        "height": 858,
+        "media_key": "3_2073328098389688320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXw66dagAAbTDH.png",
+        "width": 891
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073401095674908672"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073401450647130500",
+        "created_at": "2026-07-04T13:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073401450647130500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IS1qAkeRU1",
+              "end": 69,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2073401450647130500/photo/1",
+              "media_key": "3_2073401095674908672",
+              "start": 46,
+              "url": "https://t.co/IS1qAkeRU1"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2073328481493229985",
+              "start": 70,
+              "url": "https://t.co/Pt1kNkRgeR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073401450647130500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073328481493229985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发完这条推文之后才发现用来套warp的vps忘记续费了\n等以后有什么好机器了再买算了😵‍💫 https://t.co/IS1qAkeRU1 https://t.co/Pt1kNkRgeR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073328098389688320"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073328481493229985",
+        "created_at": "2026-07-04T08:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073328481493229985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YoJ5f9nlMv",
+              "end": 45,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2073328481493229985/photo/1",
+              "media_key": "3_2073328098389688320",
+              "start": 22,
+              "url": "https://t.co/YoJ5f9nlMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073328481493229985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1405,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Cloudflare的恩情还不完✋🏻😭🤚🏻 https://t.co/YoJ5f9nlMv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 577,
+          "like_count": 6243,
+          "listed_count": 1,
+          "media_count": 288,
+          "tweet_count": 1295
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

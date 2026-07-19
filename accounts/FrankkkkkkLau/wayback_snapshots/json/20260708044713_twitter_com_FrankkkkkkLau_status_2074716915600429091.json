@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2074687288857289168",
+    "created_at": "2026-07-08T04:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074716915600429091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008360423771316224",
+          "start": 0,
+          "username": "Konizaza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074716915600429091",
+    "in_reply_to_user_id": "2008360423771316224",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074687288857289168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konizaza 😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074687280065941504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrFFsxaEAAZyL_.jpg",
+        "width": 945
+      },
+      {
+        "height": 459,
+        "media_key": "3_2074687280309215232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrFFtraIAA1RWj.jpg",
+        "width": 381
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2074687288857289168",
+        "created_at": "2026-07-08T04:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074716915600429091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008360423771316224",
+              "start": 0,
+              "username": "Konizaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074716915600429091",
+        "in_reply_to_user_id": "2008360423771316224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074687288857289168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konizaza 😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074687280065941504",
+            "3_2074687280309215232"
+          ]
+        },
+        "author_id": "2008360423771316224",
+        "conversation_id": "2074687288857289168",
+        "created_at": "2026-07-08T02:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074687288857289168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RCuH1FuJ1N",
+              "end": 70,
+              "expanded_url": "https://x.com/Konizaza/status/2074687288857289168/photo/1",
+              "media_key": "3_2074687280065941504",
+              "start": 47,
+              "url": "https://t.co/RCuH1FuJ1N"
+            },
+            {
+              "display_url": "pic.x.com/RCuH1FuJ1N",
+              "end": 70,
+              "expanded_url": "https://x.com/Konizaza/status/2074687288857289168/photo/1",
+              "media_key": "3_2074687280309215232",
+              "start": 47,
+              "url": "https://t.co/RCuH1FuJ1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074687288857289168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些外宣😡\n真是杂鱼😋🥵～\n不好好搞工作～\n都来看我喵来喵去😋🥵\n再摸鱼😡就给你炒了🥵😋 https://t.co/RCuH1FuJ1N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 648,
+          "like_count": 6910,
+          "listed_count": 1,
+          "media_count": 309,
+          "tweet_count": 1405
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互fo喵～｜MTF｜无证｜生产日期：08年九月|天残党｜接受见证｜雌小鬼｜想学伪音没时间｜断糖中｜我喜欢你，你喜欢我，关注会回，请和我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me",
+                "end": 23,
+                "expanded_url": "http://t.me",
+                "start": 0,
+                "url": "https://t.co/8SjNpUNey8"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "location": "你的心里",
+        "name": "Konizaza🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2074694173484331493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 548,
+          "like_count": 1185,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/8SjNpUNey8",
+        "username": "Konizaza",
+        "verified": true
+      }
+    ]
+  }
+}

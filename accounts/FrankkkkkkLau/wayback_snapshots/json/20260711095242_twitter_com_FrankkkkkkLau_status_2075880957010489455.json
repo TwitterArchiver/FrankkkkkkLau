@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2075868666785394881",
+    "created_at": "2026-07-11T09:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T10:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075880957010489455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058728395899367424",
+          "start": 0,
+          "username": "FangXixx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075880957010489455",
+    "in_reply_to_user_id": "2058728395899367424",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075879618331254885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@FangXixx 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2075868666785394881",
+        "created_at": "2026-07-11T09:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075880957010489455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058728395899367424",
+              "start": 0,
+              "username": "FangXixx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075880957010489455",
+        "in_reply_to_user_id": "2058728395899367424",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075879618331254885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@FangXixx 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058728395899367424",
+        "conversation_id": "2075868666785394881",
+        "created_at": "2026-07-11T09:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075879618331254885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075879618331254885",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075868666785394881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@FrankkkkkkLau 可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 663,
+          "like_count": 7384,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 1503
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-25T01:57:01.000Z",
+        "description": "🏳️‍🌈 05 友跨\n可能出现的内容有：校服 白袜 CS 音游等\n日常为主 当朋友圈发了 清水无里推\n欢迎来和我互动 但是不约谢谢\n喜欢看点furry 以及一切可爱的东西😋\n最好的宝宝@Huazzz_11😘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "Huazzz_11"
+              }
+            ]
+          }
+        },
+        "id": "2058728395899367424",
+        "location": "localhost",
+        "name": "方西🍪",
+        "pinned_tweet_id": "2061824178639053229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060717471556919300/xQcm4Q7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 363,
+          "like_count": 1972,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 678
+        },
+        "url": "",
+        "username": "FangXixx",
+        "verified": true
+      }
+    ]
+  }
+}

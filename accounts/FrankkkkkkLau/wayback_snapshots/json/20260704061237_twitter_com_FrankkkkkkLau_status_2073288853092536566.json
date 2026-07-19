@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2073288833232416769"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2073286555020751027",
+    "created_at": "2026-07-04T06:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T07:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073288853092536566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545050439049064450",
+          "start": 0,
+          "username": "xz8796"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DGnj9LzX97",
+          "end": 31,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2073288853092536566/photo/1",
+          "media_key": "16_2073288833232416769",
+          "start": 8,
+          "url": "https://t.co/DGnj9LzX97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073288853092536566",
+    "in_reply_to_user_id": "1545050439049064450",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073287936351842395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xz8796 https://t.co/DGnj9LzX97"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "16_2073288833232416769",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMXNNYWaMAEs6Sj.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMXNNYWaMAEs6Sj.mp4"
+          }
+        ],
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2073288833232416769"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073286555020751027",
+        "created_at": "2026-07-04T06:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073288853092536566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "xz8796"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DGnj9LzX97",
+              "end": 31,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2073288853092536566/photo/1",
+              "media_key": "16_2073288833232416769",
+              "start": 8,
+              "url": "https://t.co/DGnj9LzX97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073288853092536566",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073287936351842395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xz8796 https://t.co/DGnj9LzX97"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2073286555020751027",
+        "created_at": "2026-07-04T06:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073287936351842395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073287936351842395",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073286864350675175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 563,
+          "like_count": 6103,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 1260
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "鉴赏李帆中……从今天开始我要做一个健全人\n生活號 | 一天會發10+條推請見諒\nINTJ | FtX | ed | od（劃掉） | BMI15\n有點陰暗 囤積癖",
+        "id": "1545050439049064450",
+        "location": "Republic of Korea",
+        "name": "李帆",
+        "pinned_tweet_id": "2073288762331939186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072228021139066880/Y41_HhUm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 175,
+          "like_count": 2147,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 1256
+        },
+        "url": "",
+        "username": "xz8796",
+        "verified": true
+      }
+    ]
+  }
+}

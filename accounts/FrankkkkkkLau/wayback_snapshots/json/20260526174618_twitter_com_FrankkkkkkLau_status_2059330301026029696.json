@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2059180905793831326",
+    "created_at": "2026-05-26T17:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059330301026029696"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059330301026029696",
+    "in_reply_to_user_id": "1672761170040692739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059180905793831326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补充一下前提:\n1. 解析到了正确并且没有被黑洞的ip\n2. 获取到了ech config, 所在地区没有白名单模式的区域性防火墙, 并且没有屏蔽Meta的outer sni\n3. 运营商不限制udp传输\n\n简单点就是没有省墙然后用非内地doh即可"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2608,
+        "media_key": "3_2059180896851533824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOuHZ0bIAAeuF9.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2059180905793831326",
+        "created_at": "2026-05-26T17:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059330301026029696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059330301026029696",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059180905793831326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充一下前提:\n1. 解析到了正确并且没有被黑洞的ip\n2. 获取到了ech config, 所在地区没有白名单模式的区域性防火墙, 并且没有屏蔽Meta的outer sni\n3. 运营商不限制udp传输\n\n简单点就是没有省墙然后用非内地doh即可"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059180896851533824"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2059180905793831326",
+        "created_at": "2026-05-26T07:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059180905793831326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DwFruCZeEv",
+              "end": 56,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2059180905793831326/photo/1",
+              "media_key": "3_2059180896851533824",
+              "start": 33,
+              "url": "https://t.co/DwFruCZeEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059180905793831326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 239171,
+          "like_count": 146,
+          "quote_count": 1,
+          "reply_count": 52,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "其实中国大陆可以不开VPN上Instagram\n(高墙地区除外) https://t.co/DwFruCZeEv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 139,
+          "like_count": 2273,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 558
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073661851947446272"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2073662008650842614",
+    "created_at": "2026-07-05T06:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073662008650842614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PAk37s4mK2",
+          "end": 41,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2073662008650842614/photo/1",
+          "media_key": "3_2073661851947446272",
+          "start": 18,
+          "url": "https://t.co/PAk37s4mK2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073662008650842614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么上行能跑满, 下行没有速度😰 https://t.co/PAk37s4mK2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 923,
+        "media_key": "3_2073661851947446272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcgd7WbMAA3MFe.jpg",
+        "width": 1271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073661851947446272"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073662008650842614",
+        "created_at": "2026-07-05T06:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073662008650842614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PAk37s4mK2",
+              "end": 41,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2073662008650842614/photo/1",
+              "media_key": "3_2073661851947446272",
+              "start": 18,
+              "url": "https://t.co/PAk37s4mK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073662008650842614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么上行能跑满, 下行没有速度😰 https://t.co/PAk37s4mK2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 590,
+          "like_count": 6434,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 1329
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

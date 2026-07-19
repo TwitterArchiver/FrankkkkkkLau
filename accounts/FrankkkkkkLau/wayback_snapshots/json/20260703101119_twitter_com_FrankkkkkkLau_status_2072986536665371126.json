@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072986521842655232"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2072958712415928617",
+    "created_at": "2026-07-03T10:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072986536665371126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1846596976265326592",
+          "start": 0,
+          "username": "voidsama777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/avkPqCNatJ",
+          "end": 38,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2072986536665371126/photo/1",
+          "media_key": "3_2072986521842655232",
+          "start": 15,
+          "url": "https://t.co/avkPqCNatJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072986536665371126",
+    "in_reply_to_user_id": "1846596976265326592",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072958712415928617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@voidsama777 😭 https://t.co/avkPqCNatJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2072986521842655232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMS6QiqaoAA0mTF.png",
+        "width": 1453
+      },
+      {
+        "height": 1276,
+        "media_key": "3_2072958619453382656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSg4aKaYAAg-XB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072986521842655232"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2072958712415928617",
+        "created_at": "2026-07-03T10:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072986536665371126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1846596976265326592",
+              "start": 0,
+              "username": "voidsama777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/avkPqCNatJ",
+              "end": 38,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2072986536665371126/photo/1",
+              "media_key": "3_2072986521842655232",
+              "start": 15,
+              "url": "https://t.co/avkPqCNatJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072986536665371126",
+        "in_reply_to_user_id": "1846596976265326592",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072958712415928617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voidsama777 😭 https://t.co/avkPqCNatJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072958619453382656"
+          ]
+        },
+        "author_id": "1846596976265326592",
+        "conversation_id": "2072958712415928617",
+        "created_at": "2026-07-03T08:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072958712415928617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5orT6DK0EG",
+              "end": 30,
+              "expanded_url": "https://x.com/voidsama777/status/2072958712415928617/photo/1",
+              "media_key": "3_2072958619453382656",
+              "start": 7,
+              "url": "https://t.co/5orT6DK0EG"
+            },
+            {
+              "display_url": "x.com/akihiro_0313/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/akihiro_0313/status/2072913692048666940",
+              "start": 31,
+              "url": "https://t.co/RwBTpIco29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072958712415928617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072913692048666940",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这78是啥呀 https://t.co/5orT6DK0EG https://t.co/RwBTpIco29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 554,
+          "like_count": 5978,
+          "listed_count": 1,
+          "media_count": 272,
+          "tweet_count": 1230
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-16T17:01:02.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡ ✞ \n✟⛧✟ (ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans ⭒\n\n✞ ♡ dm开放 欢迎找我聊天喵 ♡ ✞",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "https://twitter.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/hBwaD5CsX6"
+              }
+            ]
+          }
+        },
+        "id": "1846596976265326592",
+        "location": "ＩＮＴＥＲＮＥＴ",
+        "name": "✟ クウキ ✟  🎌🎌🎌🇯🇵🇹🇼🇺🇸🇦🇺🇩🇪🇲🇨",
+        "pinned_tweet_id": "2067943198509707636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 378,
+          "like_count": 14687,
+          "listed_count": 1,
+          "media_count": 450,
+          "tweet_count": 2172
+        },
+        "url": "https://t.co/hBwaD5CsX6",
+        "username": "voidsama777",
+        "verified": true
+      }
+    ]
+  }
+}

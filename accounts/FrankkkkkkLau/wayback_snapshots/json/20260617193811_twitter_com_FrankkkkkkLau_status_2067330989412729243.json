@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067330917417537536"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2067330989412729243",
+    "created_at": "2026-06-17T19:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T20:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067330989412729243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CUgwV0Ugah",
+          "end": 23,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2067330989412729243/video/1",
+          "media_key": "13_2067330917417537536",
+          "start": 0,
+          "url": "https://t.co/CUgwV0Ugah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067330989412729243",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/CUgwV0Ugah"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12492,
+        "height": 2608,
+        "media_key": "13_2067330917417537536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067330917417537536/img/eugjhh7dUFxhilTQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067330917417537536/pl/xOoK-AV1SlmELGU6.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067330917417537536/vid/avc1/720x1564/4Ln0ILGGm3_UFZvi.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067330917417537536/vid/avc1/1200x2608/l55ostHVmSB_ZKLP.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067330917417537536/vid/avc1/320x694/Kl585LidUtCq3pbj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067330917417537536/vid/avc1/480x1042/jtfr8NqduyBnPtKI.mp4"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067330917417537536"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2067330989412729243",
+        "created_at": "2026-06-17T19:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067330989412729243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUgwV0Ugah",
+              "end": 23,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2067330989412729243/video/1",
+              "media_key": "13_2067330917417537536",
+              "start": 0,
+              "url": "https://t.co/CUgwV0Ugah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067330989412729243",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CUgwV0Ugah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 350,
+          "like_count": 4515,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 954
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

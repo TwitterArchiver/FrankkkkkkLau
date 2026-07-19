@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2058498272688558136",
+    "created_at": "2026-05-24T17:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058603710729887930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981924659437383680",
+          "start": 0,
+          "username": "publicwy_ext"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058603710729887930",
+    "in_reply_to_user_id": "1981924659437383680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058603582803562685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@publicwy_ext 不知道哎...北京移动可能会连不上...?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2058498272688558136",
+        "created_at": "2026-05-24T17:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058603710729887930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981924659437383680",
+              "start": 0,
+              "username": "publicwy_ext"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058603710729887930",
+        "in_reply_to_user_id": "1981924659437383680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058603582803562685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@publicwy_ext 不知道哎...北京移动可能会连不上...?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981924659437383680",
+        "conversation_id": "2058498272688558136",
+        "created_at": "2026-05-24T17:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058603582803562685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058603582803562685",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058603430474813867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau OK\n话说北京算高墙吗🤔💦💦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 121,
+          "like_count": 2120,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 518
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-25T03:24:18.000Z",
+        "description": "13岁但是身体十分早熟（走两步就累）\n会一点点编程，喜欢折腾电子设备）\n有点人机（？）\nBuild Time: 2012-05-30",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "publicwyext.github.io",
+                "end": 23,
+                "expanded_url": "https://publicwyext.github.io/",
+                "start": 0,
+                "url": "https://t.co/qT1u0AFBGu"
+              }
+            ]
+          }
+        },
+        "id": "1981924659437383680",
+        "location": "Everywhere",
+        "name": "publicwy ext🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057507540259274752/d9n6AhnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 168,
+          "like_count": 5670,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1435
+        },
+        "url": "https://t.co/qT1u0AFBGu",
+        "username": "publicwy_ext",
+        "verified": true
+      }
+    ]
+  }
+}

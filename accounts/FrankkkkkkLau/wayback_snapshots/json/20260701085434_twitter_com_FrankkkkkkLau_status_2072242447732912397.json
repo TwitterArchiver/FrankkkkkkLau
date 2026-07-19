@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      }
+    ],
+    "conversation_id": "2072154973404614800",
+    "created_at": "2026-07-01T08:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T09:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072242447732912397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1737377062636363776",
+          "start": 0,
+          "username": "kMuDmZvzWJ77310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072242447732912397",
+    "in_reply_to_user_id": "1737377062636363776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072154973404614800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kMuDmZvzWJ77310 想起来我上初中时, 班主任说\"蔡英文是台湾的首相\""
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 893,
+        "media_key": "3_2072154967880962048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHF9uwbEAAqgnC.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          }
+        ],
+        "conversation_id": "2072154973404614800",
+        "created_at": "2026-07-01T08:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072242447732912397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1737377062636363776",
+              "start": 0,
+              "username": "kMuDmZvzWJ77310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072242447732912397",
+        "in_reply_to_user_id": "1737377062636363776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072154973404614800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kMuDmZvzWJ77310 想起来我上初中时, 班主任说\"蔡英文是台湾的首相\""
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072154967880962048"
+          ]
+        },
+        "author_id": "1737377062636363776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2072154973404614800",
+        "created_at": "2026-07-01T03:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072154973404614800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MWzIgJr63k",
+              "end": 58,
+              "expanded_url": "https://x.com/kMuDmZvzWJ77310/status/2072154973404614800/photo/1",
+              "media_key": "3_2072154967880962048",
+              "start": 35,
+              "url": "https://t.co/MWzIgJr63k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072154973404614800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 825,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日笑话，我的二弟问习近平是谁，我三弟说，“习近平是日本的国家主席” https://t.co/MWzIgJr63k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 520,
+          "like_count": 5816,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 1177
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-20T07:39:27.000Z",
+        "description": "政治立场：建制左，思想：传统左派，马列毛主义，民主社会主义倾向，不推塔，改造改良塔，香港人🇭🇰，简繁中文都可以，喜欢中国近代史，月丑，喜欢persona系列，脑子可能有点不太正常",
+        "id": "1737377062636363776",
+        "location": "中华苏维埃社会主义共和国香港特别行政区",
+        "name": "剑劍劎剣",
+        "pinned_tweet_id": "2059947302790549696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070425941386670080/Wm-PhRh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 3511,
+          "like_count": 6199,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1057
+        },
+        "url": "",
+        "username": "kMuDmZvzWJ77310",
+        "verified": false
+      }
+    ]
+  }
+}

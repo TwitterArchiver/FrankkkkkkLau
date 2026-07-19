@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2033913651749691615",
+    "created_at": "2026-03-17T16:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T17:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033941925183856882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885154179922227200",
+          "start": 0,
+          "username": "Snow_Xue_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "iplark.com",
+          "end": 34,
+          "expanded_url": "http://iplark.com",
+          "start": 11,
+          "status": 403,
+          "unwound_url": "https://iplark.com/",
+          "url": "https://t.co/IXxHUzHcRH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033941925183856882",
+    "in_reply_to_user_id": "1885154179922227200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033913651749691615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_ https://t.co/IXxHUzHcRH 更准一点)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 923,
+        "media_key": "3_2033913586670833665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnpoYVbEAETksR.jpg",
+        "width": 1164
+      },
+      {
+        "height": 1298,
+        "media_key": "3_2033913599215984640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnppHEa4AA-xdX.jpg",
+        "width": 2146
+      },
+      {
+        "height": 99,
+        "media_key": "3_2033913609282326528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnppskbEAA72yf.png",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2033913651749691615",
+        "created_at": "2026-03-17T16:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T17:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033941925183856882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885154179922227200",
+              "start": 0,
+              "username": "Snow_Xue_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "iplark.com",
+              "end": 34,
+              "expanded_url": "http://iplark.com",
+              "start": 11,
+              "status": 403,
+              "unwound_url": "https://iplark.com/",
+              "url": "https://t.co/IXxHUzHcRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033941925183856882",
+        "in_reply_to_user_id": "1885154179922227200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033913651749691615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_ https://t.co/IXxHUzHcRH 更准一点)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033913586670833665",
+            "3_2033913599215984640",
+            "3_2033913609282326528"
+          ]
+        },
+        "author_id": "1885154179922227200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033913651749691615",
+        "created_at": "2026-03-17T14:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033913651749691615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/18vxDMeCJU",
+              "end": 50,
+              "expanded_url": "https://x.com/Snow_Xue_/status/2033913651749691615/photo/1",
+              "media_key": "3_2033913586670833665",
+              "start": 27,
+              "url": "https://t.co/18vxDMeCJU"
+            },
+            {
+              "display_url": "pic.x.com/18vxDMeCJU",
+              "end": 50,
+              "expanded_url": "https://x.com/Snow_Xue_/status/2033913651749691615/photo/1",
+              "media_key": "3_2033913599215984640",
+              "start": 27,
+              "url": "https://t.co/18vxDMeCJU"
+            },
+            {
+              "display_url": "pic.x.com/18vxDMeCJU",
+              "end": 50,
+              "expanded_url": "https://x.com/Snow_Xue_/status/2033913651749691615/photo/1",
+              "media_key": "3_2033913609282326528",
+              "start": 27,
+              "url": "https://t.co/18vxDMeCJU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033913651749691615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我用的酒店的网啊😭😭😭你怎么是idc机房ip啊😭😭😭 https://t.co/18vxDMeCJU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "喜欢手冲咖啡",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 65,
+          "like_count": 1110,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 352
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | 位于上海 | 不见证 | 不割手 | o！ | 没染上乌蒙 | 生产日期2010.3.16 | 纯s | 家长不管党 | hrt🍥2025.11 |\n| b站：屑冷雪 / 屑冷雪_ |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 0,
+                "url": "https://t.co/UJzajXA6Cp"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2024420085541327312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 598,
+          "tweet_count": 4459
+        },
+        "url": "https://t.co/UJzajXA6Cp",
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

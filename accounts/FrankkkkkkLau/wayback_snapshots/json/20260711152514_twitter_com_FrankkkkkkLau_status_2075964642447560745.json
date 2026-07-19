@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2075964642447560745",
+    "created_at": "2026-07-11T15:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075964642447560745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2075784893078880257",
+          "start": 3,
+          "username": "lele1145awa"
+        },
+        {
+          "end": 31,
+          "id": "1672761170040692739",
+          "start": 17,
+          "username": "FrankkkkkkLau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075964642447560745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075943675343814742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lele1145awa: @FrankkkkkkLau 哒哒哒哒\n                   ₙ   l                    \n                ⁸☰°°☰⁸…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2075964642447560745",
+        "created_at": "2026-07-11T15:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075964642447560745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2075784893078880257",
+              "start": 3,
+              "username": "lele1145awa"
+            },
+            {
+              "end": 31,
+              "id": "1672761170040692739",
+              "start": 17,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075964642447560745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075943675343814742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lele1145awa: @FrankkkkkkLau 哒哒哒哒\n                   ₙ   l                    \n                ⁸☰°°☰⁸…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075784893078880257",
+        "conversation_id": "2075633668480225601",
+        "created_at": "2026-07-11T14:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075943675343814742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075943675343814742",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075633668480225601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 哒哒哒哒\n                   ₙ   l                    \n                ⁸☰°°☰⁸                                 \n     𠂆 匚匚匚匚匚乀乀二二乀乀\n     ╲O O O O O╱╱——╱╱."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 662,
+          "like_count": 7447,
+          "listed_count": 1,
+          "media_count": 333,
+          "tweet_count": 1519
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-11T03:32:15.000Z",
+        "description": "",
+        "id": "2075784893078880257",
+        "name": "leleawa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075785449071665152/bveBCkkW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "lele1145awa",
+        "verified": false
+      }
+    ]
+  }
+}

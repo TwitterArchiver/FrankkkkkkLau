@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2067311176929988706",
+    "created_at": "2026-06-17T18:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067316591034056993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1835921137622208512",
+          "start": 0,
+          "username": "Yan9x1_1028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067316591034056993",
+    "in_reply_to_user_id": "1835921137622208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067315529447309697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yan9x1_1028 呜呜呜上版本的X-Lite很好用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2067311176929988706",
+        "created_at": "2026-06-17T18:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067316591034056993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1835921137622208512",
+              "start": 0,
+              "username": "Yan9x1_1028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067316591034056993",
+        "in_reply_to_user_id": "1835921137622208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067315529447309697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yan9x1_1028 呜呜呜上版本的X-Lite很好用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835921137622208512",
+        "conversation_id": "2067311176929988706",
+        "created_at": "2026-06-17T18:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067315529447309697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067315529447309697",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067311176929988706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 一人一句网页版牛逼来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 350,
+          "like_count": 4505,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 948
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-17T05:58:13.000Z",
+        "description": "阴间作息苦逼初二生一枚，置顶帖子才是简介",
+        "id": "1835921137622208512",
+        "name": "阳熹",
+        "pinned_tweet_id": "2054625687634682334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054599056006270976/Awy-bM3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 219,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1405
+        },
+        "url": "",
+        "username": "Yan9x1_1028",
+        "verified": false
+      }
+    ]
+  }
+}

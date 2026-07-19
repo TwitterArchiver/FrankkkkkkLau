@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071851925625077760",
+        "3_2071851933418041345"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414838",
+          "name": "Bing"
+        }
+      }
+    ],
+    "conversation_id": "2071853958147244354",
+    "created_at": "2026-06-30T07:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071853958147244354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/988GeKSl1P",
+          "end": 41,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2071853958147244354/photo/1",
+          "media_key": "3_2071851925625077760",
+          "start": 18,
+          "url": "https://t.co/988GeKSl1P"
+        },
+        {
+          "display_url": "pic.x.com/988GeKSl1P",
+          "end": 41,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2071853958147244354/photo/1",
+          "media_key": "3_2071851933418041345",
+          "start": 18,
+          "url": "https://t.co/988GeKSl1P"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2067107138347118844",
+          "start": 42,
+          "url": "https://t.co/HPi8PCzEOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071853958147244354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067107138347118844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Disroot的看起来还不错(?) https://t.co/988GeKSl1P https://t.co/HPi8PCzEOO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1362,
+        "media_key": "3_2071851925625077760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCyWWYXgAAr2zS.jpg",
+        "width": 2559
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2071851933418041345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCyWzaWsAECtEC.png",
+        "width": 2559
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071851925625077760",
+            "3_2071851933418041345"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414838",
+              "name": "Bing"
+            }
+          }
+        ],
+        "conversation_id": "2071853958147244354",
+        "created_at": "2026-06-30T07:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071853958147244354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/988GeKSl1P",
+              "end": 41,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2071853958147244354/photo/1",
+              "media_key": "3_2071851925625077760",
+              "start": 18,
+              "url": "https://t.co/988GeKSl1P"
+            },
+            {
+              "display_url": "pic.x.com/988GeKSl1P",
+              "end": 41,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2071853958147244354/photo/1",
+              "media_key": "3_2071851933418041345",
+              "start": 18,
+              "url": "https://t.co/988GeKSl1P"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2067107138347118844",
+              "start": 42,
+              "url": "https://t.co/HPi8PCzEOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071853958147244354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067107138347118844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Disroot的看起来还不错(?) https://t.co/988GeKSl1P https://t.co/HPi8PCzEOO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414838",
+              "name": "Bing"
+            }
+          }
+        ],
+        "conversation_id": "2067107138347118844",
+        "created_at": "2026-06-17T04:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:38:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067104546225315930",
+          "2067107138347118844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067107138347118844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2879,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇现在还有人用百度搜索嘛🤔\n（话说bing和Google其实也挺烂的, 不知道该用什么🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 493,
+          "like_count": 5690,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 1150
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

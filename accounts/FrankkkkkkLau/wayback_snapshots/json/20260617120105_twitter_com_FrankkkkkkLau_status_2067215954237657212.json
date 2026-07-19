@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067201271811932160",
+        "3_2067201586573496320"
+      ],
+      "media_source_tweet_id": [
+        "2067201610539823221",
+        "2067201610539823221"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067215954237657212",
+    "created_at": "2026-06-17T12:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067215954237657212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2026081318497665024",
+          "start": 3,
+          "username": "852RDSFREEDOM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aviMJqACin",
+          "end": 63,
+          "expanded_url": "https://x.com/852RDSFREEDOM/status/2067201610539823221/photo/1",
+          "media_key": "3_2067201271811932160",
+          "start": 40,
+          "url": "https://t.co/aviMJqACin"
+        },
+        {
+          "display_url": "pic.x.com/aviMJqACin",
+          "end": 63,
+          "expanded_url": "https://x.com/852RDSFREEDOM/status/2067201610539823221/photo/1",
+          "media_key": "3_2067201586573496320",
+          "start": 40,
+          "url": "https://t.co/aviMJqACin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067215954237657212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067201610539823221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @852RDSFREEDOM: 第一賬戶的fans們 趕緊回follow https://t.co/aviMJqACin"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 541,
+        "media_key": "3_2067201271811932160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAsmq2WAAAD-Tp.png",
+        "width": 452
+      },
+      {
+        "height": 598,
+        "media_key": "3_2067201586573496320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAs4_bWUAAc26S.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067201271811932160",
+            "3_2067201586573496320"
+          ],
+          "media_source_tweet_id": [
+            "2067201610539823221",
+            "2067201610539823221"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067215954237657212",
+        "created_at": "2026-06-17T12:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067215954237657212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2026081318497665024",
+              "start": 3,
+              "username": "852RDSFREEDOM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aviMJqACin",
+              "end": 63,
+              "expanded_url": "https://x.com/852RDSFREEDOM/status/2067201610539823221/photo/1",
+              "media_key": "3_2067201271811932160",
+              "start": 40,
+              "url": "https://t.co/aviMJqACin"
+            },
+            {
+              "display_url": "pic.x.com/aviMJqACin",
+              "end": 63,
+              "expanded_url": "https://x.com/852RDSFREEDOM/status/2067201610539823221/photo/1",
+              "media_key": "3_2067201586573496320",
+              "start": 40,
+              "url": "https://t.co/aviMJqACin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067215954237657212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067201610539823221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @852RDSFREEDOM: 第一賬戶的fans們 趕緊回follow https://t.co/aviMJqACin"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067201271811932160",
+            "3_2067201586573496320"
+          ]
+        },
+        "author_id": "2026081318497665024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067201610539823221",
+        "created_at": "2026-06-17T11:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067201610539823221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aviMJqACin",
+              "end": 44,
+              "expanded_url": "https://x.com/852RDSFREEDOM/status/2067201610539823221/photo/1",
+              "media_key": "3_2067201271811932160",
+              "start": 21,
+              "url": "https://t.co/aviMJqACin"
+            },
+            {
+              "display_url": "pic.x.com/aviMJqACin",
+              "end": 44,
+              "expanded_url": "https://x.com/852RDSFREEDOM/status/2067201610539823221/photo/1",
+              "media_key": "3_2067201586573496320",
+              "start": 21,
+              "url": "https://t.co/aviMJqACin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067201610539823221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "第一賬戶的fans們 趕緊回follow https://t.co/aviMJqACin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 348,
+          "like_count": 4458,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 938
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-23T23:47:34.000Z",
+        "description": "Revolutionary Democratic Socialism\nOriginal Marxism\nCountryhuman lover\nDemocracy&Freedom\nHongkonger\nFree China\nLove Playing CS2\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼",
+        "id": "2026081318497665024",
+        "name": "+852 REDE SOCI AWP KMT 19890604 HONGKONG FREE 🇭🇰",
+        "pinned_tweet_id": "2067200523233538086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026082211380785152/--aTDct4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 97,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 12
+        },
+        "username": "852RDSFREEDOM",
+        "verified": false
+      }
+    ]
+  }
+}

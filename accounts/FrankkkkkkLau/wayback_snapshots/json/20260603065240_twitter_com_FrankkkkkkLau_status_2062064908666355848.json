@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062064900336472064"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2062064908666355848",
+    "created_at": "2026-06-03T06:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062064908666355848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eDYb4Y4wIP",
+          "end": 28,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2062064908666355848/photo/1",
+          "media_key": "3_2062064900336472064",
+          "start": 5,
+          "url": "https://t.co/eDYb4Y4wIP"
+        },
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/B_cat38324/status/2062009795469840469",
+          "start": 29,
+          "url": "https://t.co/SP6JXqp9Mh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062064908666355848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062009795469840469",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何意味喵 https://t.co/eDYb4Y4wIP https://t.co/SP6JXqp9Mh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2251,
+        "media_key": "3_2062064900336472064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3tGgBbUAA_Mgf.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062064900336472064"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2062064908666355848",
+        "created_at": "2026-06-03T06:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062064908666355848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDYb4Y4wIP",
+              "end": 28,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2062064908666355848/photo/1",
+              "media_key": "3_2062064900336472064",
+              "start": 5,
+              "url": "https://t.co/eDYb4Y4wIP"
+            },
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/B_cat38324/status/2062009795469840469",
+              "start": 29,
+              "url": "https://t.co/SP6JXqp9Mh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062064908666355848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062009795469840469",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味喵 https://t.co/eDYb4Y4wIP https://t.co/SP6JXqp9Mh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2062009795469840469",
+        "created_at": "2026-06-03T03:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062009795469840469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062009795469840469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 35275,
+          "like_count": 221,
+          "quote_count": 3,
+          "reply_count": 56,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你是一个小男娘，是处，第一次约男人出来，男人脱下裤子，雄臭肉棒顶在你面前，让你神魂颠倒。男人羞辱到，「吸了这个肉棒你就是飞机杯臭母狗了」，你选择：\n\nA.作为雄性坚决不吸\nB.捂耳开吸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 273,
+          "like_count": 3061,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 697
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23011,
+          "following_count": 198,
+          "like_count": 724,
+          "listed_count": 72,
+          "media_count": 103,
+          "tweet_count": 23676
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

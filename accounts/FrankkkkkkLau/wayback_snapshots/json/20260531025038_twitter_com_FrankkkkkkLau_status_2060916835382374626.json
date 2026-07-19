@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060916822514479104"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2060916835382374626",
+    "created_at": "2026-05-31T02:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T03:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060916835382374626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mg99kXhoyf",
+          "end": 32,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2060916835382374626/photo/1",
+          "media_key": "3_2060916822514479104",
+          "start": 9,
+          "url": "https://t.co/mg99kXhoyf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060916835382374626",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已飞升咖啡星球😋 https://t.co/mg99kXhoyf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2060916822514479104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnY7k2aMAAI1N5.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060916822514479104"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2060916835382374626",
+        "created_at": "2026-05-31T02:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060916835382374626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mg99kXhoyf",
+              "end": 32,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2060916835382374626/photo/1",
+              "media_key": "3_2060916822514479104",
+              "start": 9,
+              "url": "https://t.co/mg99kXhoyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060916835382374626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已飞升咖啡星球😋 https://t.co/mg99kXhoyf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 246,
+          "like_count": 2748,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 638
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

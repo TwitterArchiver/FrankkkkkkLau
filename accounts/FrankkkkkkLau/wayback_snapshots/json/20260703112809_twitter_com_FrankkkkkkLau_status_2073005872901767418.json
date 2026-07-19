@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073005169948995585"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2073005872901767418",
+    "created_at": "2026-07-03T11:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T12:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073005872901767418"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cbctTHjFVl",
+          "end": 78,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2073005872901767418/photo/1",
+          "media_key": "3_2073005169948995585",
+          "start": 55,
+          "url": "https://t.co/cbctTHjFVl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073005872901767418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你的言论: 这几天怎么用什么代理协议都秒墙ip, 我这配置的也没问题啊, 不会是要严打了吧\n实际上你的配置: https://t.co/cbctTHjFVl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_2073005169948995585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTLOARbsAE0cK_.jpg",
+        "width": 1175
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073005169948995585"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073005872901767418",
+        "created_at": "2026-07-03T11:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073005872901767418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbctTHjFVl",
+              "end": 78,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2073005872901767418/photo/1",
+              "media_key": "3_2073005169948995585",
+              "start": 55,
+              "url": "https://t.co/cbctTHjFVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073005872901767418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的言论: 这几天怎么用什么代理协议都秒墙ip, 我这配置的也没问题啊, 不会是要严打了吧\n实际上你的配置: https://t.co/cbctTHjFVl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 555,
+          "like_count": 5991,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 1233
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

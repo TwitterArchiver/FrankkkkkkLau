@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979759782069252096"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "1979759785320071334",
+    "created_at": "2025-10-19T04:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T05:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979759785320071334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6fhyDbr4El",
+          "end": 68,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/1979759785320071334/photo/1",
+          "media_key": "3_1979759782069252096",
+          "start": 45,
+          "url": "https://t.co/6fhyDbr4El"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979759785320071334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "话说好像没见过哪家大机场有mtel节点（虽然澳门人也没多少用mtel的就是了）\n图文无关 https://t.co/6fhyDbr4El"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979759782069252096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mFCFbXsAAdb42.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979759782069252096"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "1979759785320071334",
+        "created_at": "2025-10-19T04:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979759785320071334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6fhyDbr4El",
+              "end": 68,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/1979759785320071334/photo/1",
+              "media_key": "3_1979759782069252096",
+              "start": 45,
+              "url": "https://t.co/6fhyDbr4El"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979759785320071334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说好像没见过哪家大机场有mtel节点（虽然澳门人也没多少用mtel的就是了）\n图文无关 https://t.co/6fhyDbr4El"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "很没耐心, 讨厌不讲信用的人",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 55,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 279
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2063871224804163596",
+    "created_at": "2026-06-08T07:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T08:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063880272140177601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2030455725374550016",
+          "start": 0,
+          "username": "AAcfun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063880272140177601",
+    "in_reply_to_user_id": "2030455725374550016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063880070838866192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAcfun 我也是, 不知道是哪位推友的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2063871224804163596",
+        "created_at": "2026-06-08T07:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063880272140177601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2030455725374550016",
+              "start": 0,
+              "username": "AAcfun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063880272140177601",
+        "in_reply_to_user_id": "2030455725374550016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063880070838866192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAcfun 我也是, 不知道是哪位推友的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030455725374550016",
+        "conversation_id": "2063871224804163596",
+        "created_at": "2026-06-08T07:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063880070838866192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063880070838866192",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063871224804163596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 第一次看到南极洲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 285,
+          "like_count": 3407,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 744
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-08T01:29:09.000Z",
+        "description": "‍",
+        "id": "2030455725374550016",
+        "location": "自己的小房间",
+        "name": "云兮🏳️‍⚧️",
+        "pinned_tweet_id": "2063509014928138526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052950670878404608/-ahKaRcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 152,
+          "like_count": 9357,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1807
+        },
+        "username": "AAcfun",
+        "verified": true
+      }
+    ]
+  }
+}

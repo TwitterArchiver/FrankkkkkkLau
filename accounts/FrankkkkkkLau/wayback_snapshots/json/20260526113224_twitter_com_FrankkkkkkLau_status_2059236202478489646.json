@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2059180905793831326",
+    "created_at": "2026-05-26T11:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059236202478489646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1922185230598995969",
+          "start": 0,
+          "username": "ReneHo196530"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059236202478489646",
+    "in_reply_to_user_id": "1922185230598995969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059230816421720309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReneHo196530 客户端拿到了没被污染的ip和ech config就行, 不过感觉Meta的outer sni随时可能被封"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2059180905793831326",
+        "created_at": "2026-05-26T11:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059236202478489646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1922185230598995969",
+              "start": 0,
+              "username": "ReneHo196530"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059236202478489646",
+        "in_reply_to_user_id": "1922185230598995969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059230816421720309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReneHo196530 客户端拿到了没被污染的ip和ech config就行, 不过感觉Meta的outer sni随时可能被封"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922185230598995969",
+        "conversation_id": "2059180905793831326",
+        "created_at": "2026-05-26T11:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059230816421720309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059230816421720309",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 827,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059180905793831326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 不开vpn不代表什么技术手段都不用直接访问的意思吧。目前的墙度下，还是有部分不使用代理服务器的直连办法的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 135,
+          "like_count": 2239,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-13T07:01:05.000Z",
+        "description": "basement AI crank",
+        "id": "1922185230598995969",
+        "name": "FuuraK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051268615127855104/lYrHYyDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 85,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 193
+        },
+        "username": "ReneHo196530",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041114426141818880"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2041114461868871750",
+    "created_at": "2026-04-06T11:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T12:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041114461868871750"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EJdousLCIV",
+          "end": 32,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2041114461868871750/photo/1",
+          "media_key": "3_2041114426141818880",
+          "start": 9,
+          "url": "https://t.co/EJdousLCIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041114461868871750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "對唔住，我係差人 https://t.co/EJdousLCIV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 399,
+        "media_key": "3_2041114426141818880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFN-wZwbwAAXVKq.png",
+        "width": 887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041114426141818880"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2041114461868871750",
+        "created_at": "2026-04-06T11:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041114461868871750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EJdousLCIV",
+              "end": 32,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2041114461868871750/photo/1",
+              "media_key": "3_2041114426141818880",
+              "start": 9,
+              "url": "https://t.co/EJdousLCIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041114461868871750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "對唔住，我係差人 https://t.co/EJdousLCIV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/HVcVRe4I0g"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 71,
+          "like_count": 1263,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/HVcVRe4I0g",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      }
+    ]
+  }
+}

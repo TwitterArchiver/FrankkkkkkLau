@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059942415575003136"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2059942821684191528",
+    "created_at": "2026-05-28T10:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059942821684191528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nAxZ9UexWb",
+          "end": 54,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2059942821684191528/photo/1",
+          "media_key": "3_2059942415575003136",
+          "start": 31,
+          "url": "https://t.co/nAxZ9UexWb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059942821684191528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Twitter今日更新咗自動翻譯功能，我好奇佢識唔識翻譯粵語 https://t.co/nAxZ9UexWb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2059942415575003136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZitoIbsAA57ZZ.png",
+        "width": 881
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059942415575003136"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059942821684191528",
+        "created_at": "2026-05-28T10:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059942821684191528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nAxZ9UexWb",
+              "end": 54,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2059942821684191528/photo/1",
+              "media_key": "3_2059942415575003136",
+              "start": 31,
+              "url": "https://t.co/nAxZ9UexWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059942821684191528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Twitter今日更新咗自動翻譯功能，我好奇佢識唔識翻譯粵語 https://t.co/nAxZ9UexWb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 151,
+          "like_count": 2374,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 584
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

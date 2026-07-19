@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073476504869376000"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2073476511022366821",
+    "created_at": "2026-07-04T18:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T19:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073476511022366821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lLudJeLG54",
+          "end": 23,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2073476511022366821/photo/1",
+          "media_key": "3_2073476504869376000",
+          "start": 0,
+          "url": "https://t.co/lLudJeLG54"
+        },
+        {
+          "display_url": "x.com/HappyHejsDay/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/HappyHejsDay/status/2073471535554425086",
+          "start": 24,
+          "url": "https://t.co/gMZGG0OiBx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073476511022366821",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073471535554425086",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/lLudJeLG54 https://t.co/gMZGG0OiBx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2073476504869376000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZ35TrbkAAHP4d.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2073471527933325312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZzXnJaMAA49n2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073476504869376000"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073476511022366821",
+        "created_at": "2026-07-04T18:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073476511022366821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lLudJeLG54",
+              "end": 23,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2073476511022366821/photo/1",
+              "media_key": "3_2073476504869376000",
+              "start": 0,
+              "url": "https://t.co/lLudJeLG54"
+            },
+            {
+              "display_url": "x.com/HappyHejsDay/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/HappyHejsDay/status/2073471535554425086",
+              "start": 24,
+              "url": "https://t.co/gMZGG0OiBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073476511022366821",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073471535554425086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/lLudJeLG54 https://t.co/gMZGG0OiBx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073471527933325312"
+          ]
+        },
+        "author_id": "2005261732751802368",
+        "conversation_id": "2073471535554425086",
+        "created_at": "2026-07-04T18:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073471535554425086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XF5wkQRBtw",
+              "end": 23,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2073471535554425086/photo/1",
+              "media_key": "3_2073471527933325312",
+              "start": 0,
+              "url": "https://t.co/XF5wkQRBtw"
+            },
+            {
+              "display_url": "x.com/ggdxfulan/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ggdxfulan/status/2073268027458716113",
+              "start": 24,
+              "url": "https://t.co/XtlZNkRPMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073471535554425086",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073268027458716113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/XF5wkQRBtw https://t.co/XtlZNkRPMi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 586,
+          "like_count": 6353,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 1316
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜惡俗醜釹｜疑似鍵政｜痛苦大學生｜Baptist U｜准健全逼｜失敗合約交易員｜🇹🇼🇭🇰🇨🇳｜歡迎私訊聊天｜同類互fo｜前世@franciswwwww｜寵物@Fe_ions ｜小玩具@wwwAlce4｜寶寶窩@PaulDrizzyvlni @Suimikax @Jskyeye @zwh20081",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 90,
+                "start": 82,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "wwwAlce4"
+              },
+              {
+                "end": 123,
+                "start": 108,
+                "username": "PaulDrizzyvlni"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "Suimikax"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "Jskyeye"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "zwh20081"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/franciswwwww1",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/franciswwwww1",
+                "start": 0,
+                "url": "https://t.co/Tx5FLFXmTv"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "location": "秦城监狱",
+        "name": "𝕙𝕖𝕛😉",
+        "pinned_tweet_id": "2064008531217686815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039022077857124352/L7EpIiFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 1881,
+          "like_count": 10417,
+          "listed_count": 4,
+          "media_count": 521,
+          "tweet_count": 6322
+        },
+        "url": "https://t.co/Tx5FLFXmTv",
+        "username": "HappyHejsDay",
+        "verified": false
+      }
+    ]
+  }
+}

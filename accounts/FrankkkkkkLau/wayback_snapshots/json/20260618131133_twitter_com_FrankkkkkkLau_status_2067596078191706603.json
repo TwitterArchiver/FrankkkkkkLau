@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2067212784149078073",
+    "created_at": "2026-06-18T13:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067596078191706603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1548619992001785859",
+          "start": 0,
+          "username": "frankxka05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067596078191706603",
+    "in_reply_to_user_id": "1548619992001785859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067212784149078073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frankxka05 像港澳那样按铃下车就挺好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067212774099582977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLA3EMNbAAECyIG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2067212784149078073",
+        "created_at": "2026-06-18T13:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067596078191706603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1548619992001785859",
+              "start": 0,
+              "username": "frankxka05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067596078191706603",
+        "in_reply_to_user_id": "1548619992001785859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067212784149078073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frankxka05 像港澳那样按铃下车就挺好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067212774099582977"
+          ]
+        },
+        "author_id": "1548619992001785859",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067212784149078073",
+        "created_at": "2026-06-17T11:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067212784149078073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxJ68RqqFF",
+              "end": 130,
+              "expanded_url": "https://x.com/frankxka05/status/2067212784149078073/photo/1",
+              "media_key": "3_2067212774099582977",
+              "start": 107,
+              "url": "https://t.co/hxJ68RqqFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067212784149078073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我记得小时侯公交车没人上下车的时候飞站越站是很正常的。\n最近几年改成无论有无上下客都必须停站五秒才能开车\n现在部分客流少的线路又重新执行响应式停靠了🐱\n个人觉得客流少和城郊线路就不应该强制站站停 会有很严重的浪费 https://t.co/hxJ68RqqFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 357,
+          "like_count": 4570,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 964
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-17T10:46:02.000Z",
+        "description": "社恐 /  Dev / Game / Anime / 🚇🚌🚄🧳💻🧋🍥 看成分回fo 这里介绍不完我请你多看",
+        "id": "1548619992001785859",
+        "location": "Earth",
+        "name": "frank_782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592617823862784/tRNWUTh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 206,
+          "like_count": 2128,
+          "listed_count": 2,
+          "media_count": 264,
+          "tweet_count": 1186
+        },
+        "url": "",
+        "username": "frankxka05",
+        "verified": false
+      }
+    ]
+  }
+}

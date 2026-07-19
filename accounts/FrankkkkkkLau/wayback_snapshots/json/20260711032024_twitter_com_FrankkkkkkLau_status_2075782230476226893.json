@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075782224864251905"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2075782230476226893",
+    "created_at": "2026-07-11T03:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T04:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075782230476226893"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PBc461x5MQ",
+          "end": 30,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2075782230476226893/photo/1",
+          "media_key": "3_2075782224864251905",
+          "start": 7,
+          "url": "https://t.co/PBc461x5MQ"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2075290903556850029",
+          "start": 31,
+          "url": "https://t.co/8DylWZYLQV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075782230476226893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075290903556850029",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这下舒服多了 https://t.co/PBc461x5MQ https://t.co/8DylWZYLQV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1198,
+        "media_key": "3_2075782224864251905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6o74AakAE17hy.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1121,
+        "media_key": "3_2075290898645282816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzqE7NacAAZv_n.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075782224864251905"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2075782230476226893",
+        "created_at": "2026-07-11T03:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075782230476226893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBc461x5MQ",
+              "end": 30,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2075782230476226893/photo/1",
+              "media_key": "3_2075782224864251905",
+              "start": 7,
+              "url": "https://t.co/PBc461x5MQ"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2075290903556850029",
+              "start": 31,
+              "url": "https://t.co/8DylWZYLQV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075782230476226893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075290903556850029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这下舒服多了 https://t.co/PBc461x5MQ https://t.co/8DylWZYLQV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075290898645282816"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2075290903556850029",
+        "created_at": "2026-07-09T18:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075290903556850029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OPe5lRM5LT",
+              "end": 80,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2075290903556850029/photo/1",
+              "media_key": "3_2075290898645282816",
+              "start": 57,
+              "url": "https://t.co/OPe5lRM5LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075290903556850029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 843,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发轻技术向的娱乐视频还是直接禁评比较好, 开精选评论了还是会有一点知识都不沾的小鬼连视频都不看就急着申请当教师爷 https://t.co/OPe5lRM5LT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 664,
+          "like_count": 7300,
+          "listed_count": 1,
+          "media_count": 322,
+          "tweet_count": 1480
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

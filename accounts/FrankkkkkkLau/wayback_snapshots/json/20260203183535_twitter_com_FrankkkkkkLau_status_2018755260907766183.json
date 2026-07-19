@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018755258324025344"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2018755260907766183",
+    "created_at": "2026-02-03T18:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T19:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018755260907766183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QeO66IdRoG",
+          "end": 26,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2018755260907766183/photo/1",
+          "media_key": "3_2018755258324025344",
+          "start": 3,
+          "url": "https://t.co/QeO66IdRoG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018755260907766183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈! https://t.co/QeO66IdRoG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018755258324025344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAQPNizbAAAKPlV.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018755258324025344"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2018755260907766183",
+        "created_at": "2026-02-03T18:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T19:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018755260907766183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QeO66IdRoG",
+              "end": 26,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2018755260907766183/photo/1",
+              "media_key": "3_2018755258324025344",
+              "start": 3,
+              "url": "https://t.co/QeO66IdRoG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018755260907766183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈! https://t.co/QeO66IdRoG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "喜欢手冲咖啡",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 60,
+          "like_count": 920,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 322
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      }
+    ]
+  }
+}

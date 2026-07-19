@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2073067271787012570",
+    "created_at": "2026-07-03T16:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073075458560958826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934766733237342209",
+          "start": 0,
+          "username": "Ravvdata"
+        },
+        {
+          "end": 21,
+          "id": "2034245121009729536",
+          "start": 10,
+          "username": "SdKen62822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073075458560958826",
+    "in_reply_to_user_id": "1934766733237342209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073074712885002658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ravvdata @SdKen62822 爸爸妈妈你们快和好吧）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073067271787012570",
+        "created_at": "2026-07-03T16:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073075458560958826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934766733237342209",
+              "start": 0,
+              "username": "Ravvdata"
+            },
+            {
+              "end": 21,
+              "id": "2034245121009729536",
+              "start": 10,
+              "username": "SdKen62822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073075458560958826",
+        "in_reply_to_user_id": "1934766733237342209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073074712885002658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ravvdata @SdKen62822 爸爸妈妈你们快和好吧）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934766733237342209",
+        "conversation_id": "2073067271787012570",
+        "created_at": "2026-07-03T16:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073074712885002658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2034245121009729536",
+              "start": 0,
+              "username": "SdKen62822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073074712885002658",
+        "in_reply_to_user_id": "2034245121009729536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073067271787012570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SdKen62822 偶像是世界\n巧了我磕世界和R主席("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 556,
+          "like_count": 6027,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 1242
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-17T00:15:29.000Z",
+        "description": "technerd · speculator · dreamer/觀點大概是在玩抽象👀/dm open~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/z6v8G0CcWj"
+              }
+            ]
+          }
+        },
+        "id": "1934766733237342209",
+        "location": "Anywhere",
+        "name": "raw_data;🌙",
+        "pinned_tweet_id": "2070824856535327067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071889495113297920/uRulgZ4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 101,
+          "like_count": 2156,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/z6v8G0CcWj",
+        "username": "Ravvdata",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-18T12:27:43.000Z",
+        "description": "SCP/科学上网/轻文学爱好者创作者 找我咨询询问问题是不需要收费的（bushi）猫咪爱好者 妄想成为女孩子\n如果我的一些评论让你感受到不舒服的话，请无视我\n讨厌ntr\n不定时发送科学上网福利（包括机场订阅，个人搭建的节点，自己写的脚本）\n私信评论回复看到都会回",
+        "id": "2034245121009729536",
+        "name": "浅见墨心🏳️‍⚧️",
+        "pinned_tweet_id": "2073067271787012570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070910174450360320/K4W57DUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 114,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 537
+        },
+        "url": "",
+        "username": "SdKen62822",
+        "verified": false
+      }
+    ]
+  }
+}

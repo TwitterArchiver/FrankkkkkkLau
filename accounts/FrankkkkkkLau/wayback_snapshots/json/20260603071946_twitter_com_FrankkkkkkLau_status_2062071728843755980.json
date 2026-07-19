@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062071705837961216"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2062070875193737643",
+    "created_at": "2026-06-03T07:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062071728843755980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "Fuugetsu_808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KmYvrktDko",
+          "end": 37,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2062071728843755980/photo/1",
+          "media_key": "3_2062071705837961216",
+          "start": 14,
+          "url": "https://t.co/KmYvrktDko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062071728843755980",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062070875193737643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fuugetsu_808 https://t.co/KmYvrktDko"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 217,
+        "media_key": "3_2062071705837961216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3zSofbAAAGC_3.png",
+        "width": 233
+      },
+      {
+        "height": 1487,
+        "media_key": "3_2062070862703210496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3yhjkbsAAb0P5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062071705837961216"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2062070875193737643",
+        "created_at": "2026-06-03T07:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062071728843755980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Fuugetsu_808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KmYvrktDko",
+              "end": 37,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2062071728843755980/photo/1",
+              "media_key": "3_2062071705837961216",
+              "start": 14,
+              "url": "https://t.co/KmYvrktDko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062071728843755980",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062070875193737643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fuugetsu_808 https://t.co/KmYvrktDko"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062070862703210496"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2062070875193737643",
+        "created_at": "2026-06-03T07:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062070875193737643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnase072dk",
+              "end": 38,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2062070875193737643/photo/1",
+              "media_key": "3_2062070862703210496",
+              "start": 15,
+              "url": "https://t.co/xnase072dk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062070875193737643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在这招教育小孩子不管用了😁 https://t.co/xnase072dk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 273,
+          "like_count": 3067,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 698
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "做这个推号的初衷是给大家带来启示与欢乐\n文学 | 评论 |",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5478,
+          "following_count": 1893,
+          "like_count": 61550,
+          "listed_count": 11,
+          "media_count": 1469,
+          "tweet_count": 11623
+        },
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

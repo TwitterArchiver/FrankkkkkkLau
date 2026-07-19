@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2074212660955193740",
+    "created_at": "2026-07-06T19:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T20:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074212660955193740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1835139537418567680",
+          "start": 3,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074212660955193740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074210475118887206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WellingtonPixel: 简单说明一下这次 𝕏 Premium+ 异常赠送事件。\n几个小时前，中推圈突然出现多名用户收到一年 𝕏 Premium+赠礼。最开始，很多人以为只是有人真的花钱赠送，或者 𝕏 的会员页面出了显示错误。但很快，情况开始不对劲。\n\n同一个账…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1325,
+        "media_key": "3_2074210470571937792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkTbu_WEAA2-Vm.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2074212660955193740",
+        "created_at": "2026-07-06T19:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074212660955193740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1835139537418567680",
+              "start": 3,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074212660955193740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074210475118887206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WellingtonPixel: 简单说明一下这次 𝕏 Premium+ 异常赠送事件。\n几个小时前，中推圈突然出现多名用户收到一年 𝕏 Premium+赠礼。最开始，很多人以为只是有人真的花钱赠送，或者 𝕏 的会员页面出了显示错误。但很快，情况开始不对劲。\n\n同一个账…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074210470571937792"
+          ]
+        },
+        "author_id": "1835139537418567680",
+        "conversation_id": "2074210475118887206",
+        "created_at": "2026-07-06T19:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:07:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074208591012098203",
+          "2074210475118887206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XKmYnjbMGg",
+              "end": 172,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2074210475118887206/photo/1",
+              "media_key": "3_2074210470571937792",
+              "start": 149,
+              "url": "https://t.co/XKmYnjbMGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074210475118887206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "简单说明一下这次 𝕏 Premium+ 异常赠送事件。\n几个小时前，中推圈突然出现多名用户收到一年 𝕏 Premium+赠礼。最开始，很多人以为只是有人真的花钱赠送，或者 𝕏 的会员页面出了显示错误。但很快，情况开始不对劲。\n\n同一个账号或一批类似账号，在短时间内连续向多名互不相关的用户赠送一年 Premium+。因此，许多用户都发布推文，说自己受赠，并且大多是感谢赠与人\n\n目前我观察到至少十几名推友收到类似赠礼。我也让其中一名赠送者向我的小号赠送了一份，结果 Premium+ 立即生效。这不是一件正常的事。我的小号已经实际获得 SuperGrok、𝕏 Pro、Radar、Creator Studio、Analytics 等完整权益。随后又有人公开表示系统出Bug。\n\n问题可能是德国Premium支付方式中的银行转账出现了可以让赠送无需付款的Bug。（最后一种说法目前尚未得到确凿证实）但综合现有情况，大概是𝕏的支付确认，赠礼或会员权益发放系统存在漏洞。\n\n这件事的风险是，如果𝕏后续进行财务对账，发现部分订单没有完成正常付款，但一年 Premium+ 权益已经发放，最直接的处理方式就是批量回收异常会员。更严重的情况下，𝕏 也可能重新审核相关账号，并根据异常使用系统、利用平台错误等理由限制账号。\n\n对于𝕏官方而言，Premium+ 是 𝕏 最高等级的个人订阅，包含更高的回复优先级、SuperGrok、𝕏 Pro 和 Radar。如果这个漏洞继续扩散，被垃圾账号和机器人批量利用，受到影响的将是回复排序和整个平台的信息流质量。事关重大，但是因为支持团队一向不作为，我甚至很难说这次会不会展开审查。\n\n𝕏最后无论选择修不修Bug，只要不追回异常权益也不给既有付费用户任何补偿，那实际结果就是守规则的人承担完整责任，碰上漏洞的人获得最高档权益。而𝕏平台承担零解释成本。订阅制本质上是一份价格承诺，告诉用户 Premium+ 值这个价，用户才付款。平台如果明知最高档权益被异常批量发放，却长期放任，那正常付费用户当然可以质疑为什么还按原价续费？\n\n我的建议是：希望收到 Premium+ 的，特别是还有一定粉丝数量的小号可以尝试留下观察和测试，如果担忧风险就不要去凑热闹。不要批量给自己的多个账号开。尤其不要把有历史记录和社交资产的主号拖进去。\n\n现在没人知道𝕏会不会处理，也没人知道它什么时候处理。但如果𝕏支援团队仍然不打算去维护的话，我就考虑正式迁移到Bluesky再也不回来了。\n\n谢谢大家。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "简单说明一下这次 𝕏 Premium+ 异常赠送事件。\n几个小时前，中推圈突然出现多名用户收到一年 𝕏 Premium+赠礼。最开始，很多人以为只是有人真的花钱赠送，或者 𝕏 的会员页面出了显示错误。但很快，情况开始不对劲。\n\n同一个账号或一批类似账号，在短时间内连续向多名互不相关的用户赠送一年 https://t.co/XKmYnjbMGg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 614,
+          "like_count": 6736,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 1383
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "Season of the Old World.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TheRtHonWP",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TheRtHonWP",
+                "start": 0,
+                "url": "https://t.co/D6JVLpiAPZ"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Den Haag, Nederland",
+        "name": "𝑾𝒆𝒍𝒍𝒊𝒏𝒈𝒕𝒐𝒏等日落",
+        "pinned_tweet_id": "2072961773309657353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070119866296619008/2wrMAa5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2589,
+          "following_count": 2950,
+          "like_count": 22496,
+          "listed_count": 3,
+          "media_count": 446,
+          "tweet_count": 4948
+        },
+        "url": "https://t.co/D6JVLpiAPZ",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

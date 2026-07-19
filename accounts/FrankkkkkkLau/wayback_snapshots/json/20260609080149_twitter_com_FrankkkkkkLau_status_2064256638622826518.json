@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064252659750846465"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2064256638622826518",
+    "created_at": "2026-06-09T08:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064256638622826518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZYs6cqpInG",
+          "end": 112,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2064256638622826518/photo/1",
+          "media_key": "3_2064252659750846465",
+          "start": 89,
+          "url": "https://t.co/ZYs6cqpInG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064256638622826518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你是安卓运营商吧（）\n话说有点好奇CTM投放这种三地数据和光纤的广告除了浪费钱有什么用...? 能看到的人要么已经在用了, 要么就是CT和MTel的客户, 基本不会喜欢CTM罢 https://t.co/ZYs6cqpInG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2064252659750846465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWy228awAE9MNc.png",
+        "width": 573
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064252659750846465"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2064256638622826518",
+        "created_at": "2026-06-09T08:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064256638622826518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZYs6cqpInG",
+              "end": 112,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2064256638622826518/photo/1",
+              "media_key": "3_2064252659750846465",
+              "start": 89,
+              "url": "https://t.co/ZYs6cqpInG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064256638622826518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是安卓运营商吧（）\n话说有点好奇CTM投放这种三地数据和光纤的广告除了浪费钱有什么用...? 能看到的人要么已经在用了, 要么就是CT和MTel的客户, 基本不会喜欢CTM罢 https://t.co/ZYs6cqpInG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 289,
+          "like_count": 3472,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 760
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

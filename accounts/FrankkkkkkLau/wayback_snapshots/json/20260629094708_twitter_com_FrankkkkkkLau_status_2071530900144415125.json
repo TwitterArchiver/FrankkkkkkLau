@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2071291413644587300",
+    "created_at": "2026-06-29T09:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071530900144415125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910893768498438146",
+          "start": 0,
+          "username": "mengxin66666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071530900144415125",
+    "in_reply_to_user_id": "1910893768498438146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071291413644587300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengxin66666 不要让同学发现推特账号🫠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2071291410339532800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL60kEObEAABxp2.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2071291413644587300",
+        "created_at": "2026-06-29T09:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071530900144415125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910893768498438146",
+              "start": 0,
+              "username": "mengxin66666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071530900144415125",
+        "in_reply_to_user_id": "1910893768498438146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071291413644587300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengxin66666 不要让同学发现推特账号🫠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071291410339532800"
+          ]
+        },
+        "author_id": "1910893768498438146",
+        "conversation_id": "2071291413644587300",
+        "created_at": "2026-06-28T17:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071291413644587300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W60Wj1TUFD",
+              "end": 44,
+              "expanded_url": "https://x.com/mengxin66666/status/2071291413644587300/photo/1",
+              "media_key": "3_2071291410339532800",
+              "start": 21,
+              "url": "https://t.co/W60Wj1TUFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071291413644587300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1384,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我准备上高中了\n\n有什么需要注意的吗？🤔 https://t.co/W60Wj1TUFD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 486,
+          "like_count": 5567,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1117
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-12T03:12:45.000Z",
+        "description": "男\n科技时政💻\n娱乐抽象休闲聊天📱\n写代码但很懒🖥️\n自由职业者🗺️\n有空会回复或互动任何人，如果有一段时间比较忙碌，会抽空回复的📱\n声明我没用自动化脚本和机器人回复😅",
+        "id": "1910893768498438146",
+        "location": "Hong Kong",
+        "name": "萌新_mengxin",
+        "pinned_tweet_id": "2070680055592960067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068294587584823296/wKNciw-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 154,
+          "like_count": 3836,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 815
+        },
+        "url": "",
+        "username": "mengxin66666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2074405075435618763",
+    "created_at": "2026-07-07T08:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074407374790725703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1885557129588948992",
+          "start": 0,
+          "username": "85240609891_1st"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074407374790725703",
+    "in_reply_to_user_id": "1885557129588948992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074405075435618763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@85240609891_1st 廣告減半, 可以發長文, 可以發帖賺錢👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 871,
+        "media_key": "3_2074404982577827840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnEV0raEAA9Z_C.jpg",
+        "width": 1071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2074405075435618763",
+        "created_at": "2026-07-07T08:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074407374790725703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "85240609891_1st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074407374790725703",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074405075435618763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@85240609891_1st 廣告減半, 可以發長文, 可以發帖賺錢👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074404982577827840"
+          ]
+        },
+        "author_id": "1885557129588948992",
+        "conversation_id": "2074405075435618763",
+        "created_at": "2026-07-07T08:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074405075435618763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gNlG2eEuV1",
+              "end": 35,
+              "expanded_url": "https://x.com/85240609891_1st/status/2074405075435618763/photo/1",
+              "media_key": "3_2074404982577827840",
+              "start": 12,
+              "url": "https://t.co/gNlG2eEuV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074405075435618763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Premium有什麽用 https://t.co/gNlG2eEuV1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 644,
+          "like_count": 6835,
+          "listed_count": 1,
+          "media_count": 309,
+          "tweet_count": 1402
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Revolutionary Democratic Socialism\nCountryhuman Lover\nHongkonger\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼🇪🇺🇮🇱\n祈求民主與自由萬世都不朽\n我願榮光歸...\n一位邏輯學者\n活著必須革命 心高氣傲 哪裏去不到",
+        "id": "1885557129588948992",
+        "location": " Republic of China - Hong Kong",
+        "name": "🎗️🇹🇼🇭🇰+852 4060 9891🇭🇰🇬🇧🎗️",
+        "pinned_tweet_id": "2073994553854751155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073738662014328832/uUvpHRtt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2737,
+          "following_count": 7252,
+          "like_count": 17739,
+          "listed_count": 6,
+          "media_count": 854,
+          "tweet_count": 5071
+        },
+        "url": "",
+        "username": "85240609891_1st",
+        "verified": false
+      }
+    ]
+  }
+}

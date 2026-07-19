@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2074348034377527678",
+    "created_at": "2026-07-07T04:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074349959860683240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1786442629917589505",
+          "start": 0,
+          "username": "GreenMarc512269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074349959860683240",
+    "in_reply_to_user_id": "1786442629917589505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074348034377527678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreenMarc512269 是这样）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2074348034377527678",
+        "created_at": "2026-07-07T04:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074349959860683240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786442629917589505",
+              "start": 0,
+              "username": "GreenMarc512269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074349959860683240",
+        "in_reply_to_user_id": "1786442629917589505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074348034377527678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreenMarc512269 是这样）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786442629917589505",
+        "conversation_id": "2074348034377527678",
+        "created_at": "2026-07-07T04:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074348034377527678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074348034377527678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经订阅了是不是不会有人给我送订阅了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 646,
+          "like_count": 6797,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 1394
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-03T17:08:30.000Z",
+        "description": "我喜欢到处转转/私信不回复请联系TG：@GGHKing520/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "GGHKing520"
+              }
+            ]
+          }
+        },
+        "id": "1786442629917589505",
+        "location": "到处转转",
+        "name": "LinQi",
+        "pinned_tweet_id": "2073804296337178667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054062444159643648/_Bj8y2n7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 180,
+          "like_count": 6126,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1140
+        },
+        "url": "",
+        "username": "GreenMarc512269",
+        "verified": true
+      }
+    ]
+  }
+}

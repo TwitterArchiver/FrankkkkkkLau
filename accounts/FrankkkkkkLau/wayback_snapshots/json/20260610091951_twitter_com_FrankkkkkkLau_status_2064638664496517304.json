@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064636396107915264",
+        "3_2064636403825377280"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2064459857550287292",
+    "created_at": "2026-06-10T09:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064638664496517304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1885557129588948992",
+          "start": 0,
+          "username": "jfrd163461"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xMDOr2koxg",
+          "end": 106,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2064638664496517304/photo/1",
+          "media_key": "3_2064636396107915264",
+          "start": 83,
+          "url": "https://t.co/xMDOr2koxg"
+        },
+        {
+          "display_url": "pic.x.com/xMDOr2koxg",
+          "end": 106,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2064638664496517304/photo/1",
+          "media_key": "3_2064636403825377280",
+          "start": 83,
+          "url": "https://t.co/xMDOr2koxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064638664496517304",
+    "in_reply_to_user_id": "1885557129588948992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064459857550287292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jfrd163461 CM和CTM\n同一部手機, 但係唔知點解一個顯示 China Android App, 一個顯示 Hong Kong Android App https://t.co/xMDOr2koxg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 914,
+        "media_key": "3_2064636396107915264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcP3QRa4AAhgbh.jpg",
+        "width": 891
+      },
+      {
+        "height": 789,
+        "media_key": "3_2064636403825377280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcP3tBaAAA4bg7.png",
+        "width": 891
+      },
+      {
+        "height": 602,
+        "media_key": "3_2064459745465880576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKZvM1WWUAAnLFG.png",
+        "width": 747
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064636396107915264",
+            "3_2064636403825377280"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2064459857550287292",
+        "created_at": "2026-06-10T09:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064638664496517304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "jfrd163461"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMDOr2koxg",
+              "end": 106,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2064638664496517304/photo/1",
+              "media_key": "3_2064636396107915264",
+              "start": 83,
+              "url": "https://t.co/xMDOr2koxg"
+            },
+            {
+              "display_url": "pic.x.com/xMDOr2koxg",
+              "end": 106,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2064638664496517304/photo/1",
+              "media_key": "3_2064636403825377280",
+              "start": 83,
+              "url": "https://t.co/xMDOr2koxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064638664496517304",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064459857550287292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jfrd163461 CM和CTM\n同一部手機, 但係唔知點解一個顯示 China Android App, 一個顯示 Hong Kong Android App https://t.co/xMDOr2koxg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064459745465880576"
+          ]
+        },
+        "author_id": "1885557129588948992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064459857550287292",
+        "created_at": "2026-06-09T21:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T22:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064459857550287292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QEM0riu51C",
+              "end": 42,
+              "expanded_url": "https://x.com/jfrd163461/status/2064459857550287292/photo/1",
+              "media_key": "3_2064459745465880576",
+              "start": 19,
+              "url": "https://t.co/QEM0riu51C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064459857550287292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 499,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想看看你們的\n我的是標準的HK IP https://t.co/QEM0riu51C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 290,
+          "like_count": 3529,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 775
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Revolutionary Democratic Socialism\nOriginal Marxism\nCountryhuman lover\nDemocracy&Freedom\nHongkonger\nFree China\nLove Playing CS2\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼",
+        "id": "1885557129588948992",
+        "location": " Republic of China - Hong Kong",
+        "name": "+852 40609891 RDSKMTROC MP9 HONG KONG FREE🇭🇰",
+        "pinned_tweet_id": "2042964092470620631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064319480633688064/v47CQU6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2342,
+          "following_count": 6343,
+          "like_count": 14109,
+          "listed_count": 5,
+          "media_count": 685,
+          "tweet_count": 3886
+        },
+        "username": "jfrd163461",
+        "verified": false
+      }
+    ]
+  }
+}

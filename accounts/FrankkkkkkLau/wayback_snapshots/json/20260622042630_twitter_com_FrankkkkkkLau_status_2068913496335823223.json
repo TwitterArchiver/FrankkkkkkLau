@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068913489507454976"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2068603376666055103",
+    "created_at": "2026-06-22T04:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068913496335823223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1052903358900580352",
+          "start": 0,
+          "username": "Kalin_1124"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e85UUL7GLT",
+          "end": 35,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2068913496335823223/photo/1",
+          "media_key": "3_2068913489507454976",
+          "start": 12,
+          "url": "https://t.co/e85UUL7GLT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068913496335823223",
+    "in_reply_to_user_id": "1052903358900580352",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068912885217272316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kalin_1124 https://t.co/e85UUL7GLT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2068913489507454976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZB220bEAANWcw.png",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068913489507454976"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2068603376666055103",
+        "created_at": "2026-06-22T04:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068913496335823223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1052903358900580352",
+              "start": 0,
+              "username": "Kalin_1124"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e85UUL7GLT",
+              "end": 35,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2068913496335823223/photo/1",
+              "media_key": "3_2068913489507454976",
+              "start": 12,
+              "url": "https://t.co/e85UUL7GLT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068913496335823223",
+        "in_reply_to_user_id": "1052903358900580352",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068912885217272316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kalin_1124 https://t.co/e85UUL7GLT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1052903358900580352",
+        "conversation_id": "2068603376666055103",
+        "created_at": "2026-06-22T04:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068912885217272316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068912885217272316",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068603376666055103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 看看喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 440,
+          "like_count": 5094,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 1045
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-18T12:44:57.000Z",
+        "description": "07｜男｜喵",
+        "id": "1052903358900580352",
+        "location": "owo",
+        "name": "卡林喵～",
+        "pinned_tweet_id": "2065425101370364408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014910609528442880/ftm3U_oA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 2538,
+          "like_count": 55925,
+          "listed_count": 2,
+          "media_count": 670,
+          "tweet_count": 10136
+        },
+        "url": "",
+        "username": "Kalin_1124",
+        "verified": true
+      }
+    ]
+  }
+}

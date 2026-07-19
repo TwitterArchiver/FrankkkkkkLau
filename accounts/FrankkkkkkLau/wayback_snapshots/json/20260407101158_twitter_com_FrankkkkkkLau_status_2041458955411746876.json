@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041458793461293057"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041458955411746876",
+    "created_at": "2026-04-07T10:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T11:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041458955411746876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/veLOzF3n7J",
+          "end": 38,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2041458955411746876/photo/1",
+          "media_key": "3_2041458793461293057",
+          "start": 15,
+          "url": "https://t.co/veLOzF3n7J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041458955411746876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次觉得bmpt这么好玩😝 https://t.co/veLOzF3n7J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1276,
+        "media_key": "3_2041458793461293057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFS39N_boAEUv52.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041458793461293057"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041458955411746876",
+        "created_at": "2026-04-07T10:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041458955411746876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/veLOzF3n7J",
+              "end": 38,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2041458955411746876/photo/1",
+              "media_key": "3_2041458793461293057",
+              "start": 15,
+              "url": "https://t.co/veLOzF3n7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041458955411746876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次觉得bmpt这么好玩😝 https://t.co/veLOzF3n7J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/HVcVRe4I0g"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 71,
+          "like_count": 1286,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/HVcVRe4I0g",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      }
+    ]
+  }
+}

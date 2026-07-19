@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "1998077661588128166",
+    "created_at": "2025-12-10T03:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T04:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998598890053054851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1711373198242320384",
+          "start": 0,
+          "username": "HRT_pharmacist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998598890053054851",
+    "in_reply_to_user_id": "1711373198242320384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998077661588128166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HRT_pharmacist 好哦😚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1998077488329883648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qY462bgAAYg5Q.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1998077488329818120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qY462agAgrVBx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "1998077661588128166",
+        "created_at": "2025-12-10T03:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T04:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998598890053054851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1711373198242320384",
+              "start": 0,
+              "username": "HRT_pharmacist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998598890053054851",
+        "in_reply_to_user_id": "1711373198242320384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998077661588128166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HRT_pharmacist 好哦😚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998077488329883648",
+            "3_1998077488329818120"
+          ]
+        },
+        "author_id": "1711373198242320384",
+        "conversation_id": "1998077661588128166",
+        "created_at": "2025-12-08T17:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T18:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998077661588128166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pQ2plKmTIm",
+              "end": 195,
+              "expanded_url": "https://x.com/HRT_pharmacist/status/1998077661588128166/photo/1",
+              "media_key": "3_1998077488329883648",
+              "start": 172,
+              "url": "https://t.co/pQ2plKmTIm"
+            },
+            {
+              "display_url": "pic.x.com/pQ2plKmTIm",
+              "end": 195,
+              "expanded_url": "https://x.com/HRT_pharmacist/status/1998077661588128166/photo/1",
+              "media_key": "3_1998077488329818120",
+              "start": 172,
+              "url": "https://t.co/pQ2plKmTIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998077661588128166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2153,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "老板刚才新西兰回来，带来了不少200盒新色和300盒新补。\n正好拿来做双十二活动 \n12月9日开始到12日 只要点赞+转发+评论本条动态 \n新补170一盒 规格2mg*84tabs \n新色260一盒 规格50mg*50tabs  \n绝对的全网最低价了，也希望大家多多帮kanna宣传一下，多多推给自己的朋友  \n优惠活动截止到12号或卖完为止 https://t.co/pQ2plKmTIm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "很没耐心, 讨厌不讲信用的人",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 55,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 297
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T13:29:39.000Z",
+        "description": "🍬🏪",
+        "id": "1711373198242320384",
+        "name": "某神秘的kanna(HRT药商)",
+        "pinned_tweet_id": "1838565305435750896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776597423412166656/dEFvCy2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4548,
+          "following_count": 186,
+          "like_count": 226,
+          "listed_count": 15,
+          "media_count": 129,
+          "tweet_count": 577
+        },
+        "username": "HRT_pharmacist",
+        "verified": false
+      }
+    ]
+  }
+}

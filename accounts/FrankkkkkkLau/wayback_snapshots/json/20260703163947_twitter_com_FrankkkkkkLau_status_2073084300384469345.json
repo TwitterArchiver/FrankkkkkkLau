@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073084295217086464"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072835697765990722",
+    "created_at": "2026-07-03T16:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073084300384469345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1028139778536079360",
+          "start": 0,
+          "username": "kohakumito"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KIjLeYWAqT",
+          "end": 35,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2073084300384469345/photo/1",
+          "media_key": "3_2073084295217086464",
+          "start": 12,
+          "url": "https://t.co/KIjLeYWAqT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073084300384469345",
+    "in_reply_to_user_id": "1028139778536079360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072835697765990722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kohakumito https://t.co/KIjLeYWAqT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_2073084295217086464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUTLs3bAAA06EI.jpg",
+        "width": 554
+      },
+      {
+        "height": 1082,
+        "media_key": "3_2072835687393492992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMQxE0jXgAAbHQs.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073084295217086464"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072835697765990722",
+        "created_at": "2026-07-03T16:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073084300384469345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1028139778536079360",
+              "start": 0,
+              "username": "kohakumito"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KIjLeYWAqT",
+              "end": 35,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2073084300384469345/photo/1",
+              "media_key": "3_2073084295217086464",
+              "start": 12,
+              "url": "https://t.co/KIjLeYWAqT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073084300384469345",
+        "in_reply_to_user_id": "1028139778536079360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072835697765990722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohakumito https://t.co/KIjLeYWAqT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072835687393492992"
+          ]
+        },
+        "author_id": "1028139778536079360",
+        "conversation_id": "2072835697765990722",
+        "created_at": "2026-07-03T00:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072835697765990722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gl1F3PQOsh",
+              "end": 29,
+              "expanded_url": "https://x.com/kohakumito/status/2072835697765990722/photo/1",
+              "media_key": "3_2072835687393492992",
+              "start": 6,
+              "url": "https://t.co/gl1F3PQOsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072835697765990722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都是垃圾（ https://t.co/gl1F3PQOsh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 559,
+          "like_count": 6034,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 1245
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-11T04:43:19.000Z",
+        "description": "持證含糖MTF🏳️‍⚧️🍥 | 178公分/70kg大隻狐狸🦊| 終身不加入任何政黨 | 同類回fo | 下體人退散 | 喜歡計算機/硬體設計/網路技術 | 喜歡二次元 | 裏帳號@mitokohaku835 | 老公 @Joestar8622 | あなたと結ぶ，たったひとつの誓いが，わたしのすべてです。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "mitokohaku835"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Joestar8622"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kohaku.cat",
+                "end": 23,
+                "expanded_url": "https://www.kohaku.cat",
+                "start": 0,
+                "url": "https://t.co/4JycxaItgf"
+              }
+            ]
+          }
+        },
+        "id": "1028139778536079360",
+        "location": "中華民國",
+        "name": "泉戸 こはく🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067193314290348032/DNJNHMRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 929,
+          "like_count": 20079,
+          "listed_count": 11,
+          "media_count": 371,
+          "tweet_count": 4480
+        },
+        "url": "https://t.co/4JycxaItgf",
+        "username": "kohakumito",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2063609553980420233",
+    "created_at": "2026-06-07T13:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063617652288102547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1865675525169000448",
+          "start": 0,
+          "username": "rued_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063617652288102547",
+    "in_reply_to_user_id": "1865675525169000448",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063614794578469184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rued_0 I don’t think there’s any way to bypass it.😭The only solution is to get a FTTB service I guess."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_2063614531184525312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNue4yWgAASOqv.jpg",
+        "width": 1025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2063609553980420233",
+        "created_at": "2026-06-07T13:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063617652288102547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1865675525169000448",
+              "start": 0,
+              "username": "rued_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063617652288102547",
+        "in_reply_to_user_id": "1865675525169000448",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063614794578469184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rued_0 I don’t think there’s any way to bypass it.😭The only solution is to get a FTTB service I guess."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063614531184525312"
+          ]
+        },
+        "author_id": "1865675525169000448",
+        "conversation_id": "2063609553980420233",
+        "created_at": "2026-06-07T13:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063614794578469184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rO6soBvPUN",
+              "end": 70,
+              "expanded_url": "https://x.com/rued_0/status/2063614794578469184/photo/1",
+              "media_key": "3_2063614531184525312",
+              "start": 47,
+              "url": "https://t.co/rO6soBvPUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063614794578469184",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063609553980420233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau How do I bypass speed blocking? https://t.co/rO6soBvPUN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 285,
+          "like_count": 3343,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 737
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-08T08:31:32.000Z",
+        "description": "Interested in Apple systems. ☺️",
+        "id": "1865675525169000448",
+        "name": "Chan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063616646086905856/8yAaW4vD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 1787,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 375
+        },
+        "username": "rued_0",
+        "verified": false
+      }
+    ]
+  }
+}

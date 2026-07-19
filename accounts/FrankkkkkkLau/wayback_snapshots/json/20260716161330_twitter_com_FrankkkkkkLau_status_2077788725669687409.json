@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077788707193774080",
+        "3_2077788716580679680"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2077781981337719173",
+    "created_at": "2026-07-16T16:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077788725669687409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rFPPHjlNtV",
+          "end": 113,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2077788725669687409/photo/1",
+          "media_key": "3_2077788707193774080",
+          "start": 90,
+          "url": "https://t.co/rFPPHjlNtV"
+        },
+        {
+          "display_url": "pic.x.com/rFPPHjlNtV",
+          "end": 113,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2077788725669687409/photo/1",
+          "media_key": "3_2077788716580679680",
+          "start": 90,
+          "url": "https://t.co/rFPPHjlNtV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077788725669687409",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077781981337719173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auspiceshirley 有澳门的啦, 用户比较少而已。然后Twitter的库会把mtel宽带的ip标记成香港（\n大家不讨论澳门电话卡大概是因为现在不能用内地身份证实名了👀 https://t.co/rFPPHjlNtV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 995,
+        "media_key": "3_2077788707193774080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXJ0hKaYAAmYY9.jpg",
+        "width": 1200
+      },
+      {
+        "height": 826,
+        "media_key": "3_2077788716580679680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXJ1EIbMAAW6Yb.jpg",
+        "width": 891
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077788707193774080",
+            "3_2077788716580679680"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2077781981337719173",
+        "created_at": "2026-07-16T16:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077788725669687409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFPPHjlNtV",
+              "end": 113,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2077788725669687409/photo/1",
+              "media_key": "3_2077788707193774080",
+              "start": 90,
+              "url": "https://t.co/rFPPHjlNtV"
+            },
+            {
+              "display_url": "pic.x.com/rFPPHjlNtV",
+              "end": 113,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2077788725669687409/photo/1",
+              "media_key": "3_2077788716580679680",
+              "start": 90,
+              "url": "https://t.co/rFPPHjlNtV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077788725669687409",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077781981337719173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auspiceshirley 有澳门的啦, 用户比较少而已。然后Twitter的库会把mtel宽带的ip标记成香港（\n大家不讨论澳门电话卡大概是因为现在不能用内地身份证实名了👀 https://t.co/rFPPHjlNtV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050253104935997440",
+        "conversation_id": "2077781981337719173",
+        "created_at": "2026-07-16T15:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077781981337719173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077781981337719173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忽然想起来个事儿，在 𝕏 的账户分析「受众」那一块，我经常看到🇭🇰香港，那🇲🇴澳门呢？怎么从来没见过？难不成划到「🇨🇳CN」里面了？🤔\n\n还有还有，我经常看到大家讨论🇭🇰香港银行、🇭🇰香港银行卡、🇭🇰香港电话卡、🇭🇰香港证券之类的东西，那🇲🇴澳门呢？🧐\n\n我们似乎把🇲🇴澳门遗忘在某个角落了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 679,
+          "like_count": 7992,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 1612
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIPvx"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 573,
+          "like_count": 1828,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 2556
+        },
+        "url": "https://t.co/1qfE6dIPvx",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}

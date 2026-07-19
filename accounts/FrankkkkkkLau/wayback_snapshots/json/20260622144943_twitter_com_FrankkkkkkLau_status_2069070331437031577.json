@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069070319911120897"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2069070331437031577",
+    "created_at": "2026-06-22T14:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069070331437031577"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8JHnpN7whb",
+          "end": 39,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2069070331437031577/photo/1",
+          "media_key": "3_2069070319911120897",
+          "start": 16,
+          "url": "https://t.co/8JHnpN7whb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069070331437031577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "vpn gate, 金将军严选 https://t.co/8JHnpN7whb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2476,
+        "media_key": "3_2069070319911120897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbQflmbMAEWis1.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069070319911120897"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2069070331437031577",
+        "created_at": "2026-06-22T14:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069070331437031577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JHnpN7whb",
+              "end": 39,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2069070331437031577/photo/1",
+              "media_key": "3_2069070319911120897",
+              "start": 16,
+              "url": "https://t.co/8JHnpN7whb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069070331437031577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "vpn gate, 金将军严选 https://t.co/8JHnpN7whb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 451,
+          "like_count": 5142,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 1051
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

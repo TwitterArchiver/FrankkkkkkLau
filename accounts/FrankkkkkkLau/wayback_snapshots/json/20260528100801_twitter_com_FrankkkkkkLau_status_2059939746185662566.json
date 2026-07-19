@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2059910857921093896",
+    "created_at": "2026-05-28T10:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059939746185662566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545050439049064450",
+          "start": 0,
+          "username": "xz8796"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/YunJiu/status/…",
+          "end": 35,
+          "expanded_url": "https://x.com/YunJiu/status/1886008337625682049",
+          "start": 12,
+          "url": "https://t.co/brnmduyKqF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059939746185662566",
+    "in_reply_to_user_id": "1545050439049064450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886008337625682049",
+        "type": "quoted"
+      },
+      {
+        "id": "2059938923502272734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xz8796 👀这样\nhttps://t.co/brnmduyKqF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_1886008329828487168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GixylV7a0AAt59p.jpg",
+        "width": 1586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2059910857921093896",
+        "created_at": "2026-05-28T10:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059939746185662566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "xz8796"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/YunJiu/status/…",
+              "end": 35,
+              "expanded_url": "https://x.com/YunJiu/status/1886008337625682049",
+              "start": 12,
+              "url": "https://t.co/brnmduyKqF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059939746185662566",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886008337625682049",
+            "type": "quoted"
+          },
+          {
+            "id": "2059938923502272734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xz8796 👀这样\nhttps://t.co/brnmduyKqF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886008329828487168"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1886008337625682049",
+        "created_at": "2025-02-02T11:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T12:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886008337625682049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJwXk5D8QG",
+              "end": 114,
+              "expanded_url": "https://x.com/Cldeop/status/1886008337625682049/photo/1",
+              "media_key": "3_1886008329828487168",
+              "start": 91,
+              "url": "https://t.co/gJwXk5D8QG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886008337625682049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 132340,
+          "like_count": 226,
+          "quote_count": 7,
+          "reply_count": 19,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "今天成功换了透明背景头像，感谢来自阿棄喵的指导！\n教程：准备一张透明的png图片，做成400x400的尺寸，网页端上传，注意不要动推特的那个裁剪框，然后保存即可。\n你也来试试看吧！ https://t.co/gJwXk5D8QG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2059910857921093896",
+        "created_at": "2026-05-28T10:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059938923502272734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059938923502272734",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059910857921093896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 这怎么做到的诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 151,
+          "like_count": 2369,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 582
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "记录生活，发发牢骚。\nFtX/泛性恋/ed/……",
+        "id": "1545050439049064450",
+        "location": "Republic of Korea",
+        "name": "想睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048553957677813760/zLwjwRse_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 163,
+          "like_count": 1813,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 912
+        },
+        "username": "xz8796",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105118,
+          "following_count": 796,
+          "like_count": 37035,
+          "listed_count": 295,
+          "media_count": 18937,
+          "tweet_count": 27164
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

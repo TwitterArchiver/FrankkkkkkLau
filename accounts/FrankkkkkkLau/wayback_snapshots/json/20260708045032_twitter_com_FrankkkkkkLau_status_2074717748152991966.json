@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2073686135801544911",
+    "created_at": "2026-07-08T04:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074717748152991966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008360423771316224",
+          "start": 0,
+          "username": "Konizaza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074717748152991966",
+    "in_reply_to_user_id": "2008360423771316224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074717531772989761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konizaza 右上角背景怎么是新加坡）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1672,
+        "media_key": "3_2074717524114206720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrgmIoa8AA4xUv.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073686135801544911",
+        "created_at": "2026-07-08T04:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074717748152991966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008360423771316224",
+              "start": 0,
+              "username": "Konizaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074717748152991966",
+        "in_reply_to_user_id": "2008360423771316224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074717531772989761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konizaza 右上角背景怎么是新加坡）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074717524114206720"
+          ]
+        },
+        "author_id": "2008360423771316224",
+        "conversation_id": "2073686135801544911",
+        "created_at": "2026-07-08T04:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074717531772989761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YPgoBnYLmr",
+              "end": 65,
+              "expanded_url": "https://x.com/Konizaza/status/2074717531772989761/photo/1",
+              "media_key": "3_2074717524114206720",
+              "start": 42,
+              "url": "https://t.co/YPgoBnYLmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074717531772989761",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073686135801544911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 哇哇，看起来好难的喵\n我这种笨蛋还是用老刁vpn吧😋 https://t.co/YPgoBnYLmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 648,
+          "like_count": 6911,
+          "listed_count": 1,
+          "media_count": 309,
+          "tweet_count": 1406
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互fo喵～｜MTF｜无证｜生产日期：08年九月|天残党｜接受见证｜雌小鬼｜想学伪音没时间｜断糖中｜我喜欢你，你喜欢我，关注会回，请和我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me",
+                "end": 23,
+                "expanded_url": "http://t.me",
+                "start": 0,
+                "url": "https://t.co/8SjNpUNey8"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "location": "你的心里",
+        "name": "Konizaza🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2074694173484331493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 548,
+          "like_count": 1188,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/8SjNpUNey8",
+        "username": "Konizaza",
+        "verified": true
+      }
+    ]
+  }
+}

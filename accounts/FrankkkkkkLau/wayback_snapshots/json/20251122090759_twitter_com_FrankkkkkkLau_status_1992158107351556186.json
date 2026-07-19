@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992158105023725568"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "1992158107351556186",
+    "created_at": "2025-11-22T09:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T10:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992158107351556186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZDkOeGdUzz",
+          "end": 47,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/1992158107351556186/photo/1",
+          "media_key": "3_1992158105023725568",
+          "start": 24,
+          "url": "https://t.co/ZDkOeGdUzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992158107351556186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "另外两个号都是Hong Kong带感叹号\n怪🐢 https://t.co/ZDkOeGdUzz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992158105023725568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WRPdpawAApJYb.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992158105023725568"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "1992158107351556186",
+        "created_at": "2025-11-22T09:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T10:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992158107351556186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZDkOeGdUzz",
+              "end": 47,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/1992158107351556186/photo/1",
+              "media_key": "3_1992158105023725568",
+              "start": 24,
+              "url": "https://t.co/ZDkOeGdUzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992158107351556186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "另外两个号都是Hong Kong带感叹号\n怪🐢 https://t.co/ZDkOeGdUzz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "很没耐心, 讨厌不讲信用的人",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 53,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 285
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      }
+    ]
+  }
+}

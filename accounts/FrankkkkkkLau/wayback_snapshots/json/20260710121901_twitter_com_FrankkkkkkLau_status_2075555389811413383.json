@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2075555022696509440"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2075553883854901667",
+    "created_at": "2026-07-10T12:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075555389811413383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545050439049064450",
+          "start": 0,
+          "username": "xz8796"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tJpkO2c6mc",
+          "end": 38,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2075555389811413383/photo/1",
+          "media_key": "16_2075555022696509440",
+          "start": 15,
+          "url": "https://t.co/tJpkO2c6mc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075555389811413383",
+    "in_reply_to_user_id": "1545050439049064450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075553883854901667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xz8796 谢谢老大喵🥰 https://t.co/tJpkO2c6mc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "16_2075555022696509440",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HM3aS9-acAAZmlN.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HM3aS9-acAAZmlN.mp4"
+          }
+        ],
+        "width": 512
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2075553872349978624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3ZQAmbYAAEbgB.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2075555022696509440"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2075553883854901667",
+        "created_at": "2026-07-10T12:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075555389811413383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "xz8796"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJpkO2c6mc",
+              "end": 38,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2075555389811413383/photo/1",
+              "media_key": "16_2075555022696509440",
+              "start": 15,
+              "url": "https://t.co/tJpkO2c6mc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075555389811413383",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075553883854901667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xz8796 谢谢老大喵🥰 https://t.co/tJpkO2c6mc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075553872349978624"
+          ]
+        },
+        "author_id": "1545050439049064450",
+        "conversation_id": "2075553883854901667",
+        "created_at": "2026-07-10T12:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075553883854901667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "2008812080099672064",
+              "start": 28,
+              "username": "Xiaoyi_0324"
+            },
+            {
+              "end": 67,
+              "id": "1672761170040692739",
+              "start": 53,
+              "username": "FrankkkkkkLau"
+            },
+            {
+              "end": 100,
+              "id": "1807114644252921856",
+              "start": 88,
+              "username": "Inyuki_1014"
+            },
+            {
+              "end": 114,
+              "id": "1771407326274318336",
+              "start": 104,
+              "username": "QHLQY0512"
+            },
+            {
+              "end": 131,
+              "id": "1153430387504373764",
+              "start": 118,
+              "username": "xiangcai_nya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7k5Adw1os",
+              "end": 155,
+              "expanded_url": "https://x.com/xz8796/status/2075553883854901667/photo/1",
+              "media_key": "3_2075553872349978624",
+              "start": 132,
+              "url": "https://t.co/r7k5Adw1os"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075553883854901667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜以上中奖了 我马上发红包\n\n一等奖（52 RMB）\n@Xiaoyi_0324\n二等奖（30 RMB）\n@FrankkkkkkLau\n三等奖（10 RMB × 3位）\n•  @Inyuki_1014\n•  @QHLQY0512\n•  @xiangcai_nya https://t.co/r7k5Adw1os"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 662,
+          "like_count": 7253,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 1469
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "鉴赏李帆中……从今天开始我要做一个健全人\n真不od了已扔药\n生活號 | 一天會發10+條推請見諒\nINTJ | FtX | ed | BMI15\n有點陰暗 囤積癖",
+        "id": "1545050439049064450",
+        "location": "Republic of Korea",
+        "name": "李帆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073918997352042496/2Op7wLRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 196,
+          "like_count": 2236,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 1373
+        },
+        "url": "",
+        "username": "xz8796",
+        "verified": true
+      }
+    ]
+  }
+}

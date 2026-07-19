@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2073391092700229632"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2073269748494987308",
+    "created_at": "2026-07-04T12:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073391107090915549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1227265979735887874",
+          "start": 0,
+          "username": "LuminaFable2020"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vdLn6uBlHu",
+          "end": 40,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2073391107090915549/photo/1",
+          "media_key": "16_2073391092700229632",
+          "start": 17,
+          "url": "https://t.co/vdLn6uBlHu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073391107090915549",
+    "in_reply_to_user_id": "1227265979735887874",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073390827662127293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuminaFable2020 https://t.co/vdLn6uBlHu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "16_2073391092700229632",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMYqNqjbMAAe-B-.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMYqNqjbMAAe-B-.mp4"
+          }
+        ],
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2073391092700229632"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073269748494987308",
+        "created_at": "2026-07-04T12:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073391107090915549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1227265979735887874",
+              "start": 0,
+              "username": "LuminaFable2020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdLn6uBlHu",
+              "end": 40,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2073391107090915549/photo/1",
+              "media_key": "16_2073391092700229632",
+              "start": 17,
+              "url": "https://t.co/vdLn6uBlHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073391107090915549",
+        "in_reply_to_user_id": "1227265979735887874",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073390827662127293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuminaFable2020 https://t.co/vdLn6uBlHu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227265979735887874",
+        "conversation_id": "2073269748494987308",
+        "created_at": "2026-07-04T12:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073390827662127293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073390827662127293",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073269748494987308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau CN率高的原因找到了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 570,
+          "like_count": 6225,
+          "listed_count": 1,
+          "media_count": 287,
+          "tweet_count": 1290
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-11T16:19:55.000Z",
+        "description": "社恐 /  Dev /  碎碎念 /  可爱 / No politics / Transport fans / Prev acc @frankxka05 / 🤤 /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "frankxka05"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LuminaSaki",
+                "end": 23,
+                "expanded_url": "https://t.me/LuminaSaki",
+                "start": 0,
+                "url": "https://t.co/tXNFqGvWTa"
+              }
+            ]
+          }
+        },
+        "id": "1227265979735887874",
+        "name": "LuminaSaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055610164711985152/Dga6BtlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 334,
+          "like_count": 1203,
+          "listed_count": 5,
+          "media_count": 166,
+          "tweet_count": 898
+        },
+        "url": "https://t.co/tXNFqGvWTa",
+        "username": "LuminaFable2020",
+        "verified": true
+      }
+    ]
+  }
+}

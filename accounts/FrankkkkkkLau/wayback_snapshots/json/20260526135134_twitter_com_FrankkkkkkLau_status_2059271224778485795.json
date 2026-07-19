@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059271215462989824"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2059180905793831326",
+    "created_at": "2026-05-26T13:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059271224778485795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1609330647008677889",
+          "start": 0,
+          "username": "mianhuatang132"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/guFL0oXHjV",
+          "end": 39,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2059271224778485795/photo/1",
+          "media_key": "3_2059271215462989824",
+          "start": 16,
+          "url": "https://t.co/guFL0oXHjV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059271224778485795",
+    "in_reply_to_user_id": "1609330647008677889",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059270877146222723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mianhuatang132 https://t.co/guFL0oXHjV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2453,
+        "media_key": "3_2059271215462989824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQAQo3bwAAyE9p.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059271215462989824"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2059180905793831326",
+        "created_at": "2026-05-26T13:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059271224778485795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1609330647008677889",
+              "start": 0,
+              "username": "mianhuatang132"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/guFL0oXHjV",
+              "end": 39,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2059271224778485795/photo/1",
+              "media_key": "3_2059271215462989824",
+              "start": 16,
+              "url": "https://t.co/guFL0oXHjV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059271224778485795",
+        "in_reply_to_user_id": "1609330647008677889",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059270877146222723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mianhuatang132 https://t.co/guFL0oXHjV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609330647008677889",
+        "conversation_id": "2059180905793831326",
+        "created_at": "2026-05-26T13:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059270877146222723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            },
+            {
+              "end": 28,
+              "id": "1670658874737848320",
+              "start": 15,
+              "username": "jeenhom_tzem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059270877146222723",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059215678088118579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau @jeenhom_tzem 湖北不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 136,
+          "like_count": 2255,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 557
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-31T23:29:22.000Z",
+        "description": "",
+        "id": "1609330647008677889",
+        "name": "棉花糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609330905163927554/yoTcgWd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "mianhuatang132",
+        "verified": false
+      }
+    ]
+  }
+}

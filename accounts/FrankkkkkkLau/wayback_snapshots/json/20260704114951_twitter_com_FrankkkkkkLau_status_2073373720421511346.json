@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2073371682056843584",
+    "created_at": "2026-07-04T11:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073373720421511346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994001059493367810",
+          "start": 0,
+          "username": "UniHako8980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073373720421511346",
+    "in_reply_to_user_id": "1994001059493367810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073371682056843584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UniHako8980 👀係咪CTM嘅廣吿?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073371682056843584",
+        "created_at": "2026-07-04T11:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073373720421511346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994001059493367810",
+              "start": 0,
+              "username": "UniHako8980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073373720421511346",
+        "in_reply_to_user_id": "1994001059493367810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073371682056843584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UniHako8980 👀係咪CTM嘅廣吿?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994001059493367810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2073371682056843584",
+        "created_at": "2026-07-04T11:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073371682056843584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073371682056843584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "澳門 YouTube 突然開始有廣告了。\n\n用 MTel 電信寬頻有廣告，但切去手機數據流量又冇廣告。\n同一個 YouTube，同一部手機，換條網絡就變樣。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 570,
+          "like_count": 6208,
+          "listed_count": 1,
+          "media_count": 286,
+          "tweet_count": 1289
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-27T11:11:24.000Z",
+        "description": "ただの記録",
+        "id": "1994001059493367810",
+        "location": "Hong Kong",
+        "name": "uni_hako",
+        "pinned_tweet_id": "2030826139128889768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994102859789697024/4BlayBte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 76,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 778
+        },
+        "url": "",
+        "username": "UniHako8980",
+        "verified": true
+      }
+    ]
+  }
+}

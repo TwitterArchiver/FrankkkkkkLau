@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067911390950719488"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2067912229861949881",
+    "created_at": "2026-06-19T10:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067912229861949881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lD6yco24O5",
+          "end": 91,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2067912229861949881/photo/1",
+          "media_key": "3_2067911390950719488",
+          "start": 68,
+          "url": "https://t.co/lD6yco24O5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067912229861949881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推友们玩完Twitter互动圈之类的东西之后, 记得到/settings/connected_apps这里看一眼有没有奇奇怪怪的东西🫥 https://t.co/lD6yco24O5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 891,
+        "media_key": "3_2067911390950719488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKydCyaAAApxJg.png",
+        "width": 1561
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067911390950719488"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2067912229861949881",
+        "created_at": "2026-06-19T10:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067912229861949881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lD6yco24O5",
+              "end": 91,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2067912229861949881/photo/1",
+              "media_key": "3_2067911390950719488",
+              "start": 68,
+              "url": "https://t.co/lD6yco24O5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067912229861949881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推友们玩完Twitter互动圈之类的东西之后, 记得到/settings/connected_apps这里看一眼有没有奇奇怪怪的东西🫥 https://t.co/lD6yco24O5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 358,
+          "like_count": 4653,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 978
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

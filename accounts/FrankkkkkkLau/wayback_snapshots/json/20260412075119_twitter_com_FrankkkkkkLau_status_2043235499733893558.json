@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "1708830171300839634",
+    "created_at": "2026-04-12T07:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T08:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043235499733893558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1673386998097416192",
+          "start": 0,
+          "username": "beheaderSQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043235499733893558",
+    "in_reply_to_user_id": "1673386998097416192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1708848105138061533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beheaderSQY 👍👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "1708830171300839634",
+        "created_at": "2026-04-12T07:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043235499733893558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1673386998097416192",
+              "start": 0,
+              "username": "beheaderSQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043235499733893558",
+        "in_reply_to_user_id": "1673386998097416192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1708848105138061533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beheaderSQY 👍👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673386998097416192",
+        "conversation_id": "1708830171300839634",
+        "created_at": "2023-10-02T14:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2023-10-02T15:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1708848105138061533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1708848105138061533",
+        "in_reply_to_user_id": "1185220038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1708842724827480092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigfaceItaly @szs8964 爱国互fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 73,
+          "like_count": 1386,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T17:45:32.000Z",
+        "description": "欢迎推友互fo",
+        "id": "1673386998097416192",
+        "name": "SQY秽土转生形态",
+        "pinned_tweet_id": "1860364562228556189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902216132712656896/nCKAciZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 1925,
+          "like_count": 64722,
+          "listed_count": 9,
+          "media_count": 2727,
+          "tweet_count": 33519
+        },
+        "username": "beheaderSQY",
+        "verified": false
+      }
+    ]
+  }
+}

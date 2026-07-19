@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2067195618163130668",
+    "created_at": "2026-06-17T12:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067219902247973046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1744267618947899393",
+          "start": 0,
+          "username": "MentorWong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067219902247973046",
+    "in_reply_to_user_id": "1744267618947899393",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067195618163130668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MentorWong 👮👁️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1050,
+        "media_key": "3_2067195607161491456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAnc8Yb0AAS_Ja.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2067195618163130668",
+        "created_at": "2026-06-17T12:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067219902247973046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1744267618947899393",
+              "start": 0,
+              "username": "MentorWong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067219902247973046",
+        "in_reply_to_user_id": "1744267618947899393",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067195618163130668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MentorWong 👮👁️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067195607161491456"
+          ]
+        },
+        "author_id": "1744267618947899393",
+        "conversation_id": "2067195618163130668",
+        "created_at": "2026-06-17T10:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067195618163130668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5xZZKGE3O",
+              "end": 23,
+              "expanded_url": "https://x.com/MentorWong/status/2067195618163130668/photo/1",
+              "media_key": "3_2067195607161491456",
+              "start": 0,
+              "url": "https://t.co/b5xZZKGE3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067195618163130668",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/b5xZZKGE3O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 349,
+          "like_count": 4461,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 940
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-08T07:59:47.000Z",
+        "description": "Reddit : u/MentorWong Thread: @mentorwong\nSubscribe me for $1 only! \nI post funny stuffs and mock the people who deserve it.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "mentorwong"
+              }
+            ]
+          }
+        },
+        "id": "1744267618947899393",
+        "location": "Seoul, South Korea ",
+        "name": "SifuWong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851498412581273602/LMOuJG7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10171,
+          "following_count": 9825,
+          "like_count": 17833,
+          "listed_count": 18,
+          "media_count": 335,
+          "tweet_count": 52738
+        },
+        "url": "",
+        "username": "MentorWong",
+        "verified": true
+      }
+    ]
+  }
+}

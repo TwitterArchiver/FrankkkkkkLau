@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2059863844147904966",
+    "created_at": "2026-05-28T05:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059868620306698570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1535875269759602689",
+          "start": 0,
+          "username": "linyongqin9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059868620306698570",
+    "in_reply_to_user_id": "1535875269759602689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059863844147904966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linyongqin9 是已读"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 56,
+        "media_key": "3_2059863841778106368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYbQB7bAAAAPMq.jpg",
+        "width": 68
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2059863844147904966",
+        "created_at": "2026-05-28T05:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059868620306698570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1535875269759602689",
+              "start": 0,
+              "username": "linyongqin9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059868620306698570",
+        "in_reply_to_user_id": "1535875269759602689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059863844147904966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linyongqin9 是已读"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059863841778106368"
+          ]
+        },
+        "author_id": "1535875269759602689",
+        "conversation_id": "2059863844147904966",
+        "created_at": "2026-05-28T05:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059863844147904966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EO2b6jCBCB",
+              "end": 61,
+              "expanded_url": "https://x.com/linyongqin9/status/2059863844147904966/photo/1",
+              "media_key": "3_2059863841778106368",
+              "start": 38,
+              "url": "https://t.co/EO2b6jCBCB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059863844147904966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "問一下私訊訊息右下角的這個勾空心變實心是什麼意思？\n是已讀還是訊息傳出去了 https://t.co/EO2b6jCBCB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 147,
+          "like_count": 2341,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 574
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-12T06:43:20.000Z",
+        "description": "",
+        "id": "1535875269759602689",
+        "location": "肯德基（不是肯德基州）",
+        "name": "三小",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059640209843884032/euJTjKpN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 218,
+          "like_count": 103,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 141
+        },
+        "username": "linyongqin9",
+        "verified": false
+      }
+    ]
+  }
+}

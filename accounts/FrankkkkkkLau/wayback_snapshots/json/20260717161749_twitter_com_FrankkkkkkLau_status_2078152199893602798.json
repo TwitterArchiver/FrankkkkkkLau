@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078152193501474816"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2078152199893602798",
+    "created_at": "2026-07-17T16:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078152199893602798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gwMg2TGkbn",
+          "end": 31,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2078152199893602798/photo/1",
+          "media_key": "3_2078152193501474816",
+          "start": 8,
+          "url": "https://t.co/gwMg2TGkbn"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2064027507377205549",
+          "start": 32,
+          "url": "https://t.co/GsbliEWsAg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078152199893602798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064027507377205549",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "沙特的拦截页面 https://t.co/gwMg2TGkbn https://t.co/GsbliEWsAg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1606,
+        "media_key": "3_2078152193501474816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcUaNLasAAgMXR.jpg",
+        "width": 1988
+      },
+      {
+        "height": 2608,
+        "media_key": "3_2064027500314079232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTmE2rbsAAAl62.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078152193501474816"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2078152199893602798",
+        "created_at": "2026-07-17T16:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078152199893602798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gwMg2TGkbn",
+              "end": 31,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2078152199893602798/photo/1",
+              "media_key": "3_2078152193501474816",
+              "start": 8,
+              "url": "https://t.co/gwMg2TGkbn"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2064027507377205549",
+              "start": 32,
+              "url": "https://t.co/GsbliEWsAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078152199893602798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064027507377205549",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沙特的拦截页面 https://t.co/gwMg2TGkbn https://t.co/GsbliEWsAg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064027500314079232"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2064027507377205549",
+        "created_at": "2026-06-08T16:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064027507377205549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F8T05hdfD1",
+              "end": 55,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2064027507377205549/photo/1",
+              "media_key": "3_2064027500314079232",
+              "start": 32,
+              "url": "https://t.co/F8T05hdfD1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064027507377205549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 443,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这拦截页面ai味好重\nlighthouse[.]du[.]ae https://t.co/F8T05hdfD1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 677,
+          "like_count": 8073,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 1621
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2024861328855474545",
+    "created_at": "2026-02-21T13:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T14:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025197791820349883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1818731995310309376",
+          "start": 0,
+          "username": "fuckpregaabalin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025197791820349883",
+    "in_reply_to_user_id": "1818731995310309376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024861328855474545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckpregaabalin 氹仔有家店叫O Castiço, 可以试试, 感觉挺好吃的👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2024861320617816064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnApJbacAAgTus.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2024861328855474545",
+        "created_at": "2026-02-21T13:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025197791820349883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1818731995310309376",
+              "start": 0,
+              "username": "fuckpregaabalin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025197791820349883",
+        "in_reply_to_user_id": "1818731995310309376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024861328855474545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckpregaabalin 氹仔有家店叫O Castiço, 可以试试, 感觉挺好吃的👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024861320617816064"
+          ]
+        },
+        "author_id": "1818731995310309376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2024861328855474545",
+        "created_at": "2026-02-20T14:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024861328855474545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6BF3ZCHwZn",
+              "end": 69,
+              "expanded_url": "https://x.com/fuckpregaabalin/status/2024861328855474545/photo/1",
+              "media_key": "3_2024861320617816064",
+              "start": 46,
+              "url": "https://t.co/6BF3ZCHwZn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024861328855474545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚饭\n澳门的麦当劳是有这种汤粉我很喜欢\n为什么我还吃麦当劳？\n因为氹仔出了赌场真没什么吃的 https://t.co/6BF3ZCHwZn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "喜欢手冲咖啡",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 62,
+          "like_count": 1008,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 333
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "个人信息",
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "魔怔乐子人",
+        "pinned_tweet_id": "2019287591275958775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021824040504373248/slwPNlHI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2358,
+          "following_count": 2719,
+          "like_count": 168663,
+          "listed_count": 12,
+          "media_count": 1548,
+          "tweet_count": 32109
+        },
+        "username": "fuckpregaabalin",
+        "verified": false
+      }
+    ]
+  }
+}

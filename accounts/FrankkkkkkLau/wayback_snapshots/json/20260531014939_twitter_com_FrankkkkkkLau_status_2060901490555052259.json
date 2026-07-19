@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060901467947753472"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2060899294203597060",
+    "created_at": "2026-05-31T01:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T02:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060901490555052259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058050493490900992",
+          "start": 0,
+          "username": "Echog6xf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/abebzdvGJ8",
+          "end": 33,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2060901490555052259/photo/1",
+          "media_key": "3_2060901467947753472",
+          "start": 10,
+          "url": "https://t.co/abebzdvGJ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060901490555052259",
+    "in_reply_to_user_id": "2058050493490900992",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060899294203597060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Echog6xf https://t.co/abebzdvGJ8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 852,
+        "media_key": "3_2060901467947753472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnK90obYAA_sWC.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060899171209805824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnI4InbgAAPFVM.jpg",
+        "width": 972
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060899171167866880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnI4IdbkAAdCd-.jpg",
+        "width": 975
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060899171192938496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnI4IjaIAAhxTZ.jpg",
+        "width": 979
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060899171188793344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnI4Iia4AAALya.jpg",
+        "width": 967
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060901467947753472"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2060899294203597060",
+        "created_at": "2026-05-31T01:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060901490555052259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058050493490900992",
+              "start": 0,
+              "username": "Echog6xf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/abebzdvGJ8",
+              "end": 33,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2060901490555052259/photo/1",
+              "media_key": "3_2060901467947753472",
+              "start": 10,
+              "url": "https://t.co/abebzdvGJ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060901490555052259",
+        "in_reply_to_user_id": "2058050493490900992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060899294203597060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Echog6xf https://t.co/abebzdvGJ8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060899171209805824",
+            "3_2060899171167866880",
+            "3_2060899171192938496",
+            "3_2060899171188793344"
+          ]
+        },
+        "author_id": "2058050493490900992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060899294203597060",
+        "created_at": "2026-05-31T01:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060899294203597060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P7KIyGR5ug",
+              "end": 100,
+              "expanded_url": "https://x.com/Echog6xf/status/2060899294203597060/photo/1",
+              "media_key": "3_2060899171209805824",
+              "start": 77,
+              "url": "https://t.co/P7KIyGR5ug"
+            },
+            {
+              "display_url": "pic.x.com/P7KIyGR5ug",
+              "end": 100,
+              "expanded_url": "https://x.com/Echog6xf/status/2060899294203597060/photo/1",
+              "media_key": "3_2060899171167866880",
+              "start": 77,
+              "url": "https://t.co/P7KIyGR5ug"
+            },
+            {
+              "display_url": "pic.x.com/P7KIyGR5ug",
+              "end": 100,
+              "expanded_url": "https://x.com/Echog6xf/status/2060899294203597060/photo/1",
+              "media_key": "3_2060899171192938496",
+              "start": 77,
+              "url": "https://t.co/P7KIyGR5ug"
+            },
+            {
+              "display_url": "pic.x.com/P7KIyGR5ug",
+              "end": 100,
+              "expanded_url": "https://x.com/Echog6xf/status/2060899294203597060/photo/1",
+              "media_key": "3_2060899171188793344",
+              "start": 77,
+              "url": "https://t.co/P7KIyGR5ug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060899294203597060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于有人在我群里自残这件事......哈哈哈哈哈哈...... 真是想把我送进去了....😨😨😨😭😭😭😭 我还得用小号发，不然大号被举报会封...... https://t.co/P7KIyGR5ug"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 245,
+          "like_count": 2733,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 637
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-23T05:02:19.000Z",
+        "description": "⚠️这里是Echo的里推｜小号引流｜主号→@ax09s84751\n苏州09；离退小号，引流专用\n🏳️‍⚧️MTF｜HRT进程中｜AI全栈｜日语｜神经科学",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "ax09s84751"
+              }
+            ]
+          }
+        },
+        "id": "2058050493490900992",
+        "name": "Echo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058051007699992576/Inq7u9LD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 223,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 120
+        },
+        "username": "Echog6xf",
+        "verified": false
+      }
+    ]
+  }
+}

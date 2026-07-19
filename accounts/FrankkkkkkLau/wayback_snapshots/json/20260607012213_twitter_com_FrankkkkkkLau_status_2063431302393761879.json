@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063431242905968640"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2063431302393761879",
+    "created_at": "2026-06-07T01:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T02:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063431302393761879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wrd3P2pIqH",
+          "end": 32,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2063431302393761879/photo/1",
+          "media_key": "3_2063431242905968640",
+          "start": 9,
+          "url": "https://t.co/wrd3P2pIqH"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2063164228635336881",
+          "start": 33,
+          "url": "https://t.co/C6jan2RHis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063431302393761879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063164228635336881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下行被狗吃了() https://t.co/wrd3P2pIqH https://t.co/C6jan2RHis"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2063431242905968640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLHyGvaYAAkUhb.png",
+        "width": 750
+      },
+      {
+        "height": 918,
+        "media_key": "3_2063164082619125760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHUzVHbkAAeVks.jpg",
+        "width": 1275
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063431242905968640"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2063431302393761879",
+        "created_at": "2026-06-07T01:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063431302393761879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wrd3P2pIqH",
+              "end": 32,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2063431302393761879/photo/1",
+              "media_key": "3_2063431242905968640",
+              "start": 9,
+              "url": "https://t.co/wrd3P2pIqH"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2063164228635336881",
+              "start": 33,
+              "url": "https://t.co/C6jan2RHis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063431302393761879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063164228635336881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下行被狗吃了() https://t.co/wrd3P2pIqH https://t.co/C6jan2RHis"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063164082619125760"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2063164228635336881",
+        "created_at": "2026-06-06T07:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063164228635336881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qXWkZovyfr",
+              "end": 31,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2063164228635336881/photo/1",
+              "media_key": "3_2063164082619125760",
+              "start": 8,
+              "url": "https://t.co/qXWkZovyfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063164228635336881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 619,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上行被狗吃了🤬 https://t.co/qXWkZovyfr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 285,
+          "like_count": 3295,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 728
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

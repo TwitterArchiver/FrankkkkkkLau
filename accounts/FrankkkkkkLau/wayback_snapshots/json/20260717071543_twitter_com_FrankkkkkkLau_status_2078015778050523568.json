@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2077989292706779303",
+    "created_at": "2026-07-17T07:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T08:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078015778050523568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910893768498438146",
+          "start": 0,
+          "username": "mengxin66666"
+        },
+        {
+          "end": 26,
+          "id": "2049152504542449664",
+          "start": 14,
+          "username": "hasaki_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078015778050523568",
+    "in_reply_to_user_id": "1910893768498438146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078015093120328180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengxin66666 @hasaki_sama 有哪些是大厂的👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2077989292706779303",
+        "created_at": "2026-07-17T07:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078015778050523568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910893768498438146",
+              "start": 0,
+              "username": "mengxin66666"
+            },
+            {
+              "end": 26,
+              "id": "2049152504542449664",
+              "start": 14,
+              "username": "hasaki_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078015778050523568",
+        "in_reply_to_user_id": "1910893768498438146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078015093120328180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengxin66666 @hasaki_sama 有哪些是大厂的👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910893768498438146",
+        "conversation_id": "2077989292706779303",
+        "created_at": "2026-07-17T07:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078015093120328180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049152504542449664",
+              "start": 0,
+              "username": "hasaki_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078015093120328180",
+        "in_reply_to_user_id": "2049152504542449664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077989292706779303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hasaki_sama 我这啥事没有\n不是大佬的还是老实用大厂的吧😅\n\n大厂虽然速度和延迟都一般\n但是架不住它稳啊\n虽然有时高峰期会断连🤔\n但有总比没有好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 679,
+          "like_count": 8032,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 1619
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-12T03:12:45.000Z",
+        "description": "男\n科技时政💻\n娱乐抽象休闲聊天📱\n写代码但很懒🖥️\n自由职业者🗺️\n提倡和平(互联网也一样)🌐\n有空会回复或互动任何人，如果有一段时\n间比较忙碌，会抽空回复的📱\n声明我没用自动化脚本和机器人回复😅",
+        "id": "1910893768498438146",
+        "location": "Hong Kong",
+        "name": "萌新_mengxin",
+        "pinned_tweet_id": "2076538635759882660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072015920420249600/1oZ6rrmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 311,
+          "like_count": 16322,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 2243
+        },
+        "url": "",
+        "username": "mengxin66666",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-28T15:48:05.000Z",
+        "description": "An graduated junior high student from China！＞𐋣＜\n爱好 AI科技/信息技术/日本語/ACG/羽球🏸\nLGBTQ+🏳️‍🌈/友跨🍥/键政🆖\n目前正励志成为一名合格的Developer！\nhttps://t.co/VDLGVdRk4Y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hasaki_0612",
+                "end": 138,
+                "expanded_url": "http://t.me/hasaki_0612",
+                "start": 115,
+                "url": "https://t.co/VDLGVdRk4Y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasaki_0612",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hasaki_0612",
+                "start": 0,
+                "url": "https://t.co/8Ei14tUSsi"
+              }
+            ]
+          }
+        },
+        "id": "2049152504542449664",
+        "location": "Sapporo City Higashi Ward",
+        "name": "Neko 🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075040561237753856/aiPH-t8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 529,
+          "like_count": 2593,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 1682
+        },
+        "url": "https://t.co/8Ei14tUSsi",
+        "username": "hasaki_sama",
+        "verified": true
+      }
+    ]
+  }
+}

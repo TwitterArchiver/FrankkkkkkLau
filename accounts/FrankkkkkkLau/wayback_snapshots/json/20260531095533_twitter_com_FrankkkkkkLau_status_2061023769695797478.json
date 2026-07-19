@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2060931611831755223",
+    "created_at": "2026-05-31T09:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T10:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061023769695797478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243491753019101184",
+          "start": 0,
+          "username": "fanduizhongxiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061023769695797478",
+    "in_reply_to_user_id": "1243491753019101184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061022802824835266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanduizhongxiu 试了还是不行呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2060931611831755223",
+        "created_at": "2026-05-31T09:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061023769695797478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243491753019101184",
+              "start": 0,
+              "username": "fanduizhongxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061023769695797478",
+        "in_reply_to_user_id": "1243491753019101184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061022802824835266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanduizhongxiu 试了还是不行呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243491753019101184",
+        "conversation_id": "2060931611831755223",
+        "created_at": "2026-05-31T09:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061022802824835266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061022802824835266",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060931611831755223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau bug，重新下载重新登录就好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 252,
+          "like_count": 2786,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 650
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-27T10:55:19.000Z",
+        "description": "14年校园霸凌亲历者｜反一切压迫剥削｜民主社会主义｜视为兼顾生产力和个人权力的手段，最终目标是以此跨入民主的共产主义高级阶段｜友跨性别｜欢迎不同看法 但要理性讨论 ｜制度应当以人为本，实现每个人的解放和自由才能实现集体的自由｜反对废除死刑｜支持严肃处刑毒贩｜顺直丨非被迫不销号",
+        "id": "1243491753019101184",
+        "location": "在学习的路上",
+        "name": "天宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058166498984939520/dMcDyeOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 104,
+          "like_count": 5148,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2337
+        },
+        "username": "fanduizhongxiu",
+        "verified": true
+      }
+    ]
+  }
+}

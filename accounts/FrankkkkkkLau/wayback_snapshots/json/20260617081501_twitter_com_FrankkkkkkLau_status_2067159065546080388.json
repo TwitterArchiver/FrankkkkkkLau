@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067158949833621504",
+        "3_2067158972722040832"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2067107138347118844",
+    "created_at": "2026-06-17T08:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067159065546080388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1420072716963520520",
+          "start": 0,
+          "username": "meiqinyuban"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4hzobUcD4i",
+          "end": 53,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2067159065546080388/photo/1",
+          "media_key": "3_2067158949833621504",
+          "start": 30,
+          "url": "https://t.co/4hzobUcD4i"
+        },
+        {
+          "display_url": "pic.x.com/4hzobUcD4i",
+          "end": 53,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2067159065546080388/photo/1",
+          "media_key": "3_2067158972722040832",
+          "start": 30,
+          "url": "https://t.co/4hzobUcD4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067159065546080388",
+    "in_reply_to_user_id": "1420072716963520520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067147702182584589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiqinyuban 我觉得bing最大的优点是这个😋 https://t.co/4hzobUcD4i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 309,
+        "media_key": "3_2067158949833621504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAGHNMaQAAdpmT.png",
+        "width": 666
+      },
+      {
+        "height": 2479,
+        "media_key": "3_2067158972722040832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAGIidb0AAkeZE.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067158949833621504",
+            "3_2067158972722040832"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2067107138347118844",
+        "created_at": "2026-06-17T08:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067159065546080388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420072716963520520",
+              "start": 0,
+              "username": "meiqinyuban"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4hzobUcD4i",
+              "end": 53,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2067159065546080388/photo/1",
+              "media_key": "3_2067158949833621504",
+              "start": 30,
+              "url": "https://t.co/4hzobUcD4i"
+            },
+            {
+              "display_url": "pic.x.com/4hzobUcD4i",
+              "end": 53,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2067159065546080388/photo/1",
+              "media_key": "3_2067158972722040832",
+              "start": 30,
+              "url": "https://t.co/4hzobUcD4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067159065546080388",
+        "in_reply_to_user_id": "1420072716963520520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067147702182584589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiqinyuban 我觉得bing最大的优点是这个😋 https://t.co/4hzobUcD4i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420072716963520520",
+        "conversation_id": "2067107138347118844",
+        "created_at": "2026-06-17T07:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067147702182584589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067147702182584589",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067107138347118844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 我转用bing了，原本还试过yandex，但是yandex太难用了，而且很少收录国内信息，bing算是屎里淘金了，谷歌不开梯子用不了，不在考虑范围，除非搜索国外信息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 346,
+          "like_count": 4428,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 927
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "中国CN/EN 双性恋 性别中立 纯爱天下第一！ 前雷石/视易系网络版KTV系统维保，\n成分：娱乐级街机音游玩家、古董数码、电子DIY 、GNU/Linux、卡拉OK、讨论一些奇怪的问题  把我当男的当女的都行 或许是男娘（？ 专科在读需要互fo请私信窝！提问箱点下方链接（）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meiqinyuban8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meiqinyuban8",
+                "start": 0,
+                "url": "https://t.co/dvlWzpleAX"
+              }
+            ]
+          }
+        },
+        "id": "1420072716963520520",
+        "location": "China",
+        "name": "美琴御坂🏳️‍🌈",
+        "pinned_tweet_id": "2005599456377667826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035389972740739072/zyUO7hv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 898,
+          "like_count": 20855,
+          "listed_count": 1,
+          "media_count": 1819,
+          "tweet_count": 9646
+        },
+        "url": "https://t.co/dvlWzpleAX",
+        "username": "meiqinyuban",
+        "verified": true
+      }
+    ]
+  }
+}

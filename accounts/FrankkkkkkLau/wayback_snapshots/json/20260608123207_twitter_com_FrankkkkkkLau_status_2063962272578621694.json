@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2056283985509323165",
+    "created_at": "2026-06-08T12:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063962272578621694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895142421027266562",
+          "start": 0,
+          "username": "rating3pro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063962272578621694",
+    "in_reply_to_user_id": "1895142421027266562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063962049328369956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rating3pro 羡慕呜呜呜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063962041665388544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSqiqNbAAAUPGW.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2056283985509323165",
+        "created_at": "2026-06-08T12:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063962272578621694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895142421027266562",
+              "start": 0,
+              "username": "rating3pro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063962272578621694",
+        "in_reply_to_user_id": "1895142421027266562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063962049328369956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rating3pro 羡慕呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063962041665388544"
+          ]
+        },
+        "author_id": "1895142421027266562",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056283985509323165",
+        "created_at": "2026-06-08T12:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063962049328369956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xd7hEVjLyG",
+              "end": 48,
+              "expanded_url": "https://x.com/rating3pro/status/2063962049328369956/photo/1",
+              "media_key": "3_2063962041665388544",
+              "start": 25,
+              "url": "https://t.co/Xd7hEVjLyG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063962049328369956",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056283985509323165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 已对等 但200M https://t.co/Xd7hEVjLyG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 290,
+          "like_count": 3422,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 752
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-27T16:02:27.000Z",
+        "description": "你好！\n会一点运维和网络工程，Homelab玩家\nGithub：https://t.co/FvavRW85Wq\n不知道是什么：@rating3project",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "rating3project"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/rating3pro",
+                "end": 55,
+                "expanded_url": "http://github.com/rating3pro",
+                "start": 32,
+                "url": "https://t.co/FvavRW85Wq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xie.today",
+                "end": 23,
+                "expanded_url": "https://www.xie.today",
+                "start": 0,
+                "url": "https://t.co/DnJdutCEUJ"
+              }
+            ]
+          }
+        },
+        "id": "1895142421027266562",
+        "name": "rating3pro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924650024274952196/BSGXBM2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 315,
+          "like_count": 20370,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1639
+        },
+        "url": "https://t.co/DnJdutCEUJ",
+        "username": "rating3pro",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2072586420187967687",
+    "created_at": "2026-07-02T08:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072595318961774715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054197521690611712",
+          "start": 0,
+          "username": "Yanamimi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072595318961774715",
+    "in_reply_to_user_id": "2054197521690611712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072586420187967687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yanamimi8964 所以那个在中国大陆能用吗(?)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_2072586412550127616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNOXHZaAAAS8zq.jpg",
+        "width": 1080
+      },
+      {
+        "height": 320,
+        "media_key": "3_2072586407533776896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNOW0takAAvkMP.jpg",
+        "width": 1080
+      },
+      {
+        "height": 324,
+        "media_key": "3_2072586411333861376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNOXC3bQAAI8dU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 300,
+        "media_key": "3_2072586417692426240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNOXajbQAAqTtk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2072586420187967687",
+        "created_at": "2026-07-02T08:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072595318961774715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054197521690611712",
+              "start": 0,
+              "username": "Yanamimi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072595318961774715",
+        "in_reply_to_user_id": "2054197521690611712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072586420187967687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yanamimi8964 所以那个在中国大陆能用吗(?)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072586412550127616",
+            "3_2072586407533776896",
+            "3_2072586411333861376",
+            "3_2072586417692426240"
+          ]
+        },
+        "author_id": "2054197521690611712",
+        "conversation_id": "2072586420187967687",
+        "created_at": "2026-07-02T07:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072586420187967687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j69dU8qdGq",
+              "end": 56,
+              "expanded_url": "https://x.com/Yanamimi8964/status/2072586420187967687/photo/1",
+              "media_key": "3_2072586412550127616",
+              "start": 33,
+              "url": "https://t.co/j69dU8qdGq"
+            },
+            {
+              "display_url": "pic.x.com/j69dU8qdGq",
+              "end": 56,
+              "expanded_url": "https://x.com/Yanamimi8964/status/2072586420187967687/photo/1",
+              "media_key": "3_2072586407533776896",
+              "start": 33,
+              "url": "https://t.co/j69dU8qdGq"
+            },
+            {
+              "display_url": "pic.x.com/j69dU8qdGq",
+              "end": 56,
+              "expanded_url": "https://x.com/Yanamimi8964/status/2072586420187967687/photo/1",
+              "media_key": "3_2072586411333861376",
+              "start": 33,
+              "url": "https://t.co/j69dU8qdGq"
+            },
+            {
+              "display_url": "pic.x.com/j69dU8qdGq",
+              "end": 56,
+              "expanded_url": "https://x.com/Yanamimi8964/status/2072586420187967687/photo/1",
+              "media_key": "3_2072586417692426240",
+              "start": 33,
+              "url": "https://t.co/j69dU8qdGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072586420187967687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪来的傻逼狗串子\n一直链条底下评论现在跑我这边了 我又不是建制派 https://t.co/j69dU8qdGq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 550,
+          "like_count": 5938,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 1217
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T13:50:57.000Z",
+        "description": "中国几千年来是世界上头一等的强国，我们的文明、进步比各国是领先的。\n当中国顶强盛的时代，正所谓“千邦进贡，万国来朝”。那个时候，中国的文明在世界是第一的，中国是世界上头一等的强国。  ———孙中山（Sun Yat-sen）《孙中山全集·勉励国民》1924.5.30",
+        "id": "2054197521690611712",
+        "location": "中華人民共和國香港特別行政區、中華人民共和國台灣省",
+        "name": "八奈见见💜Yanamimi",
+        "pinned_tweet_id": "2072356190898766312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055895763868434432/7MU67AyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 1164,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "Yanamimi8964",
+        "verified": false
+      }
+    ]
+  }
+}

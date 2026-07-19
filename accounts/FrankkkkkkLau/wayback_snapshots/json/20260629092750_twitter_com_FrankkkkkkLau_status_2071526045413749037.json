@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071525607356399617"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2070792702921486365",
+    "created_at": "2026-06-29T09:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071526045413749037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1846596976265326592",
+          "start": 0,
+          "username": "voidsama777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bX3JJ027sA",
+          "end": 45,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2071526045413749037/photo/1",
+          "media_key": "3_2071525607356399617",
+          "start": 22,
+          "url": "https://t.co/bX3JJ027sA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071526045413749037",
+    "in_reply_to_user_id": "1846596976265326592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070792702921486365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@voidsama777 老大你被洗稿了😢 https://t.co/bX3JJ027sA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 209,
+        "media_key": "3_2071525607356399617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-JkIGagAEml9r.png",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071525607356399617"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2070792702921486365",
+        "created_at": "2026-06-29T09:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071526045413749037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1846596976265326592",
+              "start": 0,
+              "username": "voidsama777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bX3JJ027sA",
+              "end": 45,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2071526045413749037/photo/1",
+              "media_key": "3_2071525607356399617",
+              "start": 22,
+              "url": "https://t.co/bX3JJ027sA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071526045413749037",
+        "in_reply_to_user_id": "1846596976265326592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070792702921486365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voidsama777 老大你被洗稿了😢 https://t.co/bX3JJ027sA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846596976265326592",
+        "conversation_id": "2070792702921486365",
+        "created_at": "2026-06-27T08:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070792702921486365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070792702921486365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 363108,
+          "like_count": 1757,
+          "quote_count": 1,
+          "reply_count": 202,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "人们知不知道vpn原来是用来安全隐私上网隐藏自己的ip的\n怎么到了中国就成了..翻墙..（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 485,
+          "like_count": 5560,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1116
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-16T17:01:02.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡ ✞ \n✟⛧✟ (ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans ⭒\n\n✞ ♡ dm开放 欢迎找我聊天喵 ♡ ✞",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "https://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/TlGqU4YAhS"
+              }
+            ]
+          }
+        },
+        "id": "1846596976265326592",
+        "location": "ＩＮＴＥＲＮＥＴ",
+        "name": "✟ クウキ ✟  🎌🎌🎌🇯🇵🇹🇼🇺🇸🇦🇺🇩🇪🇲🇨",
+        "pinned_tweet_id": "2067943198509707636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 336,
+          "like_count": 13432,
+          "listed_count": 1,
+          "media_count": 388,
+          "tweet_count": 1891
+        },
+        "url": "https://t.co/TlGqU4YAhS",
+        "username": "voidsama777",
+        "verified": false
+      }
+    ]
+  }
+}

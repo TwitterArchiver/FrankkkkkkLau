@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066426369584906240"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2066352476685746439",
+    "created_at": "2026-06-15T07:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066426377323290678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557846379736666113",
+          "start": 0,
+          "username": "Meguminsama2009"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ETIDiPQNRK",
+          "end": 57,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2066426377323290678/photo/1",
+          "media_key": "3_2066426369584906240",
+          "start": 34,
+          "url": "https://t.co/ETIDiPQNRK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066426377323290678",
+    "in_reply_to_user_id": "1557846379736666113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066424858947297544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meguminsama2009 我截的那个是bookmarks（ https://t.co/ETIDiPQNRK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2473,
+        "media_key": "3_2066426369584906240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1r1bGbwAA8vnC.jpg",
+        "width": 1200
+      },
+      {
+        "height": 3120,
+        "media_key": "3_2066424851368448000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1qdDTbEAAsFEA.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066426369584906240"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2066352476685746439",
+        "created_at": "2026-06-15T07:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066426377323290678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557846379736666113",
+              "start": 0,
+              "username": "Meguminsama2009"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ETIDiPQNRK",
+              "end": 57,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2066426377323290678/photo/1",
+              "media_key": "3_2066426369584906240",
+              "start": 34,
+              "url": "https://t.co/ETIDiPQNRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066426377323290678",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066424858947297544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meguminsama2009 我截的那个是bookmarks（ https://t.co/ETIDiPQNRK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066424851368448000"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2066352476685746439",
+        "created_at": "2026-06-15T07:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066424858947297544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z9OfjN4tWi",
+              "end": 40,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2066424858947297544/photo/1",
+              "media_key": "3_2066424851368448000",
+              "start": 17,
+              "url": "https://t.co/z9OfjN4tWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066424858947297544",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066352476685746439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau ？ https://t.co/z9OfjN4tWi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 340,
+          "like_count": 4211,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 889
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠",
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "1939995538251780263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 1918,
+          "like_count": 3099,
+          "listed_count": 3,
+          "media_count": 365,
+          "tweet_count": 6500
+        },
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

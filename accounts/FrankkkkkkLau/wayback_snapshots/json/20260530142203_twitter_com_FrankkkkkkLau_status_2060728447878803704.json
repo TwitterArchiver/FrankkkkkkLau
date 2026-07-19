@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2060534639220207885",
+    "created_at": "2026-05-30T14:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060728447878803704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1738933346535882752",
+          "start": 0,
+          "username": "MessAroundKing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060728447878803704",
+    "in_reply_to_user_id": "1738933346535882752",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060727553611198464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MessAroundKing 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2060534639220207885",
+        "created_at": "2026-05-30T14:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060728447878803704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1738933346535882752",
+              "start": 0,
+              "username": "MessAroundKing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060728447878803704",
+        "in_reply_to_user_id": "1738933346535882752",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060727553611198464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MessAroundKing 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738933346535882752",
+        "conversation_id": "2060534639220207885",
+        "created_at": "2026-05-30T14:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060727553611198464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060727553611198464",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060727355929428117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 你坏。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 243,
+          "like_count": 2720,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 632
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-24T14:43:48.000Z",
+        "description": "我要变成女孩子！16岁无证含糖xyn\n对象:@H1f8EKnTp820924",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "H1f8EKnTp820924"
+              }
+            ]
+          }
+        },
+        "id": "1738933346535882752",
+        "name": "🍥🏳️‍⚧️厌男厌女厌生物🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738933869246824448/JDwxF4ki_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 955,
+          "like_count": 6880,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 114
+        },
+        "username": "MessAroundKing",
+        "verified": false
+      }
+    ]
+  }
+}

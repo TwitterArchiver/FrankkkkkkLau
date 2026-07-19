@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066364801773899776"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2066365153747362149",
+    "created_at": "2026-06-15T03:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T04:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066365153747362149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3wqQWWus04",
+          "end": 79,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2066365153747362149/photo/1",
+          "media_key": "3_2066364801773899776",
+          "start": 56,
+          "url": "https://t.co/3wqQWWus04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066365153747362149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以防你不知道为什么用Google系软件的时候最好不要开定位🫠\n（别骂我咪, 不是我送中的, 我一直在想办法拉回 https://t.co/3wqQWWus04"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 372,
+        "media_key": "3_2066364801773899776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0z1tIakAAGX4G.png",
+        "width": 812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066364801773899776"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2066365153747362149",
+        "created_at": "2026-06-15T03:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066365153747362149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3wqQWWus04",
+              "end": 79,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2066365153747362149/photo/1",
+              "media_key": "3_2066364801773899776",
+              "start": 56,
+              "url": "https://t.co/3wqQWWus04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066365153747362149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以防你不知道为什么用Google系软件的时候最好不要开定位🫠\n（别骂我咪, 不是我送中的, 我一直在想办法拉回 https://t.co/3wqQWWus04"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 334,
+          "like_count": 4141,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 876
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

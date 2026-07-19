@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2074156643697463318",
+    "created_at": "2026-07-06T16:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074171027542925524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835139537418567680",
+          "start": 0,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074171027542925524",
+    "in_reply_to_user_id": "1835139537418567680",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074170719022240149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WellingtonPixel 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2074156643697463318",
+        "created_at": "2026-07-06T16:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074171027542925524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835139537418567680",
+              "start": 0,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074171027542925524",
+        "in_reply_to_user_id": "1835139537418567680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074170719022240149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WellingtonPixel 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835139537418567680",
+        "conversation_id": "2074156643697463318",
+        "created_at": "2026-07-06T16:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074170719022240149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            },
+            {
+              "end": 25,
+              "id": "1987885638038036480",
+              "start": 15,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074170719022240149",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074162525910991264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau @mizorewww 你怎么知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 612,
+          "like_count": 6708,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 1371
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "Season of the Old World.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TheRtHonWP",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TheRtHonWP",
+                "start": 0,
+                "url": "https://t.co/D6JVLpiAPZ"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Den Haag, Nederland",
+        "name": "𝑾𝒆𝒍𝒍𝒊𝒏𝒈𝒕𝒐𝒏等日落",
+        "pinned_tweet_id": "2072961773309657353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070119866296619008/2wrMAa5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2586,
+          "following_count": 2948,
+          "like_count": 22489,
+          "listed_count": 3,
+          "media_count": 445,
+          "tweet_count": 4930
+        },
+        "url": "https://t.co/D6JVLpiAPZ",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

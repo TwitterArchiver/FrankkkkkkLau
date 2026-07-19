@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068362030030155776"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2068338297257226326",
+    "created_at": "2026-06-20T15:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068362147814666250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900754238570893313",
+          "start": 0,
+          "username": "patchouli608"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SDuGyMVJ61",
+          "end": 37,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2068362147814666250/video/1",
+          "media_key": "13_2068362030030155776",
+          "start": 14,
+          "url": "https://t.co/SDuGyMVJ61"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068362147814666250",
+    "in_reply_to_user_id": "1900754238570893313",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068354980181057610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@patchouli608 https://t.co/SDuGyMVJ61"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1968,
+        "height": 360,
+        "media_key": "13_2068362030030155776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068362030030155776/img/Aykp97NjKYGQx-fC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068362030030155776/vid/avc1/480x270/jbstTITE2e_B8W_w.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068362030030155776/vid/avc1/640x360/X8aEjuD0Mbw0_zxS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068362030030155776/pl/L57660DFAbrH4sz1.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068362030030155776"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2068338297257226326",
+        "created_at": "2026-06-20T15:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068362147814666250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900754238570893313",
+              "start": 0,
+              "username": "patchouli608"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SDuGyMVJ61",
+              "end": 37,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2068362147814666250/video/1",
+              "media_key": "13_2068362030030155776",
+              "start": 14,
+              "url": "https://t.co/SDuGyMVJ61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068362147814666250",
+        "in_reply_to_user_id": "1900754238570893313",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068354980181057610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@patchouli608 https://t.co/SDuGyMVJ61"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900754238570893313",
+        "conversation_id": "2068338297257226326",
+        "created_at": "2026-06-20T15:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068354980181057610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068354980181057610",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068338297257226326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau ！？Niger！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 419,
+          "like_count": 4875,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 1009
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T03:42:13.000Z",
+        "description": "➡️以虛\n你好，我是大陸北方網友｜ 生活不易推上賣藝｜ 臨川一中初中部名譽畢業生｜松江一中高中部榮譽校友。",
+        "id": "1900754238570893313",
+        "location": "南昌市新建縣望城崗1號｜上海市楊浦區楊樹浦路2866號",
+        "name": "佩觿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066496605013118976/fWu1PwoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 145,
+          "like_count": 31566,
+          "listed_count": 8,
+          "media_count": 982,
+          "tweet_count": 12398
+        },
+        "url": "",
+        "username": "patchouli608",
+        "verified": true
+      }
+    ]
+  }
+}

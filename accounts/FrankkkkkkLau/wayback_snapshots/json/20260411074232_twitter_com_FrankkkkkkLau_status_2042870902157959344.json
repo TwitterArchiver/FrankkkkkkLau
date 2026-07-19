@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2042870902157959344",
+    "created_at": "2026-04-11T07:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042870902157959344"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AAcfun/status/…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/AAcfun/status/2042517206354006439",
+          "start": 25,
+          "url": "https://t.co/7hNaWD3pzn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042870902157959344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042517206354006439",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "评论区一群人开h3+ech截图给人扣帽子是何意味 https://t.co/7hNaWD3pzn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_2042517190038163460",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFh6kAfakAQ9f8c.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2042517200108687363",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFh6kmAakAMB4Rp.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2042870902157959344",
+        "created_at": "2026-04-11T07:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042870902157959344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AAcfun/status/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/AAcfun/status/2042517206354006439",
+              "start": 25,
+              "url": "https://t.co/7hNaWD3pzn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042870902157959344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042517206354006439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "评论区一群人开h3+ech截图给人扣帽子是何意味 https://t.co/7hNaWD3pzn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042517190038163460",
+            "3_2042517200108687363"
+          ]
+        },
+        "author_id": "2030455725374550016",
+        "conversation_id": "2042517206354006439",
+        "created_at": "2026-04-10T08:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042517206354006439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ieydnxcosC",
+              "end": 36,
+              "expanded_url": "https://x.com/AAcfun/status/2042517206354006439/photo/1",
+              "media_key": "3_2042517190038163460",
+              "start": 13,
+              "url": "https://t.co/ieydnxcosC"
+            },
+            {
+              "display_url": "pic.x.com/ieydnxcosC",
+              "end": 36,
+              "expanded_url": "https://x.com/AAcfun/status/2042517206354006439/photo/1",
+              "media_key": "3_2042517200108687363",
+              "start": 13,
+              "url": "https://t.co/ieydnxcosC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042517206354006439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 301,
+          "impression_count": 972839,
+          "like_count": 1237,
+          "quote_count": 18,
+          "reply_count": 159,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "SBTI已被GFW封禁。 https://t.co/ieydnxcosC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/HVcVRe4I0g"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 71,
+          "like_count": 1342,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 359
+        },
+        "url": "https://t.co/HVcVRe4I0g",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T01:29:09.000Z",
+        "description": "是男孩子 | 2007 | 超级社恐、胆小 | 不建政 不聊黄 | 精神状态不稳定 | 回fo私信我喵 |没情商(如果回复的不好 原谅我...)",
+        "id": "2030455725374550016",
+        "location": "自己的小房间",
+        "name": "AAcfun🏳️‍⚧️",
+        "pinned_tweet_id": "2041147956926218646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030455820924903424/W2qzunzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 121,
+          "like_count": 4934,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 738
+        },
+        "username": "AAcfun",
+        "verified": true
+      }
+    ]
+  }
+}

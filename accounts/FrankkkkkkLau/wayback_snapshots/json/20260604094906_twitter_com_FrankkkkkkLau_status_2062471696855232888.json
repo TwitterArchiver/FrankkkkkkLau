@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2062403040179880001",
+    "created_at": "2026-06-04T09:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T10:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062471696855232888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1865675525169000448",
+          "start": 0,
+          "username": "rued_0"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Test your current internet speed, and find out how fast your broadband wi-fi handles uploads and downloads. See Google Fiber plan options for faster internet.",
+          "display_url": "fiber.google.com/speedtest/",
+          "end": 31,
+          "expanded_url": "http://fiber.google.com/speedtest/",
+          "start": 8,
+          "status": 200,
+          "title": "Internet Speed Test | Check Broadband Speed | Google Fiber",
+          "unwound_url": "https://fiber.google.com/speedtest/",
+          "url": "https://t.co/uAISwTnfkr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062471696855232888",
+    "in_reply_to_user_id": "1865675525169000448",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062467205082612162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rued_0 https://t.co/uAISwTnfkr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2062403040179880001",
+        "created_at": "2026-06-04T09:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062471696855232888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1865675525169000448",
+              "start": 0,
+              "username": "rued_0"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Test your current internet speed, and find out how fast your broadband wi-fi handles uploads and downloads. See Google Fiber plan options for faster internet.",
+              "display_url": "fiber.google.com/speedtest/",
+              "end": 31,
+              "expanded_url": "http://fiber.google.com/speedtest/",
+              "start": 8,
+              "status": 200,
+              "title": "Internet Speed Test | Check Broadband Speed | Google Fiber",
+              "unwound_url": "https://fiber.google.com/speedtest/",
+              "url": "https://t.co/uAISwTnfkr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062471696855232888",
+        "in_reply_to_user_id": "1865675525169000448",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062467205082612162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rued_0 https://t.co/uAISwTnfkr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865675525169000448",
+        "conversation_id": "2062403040179880001",
+        "created_at": "2026-06-04T09:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062467205082612162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "speedtest.com",
+              "end": 46,
+              "expanded_url": "http://speedtest.com",
+              "start": 23,
+              "status": 200,
+              "title": "speedtest.com",
+              "unwound_url": "http://speedtest.com",
+              "url": "https://t.co/WJQAxSt9R4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062467205082612162",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062403040179880001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau is that https://t.co/WJQAxSt9R4?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 275,
+          "like_count": 3162,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 709
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-08T08:31:32.000Z",
+        "description": "Hello,you will not seen this again",
+        "id": "1865675525169000448",
+        "name": "Toji",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029147706208538625/6CNf-iNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 6,
+          "like_count": 1691,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 347
+        },
+        "username": "rued_0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2072641484365660188",
+    "created_at": "2026-07-02T11:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072642475215421708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1846596976265326592",
+          "start": 0,
+          "username": "voidsama777"
+        },
+        {
+          "end": 28,
+          "id": "2065400061757145088",
+          "start": 13,
+          "username": "kuuki_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072642475215421708",
+    "in_reply_to_user_id": "1846596976265326592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072641484365660188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@voidsama777 @kuuki_official 估计一两个月才会变一次😑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 221,
+        "media_key": "3_2072641482901819393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOAcocaEAEeoo-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2072641484365660188",
+        "created_at": "2026-07-02T11:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072642475215421708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1846596976265326592",
+              "start": 0,
+              "username": "voidsama777"
+            },
+            {
+              "end": 28,
+              "id": "2065400061757145088",
+              "start": 13,
+              "username": "kuuki_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072642475215421708",
+        "in_reply_to_user_id": "1846596976265326592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072641484365660188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voidsama777 @kuuki_official 估计一两个月才会变一次😑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072641482901819393"
+          ]
+        },
+        "author_id": "1846596976265326592",
+        "conversation_id": "2072641484365660188",
+        "created_at": "2026-07-02T11:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072641484365660188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "2065400061757145088",
+              "start": 12,
+              "username": "kuuki_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/COI03Py696",
+              "end": 111,
+              "expanded_url": "https://x.com/voidsama777/status/2072641484365660188/photo/1",
+              "media_key": "3_2072641482901819393",
+              "start": 88,
+              "url": "https://t.co/COI03Py696"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072641484365660188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很好奇這個機\n\n我的\"@kuuki_official \" 一開始是東南亞(vpn) ip  然後使用美國節點 一般上就變成了美國(vpn)\n\n這個要我待多長時間才行啊（？？ https://t.co/COI03Py696"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 551,
+          "like_count": 5943,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 1219
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-16T17:01:02.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡ ✞ \n✟⛧✟ (ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans ⭒\n\n✞ ♡ dm开放 欢迎找我聊天喵 ♡ ✞",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "https://twitter.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/hBwaD5CsX6"
+              }
+            ]
+          }
+        },
+        "id": "1846596976265326592",
+        "location": "ＩＮＴＥＲＮＥＴ",
+        "name": "✟ クウキ ✟  🎌🎌🎌🇯🇵🇹🇼🇺🇸🇦🇺🇩🇪🇲🇨",
+        "pinned_tweet_id": "2067943198509707636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 353,
+          "like_count": 14292,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 2070
+        },
+        "url": "https://t.co/hBwaD5CsX6",
+        "username": "voidsama777",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T11:46:22.000Z",
+        "description": "⟡ ✞ nonbinary ✟⛧✟ 互fo喵♡ ✞ \n✟⛧✟ (ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡⋆overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans ⭒\n\nThank you for following",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuuki.space",
+                "end": 23,
+                "expanded_url": "http://kuuki.space",
+                "start": 0,
+                "url": "https://t.co/BkphdXWekS"
+              }
+            ]
+          }
+        },
+        "id": "2065400061757145088",
+        "location": " ＩＮＴＥＲＮＥＴ ",
+        "name": "✟ kuuki ✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065401435404320768/lniCS-cU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 54,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 53
+        },
+        "url": "https://t.co/BkphdXWekS",
+        "username": "kuuki_official",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060319997210275840"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2060315320200343731",
+    "created_at": "2026-05-29T11:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060320287691055375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870336533342932992",
+          "start": 0,
+          "username": "AsahinaShikure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e9yZGYuKLt",
+          "end": 77,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2060320287691055375/photo/1",
+          "media_key": "3_2060319997210275840",
+          "start": 54,
+          "url": "https://t.co/e9yZGYuKLt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060320287691055375",
+    "in_reply_to_user_id": "1870336533342932992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060315320200343731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsahinaShikure happiness money power😗话说为什么是三个三个单词(?) https://t.co/e9yZGYuKLt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 69,
+        "media_key": "3_2060319997210275840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe6HxVaMAAJrSh.png",
+        "width": 246
+      },
+      {
+        "height": 1854,
+        "media_key": "3_2060315308317892614",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe1212WYAYgK5G.jpg",
+        "width": 1380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060319997210275840"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2060315320200343731",
+        "created_at": "2026-05-29T11:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060320287691055375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870336533342932992",
+              "start": 0,
+              "username": "AsahinaShikure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e9yZGYuKLt",
+              "end": 77,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2060320287691055375/photo/1",
+              "media_key": "3_2060319997210275840",
+              "start": 54,
+              "url": "https://t.co/e9yZGYuKLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060320287691055375",
+        "in_reply_to_user_id": "1870336533342932992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060315320200343731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsahinaShikure happiness money power😗话说为什么是三个三个单词(?) https://t.co/e9yZGYuKLt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060315308317892614"
+          ]
+        },
+        "author_id": "1870336533342932992",
+        "conversation_id": "2060315320200343731",
+        "created_at": "2026-05-29T11:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060315320200343731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LitOUjaplj",
+              "end": 71,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2060315320200343731/photo/1",
+              "media_key": "3_2060315308317892614",
+              "start": 48,
+              "url": "https://t.co/LitOUjaplj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060315320200343731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你最先看到哪三個單詞？\nWhich three words do you see first? https://t.co/LitOUjaplj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 209,
+          "like_count": 2536,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 607
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T05:12:44.000Z",
+        "description": "Singaporean🇸🇬/Junior High Sec 3 student/Age 14/MtF🏳️‍⚧️/Radical transgenderism/Project Sekai/Langs:🇺🇸🇹🇼🇯🇵🇫🇷/President of Union Republic of Griffin",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net",
+                "start": 0,
+                "url": "https://t.co/hX5y0S4sur"
+              }
+            ]
+          }
+        },
+        "id": "1870336533342932992",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "Asahina Shikure 朝比奈丶志暮🏳️‍⚧️",
+        "pinned_tweet_id": "2055944120376447137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057840599999639552/7hAGSJcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 664,
+          "like_count": 2859,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 543
+        },
+        "url": "https://t.co/hX5y0S4sur",
+        "username": "AsahinaShikure",
+        "verified": true
+      }
+    ]
+  }
+}

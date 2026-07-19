@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2071589893571281045",
+    "created_at": "2026-06-29T14:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071599473818734977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1792158516096180224",
+          "start": 0,
+          "username": "Dr_Duckter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071599473818734977",
+    "in_reply_to_user_id": "1792158516096180224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071596800772080034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dr_Duckter 打机港内延迟不会这么高罢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2071589893571281045",
+        "created_at": "2026-06-29T14:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071599473818734977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1792158516096180224",
+              "start": 0,
+              "username": "Dr_Duckter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071599473818734977",
+        "in_reply_to_user_id": "1792158516096180224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071596800772080034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dr_Duckter 打机港内延迟不会这么高罢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792158516096180224",
+        "conversation_id": "2071589893571281045",
+        "created_at": "2026-06-29T14:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071596800772080034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "85240609891_1st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071596800772080034",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071589893571281045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@85240609891_1st 看看CS2库存\n话说用的是HKT的打机吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 489,
+          "like_count": 5603,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 1129
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T11:41:14.000Z",
+        "description": "@Dr__Duckter  \n\nIns : @DrDuckter \n与推特该帐号无关\n\ndrduckter@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "Dr__Duckter"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "DrDuckter"
+              }
+            ]
+          }
+        },
+        "id": "1792158516096180224",
+        "location": "Toronto, Ontario",
+        "name": "Dr Ducky Drizzy Duckter Duckworth DingDongji",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068586675538964480/MBhpDF9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 1113,
+          "like_count": 20894,
+          "listed_count": 21,
+          "media_count": 546,
+          "tweet_count": 2898
+        },
+        "url": "",
+        "username": "Dr_Duckter",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058927732319461376"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2058927874510577932",
+    "created_at": "2026-05-25T15:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:06:50.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058927780277158101",
+      "2058927874510577932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D6zaPasGaH",
+          "end": 44,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2058927874510577932/photo/1",
+          "media_key": "3_2058927732319461376",
+          "start": 21,
+          "url": "https://t.co/D6zaPasGaH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058927874510577932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老大这个真的是和业余无线电有关的东西吗喵 https://t.co/D6zaPasGaH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 341,
+        "media_key": "3_2058927732319461376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLH3ScaIAAHK4n.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058927732319461376"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2058927780277158101",
+        "created_at": "2026-05-25T15:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:06:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058927780277158101",
+          "2058927874510577932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9NvgraLT6",
+              "end": 43,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2058927780277158101/photo/1",
+              "media_key": "3_2058927732319461376",
+              "start": 20,
+              "url": "https://t.co/C9NvgraLT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058927780277158101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老大这个真的是业余无线电有关的东西嘛喵 https://t.co/C9NvgraLT6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058927732319461376"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2058927874510577932",
+        "created_at": "2026-05-25T15:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:06:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058927780277158101",
+          "2058927874510577932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D6zaPasGaH",
+              "end": 44,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2058927874510577932/photo/1",
+              "media_key": "3_2058927732319461376",
+              "start": 21,
+              "url": "https://t.co/D6zaPasGaH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058927874510577932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老大这个真的是和业余无线电有关的东西吗喵 https://t.co/D6zaPasGaH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 130,
+          "like_count": 2171,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2076615526852559347",
+    "created_at": "2026-07-13T10:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T11:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076615526852559347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2075911582257946892",
+          "start": 37,
+          "url": "https://t.co/UicfXXOiWa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076615526852559347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075911582257946892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好奇新疆能用ss2022嘛, 之前有群友说用全随机数协议连国内机会被阻断 https://t.co/UicfXXOiWa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1725,
+        "media_key": "3_2075911575588982785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8elFAaUAE4i37.jpg",
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2076615526852559347",
+        "created_at": "2026-07-13T10:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076615526852559347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2075911582257946892",
+              "start": 37,
+              "url": "https://t.co/UicfXXOiWa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076615526852559347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075911582257946892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好奇新疆能用ss2022嘛, 之前有群友说用全随机数协议连国内机会被阻断 https://t.co/UicfXXOiWa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075911575588982785"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2075911582257946892",
+        "created_at": "2026-07-11T11:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075911582257946892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UXfo7oC9e1",
+              "end": 26,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2075911582257946892/photo/1",
+              "media_key": "3_2075911575588982785",
+              "start": 3,
+              "url": "https://t.co/UXfo7oC9e1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075911582257946892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 344767,
+          "like_count": 404,
+          "quote_count": 0,
+          "reply_count": 198,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "同问 https://t.co/UXfo7oC9e1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 676,
+          "like_count": 7649,
+          "listed_count": 1,
+          "media_count": 341,
+          "tweet_count": 1557
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12701,
+          "following_count": 4395,
+          "like_count": 51061,
+          "listed_count": 29,
+          "media_count": 3259,
+          "tweet_count": 17642
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2065031300545917295",
+    "created_at": "2026-06-11T12:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065051969455362525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035758475209572352",
+          "start": 0,
+          "username": "LoveMikuBX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065051969455362525",
+    "in_reply_to_user_id": "2035758475209572352",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065050990982865200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveMikuBX ））"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2065031300545917295",
+        "created_at": "2026-06-11T12:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065051969455362525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035758475209572352",
+              "start": 0,
+              "username": "LoveMikuBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065051969455362525",
+        "in_reply_to_user_id": "2035758475209572352",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065050990982865200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveMikuBX ））"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035758475209572352",
+        "conversation_id": "2065031300545917295",
+        "created_at": "2026-06-11T12:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065050990982865200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065050990982865200",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065049810940608861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau wc為什麼你也是China"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 293,
+          "like_count": 3593,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 790
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T16:40:39.000Z",
+        "description": "初始之音，響徹未來！八閩大地，萬頃重洋！\n|友跨🏳️‍⚧️🏳️‍🌈|順男|陽性精分|泛性戀|國族主義/社會民主主義/左翼民族主義/溫和左翼|大統派|理性思考，包容不同政見|閩臺係|\n歡迎加入「中華統一復興大會」@ChineseURC_BOT\n望友好交流。查成分互fo\n藍v暑假再續",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "ChineseURC_BOT"
+              }
+            ]
+          }
+        },
+        "id": "2035758475209572352",
+        "location": "Fukien Ningteh,China",
+        "name": "💮伴下💮",
+        "pinned_tweet_id": "2054149752208679110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062897677717946368/bHujNViG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 1530,
+          "like_count": 15426,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 4930
+        },
+        "username": "LoveMikuBX",
+        "verified": false
+      }
+    ]
+  }
+}

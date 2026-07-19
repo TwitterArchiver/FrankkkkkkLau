@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2058450523494223876",
+    "created_at": "2026-05-25T15:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058940806980083735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870336533342932992",
+          "start": 0,
+          "username": "AsahinaShikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058940806980083735",
+    "in_reply_to_user_id": "1870336533342932992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058450523494223876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsahinaShikure 这个貌似要两个月才会变"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2058450523494223876",
+        "created_at": "2026-05-25T15:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058940806980083735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870336533342932992",
+              "start": 0,
+              "username": "AsahinaShikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058940806980083735",
+        "in_reply_to_user_id": "1870336533342932992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058450523494223876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsahinaShikure 这个貌似要两个月才会变"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870336533342932992",
+        "conversation_id": "2058450523494223876",
+        "created_at": "2026-05-24T07:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058450523494223876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058450523494223876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感覺這個號像是有bug，VPN標識就是去不掉，實在不行的話我要不換個號？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 132,
+          "like_count": 2178,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T05:12:44.000Z",
+        "description": "Singaporean🇸🇬/Junior High Sec 3 student/Age 14/MtF🏳️‍⚧️/Radical transgenderism/Project Sekai/Langs:🇺🇸🇹🇼🇯🇵🇫🇷/President of Union Republic of Griffin",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net",
+                "start": 0,
+                "url": "https://t.co/hX5y0S4sur"
+              }
+            ]
+          }
+        },
+        "id": "1870336533342932992",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "Asahina Shikure 朝比奈丶志暮🏳️‍⚧️",
+        "pinned_tweet_id": "2055944120376447137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057840599999639552/7hAGSJcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 585,
+          "like_count": 2516,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/hX5y0S4sur",
+        "username": "AsahinaShikure",
+        "verified": true
+      }
+    ]
+  }
+}

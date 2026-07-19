@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "1970801665663184994",
+    "created_at": "2025-10-17T14:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T15:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979195259843416158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1673386998097416192",
+          "start": 0,
+          "username": "beheaderSQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979195259843416158",
+    "in_reply_to_user_id": "1673386998097416192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979185615276269758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beheaderSQY 😡你把我忘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "1970801665663184994",
+        "created_at": "2025-10-17T14:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979195259843416158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1673386998097416192",
+              "start": 0,
+              "username": "beheaderSQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979195259843416158",
+        "in_reply_to_user_id": "1673386998097416192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979185615276269758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beheaderSQY 😡你把我忘了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673386998097416192",
+        "conversation_id": "1970801665663184994",
+        "created_at": "2025-10-17T13:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T14:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979185615276269758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979185615276269758",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979178083988201812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 你是……？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "很没耐心, 讨厌不讲信用的人",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 55,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 272
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T17:45:32.000Z",
+        "description": "欢迎推友互fo",
+        "id": "1673386998097416192",
+        "name": "SQY秽土转生形态",
+        "pinned_tweet_id": "1860364562228556189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902216132712656896/nCKAciZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 1984,
+          "like_count": 66282,
+          "listed_count": 8,
+          "media_count": 2713,
+          "tweet_count": 33044
+        },
+        "username": "beheaderSQY",
+        "verified": false
+      }
+    ]
+  }
+}

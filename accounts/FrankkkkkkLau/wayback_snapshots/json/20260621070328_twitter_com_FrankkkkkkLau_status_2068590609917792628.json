@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2068338297257226326",
+    "created_at": "2026-06-21T07:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068590609917792628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1676101365465235457",
+          "start": 0,
+          "username": "qgmzmy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068590609917792628",
+    "in_reply_to_user_id": "1676101365465235457",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068586745177026564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qgmzmy 😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2068338297257226326",
+        "created_at": "2026-06-21T07:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068590609917792628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1676101365465235457",
+              "start": 0,
+              "username": "qgmzmy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068590609917792628",
+        "in_reply_to_user_id": "1676101365465235457",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068586745177026564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qgmzmy 😹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676101365465235457",
+        "conversation_id": "2068338297257226326",
+        "created_at": "2026-06-21T06:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068586745177026564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068586745177026564",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068338297257226326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 郑州"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 432,
+          "like_count": 4934,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 1016
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-04T05:31:57.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.qgmzmy.me",
+                "end": 23,
+                "expanded_url": "https://blog.qgmzmy.me",
+                "start": 0,
+                "url": "https://t.co/N26RxgKESL"
+              }
+            ]
+          }
+        },
+        "id": "1676101365465235457",
+        "location": "Locating…",
+        "name": "qgmzmy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678357802753081344/UrFmWcen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 98,
+          "like_count": 1671,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/N26RxgKESL",
+        "username": "qgmzmy",
+        "verified": false
+      }
+    ]
+  }
+}

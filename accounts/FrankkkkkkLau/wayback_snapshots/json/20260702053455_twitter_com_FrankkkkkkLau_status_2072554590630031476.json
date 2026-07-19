@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2072529631031463965",
+    "created_at": "2026-07-02T05:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T06:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072554590630031476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781893716183060480",
+          "start": 0,
+          "username": "akihiro_0313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072554590630031476",
+    "in_reply_to_user_id": "1781893716183060480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072529631031463965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akihiro_0313 懒懒咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2072529595480649728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMar7UbsAAhWlt.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2072529607816003584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMaspRaQAA2RvR.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2072529616246624256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMatIrbUAAXY3s.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2072529631031463965",
+        "created_at": "2026-07-02T05:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072554590630031476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "akihiro_0313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072554590630031476",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072529631031463965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akihiro_0313 懒懒咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072529595480649728",
+            "3_2072529607816003584",
+            "3_2072529616246624256"
+          ]
+        },
+        "author_id": "1781893716183060480",
+        "conversation_id": "2072529631031463965",
+        "created_at": "2026-07-02T03:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072529631031463965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T32Dl0FCll",
+              "end": 31,
+              "expanded_url": "https://x.com/akihiro_0313/status/2072529631031463965/photo/1",
+              "media_key": "3_2072529595480649728",
+              "start": 8,
+              "url": "https://t.co/T32Dl0FCll"
+            },
+            {
+              "display_url": "pic.x.com/T32Dl0FCll",
+              "end": 31,
+              "expanded_url": "https://x.com/akihiro_0313/status/2072529631031463965/photo/1",
+              "media_key": "3_2072529607816003584",
+              "start": 8,
+              "url": "https://t.co/T32Dl0FCll"
+            },
+            {
+              "display_url": "pic.x.com/T32Dl0FCll",
+              "end": 31,
+              "expanded_url": "https://x.com/akihiro_0313/status/2072529631031463965/photo/1",
+              "media_key": "3_2072529616246624256",
+              "start": 8,
+              "url": "https://t.co/T32Dl0FCll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072529631031463965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👋🤓哈基米😸✨ https://t.co/T32Dl0FCll"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 550,
+          "like_count": 5927,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 1214
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "あきひろ ☄️\n🇨🇳｜15\n\n🌌 アニメと宇宙が好き\n💻 プログラミング\n✏️ 日本語勉強中\n\n気軽に絡んでください😼✨\n\n🐾 大切な親友がいます➰\n\nDM◎ & Telegram↓\nhttps://t.co/RV6X4WIAjP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/akihiro_0313",
+                "end": 115,
+                "expanded_url": "http://t.me/akihiro_0313",
+                "start": 92,
+                "url": "https://t.co/RV6X4WIAjP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akihiro0313",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akihiro0313",
+                "start": 0,
+                "url": "https://t.co/5zPAH9OdaS"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "location": "A happy world...",
+        "name": "💁あきひろくんです✨",
+        "pinned_tweet_id": "2071854934258311450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061123813845409792/vmhK_GSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 571,
+          "like_count": 6626,
+          "listed_count": 1,
+          "media_count": 576,
+          "tweet_count": 4295
+        },
+        "url": "https://t.co/5zPAH9OdaS",
+        "username": "akihiro_0313",
+        "verified": true
+      }
+    ]
+  }
+}

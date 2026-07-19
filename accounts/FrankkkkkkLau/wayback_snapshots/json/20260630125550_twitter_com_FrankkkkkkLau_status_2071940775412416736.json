@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2068244369963118854",
+    "created_at": "2026-06-30T12:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071940775412416736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1995663932904931333",
+          "start": 0,
+          "username": "starforever1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071940775412416736",
+    "in_reply_to_user_id": "1995663932904931333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071940231415361812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@starforever1314 不打算咪, 这个没什么用😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2068244369963118854",
+        "created_at": "2026-06-30T12:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071940775412416736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1995663932904931333",
+              "start": 0,
+              "username": "starforever1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071940775412416736",
+        "in_reply_to_user_id": "1995663932904931333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071940231415361812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@starforever1314 不打算咪, 这个没什么用😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995663932904931333",
+        "conversation_id": "2068244369963118854",
+        "created_at": "2026-06-30T12:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071940231415361812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071940231415361812",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068244369963118854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 主包打算出一期推特改中国ip教程吗🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 495,
+          "like_count": 5726,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 1158
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-02T01:19:11.000Z",
+        "description": "08｜高三｜文科｜ENFP\n自由主义｜进步主义｜中间派\n华独  支持PRC和ROC对等交流\n反极端女权 无脑粉红青鸟支黑\n欢迎各位推友互fo喵",
+        "id": "1995663932904931333",
+        "location": "Your Heart",
+        "name": "Melancholy鶴🇨🇳🇹🇼🇭🇰🇲🇴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054802740262682624/1CPXy4bR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 191,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "starforever1314",
+        "verified": true
+      }
+    ]
+  }
+}

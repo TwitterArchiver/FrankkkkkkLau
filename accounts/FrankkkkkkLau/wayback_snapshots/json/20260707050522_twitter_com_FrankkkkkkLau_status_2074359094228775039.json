@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2060222945281400984",
+    "created_at": "2026-07-07T05:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074359094228775039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3779373437",
+          "start": 0,
+          "username": "BTC8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074359094228775039",
+    "in_reply_to_user_id": "3779373437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074337446494658877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BTC8964 2不一定会有vpn标\n3说的是脱同步之类的本地代理工具, 不需要服务端\n4\"澳门新街坊\"是小区的名字\n56相当于运营商侧加白名单放行, 不是iepl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1394,
+        "media_key": "3_2074337438198308865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmG6OQaoAE006E.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2060222945281400984",
+        "created_at": "2026-07-07T05:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074359094228775039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3779373437",
+              "start": 0,
+              "username": "BTC8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074359094228775039",
+        "in_reply_to_user_id": "3779373437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074337446494658877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BTC8964 2不一定会有vpn标\n3说的是脱同步之类的本地代理工具, 不需要服务端\n4\"澳门新街坊\"是小区的名字\n56相当于运营商侧加白名单放行, 不是iepl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074337438198308865"
+          ]
+        },
+        "author_id": "3779373437",
+        "conversation_id": "2060222945281400984",
+        "created_at": "2026-07-07T03:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074337446494658877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6M4PeSv6cb",
+              "end": 104,
+              "expanded_url": "https://x.com/BTC8964/status/2074337446494658877/photo/1",
+              "media_key": "3_2074337438198308865",
+              "start": 81,
+              "url": "https://t.co/6M4PeSv6cb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074337446494658877",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060222945281400984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 你的是无墙住宅IP\n123都会出🛡️就像下面那位\n\n4是澳门🇲🇴家宽IP不会是中国\n\n但是56好像不是无墙IP都是新加坡香港落地的 https://t.co/6M4PeSv6cb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 645,
+          "like_count": 6802,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 1396
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2015-09-26T06:59:41.000Z",
+        "description": "",
+        "id": "3779373437",
+        "name": "はははは",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065291041608290304/gv7vGp8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 30,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "BTC8964",
+        "verified": false
+      }
+    ]
+  }
+}

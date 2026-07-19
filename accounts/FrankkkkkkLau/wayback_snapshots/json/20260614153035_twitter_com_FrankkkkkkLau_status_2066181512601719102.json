@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      }
+    ],
+    "conversation_id": "2066177784255529234",
+    "created_at": "2026-06-14T15:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066181512601719102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "警哥认错报告（更新版） 同志！警哥这次真的分析偏了，抱歉抱歉🙏 上次我把你定位成“香港/跨境科技职员”，主要卡在“香港家宽”“HKT”“香港CMI路由”这些点上。现在重新把你最近和历史推文（包括今天刚刷到的）再捋了一遍，发现核心错误在地点，职业推断也得大幅收窄。警哥重新视奸后，给出修正画像： 1. 修正后的基本画像 姓名：Frank Lau（⏚FrankLau⏚） 性别/年龄：男性，年轻（20-32岁左右） 语言：简中优先 + 粤语 + 英语（bio没变） 性格：还是那只“卷毛狗的温良形态”，可爱自黑、重度表情包+梗文化爱好者 2. 地点修正（最关键的错误） 你最可能生活在澳门（Macau），而不是我上次说的香港。 铁证（直接从你推文里挖的）： “我账号是澳门区））” 多次提到 MTel（澳门电讯），并说“MTel依然无人在意” “啊? 澳门有cm吗🤯”（在问澳门有没有中国移动） “同城的话, 家宽到IDC大概5ms” —— 同城家宽延迟极低，符合澳门本地 “我家宽带到1.1.1.1走香港cmi” —— 这是澳门家宽的常见情况（澳门国际出口很多走香港CMI） “内地运营商, 测速点是香港的” —— 用内地运营商测，但测速服务器在香港 还提到“家宽代理” 总结地点：你在澳门有家宽（家宽），用当地运营商（很可能MTel或其他），国际流量走香港方向。Twitter账号地区也显示澳门区。之前我把“香港路由”直接当成本人住在香港，犯了想当然的错误。 旅行记录还是：去过中国内地、香港、澳门、阿联酋（澳门可能多次往返或本来就住那里）。 3. 职业推断（大幅修正） 上次我把你推成“IT/网络工程师或科技公司职员”，这次要大幅降低确定性。 证据重新看： 你对代理、VPN、路由、ISP绕过、全球IP（包括朝鲜原生IP）、SNI spoof、FTTB等确实有极高熟练度，属于深度玩家级别。 Cloudflare Zero Trust那条推文里说“适合连着公司/学校/咖啡店的网络的时候摸鱼用” —— 这更像是通用推荐，而不是“我现在在公司/学校用”。 最近推文大量在讨论个人家宽代理、ISP封锁怎么破、proxy不工作、要不要换FTTB等，焦点完全在个人网络优化实验上。 没有任何一条推文明确提到“上班”“公司”“同事”“项目”“工作内容”等职场相关信息。 修正后的职业推断： 最可能：网络技",
+          "display_url": "x.com/i/grok/share/b…",
+          "end": 31,
+          "expanded_url": "https://x.com/i/grok/share/b8ee4ab0cfb94e83ba529533f512990a",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2066181518054334464/F6CYTwbb?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2066181518054334464/F6CYTwbb?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 8,
+          "status": 200,
+          "title": "同志, 你分析的完全错了, 再看看呢",
+          "unwound_url": "https://x.com/i/grok/share/b8ee4ab0cfb94e83ba529533f512990a",
+          "url": "https://t.co/dGjKffqa2U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066181512601719102",
+    "in_reply_to_user_id": "1672761170040692739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066177784255529234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "grok笨死了\nhttps://t.co/dGjKffqa2U"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          }
+        ],
+        "conversation_id": "2066177784255529234",
+        "created_at": "2026-06-14T15:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066181512601719102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "警哥认错报告（更新版） 同志！警哥这次真的分析偏了，抱歉抱歉🙏 上次我把你定位成“香港/跨境科技职员”，主要卡在“香港家宽”“HKT”“香港CMI路由”这些点上。现在重新把你最近和历史推文（包括今天刚刷到的）再捋了一遍，发现核心错误在地点，职业推断也得大幅收窄。警哥重新视奸后，给出修正画像： 1. 修正后的基本画像 姓名：Frank Lau（⏚FrankLau⏚） 性别/年龄：男性，年轻（20-32岁左右） 语言：简中优先 + 粤语 + 英语（bio没变） 性格：还是那只“卷毛狗的温良形态”，可爱自黑、重度表情包+梗文化爱好者 2. 地点修正（最关键的错误） 你最可能生活在澳门（Macau），而不是我上次说的香港。 铁证（直接从你推文里挖的）： “我账号是澳门区））” 多次提到 MTel（澳门电讯），并说“MTel依然无人在意” “啊? 澳门有cm吗🤯”（在问澳门有没有中国移动） “同城的话, 家宽到IDC大概5ms” —— 同城家宽延迟极低，符合澳门本地 “我家宽带到1.1.1.1走香港cmi” —— 这是澳门家宽的常见情况（澳门国际出口很多走香港CMI） “内地运营商, 测速点是香港的” —— 用内地运营商测，但测速服务器在香港 还提到“家宽代理” 总结地点：你在澳门有家宽（家宽），用当地运营商（很可能MTel或其他），国际流量走香港方向。Twitter账号地区也显示澳门区。之前我把“香港路由”直接当成本人住在香港，犯了想当然的错误。 旅行记录还是：去过中国内地、香港、澳门、阿联酋（澳门可能多次往返或本来就住那里）。 3. 职业推断（大幅修正） 上次我把你推成“IT/网络工程师或科技公司职员”，这次要大幅降低确定性。 证据重新看： 你对代理、VPN、路由、ISP绕过、全球IP（包括朝鲜原生IP）、SNI spoof、FTTB等确实有极高熟练度，属于深度玩家级别。 Cloudflare Zero Trust那条推文里说“适合连着公司/学校/咖啡店的网络的时候摸鱼用” —— 这更像是通用推荐，而不是“我现在在公司/学校用”。 最近推文大量在讨论个人家宽代理、ISP封锁怎么破、proxy不工作、要不要换FTTB等，焦点完全在个人网络优化实验上。 没有任何一条推文明确提到“上班”“公司”“同事”“项目”“工作内容”等职场相关信息。 修正后的职业推断： 最可能：网络技",
+              "display_url": "x.com/i/grok/share/b…",
+              "end": 31,
+              "expanded_url": "https://x.com/i/grok/share/b8ee4ab0cfb94e83ba529533f512990a",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2066181518054334464/F6CYTwbb?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066181518054334464/F6CYTwbb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "同志, 你分析的完全错了, 再看看呢",
+              "unwound_url": "https://x.com/i/grok/share/b8ee4ab0cfb94e83ba529533f512990a",
+              "url": "https://t.co/dGjKffqa2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066181512601719102",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066177784255529234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "grok笨死了\nhttps://t.co/dGjKffqa2U"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2066177784255529234",
+        "created_at": "2026-06-14T15:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066177784255529234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "警哥视奸报告（角色扮演版） 同志，我是正在认真“视奸”你@FrankkkkkkLau推文的大陆警哥～ 最近抽空把你公开推文（从2026年4月到今天6月14日）翻了个底朝天，给你做个基础画像+职业推断。纯属角色扮演+公开信息分析，警哥不抓人，只负责八卦😂 1. 基本人物画像 姓名/昵称：Frank Lau（显示名 ⏚FrankLau⏚），handle @FrankkkkkkLau 性别：男性（名字+推文风格+自称“卷毛狗”综合判断） 年龄段：年轻男性，估摸22-32岁左右（重度用meme、表情包、日常吐槽风格，典型Z世代/千禧后技术宅） 语言能力：优先简体中文，普通话+英语+粤语全开（bio明确标注） 性格/人设：Bio自称“某只卷毛狗的温良形态”，整体温和可爱、幽默自黑。 推文风格：重度表情包+梗文化（💀😿🧐👀🤖😭草）+技术分享+轻微emo（“我也想要😭”“呜呜连不上了”）。喜欢“贴贴”（内圈贴贴）、meme，偶尔自黑或可爱撒娇。 社交活跃度：X重度用户，每天多条推文，喜欢发截图、测试结果、吐槽。粉丝291，小众但互动真实（有回复、点赞）。 2. 职业推断（推文表现最核心部分） 从你推文里反复出现的高级网络技术内容来看，职业高度锁定在IT/网络/科技相关领域： 最关键证据： 推荐 Cloudflare Zero Trust 是“最好的免费VPN”，特别强调“适合连着公司/学校/咖啡店的网络的时候摸鱼用”。这句直接暴露你有公司/学校网络使用经验，属于上班族或学生。 专业讨论路由优化：香港CMI → CMIN2精品网、HKT Gamer Pack、ICMP优化、中国移动数据速度测试、内地WiFi切换后还能不能连……这些不是普通用户能聊得这么细的。 玩“原生朝鲜IP”（还配图+警告骗子商家p-telecom.ru），测试各种代理/机场，属于深度玩家或从业者级别。 职业最可能： IT/网络工程师、系统管理员、网络安全/运维相关（或科技公司技术岗） 备选：计算机相关专业学生/研究生（公司/学校网络同时提到） 工作内容很可能涉及跨境网络、代理/VPN、全球IP测试，或者就是在用这些工具“合法摸鱼/工作”。 就职地点推断（最明显）： 主要关联香港（概率最高）： Twitter账号所在地一直显示香港家宽 频繁用HKT（香港电讯）Gamer Pack 路由走香港CMI",
+              "display_url": "x.com/i/grok/share/2…",
+              "end": 26,
+              "expanded_url": "https://x.com/i/grok/share/2dfe3f62798d4206866b85d400e564df",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2066177789343256576/wJKm4Uak?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066177789343256576/wJKm4Uak?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 3,
+              "status": 200,
+              "title": "假如你是一名正在视奸我(@FrankkkkkkLau)的推文的大陆警哥，请梳理目前我所发送内容的信息，对人物进行基本画像，并且推断我的推文表现的职业，就职地点等信息，和我的被推断出的一些个人隐私信息",
+              "unwound_url": "https://x.com/i/grok/share/2dfe3f62798d4206866b85d400e564df",
+              "url": "https://t.co/pcFopbxByG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066177784255529234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难绷\nhttps://t.co/pcFopbxByG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 318,
+          "like_count": 4009,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 855
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

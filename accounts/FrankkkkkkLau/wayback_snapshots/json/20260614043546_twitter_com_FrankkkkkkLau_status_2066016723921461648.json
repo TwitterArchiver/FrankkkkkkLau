@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2065986762103730536",
+    "created_at": "2026-06-14T04:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066016723921461648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1885557129588948992",
+          "start": 0,
+          "username": "jfrd163461"
+        }
+      ],
+      "urls": [
+        {
+          "description": "当使用了 Split Tunnel VPN 或 四层分流代理软件 时，这个工具可以查看你在访问不同网站时所使用的出口 IP 地址，帮助你测试网站分流规则 | IP.SKK.MOE，一个可以查看本机 IP 地址及其归属地、测试网络策略路由、查询递归 DNS 出口 IP、查看 CDN 命中节点等的网络环境测试工具 | ip.skk.moe | Sukka | https://ip.skk.moe",
+          "display_url": "ip.skk.moe/split-tunnel",
+          "end": 56,
+          "expanded_url": "https://ip.skk.moe/split-tunnel",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2066016736433098752/YtU1cPn6?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2066016736433098752/YtU1cPn6?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 33,
+          "status": 200,
+          "title": "网站分流测试 | ip.skk.moe | Sukka",
+          "unwound_url": "https://ip.skk.moe/split-tunnel",
+          "url": "https://t.co/pSTwMbMunJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066016723921461648",
+    "in_reply_to_user_id": "1885557129588948992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065986762103730536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jfrd163461 🤔最近两个月有用过代理吗?\n没有的话可以去https://t.co/pSTwMbMunJ 看看是不是运营商弄了分流👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 762,
+        "media_key": "3_2065986138347843584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvbcl8asAAtTln.png",
+        "width": 727
+      },
+      {
+        "height": 703,
+        "media_key": "3_2065986192404074496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvbfvUbUAAajXq.png",
+        "width": 702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2065986762103730536",
+        "created_at": "2026-06-14T04:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066016723921461648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "jfrd163461"
+            }
+          ],
+          "urls": [
+            {
+              "description": "当使用了 Split Tunnel VPN 或 四层分流代理软件 时，这个工具可以查看你在访问不同网站时所使用的出口 IP 地址，帮助你测试网站分流规则 | IP.SKK.MOE，一个可以查看本机 IP 地址及其归属地、测试网络策略路由、查询递归 DNS 出口 IP、查看 CDN 命中节点等的网络环境测试工具 | ip.skk.moe | Sukka | https://ip.skk.moe",
+              "display_url": "ip.skk.moe/split-tunnel",
+              "end": 56,
+              "expanded_url": "https://ip.skk.moe/split-tunnel",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2066016736433098752/YtU1cPn6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066016736433098752/YtU1cPn6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 33,
+              "status": 200,
+              "title": "网站分流测试 | ip.skk.moe | Sukka",
+              "unwound_url": "https://ip.skk.moe/split-tunnel",
+              "url": "https://t.co/pSTwMbMunJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066016723921461648",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065986762103730536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jfrd163461 🤔最近两个月有用过代理吗?\n没有的话可以去https://t.co/pSTwMbMunJ 看看是不是运营商弄了分流👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065986138347843584",
+            "3_2065986192404074496"
+          ]
+        },
+        "author_id": "1885557129588948992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065986762103730536",
+        "created_at": "2026-06-14T02:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065986762103730536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V4iojYXvpo",
+              "end": 47,
+              "expanded_url": "https://x.com/jfrd163461/status/2065986762103730536/photo/1",
+              "media_key": "3_2065986138347843584",
+              "start": 24,
+              "url": "https://t.co/V4iojYXvpo"
+            },
+            {
+              "display_url": "pic.x.com/V4iojYXvpo",
+              "end": 47,
+              "expanded_url": "https://x.com/jfrd163461/status/2065986762103730536/photo/1",
+              "media_key": "3_2065986192404074496",
+              "start": 24,
+              "url": "https://t.co/V4iojYXvpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065986762103730536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同時開了兩個賬戶...\nIP判斷是不是出問題了 https://t.co/V4iojYXvpo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 307,
+          "like_count": 3838,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 817
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Revolutionary Democratic Socialism\nOriginal Marxism\nCountryhuman lover\nDemocracy&Freedom\nHongkonger\nFree China\nLove Playing CS2\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼",
+        "id": "1885557129588948992",
+        "location": " Republic of China - Hong Kong",
+        "name": "+852 40609891 RDSKMTROC MP9 HONG KONG FREE🇭🇰",
+        "pinned_tweet_id": "2064295516813275641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064319480633688064/v47CQU6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 6627,
+          "like_count": 14870,
+          "listed_count": 5,
+          "media_count": 732,
+          "tweet_count": 4088
+        },
+        "username": "jfrd163461",
+        "verified": false
+      }
+    ]
+  }
+}

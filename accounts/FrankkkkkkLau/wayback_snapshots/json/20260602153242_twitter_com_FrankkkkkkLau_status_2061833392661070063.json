@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2061731575168196668",
+    "created_at": "2026-06-02T15:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061833392661070063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2032857228919898112",
+          "start": 0,
+          "username": "ifzob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061833392661070063",
+    "in_reply_to_user_id": "2032857228919898112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061824340304576549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ifzob 是xray core不让开允许安全了, 我故意开着截的图😗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061824336617783297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0ST2VbwAEyUf3.jpg",
+        "width": 953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2061731575168196668",
+        "created_at": "2026-06-02T15:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061833392661070063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2032857228919898112",
+              "start": 0,
+              "username": "ifzob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061833392661070063",
+        "in_reply_to_user_id": "2032857228919898112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061824340304576549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ifzob 是xray core不让开允许安全了, 我故意开着截的图😗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061824336617783297"
+          ]
+        },
+        "author_id": "2032857228919898112",
+        "conversation_id": "2061731575168196668",
+        "created_at": "2026-06-02T14:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061824340304576549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JAe2PwGdYj",
+              "end": 73,
+              "expanded_url": "https://x.com/ifzob/status/2061824340304576549/photo/1",
+              "media_key": "3_2061824336617783297",
+              "start": 50,
+              "url": "https://t.co/JAe2PwGdYj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061824340304576549",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061731575168196668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 翻译一下就知道 hy2 不准再用 insecure 了必须自己的证书 https://t.co/JAe2PwGdYj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 270,
+          "like_count": 3004,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 691
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T16:31:53.000Z",
+        "description": "Suka～",
+        "id": "2032857228919898112",
+        "location": "Hong Kong",
+        "name": "ufzab",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043701643188015104/Pc1lkNQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "ifzob",
+        "verified": false
+      }
+    ]
+  }
+}

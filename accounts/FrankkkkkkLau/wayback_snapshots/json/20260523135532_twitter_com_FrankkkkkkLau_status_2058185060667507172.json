@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2058139700800655382",
+    "created_at": "2026-05-23T13:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058185060667507172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055438029230309376",
+          "start": 0,
+          "username": "KoalaEngine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058185060667507172",
+    "in_reply_to_user_id": "2055438029230309376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058139700800655382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@KoalaEngine 喵喵喵?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2058139700800655382",
+        "created_at": "2026-05-23T13:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058185060667507172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055438029230309376",
+              "start": 0,
+              "username": "KoalaEngine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058185060667507172",
+        "in_reply_to_user_id": "2055438029230309376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058139700800655382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@KoalaEngine 喵喵喵?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055438029230309376",
+        "conversation_id": "2058139700800655382",
+        "created_at": "2026-05-23T10:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058139700800655382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058139700800655382",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 116,
+          "like_count": 2067,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 504
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-16T00:02:53.000Z",
+        "description": "Shanghai｜Tech & Bio｜05.26｜sister @ElysiumFengxuan | bestie @senzhiwu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "ElysiumFengxuan"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "senzhiwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.metc.uk",
+                "end": 23,
+                "expanded_url": "http://dash.metc.uk",
+                "start": 0,
+                "url": "https://t.co/5p4uMPYkFD"
+              }
+            ]
+          }
+        },
+        "id": "2055438029230309376",
+        "location": "127.0.0.1",
+        "name": "Muromi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2057804399473574329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055438942917533696/2yqlBVww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 28,
+          "like_count": 300,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/5p4uMPYkFD",
+        "username": "KoalaEngine",
+        "verified": true
+      }
+    ]
+  }
+}

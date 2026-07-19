@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075861007378096128",
+        "3_2075861371166822400"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2075753830504108211",
+    "created_at": "2026-07-11T08:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T09:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075861376975954098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1953393801340575744",
+          "start": 0,
+          "username": "n473428097803"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/flw8l3aYQe",
+          "end": 43,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2075861376975954098/photo/1",
+          "media_key": "3_2075861007378096128",
+          "start": 20,
+          "url": "https://t.co/flw8l3aYQe"
+        },
+        {
+          "display_url": "pic.x.com/flw8l3aYQe",
+          "end": 43,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2075861376975954098/photo/1",
+          "media_key": "3_2075861371166822400",
+          "start": 20,
+          "url": "https://t.co/flw8l3aYQe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075861376975954098",
+    "in_reply_to_user_id": "1953393801340575744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075820879595159868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n473428097803 草还真是 https://t.co/flw8l3aYQe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2075861007378096128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7wlnvbIAAa1VV.jpg",
+        "width": 2560
+      },
+      {
+        "height": 377,
+        "media_key": "3_2075861371166822400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7w6y9akAATWXq.png",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075861007378096128",
+            "3_2075861371166822400"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2075753830504108211",
+        "created_at": "2026-07-11T08:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075861376975954098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1953393801340575744",
+              "start": 0,
+              "username": "n473428097803"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/flw8l3aYQe",
+              "end": 43,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2075861376975954098/photo/1",
+              "media_key": "3_2075861007378096128",
+              "start": 20,
+              "url": "https://t.co/flw8l3aYQe"
+            },
+            {
+              "display_url": "pic.x.com/flw8l3aYQe",
+              "end": 43,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2075861376975954098/photo/1",
+              "media_key": "3_2075861371166822400",
+              "start": 20,
+              "url": "https://t.co/flw8l3aYQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075861376975954098",
+        "in_reply_to_user_id": "1953393801340575744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075820879595159868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n473428097803 草还真是 https://t.co/flw8l3aYQe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953393801340575744",
+        "conversation_id": "2075753830504108211",
+        "created_at": "2026-07-11T05:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075820879595159868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            },
+            {
+              "end": 28,
+              "id": "1900754238570893313",
+              "start": 15,
+              "username": "patchouli608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075820879595159868",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075784208866541660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau @patchouli608 这应该是被阻断了吧,我记得DNS污染应该是半红半绿的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 663,
+          "like_count": 7363,
+          "listed_count": 1,
+          "media_count": 325,
+          "tweet_count": 1494
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-07T09:52:50.000Z",
+        "description": "I love music",
+        "id": "1953393801340575744",
+        "name": "skth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958218963021893632/IQwGIsj8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 21,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "n473428097803",
+        "verified": false
+      }
+    ]
+  }
+}

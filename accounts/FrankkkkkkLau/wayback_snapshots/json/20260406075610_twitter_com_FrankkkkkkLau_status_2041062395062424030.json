@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2040453014151201064",
+    "created_at": "2026-04-06T07:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T08:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041062395062424030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1548619992001785859",
+          "start": 0,
+          "username": "frank7829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041062395062424030",
+    "in_reply_to_user_id": "1548619992001785859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041053812719226934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frank7829 不像()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2040453014151201064",
+        "created_at": "2026-04-06T07:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T08:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041062395062424030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1548619992001785859",
+              "start": 0,
+              "username": "frank7829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041062395062424030",
+        "in_reply_to_user_id": "1548619992001785859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041053812719226934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frank7829 不像()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548619992001785859",
+        "conversation_id": "2040453014151201064",
+        "created_at": "2026-04-06T07:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T08:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041053812719226934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041053812719226934",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040453014151201064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 所以我看着不像xyn吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn",
+                "start": 0,
+                "url": "https://t.co/5D7hSyVrfL"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 71,
+          "like_count": 1259,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 347
+        },
+        "url": "https://t.co/5D7hSyVrfL",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T10:46:02.000Z",
+        "description": "INFP Web / Game / Anime / 🚇🚌🚄🧳💻🧋🍥",
+        "id": "1548619992001785859",
+        "location": "Earth",
+        "name": "frank_782🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018390699918651392/hjysl7-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 108,
+          "like_count": 1019,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 586
+        },
+        "username": "frank7829",
+        "verified": false
+      }
+    ]
+  }
+}

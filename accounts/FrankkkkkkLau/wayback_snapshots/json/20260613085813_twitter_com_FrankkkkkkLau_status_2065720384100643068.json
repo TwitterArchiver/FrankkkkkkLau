@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2065719417711792403",
+    "created_at": "2026-06-13T08:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065720384100643068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1885557129588948992",
+          "start": 0,
+          "username": "jfrd163461"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065720384100643068",
+    "in_reply_to_user_id": "1885557129588948992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065719417711792403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jfrd163461 只显示大洲感觉怪怪的（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_2065719057328766976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKroibnWAAAjeaW.jpg",
+        "width": 1583
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2065719417711792403",
+        "created_at": "2026-06-13T08:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065720384100643068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "jfrd163461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065720384100643068",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065719417711792403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jfrd163461 只显示大洲感觉怪怪的（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065719057328766976"
+          ]
+        },
+        "author_id": "1885557129588948992",
+        "conversation_id": "2065719417711792403",
+        "created_at": "2026-06-13T08:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065719417711792403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mj14ehiaUf",
+              "end": 44,
+              "expanded_url": "https://x.com/jfrd163461/status/2065719417711792403/photo/1",
+              "media_key": "3_2065719057328766976",
+              "start": 21,
+              "url": "https://t.co/Mj14ehiaUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065719417711792403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的兩個賬戶\n另外一個是爲了防止馬斯克封 https://t.co/Mj14ehiaUf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 301,
+          "like_count": 3728,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 801
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Revolutionary Democratic Socialism\nOriginal Marxism\nCountryhuman lover\nDemocracy&Freedom\nHongkonger\nFree China\nLove Playing CS2\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼",
+        "id": "1885557129588948992",
+        "location": " Republic of China - Hong Kong",
+        "name": "+852 40609891 RDSKMTROC MP9 HONG KONG FREE🇭🇰",
+        "pinned_tweet_id": "2064295516813275641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064319480633688064/v47CQU6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 6592,
+          "like_count": 14716,
+          "listed_count": 5,
+          "media_count": 719,
+          "tweet_count": 4042
+        },
+        "username": "jfrd163461",
+        "verified": false
+      }
+    ]
+  }
+}

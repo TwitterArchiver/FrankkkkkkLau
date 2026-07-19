@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072265201660080129"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2072234592531341686",
+    "created_at": "2026-07-01T10:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T11:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072265292659687751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995146888249778177",
+          "start": 0,
+          "username": "Rin_Mashiro_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/43oBngtAff",
+          "end": 55,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2072265292659687751/photo/1",
+          "media_key": "3_2072265201660080129",
+          "start": 32,
+          "url": "https://t.co/43oBngtAff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072265292659687751",
+    "in_reply_to_user_id": "1995146888249778177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072255288762401137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin_Mashiro_ 我续不起了😭话说现在还有年付优惠吗 https://t.co/43oBngtAff"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 407,
+        "media_key": "3_2072265201660080129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIqOLlaMAEnisG.png",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072265201660080129"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2072234592531341686",
+        "created_at": "2026-07-01T10:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072265292659687751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995146888249778177",
+              "start": 0,
+              "username": "Rin_Mashiro_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/43oBngtAff",
+              "end": 55,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2072265292659687751/photo/1",
+              "media_key": "3_2072265201660080129",
+              "start": 32,
+              "url": "https://t.co/43oBngtAff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072265292659687751",
+        "in_reply_to_user_id": "1995146888249778177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072255288762401137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin_Mashiro_ 我续不起了😭话说现在还有年付优惠吗 https://t.co/43oBngtAff"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995146888249778177",
+        "conversation_id": "2072234592531341686",
+        "created_at": "2026-07-01T09:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072255288762401137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            },
+            {
+              "end": 28,
+              "id": "1519649212736049152",
+              "start": 15,
+              "username": "Mark67358226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072255288762401137",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072249096405168465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau @Mark67358226 还可以吧，土区首两月16.6一个月"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 525,
+          "like_count": 5841,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 1188
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T15:04:29.000Z",
+        "description": "ただの人間",
+        "id": "1995146888249778177",
+        "name": "Rin",
+        "pinned_tweet_id": "2071536949614276835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006297830823215106/c2krAf_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 38,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 619
+        },
+        "url": "",
+        "username": "Rin_Mashiro_",
+        "verified": true
+      }
+    ]
+  }
+}

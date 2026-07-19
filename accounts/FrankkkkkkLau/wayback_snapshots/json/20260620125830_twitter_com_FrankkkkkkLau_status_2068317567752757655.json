@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2068273985314529710",
+    "created_at": "2026-06-20T12:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068317567752757655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3238412713",
+          "start": 0,
+          "username": "isle1021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068317567752757655",
+    "in_reply_to_user_id": "3238412713",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068273985314529710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isle1021 😽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068273980994424832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLP8Oj9bEAAmjB1.jpg",
+        "width": 1034
+      },
+      {
+        "height": 568,
+        "media_key": "3_2068273981019578368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLP8OkDa4AAFS8f.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2068273985314529710",
+        "created_at": "2026-06-20T12:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068317567752757655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3238412713",
+              "start": 0,
+              "username": "isle1021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068317567752757655",
+        "in_reply_to_user_id": "3238412713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068273985314529710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isle1021 😽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068273980994424832",
+            "3_2068273981019578368"
+          ]
+        },
+        "author_id": "3238412713",
+        "conversation_id": "2068273985314529710",
+        "created_at": "2026-06-20T10:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068273985314529710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/51PzyikrvE",
+              "end": 64,
+              "expanded_url": "https://x.com/isle1021/status/2068273985314529710/photo/1",
+              "media_key": "3_2068273980994424832",
+              "start": 41,
+              "url": "https://t.co/51PzyikrvE"
+            },
+            {
+              "display_url": "pic.x.com/51PzyikrvE",
+              "end": 64,
+              "expanded_url": "https://x.com/isle1021/status/2068273985314529710/photo/1",
+              "media_key": "3_2068273981019578368",
+              "start": 41,
+              "url": "https://t.co/51PzyikrvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068273985314529710",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "FranKLauさんもバックありがとうございました！\n\nやはり中国人であります。 https://t.co/51PzyikrvE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 406,
+          "like_count": 4827,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 1001
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-07T01:50:39.000Z",
+        "description": "ジェファンだよ。こっちでは趣味のこととかふとした所感とか書いたりこんなことしたよみたいな報告的なことするよ サブ垢→@Neptunus1027\n\nあまりのエロさにスケベが大名行列だ！！！！！\n\n鼻血大噴水により江戸城無血開城\n大！！！ 失！！！ 敗！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "Neptunus1027"
+              }
+            ]
+          }
+        },
+        "id": "3238412713",
+        "location": "異能派芸人集団カスアベンジャーズ",
+        "name": "李在焕(旧名: 朝雾 千种, 仓光)",
+        "pinned_tweet_id": "2033489659427447000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066377081093820416/Hj55cFGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 942,
+          "like_count": 42985,
+          "listed_count": 13,
+          "media_count": 9349,
+          "tweet_count": 80080
+        },
+        "url": "",
+        "username": "isle1021",
+        "verified": false
+      }
+    ]
+  }
+}

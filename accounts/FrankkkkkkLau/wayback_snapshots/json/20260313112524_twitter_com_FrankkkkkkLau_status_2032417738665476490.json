@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2032101986712371505",
+    "created_at": "2026-03-13T11:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T12:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032417738665476490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1738933346535882752",
+          "start": 0,
+          "username": "MessAroundKing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032417738665476490",
+    "in_reply_to_user_id": "1738933346535882752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032101986712371505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MessAroundKing 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2032101986712371505",
+        "created_at": "2026-03-13T11:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T12:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032417738665476490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1738933346535882752",
+              "start": 0,
+              "username": "MessAroundKing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032417738665476490",
+        "in_reply_to_user_id": "1738933346535882752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032101986712371505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MessAroundKing 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738933346535882752",
+        "conversation_id": "2032101986712371505",
+        "created_at": "2026-03-12T14:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032101986712371505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032101986712371505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当你看到国补，首先想起来的不是国家补贴的话，你就完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "喜欢手冲咖啡",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 64,
+          "like_count": 1079,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 344
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T14:43:48.000Z",
+        "description": "我要变成女孩子！15岁无证含糖xyn(虽然再过两个月就16岁了)",
+        "id": "1738933346535882752",
+        "name": "🍥🏳️‍⚧️厌男厌女厌生物🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738933869246824448/JDwxF4ki_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 860,
+          "like_count": 6146,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 51
+        },
+        "username": "MessAroundKing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979385676052275200"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "1979385679433076828",
+    "created_at": "2025-10-18T03:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T04:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979385679433076828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8NXozDAzV6",
+          "end": 71,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/1979385679433076828/photo/1",
+          "media_key": "3_1979385676052275200",
+          "start": 48,
+          "url": "https://t.co/8NXozDAzV6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979385679433076828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讲真既然某些墙国平台这么爱搞\"ip属地\", 不如更进一步, 多加一个显示运营商或者as号的功能 https://t.co/8NXozDAzV6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 954,
+        "media_key": "3_1979385676052275200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3gwyP6XoAAeSMK.jpg",
+        "width": 1145
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979385676052275200"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "1979385679433076828",
+        "created_at": "2025-10-18T03:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T04:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979385679433076828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NXozDAzV6",
+              "end": 71,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/1979385679433076828/photo/1",
+              "media_key": "3_1979385676052275200",
+              "start": 48,
+              "url": "https://t.co/8NXozDAzV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979385679433076828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讲真既然某些墙国平台这么爱搞\"ip属地\", 不如更进一步, 多加一个显示运营商或者as号的功能 https://t.co/8NXozDAzV6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "很没耐心, 讨厌不讲信用的人",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 55,
+          "like_count": 669,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 276
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      }
+    ]
+  }
+}

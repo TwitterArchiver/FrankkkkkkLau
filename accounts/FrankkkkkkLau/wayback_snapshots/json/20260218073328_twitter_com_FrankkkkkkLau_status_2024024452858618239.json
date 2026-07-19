@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024024424320823299",
+        "3_2024024445132959744"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2023637595998327026",
+    "created_at": "2026-02-18T07:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024024452858618239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "116355740",
+          "start": 0,
+          "username": "9hills"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i7gUUGRVMP",
+          "end": 31,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2024024452858618239/photo/1",
+          "media_key": "3_2024024424320823299",
+          "start": 8,
+          "url": "https://t.co/i7gUUGRVMP"
+        },
+        {
+          "display_url": "pic.x.com/i7gUUGRVMP",
+          "end": 31,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2024024452858618239/photo/1",
+          "media_key": "3_2024024445132959744",
+          "start": 8,
+          "url": "https://t.co/i7gUUGRVMP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024024452858618239",
+    "in_reply_to_user_id": "116355740",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023637595998327026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9hills https://t.co/i7gUUGRVMP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 72,
+        "media_key": "3_2024024424320823299",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbHfXxbcAMIfSz.png",
+        "width": 401
+      },
+      {
+        "height": 71,
+        "media_key": "3_2024024445132959744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbHglTbcAAtjGc.png",
+        "width": 225
+      },
+      {
+        "height": 894,
+        "media_key": "3_2023636976189202432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBVnG7AaYAAPQxR.jpg",
+        "width": 1686
+      },
+      {
+        "height": 1156,
+        "media_key": "3_2023637110536953856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBVnOvfaYAARPQm.jpg",
+        "width": 1246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024024424320823299",
+            "3_2024024445132959744"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2023637595998327026",
+        "created_at": "2026-02-18T07:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024024452858618239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "116355740",
+              "start": 0,
+              "username": "9hills"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7gUUGRVMP",
+              "end": 31,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2024024452858618239/photo/1",
+              "media_key": "3_2024024424320823299",
+              "start": 8,
+              "url": "https://t.co/i7gUUGRVMP"
+            },
+            {
+              "display_url": "pic.x.com/i7gUUGRVMP",
+              "end": 31,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2024024452858618239/photo/1",
+              "media_key": "3_2024024445132959744",
+              "start": 8,
+              "url": "https://t.co/i7gUUGRVMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024024452858618239",
+        "in_reply_to_user_id": "116355740",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023637595998327026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9hills https://t.co/i7gUUGRVMP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023636976189202432",
+            "3_2023637110536953856"
+          ]
+        },
+        "author_id": "116355740",
+        "conversation_id": "2023637595998327026",
+        "created_at": "2026-02-17T05:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T06:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023637595998327026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5YessI1jJ",
+              "end": 178,
+              "expanded_url": "https://x.com/9hills/status/2023637595998327026/photo/1",
+              "media_key": "3_2023636976189202432",
+              "start": 155,
+              "url": "https://t.co/j5YessI1jJ"
+            },
+            {
+              "display_url": "pic.x.com/j5YessI1jJ",
+              "end": 178,
+              "expanded_url": "https://x.com/9hills/status/2023637595998327026/photo/1",
+              "media_key": "3_2023637110536953856",
+              "start": 155,
+              "url": "https://t.co/j5YessI1jJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023637595998327026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 32500,
+          "like_count": 139,
+          "quote_count": 3,
+          "reply_count": 36,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "对这种充斥着各种地方的AI文风绝望了，这套风格到底是哪个模型首创啊，烦死了。\n\n「不要」「死磕」「一句话总结」「要记住」「一套xxx计划」\n\n构造了个提示词测试了下（全都使用默认配置），AI味程度： GPT-5.2 = GLM-5 &gt; Gemini = Qwen-3.5  &gt;  DeepSeek https://t.co/j5YessI1jJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "喜欢手冲咖啡",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 62,
+          "like_count": 986,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 328
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-22T04:48:14.000Z",
+        "description": "喜欢一切美好的事物。目前聚焦在大模型领域。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ninehills.tech",
+                "end": 23,
+                "expanded_url": "https://ninehills.tech/",
+                "start": 0,
+                "url": "https://t.co/tSd6HULcAF"
+              }
+            ]
+          }
+        },
+        "id": "116355740",
+        "location": "北京, 中华人民共和国",
+        "name": "九原客",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509120377816969223/qzJBlcuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24380,
+          "following_count": 1034,
+          "like_count": 3593,
+          "listed_count": 412,
+          "media_count": 405,
+          "tweet_count": 5423
+        },
+        "url": "https://t.co/tSd6HULcAF",
+        "username": "9hills",
+        "verified": true
+      }
+    ]
+  }
+}

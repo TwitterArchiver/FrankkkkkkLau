@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075175033685876736"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2068244369963118854",
+    "created_at": "2026-07-09T11:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075175098991120699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065198058443620353",
+          "start": 0,
+          "username": "Autonomous667"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8uA8znbNJO",
+          "end": 41,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2075175098991120699/photo/1",
+          "media_key": "3_2075175033685876736",
+          "start": 18,
+          "url": "https://t.co/8uA8znbNJO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075175098991120699",
+    "in_reply_to_user_id": "2065198058443620353",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075173091077230995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autonomous667 0% https://t.co/8uA8znbNJO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1361,
+        "media_key": "3_2075175033685876736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyAssmbIAAzezI.jpg",
+        "width": 2559
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075175033685876736"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2068244369963118854",
+        "created_at": "2026-07-09T11:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075175098991120699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065198058443620353",
+              "start": 0,
+              "username": "Autonomous667"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8uA8znbNJO",
+              "end": 41,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2075175098991120699/photo/1",
+              "media_key": "3_2075175033685876736",
+              "start": 18,
+              "url": "https://t.co/8uA8znbNJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075175098991120699",
+        "in_reply_to_user_id": "2065198058443620353",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075173091077230995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autonomous667 0% https://t.co/8uA8znbNJO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065198058443620353",
+        "conversation_id": "2068244369963118854",
+        "created_at": "2026-07-09T10:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075173091077230995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075173091077230995",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068244369963118854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 110%warp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 654,
+          "like_count": 7134,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 1449
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T22:24:09.000Z",
+        "description": "如果想要进SimpleX群一起玩，私信，请，，， 或者给我发发邮件：114514@automous.lol 打赏地址（bsc/bep20）：0x30B9D214e5f9E935D934040dc13Aa1c1abD8296a 我先在这里放一堆申必emoji：🇹🇼🇭🇰🏳️‍⚧️🏳️‍🌈🍥🇦🇶🇧🇿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "automous.lol",
+                "end": 23,
+                "expanded_url": "https://automous.lol",
+                "start": 0,
+                "url": "https://t.co/cuxICd3LHR"
+              }
+            ]
+          }
+        },
+        "id": "2065198058443620353",
+        "location": "你家的床上",
+        "name": "🌊Autonomous🏳️‍⚧️🇹🇼🇳🇫🍥",
+        "pinned_tweet_id": "2067883740177821740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075088473640636416/qUpLrboB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 126,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1235
+        },
+        "url": "https://t.co/cuxICd3LHR",
+        "username": "Autonomous667",
+        "verified": true
+      }
+    ]
+  }
+}

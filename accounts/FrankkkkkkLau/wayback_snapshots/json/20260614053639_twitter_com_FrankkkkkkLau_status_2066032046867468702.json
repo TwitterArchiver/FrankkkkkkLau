@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066032040118808576"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2066012158761320738",
+    "created_at": "2026-06-14T05:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066032046867468702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1196460589",
+          "start": 0,
+          "username": "ygkkkg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hO65dU4gxJ",
+          "end": 31,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2066032046867468702/photo/1",
+          "media_key": "3_2066032040118808576",
+          "start": 8,
+          "url": "https://t.co/hO65dU4gxJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066032046867468702",
+    "in_reply_to_user_id": "1196460589",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066012158761320738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ygkkkg https://t.co/hO65dU4gxJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2066032040118808576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwFMbXbcAALZGk.png",
+        "width": 750
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066012145251450881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvzGZNbAAE78Cq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066032040118808576"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2066012158761320738",
+        "created_at": "2026-06-14T05:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066032046867468702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1196460589",
+              "start": 0,
+              "username": "ygkkkg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hO65dU4gxJ",
+              "end": 31,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2066032046867468702/photo/1",
+              "media_key": "3_2066032040118808576",
+              "start": 8,
+              "url": "https://t.co/hO65dU4gxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066032046867468702",
+        "in_reply_to_user_id": "1196460589",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066012158761320738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ygkkkg https://t.co/hO65dU4gxJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066012145251450881"
+          ]
+        },
+        "author_id": "1196460589",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066012158761320738",
+        "created_at": "2026-06-14T04:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066012158761320738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iTKXodMYoH",
+              "end": 47,
+              "expanded_url": "https://x.com/ygkkkg/status/2066012158761320738/photo/1",
+              "media_key": "3_2066012145251450881",
+              "start": 24,
+              "url": "https://t.co/iTKXodMYoH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066012158761320738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我手上这番茄🍅！像什么？\n\n请展开你的想象力😂 https://t.co/iTKXodMYoH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 307,
+          "like_count": 3861,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 817
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-19T09:17:50.000Z",
+        "description": "🔥被网友称为：“敏感风向标”+“露脸教程第一人”\n💥调侃：协议圈及金融圈内各大事件。\n🔴月底《侃侃墙》YouTube/X视频直播。\n脚本项目：https://t.co/fvh2bcfF9v\n博客地址：https://t.co/VtOzLvv3oT\n电报群组：https://t.co/ztwvyks4xg\n电报频道：https://t.co/Cf47V3IQeI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/yonggekkk",
+                "end": 94,
+                "expanded_url": "http://github.com/yonggekkk",
+                "start": 71,
+                "url": "https://t.co/fvh2bcfF9v"
+              },
+              {
+                "display_url": "ygkkk.blogspot.com",
+                "end": 123,
+                "expanded_url": "http://ygkkk.blogspot.com",
+                "start": 100,
+                "url": "https://t.co/VtOzLvv3oT"
+              },
+              {
+                "display_url": "t.me/ygkkktg",
+                "end": 152,
+                "expanded_url": "http://t.me/ygkkktg",
+                "start": 129,
+                "url": "https://t.co/ztwvyks4xg"
+              },
+              {
+                "display_url": "t.me/ygkkktgpd",
+                "end": 181,
+                "expanded_url": "http://t.me/ygkkktgpd",
+                "start": 158,
+                "url": "https://t.co/Cf47V3IQeI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ygkkk?sub_con…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ygkkk?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/SjVMlzKSV8"
+              }
+            ]
+          }
+        },
+        "id": "1196460589",
+        "location": "YouTube频道👉",
+        "name": "甬哥侃侃侃ygkkk",
+        "pinned_tweet_id": "2046484925491327299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610259832803831816/avGSnA5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11834,
+          "following_count": 201,
+          "like_count": 2518,
+          "listed_count": 51,
+          "media_count": 536,
+          "tweet_count": 3843
+        },
+        "url": "https://t.co/SjVMlzKSV8",
+        "username": "ygkkkg",
+        "verified": true
+      }
+    ]
+  }
+}

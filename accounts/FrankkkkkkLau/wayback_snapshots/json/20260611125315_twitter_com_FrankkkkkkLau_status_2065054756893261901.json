@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065054745715462144",
+        "3_2065054750383706112"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2065054756893261901",
+    "created_at": "2026-06-11T12:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065054756893261901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XaBHYFBxmk",
+          "end": 66,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2065054756893261901/photo/1",
+          "media_key": "3_2065054745715462144",
+          "start": 43,
+          "url": "https://t.co/XaBHYFBxmk"
+        },
+        {
+          "display_url": "pic.x.com/XaBHYFBxmk",
+          "end": 66,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2065054756893261901/photo/1",
+          "media_key": "3_2065054750383706112",
+          "start": 43,
+          "url": "https://t.co/XaBHYFBxmk"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2065049810940608861",
+          "start": 67,
+          "url": "https://t.co/qifRB43Az1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065054756893261901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065049810940608861",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以为什么有些账号用Web端看没有VPN标识, 手机端看就有。是什么新bug吗(?) https://t.co/XaBHYFBxmk https://t.co/qifRB43Az1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_2065054745715462144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiMWaAa0AA_V8-.jpg",
+        "width": 888
+      },
+      {
+        "height": 2479,
+        "media_key": "3_2065054750383706112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiMWrZakAArBNB.jpg",
+        "width": 1200
+      },
+      {
+        "height": 683,
+        "media_key": "3_2065049705252556801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiHxA0akAEZ-Je.png",
+        "width": 891
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065054745715462144",
+            "3_2065054750383706112"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2065054756893261901",
+        "created_at": "2026-06-11T12:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065054756893261901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XaBHYFBxmk",
+              "end": 66,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2065054756893261901/photo/1",
+              "media_key": "3_2065054745715462144",
+              "start": 43,
+              "url": "https://t.co/XaBHYFBxmk"
+            },
+            {
+              "display_url": "pic.x.com/XaBHYFBxmk",
+              "end": 66,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2065054756893261901/photo/1",
+              "media_key": "3_2065054750383706112",
+              "start": 43,
+              "url": "https://t.co/XaBHYFBxmk"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2065049810940608861",
+              "start": 67,
+              "url": "https://t.co/qifRB43Az1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065054756893261901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065049810940608861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以为什么有些账号用Web端看没有VPN标识, 手机端看就有。是什么新bug吗(?) https://t.co/XaBHYFBxmk https://t.co/qifRB43Az1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065049705252556801"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2065031300545917295",
+        "created_at": "2026-06-11T12:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065049810940608861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035758475209572352",
+              "start": 0,
+              "username": "LoveMikuBX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RKm1GjBuZ",
+              "end": 52,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2065049810940608861/photo/1",
+              "media_key": "3_2065049705252556801",
+              "start": 29,
+              "url": "https://t.co/6RKm1GjBuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065049810940608861",
+        "in_reply_to_user_id": "2035758475209572352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065031300545917295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveMikuBX 奇怪为什么网页端看没有vpn标识 https://t.co/6RKm1GjBuZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 295,
+          "like_count": 3593,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 791
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

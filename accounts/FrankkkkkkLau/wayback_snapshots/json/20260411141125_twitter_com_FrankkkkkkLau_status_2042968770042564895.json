@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2042517206354006439",
+    "created_at": "2026-04-11T14:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T15:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042968770042564895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904940313208369152",
+          "start": 0,
+          "username": "liim298489"
+        },
+        {
+          "end": 19,
+          "id": "2030455725374550016",
+          "start": 12,
+          "username": "AAcfun"
+        },
+        {
+          "end": 25,
+          "id": "1720665183188922368",
+          "start": 20,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042968770042564895",
+    "in_reply_to_user_id": "1904940313208369152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042957467903222159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liim298489 @AAcfun @grok 原来流量大了会被cloudflare dns污染和sni阻断吗, cloudflare也太坏了吧!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2042517206354006439",
+        "created_at": "2026-04-11T14:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042968770042564895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904940313208369152",
+              "start": 0,
+              "username": "liim298489"
+            },
+            {
+              "end": 19,
+              "id": "2030455725374550016",
+              "start": 12,
+              "username": "AAcfun"
+            },
+            {
+              "end": 25,
+              "id": "1720665183188922368",
+              "start": 20,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042968770042564895",
+        "in_reply_to_user_id": "1904940313208369152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042957467903222159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liim298489 @AAcfun @grok 原来流量大了会被cloudflare dns污染和sni阻断吗, cloudflare也太坏了吧!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904940313208369152",
+        "conversation_id": "2042517206354006439",
+        "created_at": "2026-04-11T13:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042957467903222159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2030455725374550016",
+              "start": 0,
+              "username": "AAcfun"
+            },
+            {
+              "end": 13,
+              "id": "1720665183188922368",
+              "start": 8,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042957467903222159",
+        "in_reply_to_user_id": "2030455725374550016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1900,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042517206354006439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAcfun @grok 用贴吧老哥的语气骂这个分不清cloudflare流量大和防火墙封禁的弱智"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/HVcVRe4I0g"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 72,
+          "like_count": 1367,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 368
+        },
+        "url": "https://t.co/HVcVRe4I0g",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T16:55:48.000Z",
+        "description": "",
+        "id": "1904940313208369152",
+        "name": "liim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904940361979748355/b8qOK6lH_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "liim298489",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T01:29:09.000Z",
+        "description": "是男孩子 | 2007 | 超级社恐、胆小 | 不建政 不聊H | 精神状态不稳定 | 回fo私信我喵 |没情商(如果回复的不好 原谅我...)",
+        "id": "2030455725374550016",
+        "location": "自己的小房间",
+        "name": "AAcfun",
+        "pinned_tweet_id": "2041147956926218646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030455820924903424/W2qzunzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 122,
+          "like_count": 5026,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 786
+        },
+        "username": "AAcfun",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8504839,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6587,
+          "media_count": 8807000,
+          "tweet_count": 122220727
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

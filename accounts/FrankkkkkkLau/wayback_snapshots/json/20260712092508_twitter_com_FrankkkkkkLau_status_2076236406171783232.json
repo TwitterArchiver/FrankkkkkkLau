@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076236239783825408"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2076236406171783232",
+    "created_at": "2026-07-12T09:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T10:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076236406171783232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9XqKs8X2Ax",
+          "end": 33,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2076236406171783232/photo/1",
+          "media_key": "3_2076236239783825408",
+          "start": 10,
+          "url": "https://t.co/9XqKs8X2Ax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076236406171783232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "马一龙怎么这么坏😭 https://t.co/9XqKs8X2Ax"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1329,
+        "media_key": "3_2076236239783825408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBF3BYbkAAXEHX.jpg",
+        "width": 2103
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076236239783825408"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2076236406171783232",
+        "created_at": "2026-07-12T09:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076236406171783232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9XqKs8X2Ax",
+              "end": 33,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2076236406171783232/photo/1",
+              "media_key": "3_2076236239783825408",
+              "start": 10,
+              "url": "https://t.co/9XqKs8X2Ax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076236406171783232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马一龙怎么这么坏😭 https://t.co/9XqKs8X2Ax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 672,
+          "like_count": 7557,
+          "listed_count": 1,
+          "media_count": 339,
+          "tweet_count": 1544
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075096365840183296"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2075096459230548329",
+    "created_at": "2026-07-09T05:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075096459230548329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h9A40lfbBF",
+          "end": 34,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2075096459230548329/photo/1",
+          "media_key": "3_2075096365840183296",
+          "start": 11,
+          "url": "https://t.co/h9A40lfbBF"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2075095916877631839",
+          "start": 35,
+          "url": "https://t.co/junf0QTYXr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075096459230548329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075095916877631839",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "web端显示好奇怪😳 https://t.co/h9A40lfbBF https://t.co/junf0QTYXr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 471,
+        "media_key": "3_2075096365840183296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMw5JoCbsAACJcG.png",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075096365840183296"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2075096459230548329",
+        "created_at": "2026-07-09T05:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075096459230548329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h9A40lfbBF",
+              "end": 34,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2075096459230548329/photo/1",
+              "media_key": "3_2075096365840183296",
+              "start": 11,
+              "url": "https://t.co/h9A40lfbBF"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2075095916877631839",
+              "start": 35,
+              "url": "https://t.co/junf0QTYXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075096459230548329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075095916877631839",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "web端显示好奇怪😳 https://t.co/h9A40lfbBF https://t.co/junf0QTYXr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2075092286808211499",
+        "created_at": "2026-07-09T05:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075095916877631839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075095916877631839",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075092286808211499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 常见的还有「麪」「麵」「裏」「裡」(?)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 654,
+          "like_count": 7093,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 1444
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

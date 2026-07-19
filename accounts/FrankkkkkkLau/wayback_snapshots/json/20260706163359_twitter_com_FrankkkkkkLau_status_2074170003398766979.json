@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2074163226133352577",
+    "created_at": "2026-07-06T16:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074170003398766979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2055900754968465408",
+          "start": 0,
+          "username": "conv1x1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074170003398766979",
+    "in_reply_to_user_id": "2055900754968465408",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074169777325760600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@conv1x1 Noooo😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2074163226133352577",
+        "created_at": "2026-07-06T16:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074170003398766979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055900754968465408",
+              "start": 0,
+              "username": "conv1x1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074170003398766979",
+        "in_reply_to_user_id": "2055900754968465408",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074169777325760600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@conv1x1 Noooo😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055900754968465408",
+        "conversation_id": "2074163226133352577",
+        "created_at": "2026-07-06T16:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074169777325760600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074169777325760600",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074163226133352577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau FL is a ?-year-old man,☝️presenting to the emergency room unconscious…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 612,
+          "like_count": 6706,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 1370
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T06:55:27.000Z",
+        "description": "怪人・lim社恐=+∞・某种奇怪的跨・infp&intp叠加态・喜欢［男, 女］孩子(闭区间)・千禧製・非二维・非线性・张量・什么时候给性别先安一个虚轴?・甚至可以跨物种?・傅立叶・贝叶斯・模拟?数字?连续?离散?・找到了神奇的介面・干什么都是半吊子・其实是个笨蛋\n如果误封锁了请一定联系我喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tat48760",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tat48760",
+                "start": 0,
+                "url": "https://t.co/cyyi2t9Aci"
+              }
+            ]
+          }
+        },
+        "id": "2055900754968465408",
+        "location": "其中一个投影的实例部署于太阳系",
+        "name": "uu （永远爱你们！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069073801414082560/0qmpBmzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 127,
+          "like_count": 2366,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/cyyi2t9Aci",
+        "username": "conv1x1",
+        "verified": false
+      }
+    ]
+  }
+}

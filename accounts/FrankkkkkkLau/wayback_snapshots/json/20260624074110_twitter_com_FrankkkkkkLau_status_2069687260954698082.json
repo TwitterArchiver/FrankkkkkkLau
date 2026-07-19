@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069687011670376448",
+        "3_2069687067408281601"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2069687260954698082",
+    "created_at": "2026-06-24T07:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T08:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069687260954698082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BQbcX5BRLX",
+          "end": 48,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2069687260954698082/photo/1",
+          "media_key": "3_2069687011670376448",
+          "start": 25,
+          "url": "https://t.co/BQbcX5BRLX"
+        },
+        {
+          "display_url": "pic.x.com/BQbcX5BRLX",
+          "end": 48,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2069687260954698082/photo/1",
+          "media_key": "3_2069687067408281601",
+          "start": 25,
+          "url": "https://t.co/BQbcX5BRLX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069687260954698082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次看到20+通知, 我还以为是炒作成功了呢😐 https://t.co/BQbcX5BRLX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 210,
+        "media_key": "3_2069687011670376448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkBXxbaQAATBzu.png",
+        "width": 314
+      },
+      {
+        "height": 1241,
+        "media_key": "3_2069687067408281601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkBbBEXMAEVsui.png",
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069687011670376448",
+            "3_2069687067408281601"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2069687260954698082",
+        "created_at": "2026-06-24T07:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069687260954698082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQbcX5BRLX",
+              "end": 48,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2069687260954698082/photo/1",
+              "media_key": "3_2069687011670376448",
+              "start": 25,
+              "url": "https://t.co/BQbcX5BRLX"
+            },
+            {
+              "display_url": "pic.x.com/BQbcX5BRLX",
+              "end": 48,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2069687260954698082/photo/1",
+              "media_key": "3_2069687067408281601",
+              "start": 25,
+              "url": "https://t.co/BQbcX5BRLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069687260954698082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次看到20+通知, 我还以为是炒作成功了呢😐 https://t.co/BQbcX5BRLX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 451,
+          "like_count": 5263,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 1082
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

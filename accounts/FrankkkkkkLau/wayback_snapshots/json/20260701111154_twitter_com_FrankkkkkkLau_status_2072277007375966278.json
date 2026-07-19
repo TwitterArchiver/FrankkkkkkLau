@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072276989390761984",
+        "3_2072276997569654784"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072277007375966278",
+    "created_at": "2026-07-01T11:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T12:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072277007375966278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1iGkqNK1bF",
+          "end": 51,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2072277007375966278/photo/1",
+          "media_key": "3_2072276989390761984",
+          "start": 28,
+          "url": "https://t.co/1iGkqNK1bF"
+        },
+        {
+          "display_url": "pic.x.com/1iGkqNK1bF",
+          "end": 51,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2072277007375966278/photo/1",
+          "media_key": "3_2072276997569654784",
+          "start": 28,
+          "url": "https://t.co/1iGkqNK1bF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072277007375966278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用科索沃节点访问b站, 主页和发的评论不会显示IP属地 https://t.co/1iGkqNK1bF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1313,
+        "media_key": "3_2072276989390761984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMI08UTaMAAXeIO.jpg",
+        "width": 1200
+      },
+      {
+        "height": 639,
+        "media_key": "3_2072276997569654784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMI08yxaMAAufTR.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072276989390761984",
+            "3_2072276997569654784"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072277007375966278",
+        "created_at": "2026-07-01T11:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072277007375966278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1iGkqNK1bF",
+              "end": 51,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2072277007375966278/photo/1",
+              "media_key": "3_2072276989390761984",
+              "start": 28,
+              "url": "https://t.co/1iGkqNK1bF"
+            },
+            {
+              "display_url": "pic.x.com/1iGkqNK1bF",
+              "end": 51,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2072277007375966278/photo/1",
+              "media_key": "3_2072276997569654784",
+              "start": 28,
+              "url": "https://t.co/1iGkqNK1bF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072277007375966278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用科索沃节点访问b站, 主页和发的评论不会显示IP属地 https://t.co/1iGkqNK1bF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 537,
+          "like_count": 5851,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 1190
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

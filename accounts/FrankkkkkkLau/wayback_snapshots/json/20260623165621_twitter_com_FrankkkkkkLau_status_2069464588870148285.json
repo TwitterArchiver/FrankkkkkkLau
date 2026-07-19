@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2069185056917410216",
+    "created_at": "2026-06-23T16:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T17:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069464588870148285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026081318497665024",
+          "start": 0,
+          "username": "852RDSFREEDOM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069464588870148285",
+    "in_reply_to_user_id": "2026081318497665024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069185056917410216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@852RDSFREEDOM 翻越防火牆的朋友的賬戶所在地會是其他國家😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2069185056917410216",
+        "created_at": "2026-06-23T16:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069464588870148285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026081318497665024",
+              "start": 0,
+              "username": "852RDSFREEDOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069464588870148285",
+        "in_reply_to_user_id": "2026081318497665024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069185056917410216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@852RDSFREEDOM 翻越防火牆的朋友的賬戶所在地會是其他國家😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026081318497665024",
+        "conversation_id": "2069185056917410216",
+        "created_at": "2026-06-22T22:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T23:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069185056917410216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069185056917410216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 483,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帳戶所在地出現China的\n應該是翻越防火牆的朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 452,
+          "like_count": 5231,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 1076
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-23T23:47:34.000Z",
+        "description": "Revolutionary Democratic Socialism\nOriginal Marxism\nCountryhuman lover\nDemocracy&Freedom\nHongkonger\nLove Playing CS2\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼",
+        "id": "2026081318497665024",
+        "location": "中華民國 香港特別市 ROC HK",
+        "name": "+852 4060 9891 ：（ 第二賬戶🎗️",
+        "pinned_tweet_id": "2067380533630505129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068240585102929920/2uQkaE_C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 292,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "852RDSFREEDOM",
+        "verified": false
+      }
+    ]
+  }
+}

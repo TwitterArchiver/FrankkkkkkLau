@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2064459857550287292",
+    "created_at": "2026-06-10T11:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064664339777511665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1865675525169000448",
+          "start": 0,
+          "username": "rued_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064664339777511665",
+    "in_reply_to_user_id": "1865675525169000448",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064663695255286147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rued_0 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2064459857550287292",
+        "created_at": "2026-06-10T11:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064664339777511665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1865675525169000448",
+              "start": 0,
+              "username": "rued_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064664339777511665",
+        "in_reply_to_user_id": "1865675525169000448",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064663695255286147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rued_0 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865675525169000448",
+        "conversation_id": "2064459857550287292",
+        "created_at": "2026-06-10T10:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064663695255286147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            },
+            {
+              "end": 26,
+              "id": "1885557129588948992",
+              "start": 15,
+              "username": "jfrd163461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064663695255286147",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064638664496517304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau @jfrd163461 🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 291,
+          "like_count": 3545,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 780
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-08T08:31:32.000Z",
+        "description": "Interested in Apple systems.",
+        "id": "1865675525169000448",
+        "name": "Fahd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064663764499140609/JugPM21n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 2,
+          "like_count": 1875,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 397
+        },
+        "username": "rued_0",
+        "verified": false
+      }
+    ]
+  }
+}

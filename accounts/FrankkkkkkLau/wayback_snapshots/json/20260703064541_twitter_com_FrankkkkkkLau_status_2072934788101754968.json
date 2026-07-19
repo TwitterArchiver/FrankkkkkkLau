@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2072655707498054003",
+    "created_at": "2026-07-03T06:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072934788101754968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942081492508905473",
+          "start": 0,
+          "username": "ABC20111222szx"
+        },
+        {
+          "end": 29,
+          "id": "1910893768498438146",
+          "start": 16,
+          "username": "mengxin66666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072934788101754968",
+    "in_reply_to_user_id": "1942081492508905473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072932779248300193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABC20111222szx @mengxin66666 到国内入口用ss没事的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2072655707498054003",
+        "created_at": "2026-07-03T06:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072934788101754968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942081492508905473",
+              "start": 0,
+              "username": "ABC20111222szx"
+            },
+            {
+              "end": 29,
+              "id": "1910893768498438146",
+              "start": 16,
+              "username": "mengxin66666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072934788101754968",
+        "in_reply_to_user_id": "1942081492508905473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072932779248300193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC20111222szx @mengxin66666 到国内入口用ss没事的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942081492508905473",
+        "conversation_id": "2072655707498054003",
+        "created_at": "2026-07-03T06:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072932779248300193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910893768498438146",
+              "start": 0,
+              "username": "mengxin66666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072932779248300193",
+        "in_reply_to_user_id": "1910893768498438146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072655707498054003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengxin66666 挂了一下午的梯子，结果协议写意是Shadowsocks，不会去世吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 550,
+          "like_count": 5958,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 1227
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T04:41:35.000Z",
+        "description": "16岁 初三喵 男生 身高163 / 55kg \n二次元+玩游戏+会点电脑+会发生活\n支持🏳️‍⚧️ 很友好\n不吃糖 不割手)\n求抱抱💕\n邮箱地址ABC20111222@outlook.com",
+        "id": "1942081492508905473",
+        "location": "冰岛",
+        "name": "𝕬𝖎𝖒𝖊𝖗¹☭🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071166294414524416/wJ-BJ88a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 449,
+          "like_count": 686,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "ABC20111222szx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T03:12:45.000Z",
+        "description": "男\n科技时政💻\n娱乐抽象休闲聊天📱\n写代码但很懒🖥️\n自由职业者🗺️\n有空会回复或互动任何人，如果有一段时间比较忙碌，会抽空回复的📱\n声明我没用自动化脚本和机器人回复😅",
+        "id": "1910893768498438146",
+        "location": "Hong Kong",
+        "name": "萌新_mengxin",
+        "pinned_tweet_id": "2070680055592960067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072015920420249600/1oZ6rrmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 194,
+          "like_count": 7232,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1239
+        },
+        "url": "",
+        "username": "mengxin66666",
+        "verified": false
+      }
+    ]
+  }
+}

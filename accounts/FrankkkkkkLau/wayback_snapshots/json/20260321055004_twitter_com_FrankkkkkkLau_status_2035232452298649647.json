@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035230743644053510"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2035173966701314552",
+    "created_at": "2026-03-21T05:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T06:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035232452298649647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1548619992001785859",
+          "start": 0,
+          "username": "frank7829"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uDq5efe6sp",
+          "end": 59,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2035232452298649647/photo/1",
+          "media_key": "3_2035230743644053510",
+          "start": 36,
+          "url": "https://t.co/uDq5efe6sp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035232452298649647",
+    "in_reply_to_user_id": "1548619992001785859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035173966701314552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frank7829 😫是不是在灰度测试(\n无痕模式有聊天框但是用不了 https://t.co/uDq5efe6sp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2035230743644053510",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6XlAbboAYJGx4.jpg",
+        "width": 937
+      },
+      {
+        "height": 2670,
+        "media_key": "3_2035173957629091841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD5j7oCboAE4pWd.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035230743644053510"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2035173966701314552",
+        "created_at": "2026-03-21T05:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T06:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035232452298649647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1548619992001785859",
+              "start": 0,
+              "username": "frank7829"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uDq5efe6sp",
+              "end": 59,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2035232452298649647/photo/1",
+              "media_key": "3_2035230743644053510",
+              "start": 36,
+              "url": "https://t.co/uDq5efe6sp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035232452298649647",
+        "in_reply_to_user_id": "1548619992001785859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035173966701314552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frank7829 😫是不是在灰度测试(\n无痕模式有聊天框但是用不了 https://t.co/uDq5efe6sp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035173957629091841"
+          ]
+        },
+        "author_id": "1548619992001785859",
+        "conversation_id": "2035173966701314552",
+        "created_at": "2026-03-21T01:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T02:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035173966701314552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yf0k4AmiiH",
+              "end": 42,
+              "expanded_url": "https://x.com/frank7829/status/2035173966701314552/photo/1",
+              "media_key": "3_2035173957629091841",
+              "start": 19,
+              "url": "https://t.co/Yf0k4AmiiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035173966701314552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "澳门现在也可以正常使用Gemini了 https://t.co/Yf0k4AmiiH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "喜欢手冲咖啡",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 66,
+          "like_count": 1146,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 355
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T10:46:02.000Z",
+        "description": "INFP Web / Game / Anime",
+        "id": "1548619992001785859",
+        "location": "Earth",
+        "name": "frank_782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018390699918651392/hjysl7-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 87,
+          "like_count": 862,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 486
+        },
+        "username": "frank7829",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2058927341221638459",
+    "created_at": "2026-05-26T10:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059216907069505695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "821277846526009344",
+          "start": 0,
+          "username": "123BoomClap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059216907069505695",
+    "in_reply_to_user_id": "821277846526009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059197896151740583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123BoomClap 不是, 大厂假中国ip而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2058927341221638459",
+        "created_at": "2026-05-26T10:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059216907069505695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "821277846526009344",
+              "start": 0,
+              "username": "123BoomClap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059216907069505695",
+        "in_reply_to_user_id": "821277846526009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059197896151740583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123BoomClap 不是, 大厂假中国ip而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "821277846526009344",
+        "conversation_id": "2058927341221638459",
+        "created_at": "2026-05-26T09:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059197896151740583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            },
+            {
+              "end": 24,
+              "id": "1584481383417724928",
+              "start": 15,
+              "username": "Sakie174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059197896151740583",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058959760586915897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau @Sakie174 你简介显示中国IP，是连公司或政府专线吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 135,
+          "like_count": 2229,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 548
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-17T08:47:52.000Z",
+        "description": "",
+        "id": "821277846526009344",
+        "location": "Jiangxi",
+        "name": "Ha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/821280000519221249/BOjPQ0ff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 191,
+          "like_count": 554,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 2924
+        },
+        "username": "123BoomClap",
+        "verified": false
+      }
+    ]
+  }
+}

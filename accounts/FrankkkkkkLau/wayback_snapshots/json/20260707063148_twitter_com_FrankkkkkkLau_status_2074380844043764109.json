@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2074371475205992613",
+    "created_at": "2026-07-07T06:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074380844043764109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1196460589",
+          "start": 0,
+          "username": "ygkkkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074380844043764109",
+    "in_reply_to_user_id": "1196460589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074380420213543224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ygkkkg 就试了几次, 他们之前应该是忘记限制区域了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2074371475205992613",
+        "created_at": "2026-07-07T06:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074380844043764109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1196460589",
+              "start": 0,
+              "username": "ygkkkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074380844043764109",
+        "in_reply_to_user_id": "1196460589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074380420213543224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ygkkkg 就试了几次, 他们之前应该是忘记限制区域了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1196460589",
+        "conversation_id": "2074371475205992613",
+        "created_at": "2026-07-07T06:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074380420213543224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074380420213543224",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074371475205992613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 这么快就被制裁了？你是不是用得太多了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 644,
+          "like_count": 6819,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 1400
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-19T09:17:50.000Z",
+        "description": "🔥网络技术与数字金融爱好者。\n🔴月底《侃侃墙》YouTube/X视频直播。\n脚本项目：https://t.co/fvh2bcfF9v\n博客地址：https://t.co/VtOzLvv3oT\n电报群组：https://t.co/ztwvyks4xg\n电报频道：https://t.co/Cf47V3IQeI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/yonggekkk",
+                "end": 66,
+                "expanded_url": "http://github.com/yonggekkk",
+                "start": 43,
+                "url": "https://t.co/fvh2bcfF9v"
+              },
+              {
+                "display_url": "ygkkk.blogspot.com",
+                "end": 95,
+                "expanded_url": "http://ygkkk.blogspot.com",
+                "start": 72,
+                "url": "https://t.co/VtOzLvv3oT"
+              },
+              {
+                "display_url": "t.me/ygkkktg",
+                "end": 124,
+                "expanded_url": "http://t.me/ygkkktg",
+                "start": 101,
+                "url": "https://t.co/ztwvyks4xg"
+              },
+              {
+                "display_url": "t.me/ygkkktgpd",
+                "end": 153,
+                "expanded_url": "http://t.me/ygkkktgpd",
+                "start": 130,
+                "url": "https://t.co/Cf47V3IQeI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ygkkk?sub_con…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ygkkk?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/SjVMlzKSV8"
+              }
+            ]
+          }
+        },
+        "id": "1196460589",
+        "location": "YouTube频道👉",
+        "name": "甬哥侃侃侃ygkkk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610259832803831816/avGSnA5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13050,
+          "following_count": 205,
+          "like_count": 2609,
+          "listed_count": 57,
+          "media_count": 472,
+          "tweet_count": 4353
+        },
+        "url": "https://t.co/SjVMlzKSV8",
+        "username": "ygkkkg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2050553893499896043",
+    "created_at": "2026-05-02T18:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T19:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050648660510413178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1738933346535882752",
+          "start": 0,
+          "username": "MessAroundKing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050648660510413178",
+    "in_reply_to_user_id": "1738933346535882752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050553893499896043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MessAroundKing 没事的, 你看我, 1068天了也跟你一样（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2050553882909270016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUH5Gea4AA8jDw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2050553893499896043",
+        "created_at": "2026-05-02T18:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050648660510413178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1738933346535882752",
+              "start": 0,
+              "username": "MessAroundKing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050648660510413178",
+        "in_reply_to_user_id": "1738933346535882752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050553893499896043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MessAroundKing 没事的, 你看我, 1068天了也跟你一样（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050553882909270016"
+          ]
+        },
+        "author_id": "1738933346535882752",
+        "conversation_id": "2050553893499896043",
+        "created_at": "2026-05-02T12:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050553893499896043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HVXdShRRNm",
+              "end": 40,
+              "expanded_url": "https://x.com/MessAroundKing/status/2050553893499896043/photo/1",
+              "media_key": "3_2050553882909270016",
+              "start": 17,
+              "url": "https://t.co/HVXdShRRNm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050553893499896043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么hrt60多天了还这么小🥺 https://t.co/HVXdShRRNm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 76,
+          "like_count": 1635,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 408
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T14:43:48.000Z",
+        "description": "我要变成女孩子！15岁无证含糖xyn(虽然再过两个月就16岁了)",
+        "id": "1738933346535882752",
+        "name": "🍥🏳️‍⚧️厌男厌女厌生物🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738933869246824448/JDwxF4ki_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 879,
+          "like_count": 6570,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 68
+        },
+        "username": "MessAroundKing",
+        "verified": false
+      }
+    ]
+  }
+}

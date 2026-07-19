@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2073359391701758402",
+    "created_at": "2026-07-04T11:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073368209307357387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1196460589",
+          "start": 0,
+          "username": "ygkkkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073368209307357387",
+    "in_reply_to_user_id": "1196460589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073359391701758402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ygkkkg 在北京或者上海的话还可以考虑办个9929家宽👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073359391701758402",
+        "created_at": "2026-07-04T11:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073368209307357387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1196460589",
+              "start": 0,
+              "username": "ygkkkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073368209307357387",
+        "in_reply_to_user_id": "1196460589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073359391701758402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ygkkkg 在北京或者上海的话还可以考虑办个9929家宽👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1196460589",
+        "conversation_id": "2073359391701758402",
+        "created_at": "2026-07-04T10:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073359391701758402"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073359391701758402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 677,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你最近要新办家庭宽带，还要经常翻墙代理上网，建议如下：\n\n1⃣首选中国联通，2⃣其次中国电信，3⃣最后中国移动。\n\n别问我为什么，你懂的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 570,
+          "like_count": 6195,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 1283
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-19T09:17:50.000Z",
+        "description": "🔥网络技术与数字金融爱好者。\n🔴月底《侃侃墙》YouTube/X视频直播。\n脚本项目：https://t.co/fvh2bcfF9v\n博客地址：https://t.co/VtOzLvv3oT\n电报群组：https://t.co/ztwvyks4xg\n电报频道：https://t.co/Cf47V3IQeI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/yonggekkk",
+                "end": 66,
+                "expanded_url": "http://github.com/yonggekkk",
+                "start": 43,
+                "url": "https://t.co/fvh2bcfF9v"
+              },
+              {
+                "display_url": "ygkkk.blogspot.com",
+                "end": 95,
+                "expanded_url": "http://ygkkk.blogspot.com",
+                "start": 72,
+                "url": "https://t.co/VtOzLvv3oT"
+              },
+              {
+                "display_url": "t.me/ygkkktg",
+                "end": 124,
+                "expanded_url": "http://t.me/ygkkktg",
+                "start": 101,
+                "url": "https://t.co/ztwvyks4xg"
+              },
+              {
+                "display_url": "t.me/ygkkktgpd",
+                "end": 153,
+                "expanded_url": "http://t.me/ygkkktgpd",
+                "start": 130,
+                "url": "https://t.co/Cf47V3IQeI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ygkkk?sub_con…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ygkkk?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/SjVMlzKSV8"
+              }
+            ]
+          }
+        },
+        "id": "1196460589",
+        "location": "YouTube频道👉",
+        "name": "甬哥侃侃侃ygkkk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610259832803831816/avGSnA5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12662,
+          "following_count": 202,
+          "like_count": 2630,
+          "listed_count": 55,
+          "media_count": 469,
+          "tweet_count": 4226
+        },
+        "url": "https://t.co/SjVMlzKSV8",
+        "username": "ygkkkg",
+        "verified": true
+      }
+    ]
+  }
+}

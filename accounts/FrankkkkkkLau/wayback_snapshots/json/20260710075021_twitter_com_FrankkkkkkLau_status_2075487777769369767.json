@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075487716289261568"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2075487777769369767",
+    "created_at": "2026-07-10T07:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T08:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075487777769369767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O5gHNR33z2",
+          "end": 25,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2075487777769369767/photo/1",
+          "media_key": "3_2075487716289261568",
+          "start": 2,
+          "url": "https://t.co/O5gHNR33z2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075487777769369767",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🧐 https://t.co/O5gHNR33z2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2075487716289261568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2dFOEbsAALaPc.png",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075487716289261568"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2075487777769369767",
+        "created_at": "2026-07-10T07:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075487777769369767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5gHNR33z2",
+              "end": 25,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2075487777769369767/photo/1",
+              "media_key": "3_2075487716289261568",
+              "start": 2,
+              "url": "https://t.co/O5gHNR33z2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075487777769369767",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🧐 https://t.co/O5gHNR33z2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 658,
+          "like_count": 7222,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 1466
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

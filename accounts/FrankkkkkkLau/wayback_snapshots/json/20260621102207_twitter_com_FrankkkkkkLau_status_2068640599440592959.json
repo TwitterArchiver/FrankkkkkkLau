@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2068601369548959843",
+    "created_at": "2026-06-21T10:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068640599440592959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1660586167807664129",
+          "start": 0,
+          "username": "ttttk567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068640599440592959",
+    "in_reply_to_user_id": "1660586167807664129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068640244396941811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttttk567 没有哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2068601369548959843",
+        "created_at": "2026-06-21T10:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068640599440592959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1660586167807664129",
+              "start": 0,
+              "username": "ttttk567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068640599440592959",
+        "in_reply_to_user_id": "1660586167807664129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068640244396941811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttttk567 没有哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660586167807664129",
+        "conversation_id": "2068601369548959843",
+        "created_at": "2026-06-21T10:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068640244396941811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068640244396941811",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068611585313317314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 难道你也🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 436,
+          "like_count": 5011,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 1034
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T09:59:37.000Z",
+        "description": "INTP / AuDHD ？ 经常刷新在作死的边缘 🥕\nLife is a creation, not a discovery.\n博客https://t.co/e90qOe4ADO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ak12s.icu",
+                "end": 90,
+                "expanded_url": "http://www.ak12s.icu",
+                "start": 67,
+                "url": "https://t.co/e90qOe4ADO"
+              }
+            ]
+          }
+        },
+        "id": "1660586167807664129",
+        "location": "nowhere",
+        "name": "上弦月",
+        "pinned_tweet_id": "2039014252552523879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066369584224198656/N9WKr45P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 1334,
+          "like_count": 2811,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 933
+        },
+        "url": "",
+        "username": "ttttk567",
+        "verified": true
+      }
+    ]
+  }
+}

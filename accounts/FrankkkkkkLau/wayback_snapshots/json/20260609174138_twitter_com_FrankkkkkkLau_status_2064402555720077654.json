@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2064204034664546673",
+    "created_at": "2026-06-09T17:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064402555720077654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1754281253187051520",
+          "start": 0,
+          "username": "Riric65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064402555720077654",
+    "in_reply_to_user_id": "1754281253187051520",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064400225041600917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riric65 😿Sorry to hear that"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2064204034664546673",
+        "created_at": "2026-06-09T17:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064402555720077654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1754281253187051520",
+              "start": 0,
+              "username": "Riric65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064402555720077654",
+        "in_reply_to_user_id": "1754281253187051520",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064400225041600917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riric65 😿Sorry to hear that"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754281253187051520",
+        "conversation_id": "2064204034664546673",
+        "created_at": "2026-06-09T17:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064400225041600917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064400225041600917",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064204034664546673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau Yes 53% ??-\nBro this is crazy\nFrance is coming onto that, mostly sure"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 289,
+          "like_count": 3504,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 769
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-04T23:10:36.000Z",
+        "description": "One of the only persons on Earth who ask himself, Wait, but 0 is actually bigger than Infinity, right ?\n\n26/02/2026: If you love drama you maybe saw me a day.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ricworld.duckdns.org",
+                "end": 23,
+                "expanded_url": "https://ricworld.duckdns.org/",
+                "start": 0,
+                "url": "https://t.co/z6dOSUgkBx"
+              }
+            ]
+          }
+        },
+        "id": "1754281253187051520",
+        "location": "My house",
+        "name": "Riric",
+        "pinned_tweet_id": "1984636445936513418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754281329053560832/k3lXL2zr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 710,
+          "like_count": 23951,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 3725
+        },
+        "url": "https://t.co/z6dOSUgkBx",
+        "username": "Riric65",
+        "verified": false
+      }
+    ]
+  }
+}

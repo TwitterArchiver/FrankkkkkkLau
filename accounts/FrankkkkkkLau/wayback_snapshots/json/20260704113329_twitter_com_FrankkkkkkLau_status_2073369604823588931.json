@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2073328481493229985",
+    "created_at": "2026-07-04T11:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073369604823588931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1805567007322259460",
+          "start": 0,
+          "username": "HOTxFISH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073369604823588931",
+    "in_reply_to_user_id": "1805567007322259460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073366439751532760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HOTxFISH 这个是境外vps套warp\n不过内地有些地方直连也能连上的👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073328481493229985",
+        "created_at": "2026-07-04T11:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073369604823588931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805567007322259460",
+              "start": 0,
+              "username": "HOTxFISH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073369604823588931",
+        "in_reply_to_user_id": "1805567007322259460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073366439751532760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HOTxFISH 这个是境外vps套warp\n不过内地有些地方直连也能连上的👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805567007322259460",
+        "conversation_id": "2073328481493229985",
+        "created_at": "2026-07-04T11:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073366439751532760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073366439751532760",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073328481493229985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 不是早用不了了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 570,
+          "like_count": 6201,
+          "listed_count": 1,
+          "media_count": 286,
+          "tweet_count": 1288
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-25T11:41:44.000Z",
+        "description": "",
+        "id": "1805567007322259460",
+        "location": "魔仙堡",
+        "name": "ICE FISH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994073132148088832/b-jOpKcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 57,
+          "like_count": 2708,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "HOTxFISH",
+        "verified": false
+      }
+    ]
+  }
+}

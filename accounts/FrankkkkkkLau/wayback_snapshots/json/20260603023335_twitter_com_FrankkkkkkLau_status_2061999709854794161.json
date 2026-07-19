@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2061969617019625959",
+    "created_at": "2026-06-03T02:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T03:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061999709854794161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3318278592",
+          "start": 0,
+          "username": "BigglesworthX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061999709854794161",
+    "in_reply_to_user_id": "3318278592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061969617019625959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigglesworthX 小蛛可爱, 摸摸🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1277,
+        "media_key": "3_2061969582458609664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2WaRQbIAAyYKg.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2061969617019625959",
+        "created_at": "2026-06-03T02:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061999709854794161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3318278592",
+              "start": 0,
+              "username": "BigglesworthX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061999709854794161",
+        "in_reply_to_user_id": "3318278592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061969617019625959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigglesworthX 小蛛可爱, 摸摸🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061969582458609664"
+          ]
+        },
+        "author_id": "3318278592",
+        "conversation_id": "2061969617019625959",
+        "created_at": "2026-06-03T00:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061969617019625959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOFe0I5PQr",
+              "end": 30,
+              "expanded_url": "https://x.com/BigglesworthX/status/2061969617019625959/photo/1",
+              "media_key": "3_2061969582458609664",
+              "start": 7,
+              "url": "https://t.co/KOFe0I5PQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061969617019625959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要害怕蜘蛛 https://t.co/KOFe0I5PQr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 270,
+          "like_count": 3034,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 695
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider | Banned in 106 Chinese transgender chat group for posting spider pictures.",
+        "id": "3318278592",
+        "location": "San Francisco",
+        "name": "Hoggicosa bisexsual",
+        "pinned_tweet_id": "2038488362190020638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 864,
+          "like_count": 3193,
+          "listed_count": 4,
+          "media_count": 1375,
+          "tweet_count": 6802
+        },
+        "username": "BigglesworthX",
+        "verified": true
+      }
+    ]
+  }
+}

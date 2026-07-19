@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025579906902749184",
+        "3_2025580048426860544"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025580127598661927",
+    "created_at": "2026-02-22T14:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T15:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025580127598661927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9pGBe8zI6J",
+          "end": 35,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2025580127598661927/photo/1",
+          "media_key": "3_2025579906902749184",
+          "start": 12,
+          "url": "https://t.co/9pGBe8zI6J"
+        },
+        {
+          "display_url": "pic.x.com/9pGBe8zI6J",
+          "end": 35,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2025580127598661927/photo/1",
+          "media_key": "3_2025580048426860544",
+          "start": 12,
+          "url": "https://t.co/9pGBe8zI6J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025580127598661927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "bmpt四杀出核弹😱😢 https://t.co/9pGBe8zI6J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2025579906902749184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxOMX8bcAAJbg-.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2025580048426860544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxOUnKaAAAgOMY.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025579906902749184",
+            "3_2025580048426860544"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025580127598661927",
+        "created_at": "2026-02-22T14:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025580127598661927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9pGBe8zI6J",
+              "end": 35,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2025580127598661927/photo/1",
+              "media_key": "3_2025579906902749184",
+              "start": 12,
+              "url": "https://t.co/9pGBe8zI6J"
+            },
+            {
+              "display_url": "pic.x.com/9pGBe8zI6J",
+              "end": 35,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2025580127598661927/photo/1",
+              "media_key": "3_2025580048426860544",
+              "start": 12,
+              "url": "https://t.co/9pGBe8zI6J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025580127598661927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bmpt四杀出核弹😱😢 https://t.co/9pGBe8zI6J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "喜欢手冲咖啡",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 63,
+          "like_count": 1017,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 335
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      }
+    ]
+  }
+}

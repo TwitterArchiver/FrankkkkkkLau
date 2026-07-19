@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2066195701940568187",
+    "created_at": "2026-06-14T16:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066196925431545987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2037575598730584064",
+          "start": 0,
+          "username": "SerenAzuma_HK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066196925431545987",
+    "in_reply_to_user_id": "2037575598730584064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066195701940568187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SerenAzuma_HK 👮👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2066195701940568187",
+        "created_at": "2026-06-14T16:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066196925431545987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2037575598730584064",
+              "start": 0,
+              "username": "SerenAzuma_HK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066196925431545987",
+        "in_reply_to_user_id": "2037575598730584064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066195701940568187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SerenAzuma_HK 👮👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037575598730584064",
+        "conversation_id": "2066195701940568187",
+        "created_at": "2026-06-14T16:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066195701940568187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066195701940568187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有黑皮视奸吧？没有黑皮视奸吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 319,
+          "like_count": 4020,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 855
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-27T17:01:04.000Z",
+        "description": "蓮の贰号機|一般通过社民入🌹🇪🇺坚定的进步主义战士|友跨暂未翻车 激挺LGBT🏳️‍🌈🏳️‍⚧️",
+        "id": "2037575598730584064",
+        "name": "東洋蓮花酥🌹🏳️‍🌈🏳️‍⚧️互fo寻回",
+        "pinned_tweet_id": "2065718823307895206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054195788482506752/IvaYamSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 234,
+          "like_count": 2659,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 321
+        },
+        "username": "SerenAzuma_HK",
+        "verified": false
+      }
+    ]
+  }
+}

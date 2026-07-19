@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2069687260954698082",
+    "created_at": "2026-06-24T15:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T16:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069799828977258686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 27,
+          "id": "1105278946168397824",
+          "start": 16,
+          "username": "iseki_zero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069799828977258686",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069797593874596255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen @iseki_zero 羡慕🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2069687260954698082",
+        "created_at": "2026-06-24T15:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069799828977258686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 27,
+              "id": "1105278946168397824",
+              "start": 16,
+              "username": "iseki_zero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069799828977258686",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069797593874596255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @iseki_zero 羡慕🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2069687260954698082",
+        "created_at": "2026-06-24T14:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069797593874596255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1105278946168397824",
+              "start": 0,
+              "username": "iseki_zero"
+            },
+            {
+              "end": 26,
+              "id": "1672761170040692739",
+              "start": 12,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069797593874596255",
+        "in_reply_to_user_id": "1105278946168397824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069796930331550050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iseki_zero @FrankkkkkkLau 习惯成自然了已经。環状線最开始看到 20+ 的时候非常高兴，因为当时很少能见到 20+ 的情况。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 459,
+          "like_count": 5314,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 1093
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7846,
+          "following_count": 870,
+          "like_count": 27955,
+          "listed_count": 11,
+          "media_count": 1679,
+          "tweet_count": 8844
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-12T01:26:50.000Z",
+        "description": "26🚹中国人です | 愿能得到ミク的怀抱。鍵垢 @iseki_stderr\n退堂鼓国家一级演奏员",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "iseki_stderr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "iseki.space",
+                "end": 23,
+                "expanded_url": "https://iseki.space",
+                "start": 0,
+                "url": "https://t.co/Rszp41wncX"
+              }
+            ]
+          }
+        },
+        "id": "1105278946168397824",
+        "location": "Next⇒神様いる場所",
+        "name": "iseki",
+        "pinned_tweet_id": "2034968369758445588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223461934428614657/HelElVGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 1589,
+          "like_count": 33288,
+          "listed_count": 6,
+          "media_count": 187,
+          "tweet_count": 9441
+        },
+        "url": "https://t.co/Rszp41wncX",
+        "username": "iseki_zero",
+        "verified": true
+      }
+    ]
+  }
+}

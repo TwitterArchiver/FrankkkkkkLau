@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058929599174873088"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2058755542835925454",
+    "created_at": "2026-05-25T15:14:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:14:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058929652857733218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1953384843519336448",
+          "start": 0,
+          "username": "haomingzi445"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vRgLlqSPkh",
+          "end": 39,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2058929652857733218/photo/1",
+          "media_key": "3_2058929599174873088",
+          "start": 16,
+          "url": "https://t.co/vRgLlqSPkh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058929652857733218",
+    "in_reply_to_user_id": "1953384843519336448",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058928536954839422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haomingzi445 😡 https://t.co/vRgLlqSPkh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 783,
+        "media_key": "3_2058929599174873088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLJj9BbEAA532T.jpg",
+        "width": 972
+      },
+      {
+        "height": 2244,
+        "media_key": "3_2058928533498671105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLIl7EasAEukVJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058929599174873088"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2058755542835925454",
+        "created_at": "2026-05-25T15:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058929652857733218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1953384843519336448",
+              "start": 0,
+              "username": "haomingzi445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vRgLlqSPkh",
+              "end": 39,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2058929652857733218/photo/1",
+              "media_key": "3_2058929599174873088",
+              "start": 16,
+              "url": "https://t.co/vRgLlqSPkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058929652857733218",
+        "in_reply_to_user_id": "1953384843519336448",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058928536954839422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haomingzi445 😡 https://t.co/vRgLlqSPkh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058928533498671105"
+          ]
+        },
+        "author_id": "1953384843519336448",
+        "conversation_id": "2058755542835925454",
+        "created_at": "2026-05-25T15:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058928536954839422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ehsMhTkJKH",
+              "end": 49,
+              "expanded_url": "https://x.com/haomingzi445/status/2058928536954839422/photo/1",
+              "media_key": "3_2058928533498671105",
+              "start": 26,
+              "url": "https://t.co/ehsMhTkJKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058928536954839422",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058755542835925454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 等會 原生ip哪搞得 https://t.co/ehsMhTkJKH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 130,
+          "like_count": 2174,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 531
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-07T09:17:11.000Z",
+        "description": "",
+        "id": "1953384843519336448",
+        "name": "好名字",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954004000958988288/FGAgueou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 41,
+          "like_count": 5215,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 551
+        },
+        "username": "haomingzi445",
+        "verified": false
+      }
+    ]
+  }
+}

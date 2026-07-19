@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2064274145001734460",
+    "created_at": "2026-06-09T17:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064405933003022695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1365978273042354177",
+          "start": 0,
+          "username": "pingJinXi_4698"
+        },
+        {
+          "end": 27,
+          "id": "1885557129588948992",
+          "start": 16,
+          "username": "jfrd163461"
+        },
+        {
+          "end": 39,
+          "id": "1813768883540725760",
+          "start": 28,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064405933003022695",
+    "in_reply_to_user_id": "1365978273042354177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064338660544422186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingJinXi_4698 @jfrd163461 @ye_and_yae cernet也有墙的, 这个应该只是在学校电脑上装了翻墙软件而已）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2064274145001734460",
+        "created_at": "2026-06-09T17:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064405933003022695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1365978273042354177",
+              "start": 0,
+              "username": "pingJinXi_4698"
+            },
+            {
+              "end": 27,
+              "id": "1885557129588948992",
+              "start": 16,
+              "username": "jfrd163461"
+            },
+            {
+              "end": 39,
+              "id": "1813768883540725760",
+              "start": 28,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064405933003022695",
+        "in_reply_to_user_id": "1365978273042354177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064338660544422186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingJinXi_4698 @jfrd163461 @ye_and_yae cernet也有墙的, 这个应该只是在学校电脑上装了翻墙软件而已）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365978273042354177",
+        "conversation_id": "2064274145001734460",
+        "created_at": "2026-06-09T13:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064338660544422186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "jfrd163461"
+            },
+            {
+              "end": 23,
+              "id": "1813768883540725760",
+              "start": 12,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064338660544422186",
+        "in_reply_to_user_id": "1365978273042354177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064336227835449347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jfrd163461 @ye_and_yae cernet 科研直连专线"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 289,
+          "like_count": 3507,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 773
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-28T10:53:33.000Z",
+        "description": "本人支持台湾🇹🇼不是中华人民共和国🇨🇳一部分。本人是中国共产党员以及二等功退役军人。本人反对习近平治国理政。#8964  #习近平\n都说了我在北京西城区怎么有人还不信。\n【辱骂攻击的简体中文🇨🇳用户直接拉黑，不解释。】  喜欢玩梗和讨论政治以及恶搞修图。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 61,
+                "tag": "习近平"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "uncyclopedia.tw/wiki/%E4%B8%AD…",
+                "end": 23,
+                "expanded_url": "https://uncyclopedia.tw/wiki/%E4%B8%AD%E5%85%B1%E6%9C%AB%E4%BB%A3%E7%B8%BD%E6%9B%B8%E8%A8%98",
+                "start": 0,
+                "url": "https://t.co/uRdBkbID8Z"
+              }
+            ]
+          }
+        },
+        "id": "1365978273042354177",
+        "location": "北京市西城区西长安街",
+        "name": "徐俊鹏",
+        "pinned_tweet_id": "2064289399270183115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922150843622776832/xiEqJ8oJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 61,
+          "like_count": 3516,
+          "listed_count": 3,
+          "media_count": 304,
+          "tweet_count": 2812
+        },
+        "url": "https://t.co/uRdBkbID8Z",
+        "username": "pingJinXi_4698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Revolutionary Democratic Socialism\nOriginal Marxism\nCountryhuman lover\nDemocracy&Freedom\nHongkonger\nFree China\nLove Playing CS2\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼",
+        "id": "1885557129588948992",
+        "location": " Republic of China - Hong Kong",
+        "name": "+852 40609891 RDSKMTROC MP9 HONG KONG FREE🇭🇰",
+        "pinned_tweet_id": "2042964092470620631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064319480633688064/v47CQU6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 6304,
+          "like_count": 14009,
+          "listed_count": 5,
+          "media_count": 677,
+          "tweet_count": 3850
+        },
+        "username": "jfrd163461",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "09/01/26  快到期的高三mtx 有时含糖   喜欢航天 二次元     禁止od自残\nmaster @yesterdayorange \n大好き @gcjl9188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 54,
+                "username": "yesterdayorange"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "gcjl9188"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "Starbase TX",
+        "name": "🚀爱晔🍥",
+        "pinned_tweet_id": "2064223136820953315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056435388680716288/GYePUBtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 974,
+          "like_count": 5054,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 2949
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      }
+    ]
+  }
+}

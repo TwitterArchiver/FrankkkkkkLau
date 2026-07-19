@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2057736251818840249",
+    "created_at": "2026-05-22T08:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T09:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057739388730442093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1339970196488916992",
+          "start": 0,
+          "username": "jichangtj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057739388730442093",
+    "in_reply_to_user_id": "1339970196488916992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057736251818840249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jichangtj 是不是用了默认填充方案, 然后sni用apple[.]com, 允许不安全"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2057736251818840249",
+        "created_at": "2026-05-22T08:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057739388730442093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339970196488916992",
+              "start": 0,
+              "username": "jichangtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057739388730442093",
+        "in_reply_to_user_id": "1339970196488916992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057736251818840249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jichangtj 是不是用了默认填充方案, 然后sni用apple[.]com, 允许不安全"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339970196488916992",
+        "conversation_id": "2057736251818840249",
+        "created_at": "2026-05-22T08:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057736251818840249"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "VPN"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "机场"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057736251818840249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "部分Anytls 协议直连/海外中转 #VPN #机场 的IPv4 IP节点被墙，更换 IP 也会秒墙，IPv6正常。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你2.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 97,
+          "like_count": 1941,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-18T16:26:13.000Z",
+        "description": "机场推荐与机场评测，机场测速： https://t.co/m0239ZQgkf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3fdHzbp",
+                "end": 39,
+                "expanded_url": "http://bit.ly/3fdHzbp",
+                "start": 16,
+                "url": "https://t.co/m0239ZQgkf"
+              }
+            ]
+          }
+        },
+        "id": "1339970196488916992",
+        "name": "科学上网观察与机场推荐/评测",
+        "pinned_tweet_id": "1851605399746814148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656637181316980737/McwC5pL8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16670,
+          "following_count": 0,
+          "like_count": 22,
+          "listed_count": 66,
+          "media_count": 67,
+          "tweet_count": 454
+        },
+        "username": "jichangtj",
+        "verified": false
+      }
+    ]
+  }
+}

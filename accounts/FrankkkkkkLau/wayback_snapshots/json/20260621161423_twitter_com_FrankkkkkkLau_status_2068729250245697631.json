@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068729243668987904"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2068729250245697631",
+    "created_at": "2026-06-21T16:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068729250245697631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LB3Erx8pAO",
+          "end": 34,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2068729250245697631/photo/1",
+          "media_key": "3_2068729243668987904",
+          "start": 11,
+          "url": "https://t.co/LB3Erx8pAO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068729250245697631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "将军怎么也在网上冲浪 https://t.co/LB3Erx8pAO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2608,
+        "media_key": "3_2068729243668987904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWaSVlaQAAV1Rs.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068729243668987904"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2068729250245697631",
+        "created_at": "2026-06-21T16:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068729250245697631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LB3Erx8pAO",
+              "end": 34,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2068729250245697631/photo/1",
+              "media_key": "3_2068729243668987904",
+              "start": 11,
+              "url": "https://t.co/LB3Erx8pAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068729250245697631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "将军怎么也在网上冲浪 https://t.co/LB3Erx8pAO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 436,
+          "like_count": 5041,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 1036
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

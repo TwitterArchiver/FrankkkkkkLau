@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2041763998551699658",
+    "created_at": "2026-04-08T07:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T08:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041774835664351314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1574074484239503361",
+          "start": 0,
+          "username": "a1ka1emia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041774835664351314",
+    "in_reply_to_user_id": "1574074484239503361",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041763998551699658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1ka1emia 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2041763998551699658",
+        "created_at": "2026-04-08T07:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T08:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041774835664351314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1574074484239503361",
+              "start": 0,
+              "username": "a1ka1emia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041774835664351314",
+        "in_reply_to_user_id": "1574074484239503361",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041763998551699658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1ka1emia 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574074484239503361",
+        "conversation_id": "2041763998551699658",
+        "created_at": "2026-04-08T06:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041763998551699658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041763998551699658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咖啡比烟难戒多了🙄每天都喝1.5l+的咖啡真的戒不掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/HVcVRe4I0g"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 71,
+          "like_count": 1306,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/HVcVRe4I0g",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T16:32:57.000Z",
+        "description": "临期dk 酷儿 精神病 安人 五批 我喜欢音乐 生物和泛ACGN。我经常性的锐评不含任何恶意。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/Z0CNdLtcFs"
+              }
+            ]
+          }
+        },
+        "id": "1574074484239503361",
+        "location": "你家床底下",
+        "name": "假没睡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907470622986555393/IRQJjcxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 1803,
+          "like_count": 118194,
+          "listed_count": 9,
+          "media_count": 257,
+          "tweet_count": 4392
+        },
+        "url": "https://t.co/Z0CNdLtcFs",
+        "username": "a1ka1emia",
+        "verified": false
+      }
+    ]
+  }
+}

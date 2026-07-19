@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2051323082795778128",
+    "created_at": "2026-05-04T15:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T16:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051323910533288352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1738933346535882752",
+          "start": 0,
+          "username": "MessAroundKing"
+        },
+        {
+          "end": 32,
+          "id": "2038637994366685184",
+          "start": 16,
+          "username": "H1f8EKnTp820924"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051323910533288352",
+    "in_reply_to_user_id": "1738933346535882752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051323082795778128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MessAroundKing @H1f8EKnTp820924 羡慕呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2051323082795778128",
+        "created_at": "2026-05-04T15:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051323910533288352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1738933346535882752",
+              "start": 0,
+              "username": "MessAroundKing"
+            },
+            {
+              "end": 32,
+              "id": "2038637994366685184",
+              "start": 16,
+              "username": "H1f8EKnTp820924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051323910533288352",
+        "in_reply_to_user_id": "1738933346535882752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051323082795778128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MessAroundKing @H1f8EKnTp820924 羡慕呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738933346535882752",
+        "conversation_id": "2051323082795778128",
+        "created_at": "2026-05-04T15:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051323082795778128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2038637994366685184",
+              "start": 6,
+              "username": "H1f8EKnTp820924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051323082795778128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我对象😋@H1f8EKnTp820924"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 76,
+          "like_count": 1652,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T14:43:48.000Z",
+        "description": "我要变成女孩子！15岁无证含糖xyn(虽然再过两个月就16岁了)\n对象:@H1f8EKnTp820924",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "H1f8EKnTp820924"
+              }
+            ]
+          }
+        },
+        "id": "1738933346535882752",
+        "name": "🍥🏳️‍⚧️厌男厌女厌生物🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738933869246824448/JDwxF4ki_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 932,
+          "like_count": 6694,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 91
+        },
+        "username": "MessAroundKing",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T15:22:54.000Z",
+        "description": "生产日期2010年|跨女🍥|精神不好|已休学|暂时无业",
+        "id": "2038637994366685184",
+        "name": "蚀风🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038644880004775936/EgG3TXGD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 18,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "H1f8EKnTp820924",
+        "verified": false
+      }
+    ]
+  }
+}

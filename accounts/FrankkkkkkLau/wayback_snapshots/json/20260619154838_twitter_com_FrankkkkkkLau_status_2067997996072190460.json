@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2067995394978767213",
+    "created_at": "2026-06-19T15:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067997996072190460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1803617517841305600",
+          "start": 0,
+          "username": "www1159789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067997996072190460",
+    "in_reply_to_user_id": "1803617517841305600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067995394978767213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@www1159789 咪——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2067995394978767213",
+        "created_at": "2026-06-19T15:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067997996072190460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1803617517841305600",
+              "start": 0,
+              "username": "www1159789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067997996072190460",
+        "in_reply_to_user_id": "1803617517841305600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067995394978767213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@www1159789 咪——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803617517841305600",
+        "conversation_id": "2067995394978767213",
+        "created_at": "2026-06-19T15:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067995394978767213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067995394978767213",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 361,
+          "like_count": 4711,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 986
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-20T02:35:15.000Z",
+        "description": "生产日期2008/12/12    mtf/xyn喵  最喜欢结月缘喵",
+        "id": "1803617517841305600",
+        "name": "Yukasane Tetori🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067994870309126144/Svzf4SjY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "www1159789",
+        "verified": false
+      }
+    ]
+  }
+}

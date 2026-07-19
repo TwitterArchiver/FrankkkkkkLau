@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2044607647815803216",
+    "created_at": "2026-04-16T06:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T07:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044661291252658599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1383473182854684674",
+          "start": 0,
+          "username": "yuanwangnan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044661291252658599",
+    "in_reply_to_user_id": "1383473182854684674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044638525434527978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanwangnan 这个显示账号所在地是用的什么脚本嘛👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 478,
+        "media_key": "3_2044638490940567552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAD3-KacAAliaz.jpg",
+        "width": 953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2044607647815803216",
+        "created_at": "2026-04-16T06:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044661291252658599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1383473182854684674",
+              "start": 0,
+              "username": "yuanwangnan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044661291252658599",
+        "in_reply_to_user_id": "1383473182854684674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044638525434527978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanwangnan 这个显示账号所在地是用的什么脚本嘛👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044638490940567552"
+          ]
+        },
+        "author_id": "1383473182854684674",
+        "conversation_id": "2044607647815803216",
+        "created_at": "2026-04-16T04:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044638525434527978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600024316552179713",
+              "start": 0,
+              "username": "kiki_qiqing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T7hWYlzGLD",
+              "end": 42,
+              "expanded_url": "https://x.com/yuanwangnan/status/2044638525434527978/photo/1",
+              "media_key": "3_2044638490940567552",
+              "start": 19,
+              "url": "https://t.co/T7hWYlzGLD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044638525434527978",
+        "in_reply_to_user_id": "1600024316552179713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044607647815803216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiki_qiqing ip中国🤔 https://t.co/T7hWYlzGLD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 75,
+          "like_count": 1415,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T17:31:36.000Z",
+        "description": "06",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/14isfourteen",
+                "end": 23,
+                "expanded_url": "http://github.com/14isfourteen",
+                "start": 0,
+                "url": "https://t.co/RbV99qPMjr"
+              }
+            ]
+          }
+        },
+        "id": "1383473182854684674",
+        "location": "广州",
+        "name": "十四",
+        "pinned_tweet_id": "1996625486861185077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829038118617088/OvMjP30T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3782,
+          "following_count": 168,
+          "like_count": 52781,
+          "listed_count": 18,
+          "media_count": 2218,
+          "tweet_count": 23242
+        },
+        "url": "https://t.co/RbV99qPMjr",
+        "username": "yuanwangnan",
+        "verified": false
+      }
+    ]
+  }
+}

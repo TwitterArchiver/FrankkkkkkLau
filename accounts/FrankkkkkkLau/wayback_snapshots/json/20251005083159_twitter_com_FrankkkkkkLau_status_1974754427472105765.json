@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "1967844460387246561",
+    "created_at": "2025-10-05T08:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T09:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974754427472105765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1887695414255886336",
+          "start": 0,
+          "username": "wumengmengwmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974754427472105765",
+    "in_reply_to_user_id": "1887695414255886336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970168948583997772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wumengmengwmm 可以去nodeseek找家宽合租车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "1967844460387246561",
+        "created_at": "2025-10-05T08:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T09:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974754427472105765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1887695414255886336",
+              "start": 0,
+              "username": "wumengmengwmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974754427472105765",
+        "in_reply_to_user_id": "1887695414255886336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970168948583997772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wumengmengwmm 可以去nodeseek找家宽合租车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887695414255886336",
+        "conversation_id": "1967844460387246561",
+        "created_at": "2025-09-22T16:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T17:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970168948583997772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970168948583997772",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967844460387246561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 哪款产品，能推荐吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "很没耐心, 讨厌不讲信用的人",
+        "id": "1672761170040692739",
+        "location": "Macau",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 54,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 264
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T02:50:51.000Z",
+        "description": "",
+        "id": "1887695414255886336",
+        "location": "澳門",
+        "name": "吳夢夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910687872505741312/i1n5WlSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "wumengmengwmm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042533289500774402",
+        "3_2042533309113348096",
+        "3_2042533332039405569"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042533586268754318",
+    "created_at": "2026-04-10T09:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042533586268754318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1136949905396834304",
+          "start": 0,
+          "username": "GaijinEnt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PUMmtuAfkJ",
+          "end": 63,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2042533586268754318/photo/1",
+          "media_key": "3_2042533289500774402",
+          "start": 40,
+          "url": "https://t.co/PUMmtuAfkJ"
+        },
+        {
+          "display_url": "pic.x.com/PUMmtuAfkJ",
+          "end": 63,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2042533586268754318/photo/1",
+          "media_key": "3_2042533309113348096",
+          "start": 40,
+          "url": "https://t.co/PUMmtuAfkJ"
+        },
+        {
+          "display_url": "pic.x.com/PUMmtuAfkJ",
+          "end": 63,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2042533586268754318/photo/1",
+          "media_key": "3_2042533332039405569",
+          "start": 40,
+          "url": "https://t.co/PUMmtuAfkJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042533586268754318",
+    "in_reply_to_user_id": "1136949905396834304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@GaijinEnt 匹配一堆这种对局是想让玩家花银狮给你们策划的老母买贡品吗 https://t.co/PUMmtuAfkJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1410,
+        "media_key": "3_2042533289500774402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiJNHqakAIsviM.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1410,
+        "media_key": "3_2042533309113348096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiJOQuasAA6I7F.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1410,
+        "media_key": "3_2042533332039405569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiJPmIakAEbPfa.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042533289500774402",
+            "3_2042533309113348096",
+            "3_2042533332039405569"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042533586268754318",
+        "created_at": "2026-04-10T09:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042533586268754318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1136949905396834304",
+              "start": 0,
+              "username": "GaijinEnt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PUMmtuAfkJ",
+              "end": 63,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2042533586268754318/photo/1",
+              "media_key": "3_2042533289500774402",
+              "start": 40,
+              "url": "https://t.co/PUMmtuAfkJ"
+            },
+            {
+              "display_url": "pic.x.com/PUMmtuAfkJ",
+              "end": 63,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2042533586268754318/photo/1",
+              "media_key": "3_2042533309113348096",
+              "start": 40,
+              "url": "https://t.co/PUMmtuAfkJ"
+            },
+            {
+              "display_url": "pic.x.com/PUMmtuAfkJ",
+              "end": 63,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2042533586268754318/photo/1",
+              "media_key": "3_2042533332039405569",
+              "start": 40,
+              "url": "https://t.co/PUMmtuAfkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042533586268754318",
+        "in_reply_to_user_id": "1136949905396834304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@GaijinEnt 匹配一堆这种对局是想让玩家花银狮给你们策划的老母买贡品吗 https://t.co/PUMmtuAfkJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/HVcVRe4I0g"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 71,
+          "like_count": 1335,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/HVcVRe4I0g",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-07T10:55:55.000Z",
+        "description": "We are an independent European video game developer and publisher established in 2002. The company has developed more than 30 games for different platforms.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gaijinent.com/en",
+                "end": 23,
+                "expanded_url": "https://gaijinent.com/en",
+                "start": 0,
+                "url": "https://t.co/O1s4wNxUUF"
+              }
+            ]
+          }
+        },
+        "id": "1136949905396834304",
+        "name": "Gaijin Entertainment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901649135079399424/J4FFAKGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11934,
+          "following_count": 6,
+          "like_count": 3,
+          "listed_count": 13,
+          "media_count": 28,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/O1s4wNxUUF",
+        "username": "GaijinEnt",
+        "verified": true
+      }
+    ]
+  }
+}

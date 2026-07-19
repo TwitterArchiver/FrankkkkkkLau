@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2075290903556850029",
+    "created_at": "2026-07-10T01:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T02:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075385300701118759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1953393801340575744",
+          "start": 0,
+          "username": "n473428097803"
+        }
+      ],
+      "urls": [
+        {
+          "description": "本期教大家无需翻墙，无需任何代理工具，简单一步，即可直接访问google、youtube等被墙的网站自用专线机场推荐：https:...",
+          "display_url": "youtube.com/watch?v=kbpxGO…",
+          "end": 48,
+          "expanded_url": "https://www.youtube.com/watch?v=kbpxGOKVBSA",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2075385304471760896/NTJwOQVg?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2075385304471760896/NTJwOQVg?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 25,
+          "status": 200,
+          "title": "无需翻墙直接访问google、youtube等被墙网站，通过域前置sni伪装绕过防火墙限制，科学上网新姿势",
+          "unwound_url": "https://www.youtube.com/watch?v=kbpxGOKVBSA",
+          "url": "https://t.co/HdZg9rD8YN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075385300701118759",
+    "in_reply_to_user_id": "1953393801340575744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075328980039987284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n473428097803 有但是可能有点过时\nhttps://t.co/HdZg9rD8YN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2075290903556850029",
+        "created_at": "2026-07-10T01:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075385300701118759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1953393801340575744",
+              "start": 0,
+              "username": "n473428097803"
+            }
+          ],
+          "urls": [
+            {
+              "description": "本期教大家无需翻墙，无需任何代理工具，简单一步，即可直接访问google、youtube等被墙的网站自用专线机场推荐：https:...",
+              "display_url": "youtube.com/watch?v=kbpxGO…",
+              "end": 48,
+              "expanded_url": "https://www.youtube.com/watch?v=kbpxGOKVBSA",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2075385304471760896/NTJwOQVg?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075385304471760896/NTJwOQVg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "无需翻墙直接访问google、youtube等被墙网站，通过域前置sni伪装绕过防火墙限制，科学上网新姿势",
+              "unwound_url": "https://www.youtube.com/watch?v=kbpxGOKVBSA",
+              "url": "https://t.co/HdZg9rD8YN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075385300701118759",
+        "in_reply_to_user_id": "1953393801340575744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075328980039987284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n473428097803 有但是可能有点过时\nhttps://t.co/HdZg9rD8YN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953393801340575744",
+        "conversation_id": "2075290903556850029",
+        "created_at": "2026-07-09T21:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T22:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075328980039987284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075328980039987284",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075290903556850029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 佬,比较好奇CN是怎么直连外网的,有教程吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 656,
+          "like_count": 7176,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 1462
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-07T09:52:50.000Z",
+        "description": "I love music",
+        "id": "1953393801340575744",
+        "name": "skth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958218963021893632/IQwGIsj8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 21,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "n473428097803",
+        "verified": false
+      }
+    ]
+  }
+}

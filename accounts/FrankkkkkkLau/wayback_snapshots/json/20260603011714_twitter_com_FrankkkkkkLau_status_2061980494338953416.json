@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2061859973496521020",
+    "created_at": "2026-06-03T01:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T02:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061980494338953416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1410936828467712002",
+          "start": 0,
+          "username": "Blitz24053575"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061980494338953416",
+    "in_reply_to_user_id": "1410936828467712002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061963601494290605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blitz24053575 不是这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061963599640428544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2Q-BhagAAMqVW.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2061859973496521020",
+        "created_at": "2026-06-03T01:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061980494338953416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1410936828467712002",
+              "start": 0,
+              "username": "Blitz24053575"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061980494338953416",
+        "in_reply_to_user_id": "1410936828467712002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061963601494290605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blitz24053575 不是这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061963599640428544"
+          ]
+        },
+        "author_id": "1410936828467712002",
+        "conversation_id": "2061859973496521020",
+        "created_at": "2026-06-03T00:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061963601494290605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5CRxOIApxI",
+              "end": 56,
+              "expanded_url": "https://x.com/Blitz24053575/status/2061963601494290605/photo/1",
+              "media_key": "3_2061963599640428544",
+              "start": 33,
+              "url": "https://t.co/5CRxOIApxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061963601494290605",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061859973496521020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 我还没用测试版，但是原版好像也可以 https://t.co/5CRxOIApxI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 270,
+          "like_count": 3024,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 694
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-02T12:22:17.000Z",
+        "description": "我是个恶俗的人丨想骂我的我宣布你获胜了，别骂我丨中留日丨梦见啥发啥丨要是没有及时回关请私信我，有时候x不会给我推送关注消息",
+        "id": "1410936828467712002",
+        "location": "🚪3.1415926",
+        "name": "keibu",
+        "pinned_tweet_id": "1979283528404865497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027489355464634368/l0ooMpQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 57,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1557
+        },
+        "username": "Blitz24053575",
+        "verified": true
+      }
+    ]
+  }
+}

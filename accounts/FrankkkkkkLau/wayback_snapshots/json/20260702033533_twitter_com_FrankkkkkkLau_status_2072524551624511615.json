@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2072041354956607929",
+    "created_at": "2026-07-02T03:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072524551624511615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060632417153503234",
+          "start": 0,
+          "username": "AsahinaShikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072524551624511615",
+    "in_reply_to_user_id": "2060632417153503234",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072522556884586889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsahinaShikure 👊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2072041354956607929",
+        "created_at": "2026-07-02T03:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072524551624511615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060632417153503234",
+              "start": 0,
+              "username": "AsahinaShikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072524551624511615",
+        "in_reply_to_user_id": "2060632417153503234",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072522556884586889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsahinaShikure 👊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060632417153503234",
+        "conversation_id": "2072041354956607929",
+        "created_at": "2026-07-02T03:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072522556884586889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1846596976265326592",
+              "start": 0,
+              "username": "voidsama777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072522556884586889",
+        "in_reply_to_user_id": "1846596976265326592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072041354956607929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voidsama777 其实僕一直没有用vpn…（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 550,
+          "like_count": 5918,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1211
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "She/Her 🇸🇬|中三学生|14岁|MtF🏳️‍⚧️|尚未HRT🍥|世界计划🎹|朝比奈まふゆ激推|不od|社会自由主义|语言🇹🇼🇨🇳🇺🇸🇯🇵🇫🇷|世界语学习中|格里芬语Gerëfenish|格里芬联邦共和国总统|行政院长：@L2e_dawndream |好朋友：@Liuyue_626",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 113,
+                "username": "L2e_dawndream"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Liuyue_626"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://president.gov-urg.net/",
+                "start": 0,
+                "url": "https://t.co/qO9KGP3RDK"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2061802655391866976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060634013363306496/Hl6bmtdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 1119,
+          "like_count": 3533,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 523
+        },
+        "url": "https://t.co/qO9KGP3RDK",
+        "username": "AsahinaShikure",
+        "verified": true
+      }
+    ]
+  }
+}

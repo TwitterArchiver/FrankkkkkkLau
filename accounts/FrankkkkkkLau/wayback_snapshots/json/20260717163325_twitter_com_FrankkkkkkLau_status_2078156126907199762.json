@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2078152199893602798",
+    "created_at": "2026-07-17T16:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078156126907199762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1913140320986144768",
+          "start": 0,
+          "username": "Foxtea267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078156126907199762",
+    "in_reply_to_user_id": "1913140320986144768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078155769955209465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Foxtea267 貌似是sni阻断（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2078152199893602798",
+        "created_at": "2026-07-17T16:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078156126907199762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1913140320986144768",
+              "start": 0,
+              "username": "Foxtea267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078156126907199762",
+        "in_reply_to_user_id": "1913140320986144768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078155769955209465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Foxtea267 貌似是sni阻断（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913140320986144768",
+        "conversation_id": "2078152199893602798",
+        "created_at": "2026-07-17T16:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078155769955209465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078155769955209465",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078152199893602798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 这个感觉改个DNS就好了（）\n也有可能是DNS污染+SNI阻断"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 678,
+          "like_count": 8082,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 1622
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-18T07:59:39.000Z",
+        "description": "🇨🇳🇹🇼🇭🇰🇯🇵🇰🇷🇲🇾🇸🇬🇻🇳🇺🇸🇬🇧🇪🇺🇦🇺🇳🇿🇺🇦🇷🇺\nfoxtea267@gmail.com or me@foxtea.fun\nBuy me a coffee: https://t.co/elYDck1x5N / https://t.co/1koMGd4Zp7\nLang: EN🇺🇸🇬🇧/ZH🇨🇳🇹🇼",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "donate.foxtea.fun",
+                "end": 108,
+                "expanded_url": "http://donate.foxtea.fun",
+                "start": 85,
+                "url": "https://t.co/elYDck1x5N"
+              },
+              {
+                "display_url": "donate.oeo.ee",
+                "end": 134,
+                "expanded_url": "http://donate.oeo.ee",
+                "start": 111,
+                "url": "https://t.co/1koMGd4Zp7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxtea.fun",
+                "end": 23,
+                "expanded_url": "https://foxtea.fun/",
+                "start": 0,
+                "url": "https://t.co/WmjN5pPhE6"
+              }
+            ]
+          }
+        },
+        "id": "1913140320986144768",
+        "location": "Kyoto, Japan",
+        "name": "Foxtea",
+        "pinned_tweet_id": "2063586842558263617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063535054811430913/KBhTQHYr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 2174,
+          "like_count": 1112,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1641
+        },
+        "url": "https://t.co/WmjN5pPhE6",
+        "username": "Foxtea267",
+        "verified": true
+      }
+    ]
+  }
+}

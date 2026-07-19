@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066069153254109184"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2066070713094767001",
+    "created_at": "2026-06-14T08:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:04:56.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066069364126994899",
+      "2066070713094767001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hNuRUgCgCF",
+          "end": 46,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2066070713094767001/photo/1",
+          "media_key": "3_2066069153254109184",
+          "start": 23,
+          "url": "https://t.co/hNuRUgCgCF"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2064638664496517304",
+          "start": 47,
+          "url": "https://t.co/aIEeX74bmD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066070713094767001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064638664496517304",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们仍未知道Android App的判断机制 https://t.co/hNuRUgCgCF https://t.co/aIEeX74bmD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 826,
+        "media_key": "3_2066069153254109184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwm8skacAA2FsW.png",
+        "width": 891
+      },
+      {
+        "height": 914,
+        "media_key": "3_2064636396107915264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcP3QRa4AAhgbh.jpg",
+        "width": 891
+      },
+      {
+        "height": 789,
+        "media_key": "3_2064636403825377280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcP3tBaAAA4bg7.png",
+        "width": 891
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066069153254109184"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2066069364126994899",
+        "created_at": "2026-06-14T08:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:04:56.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066069364126994899",
+          "2066070713094767001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6zFYoVpItA",
+              "end": 50,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2066069364126994899/photo/1",
+              "media_key": "3_2066069153254109184",
+              "start": 27,
+              "url": "https://t.co/6zFYoVpItA"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2064638664496517304",
+              "start": 51,
+              "url": "https://t.co/aIEeX74bmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066069364126994899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064638664496517304",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们仍未知道那天Android App的判断机制（） https://t.co/6zFYoVpItA https://t.co/aIEeX74bmD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066069153254109184"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2066070713094767001",
+        "created_at": "2026-06-14T08:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:04:56.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066069364126994899",
+          "2066070713094767001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNuRUgCgCF",
+              "end": 46,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2066070713094767001/photo/1",
+              "media_key": "3_2066069153254109184",
+              "start": 23,
+              "url": "https://t.co/hNuRUgCgCF"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2064638664496517304",
+              "start": 47,
+              "url": "https://t.co/aIEeX74bmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066070713094767001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064638664496517304",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们仍未知道Android App的判断机制 https://t.co/hNuRUgCgCF https://t.co/aIEeX74bmD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064636396107915264",
+            "3_2064636403825377280"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2064459857550287292",
+        "created_at": "2026-06-10T09:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064638664496517304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "jfrd163461"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMDOr2koxg",
+              "end": 106,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2064638664496517304/photo/1",
+              "media_key": "3_2064636396107915264",
+              "start": 83,
+              "url": "https://t.co/xMDOr2koxg"
+            },
+            {
+              "display_url": "pic.x.com/xMDOr2koxg",
+              "end": 106,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2064638664496517304/photo/1",
+              "media_key": "3_2064636403825377280",
+              "start": 83,
+              "url": "https://t.co/xMDOr2koxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064638664496517304",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 353,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064459857550287292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jfrd163461 CM和CTM\n同一部手機, 但係唔知點解一個顯示 China Android App, 一個顯示 Hong Kong Android App https://t.co/xMDOr2koxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 307,
+          "like_count": 3894,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 827
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

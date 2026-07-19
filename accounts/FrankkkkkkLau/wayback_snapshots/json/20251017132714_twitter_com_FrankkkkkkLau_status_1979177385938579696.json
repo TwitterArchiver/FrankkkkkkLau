@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "1978355479613968743",
+    "created_at": "2025-10-17T13:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T14:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979177385938579696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1737079518647771136",
+          "start": 0,
+          "username": "Ame_luchs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979177385938579696",
+    "in_reply_to_user_id": "1737079518647771136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978743053725659186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ame_luchs 坏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "1978355479613968743",
+        "created_at": "2025-10-17T13:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T14:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979177385938579696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1737079518647771136",
+              "start": 0,
+              "username": "Ame_luchs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979177385938579696",
+        "in_reply_to_user_id": "1737079518647771136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978743053725659186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ame_luchs 坏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737079518647771136",
+        "conversation_id": "1978355479613968743",
+        "created_at": "2025-10-16T08:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T09:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978743053725659186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729029095659646976",
+              "start": 0,
+              "username": "FFR_31_MR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978743053725659186",
+        "in_reply_to_user_id": "1729029095659646976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978694617982734691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FFR_31_MR 那你还是进block列表吧（无慈悲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "很没耐心, 讨厌不讲信用的人",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 55,
+          "like_count": 659,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 268
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T11:56:53.000Z",
+        "description": "山猫/可以叫梦梦或者雨枫",
+        "id": "1737079518647771136",
+        "location": "距离你的当前定位0.5km",
+        "name": "雨枫枫枫枫枫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895079297611644928/s0B8uIuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 768,
+          "like_count": 2914,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 1459
+        },
+        "username": "Ame_luchs",
+        "verified": false
+      }
+    ]
+  }
+}

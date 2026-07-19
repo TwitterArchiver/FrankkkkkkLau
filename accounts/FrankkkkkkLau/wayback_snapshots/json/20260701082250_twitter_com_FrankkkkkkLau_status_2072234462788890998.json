@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2071983108174623112",
+    "created_at": "2026-07-01T08:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T09:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072234462788890998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        },
+        {
+          "end": 32,
+          "id": "1557846379736666113",
+          "start": 16,
+          "username": "Meguminsama2009"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 64,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2067906330170700245",
+          "start": 41,
+          "url": "https://t.co/NLsRVg9FiF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072234462788890998",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067906330170700245",
+        "type": "quoted"
+      },
+      {
+        "id": "2072192573972926540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 @Meguminsama2009 感觉不如这个）\nhttps://t.co/NLsRVg9FiF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1191,
+        "media_key": "3_2067906086439686144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKtoR8bEAA3m7F.jpg",
+        "width": 891
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2071983108174623112",
+        "created_at": "2026-07-01T08:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072234462788890998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            },
+            {
+              "end": 32,
+              "id": "1557846379736666113",
+              "start": 16,
+              "username": "Meguminsama2009"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 64,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2067906330170700245",
+              "start": 41,
+              "url": "https://t.co/NLsRVg9FiF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072234462788890998",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067906330170700245",
+            "type": "quoted"
+          },
+          {
+            "id": "2072192573972926540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 @Meguminsama2009 感觉不如这个）\nhttps://t.co/NLsRVg9FiF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067906086439686144"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2067906330170700245",
+        "created_at": "2026-06-19T09:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067906330170700245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T6Ox1ORpYP",
+              "end": 44,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2067906330170700245/photo/1",
+              "media_key": "3_2067906086439686144",
+              "start": 21,
+              "url": "https://t.co/T6Ox1ORpYP"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2066127885799457075",
+              "start": 45,
+              "url": "https://t.co/FBNbbAHEBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067906330170700245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066127885799457075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难绷诈骗bot公式化起号, 可惜没人看😁 https://t.co/T6Ox1ORpYP https://t.co/FBNbbAHEBz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2071983108174623112",
+        "created_at": "2026-07-01T05:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072192573972926540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557846379736666113",
+              "start": 0,
+              "username": "Meguminsama2009"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20694…",
+              "end": 47,
+              "expanded_url": "https://x.com/i/status/2069425744741044232",
+              "start": 24,
+              "url": "https://t.co/jz2EtILb1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072192573972926540",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069425744741044232",
+            "type": "quoted"
+          },
+          {
+            "id": "2071983108174623112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meguminsama2009 合订本在此😋\nhttps://t.co/jz2EtILb1B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 504,
+          "like_count": 5801,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 1172
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13065,
+          "following_count": 3164,
+          "like_count": 42310,
+          "listed_count": 41,
+          "media_count": 4537,
+          "tweet_count": 23378
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@meguminsuki2009",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 1966,
+          "like_count": 3294,
+          "listed_count": 2,
+          "media_count": 592,
+          "tweet_count": 7356
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

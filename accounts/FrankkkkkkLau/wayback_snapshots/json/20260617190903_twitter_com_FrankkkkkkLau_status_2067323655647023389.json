@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2067107138347118844",
+    "created_at": "2026-06-17T19:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T20:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067323655647023389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1854091917338021888",
+          "start": 0,
+          "username": "ZLINK243424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067323655647023389",
+    "in_reply_to_user_id": "1854091917338021888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067321360234524700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZLINK243424 而且积分还能兑换kfc100元余额🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2067107138347118844",
+        "created_at": "2026-06-17T19:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067323655647023389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1854091917338021888",
+              "start": 0,
+              "username": "ZLINK243424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067323655647023389",
+        "in_reply_to_user_id": "1854091917338021888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067321360234524700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZLINK243424 而且积分还能兑换kfc100元余额🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854091917338021888",
+        "conversation_id": "2067107138347118844",
+        "created_at": "2026-06-17T18:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067321360234524700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067321360234524700",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067107138347118844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 感觉bing在国内和一股清流似的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 350,
+          "like_count": 4514,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 952
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-06T09:22:40.000Z",
+        "description": "Battlefield严重中毒/ボカロ重度依赖/自殺未遂/废宅/角落里的垃圾人/讨厌社交/08男/泛性恋/LGBTQIA＋友好/成分复杂/可以叫我Zero/让您不爽真是非常抱歉\n\n私たちは光芒と深宇宙のなかで神を見た，\n我们在泛光和深空中看见了神，\n私たちは公式と真理のなかで 神を殺した，\n我们在公式和真理中杀死了神。",
+        "id": "1854091917338021888",
+        "location": "南极洲",
+        "name": "可悲的Zeroくん:⁠-⁠P",
+        "pinned_tweet_id": "2063303274376347919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058720971872403456/NDILyBIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 412,
+          "like_count": 32988,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 6382
+        },
+        "username": "ZLINK243424",
+        "verified": false
+      }
+    ]
+  }
+}

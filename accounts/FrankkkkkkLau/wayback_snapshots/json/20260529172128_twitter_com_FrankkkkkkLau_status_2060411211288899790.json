@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2060410448973807785",
+    "created_at": "2026-05-29T17:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060411211288899790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1977352693245980672",
+          "start": 0,
+          "username": "Anonymous779215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060411211288899790",
+    "in_reply_to_user_id": "1977352693245980672",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060410448973807785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "@Anonymous779215 👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2189,
+        "media_key": "3_2060410439360520198",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgMYMmXIAYNN5Y.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2060410448973807785",
+        "created_at": "2026-05-29T17:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060411211288899790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1977352693245980672",
+              "start": 0,
+              "username": "Anonymous779215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060411211288899790",
+        "in_reply_to_user_id": "1977352693245980672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060410448973807785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "@Anonymous779215 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060410439360520198"
+          ]
+        },
+        "author_id": "1977352693245980672",
+        "conversation_id": "2060410448973807785",
+        "created_at": "2026-05-29T17:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060410448973807785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BbFIj7FSwq",
+              "end": 38,
+              "expanded_url": "https://x.com/Anonymous779215/status/2060410448973807785/photo/1",
+              "media_key": "3_2060410439360520198",
+              "start": 15,
+              "url": "https://t.co/BbFIj7FSwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060410448973807785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "verified",
+        "text": "蓝v交流群有没有想进的朋友？ https://t.co/BbFIj7FSwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 216,
+          "like_count": 2613,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 622
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-12T12:36:43.000Z",
+        "description": ".",
+        "id": "1977352693245980672",
+        "name": "Anonymous",
+        "pinned_tweet_id": "2059654282912141627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016476555103358976/ir3bfWgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 323,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1232
+        },
+        "username": "Anonymous779215",
+        "verified": true
+      }
+    ]
+  }
+}

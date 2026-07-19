@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2076070924009513424",
+    "created_at": "2026-07-12T12:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076284041440133388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008360423771316224",
+          "start": 0,
+          "username": "Konizaza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076284041440133388",
+    "in_reply_to_user_id": "2008360423771316224",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076271791836954814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konizaza 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2076070924009513424",
+        "created_at": "2026-07-12T12:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076284041440133388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008360423771316224",
+              "start": 0,
+              "username": "Konizaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076284041440133388",
+        "in_reply_to_user_id": "2008360423771316224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076271791836954814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konizaza 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008360423771316224",
+        "conversation_id": "2076070924009513424",
+        "created_at": "2026-07-12T11:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076271791836954814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "akihiro_0313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076271791836954814",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076070924009513424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akihiro_0313 😡外宣 是外宣喵～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 672,
+          "like_count": 7583,
+          "listed_count": 1,
+          "media_count": 339,
+          "tweet_count": 1547
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互关/互fo喵～｜MTF断糖｜生产日期：08年九月|喜欢喵喵叫｜也喜欢大家｜\n｜小号@konizazadesu免得找不到请灌注一下喵～｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "konizazadesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konizaza",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konizaza",
+                "start": 0,
+                "url": "https://t.co/UxxyJbfdds"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "location": "你的心里",
+        "name": "Konizaza🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2076118399751757833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 1013,
+          "like_count": 3112,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/UxxyJbfdds",
+        "username": "Konizaza",
+        "verified": true
+      }
+    ]
+  }
+}

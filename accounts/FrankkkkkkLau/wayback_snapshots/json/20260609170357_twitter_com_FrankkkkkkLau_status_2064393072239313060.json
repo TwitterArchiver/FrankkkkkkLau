@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2064296882524819676",
+    "created_at": "2026-06-09T17:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064393072239313060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1885557129588948992",
+          "start": 0,
+          "username": "jfrd163461"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064393072239313060",
+    "in_reply_to_user_id": "1885557129588948992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064296882524819676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jfrd163461 GFW有时候也会阻断境外到内地的连接。然后有些机房如果来自境外的连接太多可能会被「反向墙」, 直接不通境外ip\n某些地方的区域性防火墙还会阻断内地到内地的连接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_2064296018317856768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXaSqMW0AAyqTD.png",
+        "width": 746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2064296882524819676",
+        "created_at": "2026-06-09T17:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064393072239313060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "jfrd163461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064393072239313060",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064296882524819676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jfrd163461 GFW有时候也会阻断境外到内地的连接。然后有些机房如果来自境外的连接太多可能会被「反向墙」, 直接不通境外ip\n某些地方的区域性防火墙还会阻断内地到内地的连接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064296018317856768"
+          ]
+        },
+        "author_id": "1885557129588948992",
+        "conversation_id": "2064296882524819676",
+        "created_at": "2026-06-09T10:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064296882524819676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ctK8xm63pc",
+              "end": 180,
+              "expanded_url": "https://x.com/jfrd163461/status/2064296882524819676/photo/1",
+              "media_key": "3_2064296018317856768",
+              "start": 157,
+              "url": "https://t.co/ctK8xm63pc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064296882524819676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 401,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小粉紅的智商真低\nGFW是阻攔大陸人民訪問海外平臺 像 X FB YT TG\n但是海外人士是可以使用大陸平臺的 \n網路防火墻是單向的\n幸好我是香港人 暫時擁有完整自由的網際網路\n暫時\n暫時\n注意 我已經架著AWP \n小粉紅建制派們留下粗話 \n直接開火 封鎖用戶\n我不想看到低智商了\n[槍栓聲音 咔咔]\n砰！！！！ https://t.co/ctK8xm63pc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 289,
+          "like_count": 3498,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 762
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Revolutionary Democratic Socialism\nOriginal Marxism\nCountryhuman lover\nDemocracy&Freedom\nHongkonger\nFree China\nLove Playing CS2\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼",
+        "id": "1885557129588948992",
+        "location": " Republic of China - Hong Kong",
+        "name": "+852 40609891 RDSKMTROC MP9 HONG KONG FREE🇭🇰",
+        "pinned_tweet_id": "2042964092470620631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064319480633688064/v47CQU6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 6304,
+          "like_count": 14009,
+          "listed_count": 5,
+          "media_count": 677,
+          "tweet_count": 3850
+        },
+        "username": "jfrd163461",
+        "verified": false
+      }
+    ]
+  }
+}

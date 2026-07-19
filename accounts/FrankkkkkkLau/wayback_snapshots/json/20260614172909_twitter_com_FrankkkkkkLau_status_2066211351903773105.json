@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2066127885799457075",
+    "created_at": "2026-06-14T17:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066211351903773105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818546901899509760",
+          "start": 0,
+          "username": "XiaoQi_077s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066211351903773105",
+    "in_reply_to_user_id": "1818546901899509760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066210728605028369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoQi_077s 因为用了cloudflare和fastly的cdn啦, 但是会被sni阻断"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2066127885799457075",
+        "created_at": "2026-06-14T17:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066211351903773105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818546901899509760",
+              "start": 0,
+              "username": "XiaoQi_077s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066211351903773105",
+        "in_reply_to_user_id": "1818546901899509760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066210728605028369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoQi_077s 因为用了cloudflare和fastly的cdn啦, 但是会被sni阻断"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818546901899509760",
+        "conversation_id": "2066127885799457075",
+        "created_at": "2026-06-14T17:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066210728605028369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+              "display_url": "x.com",
+              "end": 43,
+              "expanded_url": "http://x.com",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2063827181567119360/OSh9UWgz?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063827181567119360/OSh9UWgz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 20,
+              "status": 200,
+              "title": "X. It’s what’s happening",
+              "unwound_url": "https://x.com/",
+              "url": "https://t.co/8SJZ01cYPQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066210728605028369",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066127885799457075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau ping https://t.co/8SJZ01cYPQ\n是可以ping通的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 321,
+          "like_count": 4041,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 857
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-31T07:19:14.000Z",
+        "description": "一个xyn喵丨断糖了喵丨还想HRT喵丨自残丨无证丨家长反对党丨会刷机丨会Python丨喜欢折腾各种Android设备喵丨爱你喵",
+        "id": "1818546901899509760",
+        "name": "小柒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064202259366608896/X4b484HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 136,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 271
+        },
+        "username": "XiaoQi_077s",
+        "verified": false
+      }
+    ]
+  }
+}

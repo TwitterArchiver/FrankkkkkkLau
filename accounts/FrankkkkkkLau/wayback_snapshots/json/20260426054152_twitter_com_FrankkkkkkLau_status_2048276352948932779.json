@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2048245197666947457",
+    "created_at": "2026-04-26T05:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048276352948932779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1987562596372021248",
+          "start": 0,
+          "username": "_miuj_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048276352948932779",
+    "in_reply_to_user_id": "1987562596372021248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048245197666947457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_miuj_9 Cloudflare用的是ipinfo罢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2048245197666947457",
+        "created_at": "2026-04-26T05:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048276352948932779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1987562596372021248",
+              "start": 0,
+              "username": "_miuj_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048276352948932779",
+        "in_reply_to_user_id": "1987562596372021248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048245197666947457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_miuj_9 Cloudflare用的是ipinfo罢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987562596372021248",
+        "conversation_id": "2048245197666947457",
+        "created_at": "2026-04-26T03:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048245197666947457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048245197666947457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "朝鲜和南极洲ip其实是这么来的，如果你用的是机场的话： 购买一个ip地址段（个人用户可以买一个v6段，v6段比较便宜），然后自己搞一个ASN把这个ASN接入到互联网（相当于自己当运营商）然后给MaxMind IP地址库写信（Cloudflare用的是MaxMind的数据库），表示你的ip属于朝鲜，然后再把绑了你自己ip的服务器连接到Cloudflare Warp（Cloudflare Warp的朝鲜ip的接受度更高，会有更多平台认为你的ip在朝鲜）你就可以得到朝鲜ip了，南极洲也是同理。另外朝鲜的2位数国家地区代号是KP，南极洲的两位数国家代号是AQ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 440,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "朝鲜和南极洲ip其实是这么来的，如果你用的是机场的话： 购买一个ip地址段（个人用户可以买一个v6段，v6段比较便宜），然后自己搞一个ASN把这个ASN接入到互联网（相当于自己当运营商）然后给MaxMind"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 75,
+          "like_count": 1520,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 398
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T16:47:17.000Z",
+        "description": "AI变现 | 小红书爆款拆解 | 追剧 | 日常小技巧\nno music no life!",
+        "id": "1987562596372021248",
+        "name": "Miju咪啾",
+        "pinned_tweet_id": "2042921969935696259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009267455898923008/QTMIY8S4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15041,
+          "following_count": 787,
+          "like_count": 3678,
+          "listed_count": 47,
+          "media_count": 412,
+          "tweet_count": 2083
+        },
+        "username": "_miuj_9",
+        "verified": true
+      }
+    ]
+  }
+}

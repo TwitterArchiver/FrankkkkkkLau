@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064946855390412800"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2064946862910804298",
+    "created_at": "2026-06-11T05:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064946862910804298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NpvsIhTGrz",
+          "end": 42,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2064946862910804298/photo/1",
+          "media_key": "3_2064946855390412800",
+          "start": 19,
+          "url": "https://t.co/NpvsIhTGrz"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2063871224804163596",
+          "start": 43,
+          "url": "https://t.co/UZQpptdoXo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064946862910804298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063871224804163596",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用小号试了一下, 还真是warp😔😔 https://t.co/NpvsIhTGrz https://t.co/UZQpptdoXo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2488,
+        "media_key": "3_2064946855390412800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgqOXObAAAHB1M.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2454,
+        "media_key": "3_2063871218571427840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRX8D0aQAAGTFE.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064946855390412800"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2064946862910804298",
+        "created_at": "2026-06-11T05:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064946862910804298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NpvsIhTGrz",
+              "end": 42,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2064946862910804298/photo/1",
+              "media_key": "3_2064946855390412800",
+              "start": 19,
+              "url": "https://t.co/NpvsIhTGrz"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2063871224804163596",
+              "start": 43,
+              "url": "https://t.co/UZQpptdoXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064946862910804298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063871224804163596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用小号试了一下, 还真是warp😔😔 https://t.co/NpvsIhTGrz https://t.co/UZQpptdoXo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063871218571427840"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2063871224804163596",
+        "created_at": "2026-06-08T06:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063871224804163596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eBJqWaOAjw",
+              "end": 77,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2063871224804163596/photo/1",
+              "media_key": "3_2063871218571427840",
+              "start": 54,
+              "url": "https://t.co/eBJqWaOAjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063871224804163596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2221,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么还有南极洲...?\n不会是warp的104.28.212.152/31罢, 这玩意不是大部分库不认吗🤔 https://t.co/eBJqWaOAjw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2056283985509323165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 292,
+          "like_count": 3566,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 787
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

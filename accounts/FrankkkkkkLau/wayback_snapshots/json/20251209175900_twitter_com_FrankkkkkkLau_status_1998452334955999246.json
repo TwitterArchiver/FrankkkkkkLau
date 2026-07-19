@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "1997793065529180527",
+    "created_at": "2025-12-09T17:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T18:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998452334955999246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1673386998097416192",
+          "start": 0,
+          "username": "beheaderSQY"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "1998452334955999246",
+    "in_reply_to_user_id": "1673386998097416192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997793065529180527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beheaderSQY 好厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 327,
+        "media_key": "3_1997793063478108160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7mWNNtaIAA5O17.jpg",
+        "width": 683
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "1997793065529180527",
+        "created_at": "2025-12-09T17:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T18:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998452334955999246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1673386998097416192",
+              "start": 0,
+              "username": "beheaderSQY"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "1998452334955999246",
+        "in_reply_to_user_id": "1673386998097416192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997793065529180527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beheaderSQY 好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997793063478108160"
+          ]
+        },
+        "author_id": "1673386998097416192",
+        "conversation_id": "1997793065529180527",
+        "created_at": "2025-12-07T22:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T23:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997793065529180527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dP4tdtwrNj",
+              "end": 30,
+              "expanded_url": "https://x.com/beheaderSQY/status/1997793065529180527/photo/1",
+              "media_key": "3_1997793063478108160",
+              "start": 7,
+              "url": "https://t.co/dP4tdtwrNj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997793065529180527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成功拿下烧鸡 https://t.co/dP4tdtwrNj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "很没耐心, 讨厌不讲信用的人",
+        "id": "1672761170040692739",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "1947313906676007224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836611539790651392/AXAKc9L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 55,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 295
+        },
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T17:45:32.000Z",
+        "description": "欢迎推友互fo",
+        "id": "1673386998097416192",
+        "name": "SQY秽土转生形态",
+        "pinned_tweet_id": "1860364562228556189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902216132712656896/nCKAciZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 1958,
+          "like_count": 65996,
+          "listed_count": 8,
+          "media_count": 2720,
+          "tweet_count": 33089
+        },
+        "username": "beheaderSQY",
+        "verified": false
+      }
+    ]
+  }
+}

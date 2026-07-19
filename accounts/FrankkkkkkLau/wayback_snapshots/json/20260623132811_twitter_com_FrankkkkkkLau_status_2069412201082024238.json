@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069412186691358720"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2069412201082024238",
+    "created_at": "2026-06-23T13:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T14:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069412201082024238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ic6ddMh5Eq",
+          "end": 23,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2069412201082024238/photo/1",
+          "media_key": "3_2069412186691358720",
+          "start": 0,
+          "url": "https://t.co/Ic6ddMh5Eq"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2069411135091278204",
+          "start": 24,
+          "url": "https://t.co/fp1vLqTs5I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069412201082024238",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069411135091278204",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/Ic6ddMh5Eq https://t.co/fp1vLqTs5I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2470,
+        "media_key": "3_2069412186691358720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgHa2maUAAi_sA.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2069411120524468224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgGcy0aoAA5XMk.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069412186691358720"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2069412201082024238",
+        "created_at": "2026-06-23T13:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069412201082024238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ic6ddMh5Eq",
+              "end": 23,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2069412201082024238/photo/1",
+              "media_key": "3_2069412186691358720",
+              "start": 0,
+              "url": "https://t.co/Ic6ddMh5Eq"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2069411135091278204",
+              "start": 24,
+              "url": "https://t.co/fp1vLqTs5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069412201082024238",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069411135091278204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ic6ddMh5Eq https://t.co/fp1vLqTs5I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069411120524468224"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2069411135091278204",
+        "created_at": "2026-06-23T13:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069411135091278204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bakkszJqAp",
+              "end": 28,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2069411135091278204/photo/1",
+              "media_key": "3_2069411120524468224",
+              "start": 5,
+              "url": "https://t.co/bakkszJqAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069411135091278204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤖何意味 https://t.co/bakkszJqAp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 452,
+          "like_count": 5206,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 1069
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "1969307993419170100",
+    "created_at": "2026-05-18T10:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T11:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056323303799931377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751162083519938561",
+          "start": 0,
+          "username": "seseDeWya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056323303799931377",
+    "in_reply_to_user_id": "1751162083519938561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969307993419170100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seseDeWya 你是吗("
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 195,
+        "media_key": "3_1969307991079075843",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1RjLx2bQAMquDG.jpg",
+        "width": 285
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "1969307993419170100",
+        "created_at": "2026-05-18T10:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056323303799931377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751162083519938561",
+              "start": 0,
+              "username": "seseDeWya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056323303799931377",
+        "in_reply_to_user_id": "1751162083519938561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969307993419170100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seseDeWya 你是吗("
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969307991079075843"
+          ]
+        },
+        "author_id": "1751162083519938561",
+        "conversation_id": "1969307993419170100",
+        "created_at": "2025-09-20T07:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T08:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969307993419170100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ma8fpTJwoO",
+              "end": 41,
+              "expanded_url": "https://x.com/seseDeWya/status/1969307993419170100/photo/1",
+              "media_key": "3_1969307991079075843",
+              "start": 18,
+              "url": "https://t.co/ma8fpTJwoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969307993419170100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿，xnn真好看，嘿嘿…嘿嘿嘿。 https://t.co/ma8fpTJwoO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | CNIX听床师 | Mandarin/English/Cantonese🆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.cn",
+                "end": 23,
+                "expanded_url": "https://g.cn/",
+                "start": 0,
+                "url": "https://t.co/I4STCmJ4Xt"
+              }
+            ]
+          }
+        },
+        "id": "1672761170040692739",
+        "location": "距离你0.5km",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2034926426202546677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592314895687680/5Ynx2-xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 79,
+          "like_count": 1810,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 446
+        },
+        "url": "https://t.co/I4STCmJ4Xt",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T08:36:00.000Z",
+        "description": "",
+        "id": "1751162083519938561",
+        "name": "菜菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048385382899937280/yjtBunki_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 73,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 115
+        },
+        "username": "seseDeWya",
+        "verified": false
+      }
+    ]
+  }
+}

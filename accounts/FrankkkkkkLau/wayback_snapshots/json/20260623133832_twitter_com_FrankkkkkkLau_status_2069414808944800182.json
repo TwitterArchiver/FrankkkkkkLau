@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069414800673869824"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2069411135091278204",
+    "created_at": "2026-06-23T13:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T14:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069414808944800182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934766733237342209",
+          "start": 0,
+          "username": "Ravvdata"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pnFJcnJGV8",
+          "end": 33,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2069414808944800182/photo/1",
+          "media_key": "3_2069414800673869824",
+          "start": 10,
+          "url": "https://t.co/pnFJcnJGV8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069414808944800182",
+    "in_reply_to_user_id": "1934766733237342209",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069413659856495013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ravvdata https://t.co/pnFJcnJGV8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2069414800673869824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgJzAcaEAAaNwA.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069414800673869824"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2069411135091278204",
+        "created_at": "2026-06-23T13:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069414808944800182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934766733237342209",
+              "start": 0,
+              "username": "Ravvdata"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pnFJcnJGV8",
+              "end": 33,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2069414808944800182/photo/1",
+              "media_key": "3_2069414800673869824",
+              "start": 10,
+              "url": "https://t.co/pnFJcnJGV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069414808944800182",
+        "in_reply_to_user_id": "1934766733237342209",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069413659856495013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ravvdata https://t.co/pnFJcnJGV8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934766733237342209",
+        "conversation_id": "2069411135091278204",
+        "created_at": "2026-06-23T13:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069413659856495013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069413659856495013",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069411135091278204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 詐騙也詐龍鳳, 高端🤖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 452,
+          "like_count": 5208,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 1070
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-17T00:15:29.000Z",
+        "description": "fs::read()/EN ZH/學緊粵語🇭🇰/😡AI号会block",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "http://wh.gov",
+                "start": 0,
+                "url": "https://t.co/hxWLjg2CDL"
+              }
+            ]
+          }
+        },
+        "id": "1934766733237342209",
+        "location": "Anywhere",
+        "name": "raw_data;🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065292518325903360/dkCBnxpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 82,
+          "like_count": 1150,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/hxWLjg2CDL",
+        "username": "Ravvdata",
+        "verified": false
+      }
+    ]
+  }
+}
