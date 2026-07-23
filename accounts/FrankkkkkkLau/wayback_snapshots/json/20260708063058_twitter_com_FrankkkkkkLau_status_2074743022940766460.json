@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2074742480206279061",
+    "created_at": "2026-07-08T06:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074743022940766460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065198058443620353",
+          "start": 0,
+          "username": "Autonomous667"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 86,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2073686135801544911",
+          "start": 63,
+          "url": "https://t.co/1wv5KxJ84d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074743022940766460",
+    "in_reply_to_user_id": "2065198058443620353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073686135801544911",
+        "type": "quoted"
+      },
+      {
+        "id": "2074742480206279061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autonomous667 用mcis优选一下试试👀效果可能更好些\n然后有些ip可能443端口限速, 换成8443就能跑满\nhttps://t.co/1wv5KxJ84d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2073681722018021376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcyihIawAASga2.png",
+        "width": 1920
+      },
+      {
+        "height": 951,
+        "media_key": "3_2073685289676259328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMc1yLsbQAADiyk.jpg",
+        "width": 1274
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074739637613162496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMr0tT1a8AA7vu0.jpg",
+        "width": 1335
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2074742480206279061",
+        "created_at": "2026-07-08T06:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074743022940766460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065198058443620353",
+              "start": 0,
+              "username": "Autonomous667"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 86,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2073686135801544911",
+              "start": 63,
+              "url": "https://t.co/1wv5KxJ84d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074743022940766460",
+        "in_reply_to_user_id": "2065198058443620353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073686135801544911",
+            "type": "quoted"
+          },
+          {
+            "id": "2074742480206279061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autonomous667 用mcis优选一下试试👀效果可能更好些\n然后有些ip可能443端口限速, 换成8443就能跑满\nhttps://t.co/1wv5KxJ84d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073681722018021376",
+            "3_2073685289676259328"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073686135801544911",
+        "created_at": "2026-07-05T08:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073686135801544911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UTiYdMhMr",
+              "end": 175,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2073686135801544911/photo/1",
+              "media_key": "3_2073681722018021376",
+              "start": 152,
+              "url": "https://t.co/1UTiYdMhMr"
+            },
+            {
+              "display_url": "pic.x.com/1UTiYdMhMr",
+              "end": 175,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2073686135801544911/photo/1",
+              "media_key": "3_2073685289676259328",
+              "start": 152,
+              "url": "https://t.co/1UTiYdMhMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073686135801544911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/Leo-Mu/monteca…",
+                "end": 204,
+                "expanded_url": "https://github.com/Leo-Mu/montecarlo-ip-searcher",
+                "start": 181,
+                "url": "https://t.co/daKiRJNo2o"
+              }
+            ]
+          },
+          "text": "推荐一个我最近在用的Cloudflare ip优选工具, 叫mcis\n相比cfst, 不容易触发cf和运营商的风控机制, 而且ipv6优选效果更好, 移动和电信能优选出走HKG, SIN和NRT的ipv6。运气好的话可能还可以找到本地运营商做了特殊优化的ip段(?)\n不过搭建代理和优选是违反tos的, 频繁测速也可能会被运营商判定为对外攻击, 请自行承担后果\nhttps://t.co/daKiRJNo2o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 2369,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "推荐一个我最近在用的Cloudflare ip优选工具, 叫mcis\n相比cfst, 不容易触发cf和运营商的风控机制, 而且ipv6优选效果更好, 移动和电信能优选出走HKG, SIN和NRT的ipv6。运气好的话可能还可以找到本地运营商做了特殊优化的ip段(?)\n不过搭建代理和优选是违反tos的, https://t.co/1UTiYdMhMr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074739637613162496"
+          ]
+        },
+        "author_id": "2065198058443620353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074742480206279061",
+        "created_at": "2026-07-08T06:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:17:31.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074739640205287600",
+          "2074742480206279061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1196460589",
+              "start": 4,
+              "username": "ygkkkg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfkpXOvVtb",
+              "end": 70,
+              "expanded_url": "https://x.com/Autonomous667/status/2074742480206279061/photo/1",
+              "media_key": "3_2074739637613162496",
+              "start": 47,
+              "url": "https://t.co/KfkpXOvVtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074742480206279061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟着勇哥@ygkkkg 搞了一下优选结果还不错，这个速度至少比我5usd5g的esim快多了 https://t.co/KfkpXOvVtb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 648,
+          "like_count": 6924,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 1413
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T22:24:09.000Z",
+        "description": "如果想要进SimpleX群一起玩，私信，请，，， 或者给我发发邮件：114514@automous.lol 打赏地址（bsc/bep20）：0x30B9D214e5f9E935D934040dc13Aa1c1abD8296a 我先在这里放一堆申必emoji：🇹🇼🇭🇰🏳️‍⚧️🏳️‍🌈🍥🇦🇶🇧🇿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "automous.lol",
+                "end": 23,
+                "expanded_url": "https://automous.lol",
+                "start": 0,
+                "url": "https://t.co/cuxICd3LHR"
+              }
+            ]
+          }
+        },
+        "id": "2065198058443620353",
+        "location": "你家的床上",
+        "name": "🌊Autonomous🏳️‍⚧️🇹🇼🇳🇫🍥",
+        "pinned_tweet_id": "2067883740177821740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071015515150270464/JwE4BzXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 123,
+          "like_count": 1069,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1189
+        },
+        "url": "https://t.co/cuxICd3LHR",
+        "username": "Autonomous667",
+        "verified": true
+      }
+    ]
+  }
+}

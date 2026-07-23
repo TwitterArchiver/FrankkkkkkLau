@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2079521926939291828",
+    "created_at": "2026-07-21T11:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079526529961451971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1920665768750182401",
+          "start": 0,
+          "username": "Restorelife0771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079526529961451971",
+    "in_reply_to_user_id": "1920665768750182401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079521926939291828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Restorelife0771 什么时候女装🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2079521926939291828",
+        "created_at": "2026-07-21T11:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079526529961451971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920665768750182401",
+              "start": 0,
+              "username": "Restorelife0771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079526529961451971",
+        "in_reply_to_user_id": "1920665768750182401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079521926939291828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Restorelife0771 什么时候女装🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920665768750182401",
+        "conversation_id": "2079521926939291828",
+        "created_at": "2026-07-21T11:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079521926939291828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079521926939291828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打舞萌的时候憋尿好爽\n憋尿的时候自慰好爽\n*≠打舞萌的时候自慰好爽，当然如果房间里有手台我可能真的会这么干\n*文字贴无法打敏感 tag 致歉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 744,
+          "like_count": 8657,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 1733
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-09T02:23:09.000Z",
+        "description": "账号尾数改成 0772 就能搜到我的另一个账号。；\n顺男友跨 ；*非* MtF/顺女 请注意；\n喜欢玩音游 喜欢听电音 在学习日语 成绩很差\n是个胖子 属于 98% 健全人(可能无攻击性)；\nにほんの友達が欲しい\n；有的时候回一些豆包语录是在反串，请知悉",
+        "id": "1920665768750182401",
+        "name": "Inochi.curve",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920699900645261312/_sh8PWQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 361,
+          "like_count": 8056,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1373
+        },
+        "url": "",
+        "username": "Restorelife0771",
+        "verified": false
+      }
+    ]
+  }
+}

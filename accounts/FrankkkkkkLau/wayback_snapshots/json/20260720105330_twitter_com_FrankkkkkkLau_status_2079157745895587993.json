@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079157255669510144"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692488",
+          "name": "GitLab"
+        }
+      }
+    ],
+    "conversation_id": "2079157745895587993",
+    "created_at": "2026-07-20T10:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079157745895587993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ey63dwLlRP",
+          "end": 37,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2079157745895587993/photo/1",
+          "media_key": "3_2079157255669510144",
+          "start": 14,
+          "url": "https://t.co/Ey63dwLlRP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079157745895587993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "GitLab: 干嘛... https://t.co/Ey63dwLlRP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 95,
+        "media_key": "3_2079157255669510144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqmghhbcAAehpm.png",
+        "width": 302
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079157255669510144"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692488",
+              "name": "GitLab"
+            }
+          }
+        ],
+        "conversation_id": "2079157745895587993",
+        "created_at": "2026-07-20T10:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079157745895587993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ey63dwLlRP",
+              "end": 37,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2079157745895587993/photo/1",
+              "media_key": "3_2079157255669510144",
+              "start": 14,
+              "url": "https://t.co/Ey63dwLlRP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079157745895587993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "GitLab: 干嘛... https://t.co/Ey63dwLlRP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 720,
+          "like_count": 8460,
+          "listed_count": 1,
+          "media_count": 386,
+          "tweet_count": 1708
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

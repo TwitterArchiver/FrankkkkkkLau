@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079074162405232640"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2078849525008175164",
+    "created_at": "2026-07-20T05:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079074166888931627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1813954342564818944",
+          "start": 0,
+          "username": "Tsumugi2333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZVLgPAhXkQ",
+          "end": 39,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2079074166888931627/photo/1",
+          "media_key": "3_2079074162405232640",
+          "start": 16,
+          "url": "https://t.co/ZVLgPAhXkQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079074166888931627",
+    "in_reply_to_user_id": "1813954342564818944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079072805849874808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsumugi2333 嗯? https://t.co/ZVLgPAhXkQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2079074162405232640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpa72_bUAAzB9b.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079074162405232640"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2078849525008175164",
+        "created_at": "2026-07-20T05:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079074166888931627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1813954342564818944",
+              "start": 0,
+              "username": "Tsumugi2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZVLgPAhXkQ",
+              "end": 39,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2079074166888931627/photo/1",
+              "media_key": "3_2079074162405232640",
+              "start": 16,
+              "url": "https://t.co/ZVLgPAhXkQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079074166888931627",
+        "in_reply_to_user_id": "1813954342564818944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079072805849874808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsumugi2333 嗯? https://t.co/ZVLgPAhXkQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813954342564818944",
+        "conversation_id": "2078849525008175164",
+        "created_at": "2026-07-20T05:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079072805849874808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079072805849874808",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078849525008175164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 714,
+          "like_count": 8420,
+          "listed_count": 1,
+          "media_count": 384,
+          "tweet_count": 1703
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T15:12:30.000Z",
+        "description": "真自由派",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mises.org",
+                "end": 23,
+                "expanded_url": "http://mises.org",
+                "start": 0,
+                "url": "https://t.co/bLAALiyiYv"
+              }
+            ]
+          }
+        },
+        "id": "1813954342564818944",
+        "name": "网友唯泽平",
+        "pinned_tweet_id": "2075497048829464659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994151561191411713/V5QnR1Co_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 194,
+          "like_count": 1601,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 2523
+        },
+        "url": "https://t.co/bLAALiyiYv",
+        "username": "Tsumugi2333",
+        "verified": false
+      }
+    ]
+  }
+}

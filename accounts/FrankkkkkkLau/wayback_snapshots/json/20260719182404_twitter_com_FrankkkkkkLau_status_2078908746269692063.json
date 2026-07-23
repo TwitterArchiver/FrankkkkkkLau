@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2078901581333074329",
+    "created_at": "2026-07-19T18:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T19:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078908746269692063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915233729720770560",
+          "start": 0,
+          "username": "microcharon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078908746269692063",
+    "in_reply_to_user_id": "1915233729720770560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078908037713272908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@microcharon 我都是拿来搭代理用（\n现在还有几台"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2078901581333074329",
+        "created_at": "2026-07-19T18:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078908746269692063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915233729720770560",
+              "start": 0,
+              "username": "microcharon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078908746269692063",
+        "in_reply_to_user_id": "1915233729720770560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078908037713272908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@microcharon 我都是拿来搭代理用（\n现在还有几台"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915233729720770560",
+        "conversation_id": "2078901581333074329",
+        "created_at": "2026-07-19T18:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078908037713272908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            },
+            {
+              "end": 29,
+              "id": "1953393801340575744",
+              "start": 15,
+              "username": "n473428097803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078908037713272908",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078906888889291158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@FrankkkkkkLau @n473428097803 如果是 dev 我还可以赞助🫵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 710,
+          "like_count": 8404,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 1698
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-24T02:38:12.000Z",
+        "description": "Avant-Garde Jazz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "microcharon.com",
+                "end": 23,
+                "expanded_url": "https://microcharon.com",
+                "start": 0,
+                "url": "https://t.co/HNrqQNZ4IJ"
+              }
+            ]
+          }
+        },
+        "id": "1915233729720770560",
+        "location": "Germany",
+        "name": "Sherlock Zhang",
+        "pinned_tweet_id": "2066903202826793293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074715450437681152/AOJfPzje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 562,
+          "like_count": 1403,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 2206
+        },
+        "url": "https://t.co/HNrqQNZ4IJ",
+        "username": "microcharon",
+        "verified": true
+      }
+    ]
+  }
+}

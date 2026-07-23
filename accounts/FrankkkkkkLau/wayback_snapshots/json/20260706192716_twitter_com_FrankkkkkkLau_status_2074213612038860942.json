@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2074213612038860942",
+    "created_at": "2026-07-06T19:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T20:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074213612038860942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1672761170040692739",
+          "start": 3,
+          "username": "FrankkkkkkLau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074213612038860942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073686135801544911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FrankkkkkkLau: 推荐一个我最近在用的Cloudflare ip优选工具, 叫mcis\n相比cfst, 不容易触发cf和运营商的风控机制, 而且ipv6优选效果更好, 移动和电信能优选出走HKG, SIN和NRT的ipv6。运气好的话可能还可以找到本地运营商…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2073681722018021376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcyihIawAASga2.png",
+        "width": 1920
+      },
+      {
+        "height": 951,
+        "media_key": "3_2073685289676259328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMc1yLsbQAADiyk.jpg",
+        "width": 1274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2074213612038860942",
+        "created_at": "2026-07-06T19:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074213612038860942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1672761170040692739",
+              "start": 3,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074213612038860942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073686135801544911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FrankkkkkkLau: 推荐一个我最近在用的Cloudflare ip优选工具, 叫mcis\n相比cfst, 不容易触发cf和运营商的风控机制, 而且ipv6优选效果更好, 移动和电信能优选出走HKG, SIN和NRT的ipv6。运气好的话可能还可以找到本地运营商…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073681722018021376",
+            "3_2073685289676259328"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073686135801544911",
+        "created_at": "2026-07-05T08:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073686135801544911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UTiYdMhMr",
+              "end": 175,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2073686135801544911/photo/1",
+              "media_key": "3_2073681722018021376",
+              "start": 152,
+              "url": "https://t.co/1UTiYdMhMr"
+            },
+            {
+              "display_url": "pic.x.com/1UTiYdMhMr",
+              "end": 175,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2073686135801544911/photo/1",
+              "media_key": "3_2073685289676259328",
+              "start": 152,
+              "url": "https://t.co/1UTiYdMhMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073686135801544911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/Leo-Mu/monteca…",
+                "end": 204,
+                "expanded_url": "https://github.com/Leo-Mu/montecarlo-ip-searcher",
+                "start": 181,
+                "url": "https://t.co/daKiRJNo2o"
+              }
+            ]
+          },
+          "text": "推荐一个我最近在用的Cloudflare ip优选工具, 叫mcis\n相比cfst, 不容易触发cf和运营商的风控机制, 而且ipv6优选效果更好, 移动和电信能优选出走HKG, SIN和NRT的ipv6。运气好的话可能还可以找到本地运营商做了特殊优化的ip段(?)\n不过搭建代理和优选是违反tos的, 频繁测速也可能会被运营商判定为对外攻击, 请自行承担后果\nhttps://t.co/daKiRJNo2o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 2129,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推荐一个我最近在用的Cloudflare ip优选工具, 叫mcis\n相比cfst, 不容易触发cf和运营商的风控机制, 而且ipv6优选效果更好, 移动和电信能优选出走HKG, SIN和NRT的ipv6。运气好的话可能还可以找到本地运营商做了特殊优化的ip段(?)\n不过搭建代理和优选是违反tos的, https://t.co/1UTiYdMhMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 614,
+          "like_count": 6739,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 1386
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

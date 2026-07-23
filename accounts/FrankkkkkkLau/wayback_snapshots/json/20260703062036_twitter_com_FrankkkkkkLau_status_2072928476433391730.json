@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072928468074151936"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2072925541670572538",
+    "created_at": "2026-07-03T06:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072928476433391730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1227265979735887874",
+          "start": 0,
+          "username": "LuminaFable2020"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gnj5E9ceb7",
+          "end": 74,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2072928476433391730/photo/1",
+          "media_key": "3_2072928468074151936",
+          "start": 51,
+          "url": "https://t.co/gnj5E9ceb7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072928476433391730",
+    "in_reply_to_user_id": "1227265979735887874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072925541670572538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@LuminaFable2020 我之前进他们的假网站里给骗子发国安署的电话, 骗子还找我要验证码🤪 https://t.co/gnj5E9ceb7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2147,
+        "media_key": "3_2072928468074151936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSFdXhawAAT6ZX.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1567,
+        "media_key": "3_2072925532950585344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSCyhVbYAAh-HR.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2072925521760198656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSCx3pboAASEAF.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072928468074151936"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2072925541670572538",
+        "created_at": "2026-07-03T06:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072928476433391730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1227265979735887874",
+              "start": 0,
+              "username": "LuminaFable2020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gnj5E9ceb7",
+              "end": 74,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2072928476433391730/photo/1",
+              "media_key": "3_2072928468074151936",
+              "start": 51,
+              "url": "https://t.co/gnj5E9ceb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072928476433391730",
+        "in_reply_to_user_id": "1227265979735887874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072925541670572538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LuminaFable2020 我之前进他们的假网站里给骗子发国安署的电话, 骗子还找我要验证码🤪 https://t.co/gnj5E9ceb7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072925532950585344",
+            "3_2072925521760198656"
+          ]
+        },
+        "author_id": "1227265979735887874",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          }
+        ],
+        "conversation_id": "2072925541670572538",
+        "created_at": "2026-07-03T06:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072925541670572538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JyjI38qr8v",
+              "end": 56,
+              "expanded_url": "https://x.com/LuminaFable2020/status/2072925541670572538/photo/1",
+              "media_key": "3_2072925532950585344",
+              "start": 33,
+              "url": "https://t.co/JyjI38qr8v"
+            },
+            {
+              "display_url": "pic.x.com/JyjI38qr8v",
+              "end": 56,
+              "expanded_url": "https://x.com/LuminaFable2020/status/2072925541670572538/photo/1",
+              "media_key": "3_2072925521760198656",
+              "start": 33,
+              "url": "https://t.co/JyjI38qr8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072925541670572538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "+86注册WhatsApp特有诈骗短信息\n另外咱的wa 欢迎来加 https://t.co/JyjI38qr8v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 548,
+          "like_count": 5951,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 1226
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-11T16:19:55.000Z",
+        "description": "社恐 /  Dev /  碎碎念 /  可爱 / No politics / Transport fans / Prev acc @frankxka05 / 🤤 /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "frankxka05"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LuminaSaki",
+                "end": 23,
+                "expanded_url": "https://t.me/LuminaSaki",
+                "start": 0,
+                "url": "https://t.co/tXNFqGvWTa"
+              }
+            ]
+          }
+        },
+        "id": "1227265979735887874",
+        "name": "LuminaSaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055610164711985152/Dga6BtlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 331,
+          "like_count": 1177,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/tXNFqGvWTa",
+        "username": "LuminaFable2020",
+        "verified": true
+      }
+    ]
+  }
+}

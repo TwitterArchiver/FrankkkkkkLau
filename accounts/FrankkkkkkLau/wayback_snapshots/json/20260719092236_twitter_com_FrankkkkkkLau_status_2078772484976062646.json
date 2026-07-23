@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078772475509567488"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2078772484976062646",
+    "created_at": "2026-07-19T09:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078772484976062646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CFKQfVEaLr",
+          "end": 30,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2078772484976062646/photo/1",
+          "media_key": "3_2078772475509567488",
+          "start": 7,
+          "url": "https://t.co/CFKQfVEaLr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078772484976062646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "这么弱，，， https://t.co/CFKQfVEaLr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2607,
+        "media_key": "3_2078772475509567488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlIjXubcAACfcT.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078772475509567488"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2078772484976062646",
+        "created_at": "2026-07-19T09:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078772484976062646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFKQfVEaLr",
+              "end": 30,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2078772484976062646/photo/1",
+              "media_key": "3_2078772475509567488",
+              "start": 7,
+              "url": "https://t.co/CFKQfVEaLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078772484976062646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "这么弱，，， https://t.co/CFKQfVEaLr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 690,
+          "like_count": 8323,
+          "listed_count": 1,
+          "media_count": 374,
+          "tweet_count": 1669
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

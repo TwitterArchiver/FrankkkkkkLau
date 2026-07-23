@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078872186962784256"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2078873628599521640",
+    "created_at": "2026-07-19T16:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078873628599521640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ogQlqV0Ooa",
+          "end": 43,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2078873628599521640/photo/1",
+          "media_key": "3_2078872186962784256",
+          "start": 20,
+          "url": "https://t.co/ogQlqV0Ooa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078873628599521640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草, 还以为能这样设置仅社交圈回复）） https://t.co/ogQlqV0Ooa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 442,
+        "media_key": "3_2078872186962784256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmjPV1bMAAS4O7.png",
+        "width": 911
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078872186962784256"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2078873628599521640",
+        "created_at": "2026-07-19T16:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078873628599521640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ogQlqV0Ooa",
+              "end": 43,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2078873628599521640/photo/1",
+              "media_key": "3_2078872186962784256",
+              "start": 20,
+              "url": "https://t.co/ogQlqV0Ooa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078873628599521640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草, 还以为能这样设置仅社交圈回复）） https://t.co/ogQlqV0Ooa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 692,
+          "like_count": 8364,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 1680
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      }
+    ]
+  }
+}

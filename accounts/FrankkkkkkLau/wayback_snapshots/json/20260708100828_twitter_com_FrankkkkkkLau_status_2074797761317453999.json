@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2074797761317453999",
+    "created_at": "2026-07-08T10:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074797761317453999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mengxin66666/s…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/mengxin66666/status/2074741251451298058",
+          "start": 66,
+          "url": "https://t.co/n3NyAkjuLc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074797761317453999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074741251451298058",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Freedom Is Leaving😐\n感觉大概率会烂尾。\n即使最后做出来了也很有可能会是类似cloudflare warp的东西 https://t.co/n3NyAkjuLc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_2074741220111532032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMr2JbGbwAAxzpm.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2074797761317453999",
+        "created_at": "2026-07-08T10:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074797761317453999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengxin66666/s…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/mengxin66666/status/2074741251451298058",
+              "start": 66,
+              "url": "https://t.co/n3NyAkjuLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074797761317453999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074741251451298058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Freedom Is Leaving😐\n感觉大概率会烂尾。\n即使最后做出来了也很有可能会是类似cloudflare warp的东西 https://t.co/n3NyAkjuLc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074741220111532032"
+          ]
+        },
+        "author_id": "1910893768498438146",
+        "conversation_id": "2074741251451298058",
+        "created_at": "2026-07-08T06:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074741251451298058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SG8XlfPjE8",
+              "end": 109,
+              "expanded_url": "https://x.com/mengxin66666/status/2074741251451298058/photo/1",
+              "media_key": "3_2074741220111532032",
+              "start": 86,
+              "url": "https://t.co/SG8XlfPjE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074741251451298058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3048,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很好奇\n\n当时一月份闹得沸沸扬扬的\n美国国务院的Freedom VPN\n\n为什么至今仍未发布\n这有什么说法吗？🤔\n\n说实话当时我还挺期待的\n只不过后来没见到有点小失望😔 https://t.co/SG8XlfPjE8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 649,
+          "like_count": 6982,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 1425
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-12T03:12:45.000Z",
+        "description": "男\n科技时政💻\n娱乐抽象休闲聊天📱\n写代码但很懒🖥️\n自由职业者🗺️\n提倡和平(互联网也一样)🌐\n有空会回复或互动任何人，如果有一段时\n间比较忙碌，会抽空回复的📱\n声明我没用自动化脚本和机器人回复😅",
+        "id": "1910893768498438146",
+        "location": "Hong Kong",
+        "name": "萌新_mengxin",
+        "pinned_tweet_id": "2070680055592960067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072015920420249600/1oZ6rrmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 245,
+          "like_count": 10171,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1571
+        },
+        "url": "",
+        "username": "mengxin66666",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2078323558204465206",
+    "created_at": "2026-07-18T15:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078500139464106406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945999632200265728",
+          "start": 0,
+          "username": "aixparty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078500139464106406",
+    "in_reply_to_user_id": "1945999632200265728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078496565069504890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aixparty 貌似是化了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2078323558204465206",
+        "created_at": "2026-07-18T15:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078500139464106406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945999632200265728",
+              "start": 0,
+              "username": "aixparty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078500139464106406",
+        "in_reply_to_user_id": "1945999632200265728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078496565069504890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aixparty 貌似是化了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945999632200265728",
+        "conversation_id": "2078323558204465206",
+        "created_at": "2026-07-18T15:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078496565069504890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078496565069504890",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078323558204465206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau ber 你的巨量瑞幸冰块呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 688,
+          "like_count": 8249,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 1656
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-18T00:10:58.000Z",
+        "description": "人工智能科技自媒体，欢迎关注，了解ai资讯",
+        "id": "1945999632200265728",
+        "name": "AI人工智能自媒体",
+        "pinned_tweet_id": "2048030562271842534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982426756033171456/zgTqDWv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 3223,
+          "like_count": 4979,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 8177
+        },
+        "url": "",
+        "username": "aixparty",
+        "verified": true
+      }
+    ]
+  }
+}

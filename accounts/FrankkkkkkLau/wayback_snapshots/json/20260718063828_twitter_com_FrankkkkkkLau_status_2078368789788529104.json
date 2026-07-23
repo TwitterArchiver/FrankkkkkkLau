@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2078344596594327999",
+    "created_at": "2026-07-18T06:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078368789788529104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1921022730612469763",
+          "start": 0,
+          "username": "RestoreLife0772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078368789788529104",
+    "in_reply_to_user_id": "1921022730612469763",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078368631516266520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@RestoreLife0772 不给摸😤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2078344596594327999",
+        "created_at": "2026-07-18T06:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078368789788529104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1921022730612469763",
+              "start": 0,
+              "username": "RestoreLife0772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078368789788529104",
+        "in_reply_to_user_id": "1921022730612469763",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078368631516266520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@RestoreLife0772 不给摸😤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921022730612469763",
+        "conversation_id": "2078344596594327999",
+        "created_at": "2026-07-18T06:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078368631516266520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078368631516266520",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078344596594327999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@FrankkkkkkLau 摸摸小狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 685,
+          "like_count": 8189,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 1638
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-10T02:01:31.000Z",
+        "description": "孩子们账号打赢复活赛了，但小号的粉丝比这个号还高😹😹\n喜欢打音游 在学日语 是个男胖子 友跨 希望认识日本朋友喵",
+        "id": "1921022730612469763",
+        "location": "Mars",
+        "name": "Life.kyokusenn",
+        "pinned_tweet_id": "2048191499549237621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064733350905139200/O7UQn8cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 332,
+          "like_count": 15738,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 2896
+        },
+        "url": "",
+        "username": "RestoreLife0772",
+        "verified": false
+      }
+    ]
+  }
+}

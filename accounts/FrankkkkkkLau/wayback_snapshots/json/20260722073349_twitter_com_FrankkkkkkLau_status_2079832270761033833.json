@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079832049947754497"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2079832270761033833",
+    "created_at": "2026-07-22T07:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079832270761033833"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CO6U8x67qV",
+          "end": 32,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2079832270761033833/photo/1",
+          "media_key": "3_2079832049947754497",
+          "start": 9,
+          "url": "https://t.co/CO6U8x67qV"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2074833409093128242",
+          "start": 33,
+          "url": "https://t.co/98ZIGEP8Oa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079832270761033833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074833409093128242",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "移动最好用的一集 https://t.co/CO6U8x67qV https://t.co/98ZIGEP8Oa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2079832049947754497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0MOuGbwAEUngH.jpg",
+        "width": 2560
+      },
+      {
+        "height": 207,
+        "media_key": "3_2074832149367373824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtI2M-aQAADQCp.png",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079832049947754497"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2079832270761033833",
+        "created_at": "2026-07-22T07:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079832270761033833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CO6U8x67qV",
+              "end": 32,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2079832270761033833/photo/1",
+              "media_key": "3_2079832049947754497",
+              "start": 9,
+              "url": "https://t.co/CO6U8x67qV"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2074833409093128242",
+              "start": 33,
+              "url": "https://t.co/98ZIGEP8Oa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079832270761033833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074833409093128242",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "移动最好用的一集 https://t.co/CO6U8x67qV https://t.co/98ZIGEP8Oa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074832149367373824"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2074833409093128242",
+        "created_at": "2026-07-08T12:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074833409093128242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQPlLM8Pnc",
+              "end": 41,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2074833409093128242/photo/1",
+              "media_key": "3_2074832149367373824",
+              "start": 18,
+              "url": "https://t.co/FQPlLM8Pnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074833409093128242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1299,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "移动到YouTube居然走hkg🧐 https://t.co/FQPlLM8Pnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 762,
+          "like_count": 8842,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 1758
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

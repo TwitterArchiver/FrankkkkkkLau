@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2078866406897029504",
+    "created_at": "2026-07-19T16:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078884046881611998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995146888249778177",
+          "start": 0,
+          "username": "Rin_Mashiro_"
+        },
+        {
+          "end": 28,
+          "id": "2034245121009729536",
+          "start": 14,
+          "username": "qianjianmoxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078884046881611998",
+    "in_reply_to_user_id": "1995146888249778177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078878147089702920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin_Mashiro_ @qianjianmoxin 还是去找人合租家宽vps罢, 用量大的话应该会比买socks便宜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2078866406897029504",
+        "created_at": "2026-07-19T16:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078884046881611998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995146888249778177",
+              "start": 0,
+              "username": "Rin_Mashiro_"
+            },
+            {
+              "end": 28,
+              "id": "2034245121009729536",
+              "start": 14,
+              "username": "qianjianmoxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078884046881611998",
+        "in_reply_to_user_id": "1995146888249778177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078878147089702920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin_Mashiro_ @qianjianmoxin 还是去找人合租家宽vps罢, 用量大的话应该会比买socks便宜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995146888249778177",
+        "conversation_id": "2078866406897029504",
+        "created_at": "2026-07-19T16:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078878147089702920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034245121009729536",
+              "start": 0,
+              "username": "qianjianmoxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078878147089702920",
+        "in_reply_to_user_id": "2034245121009729536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078877731430023368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianjianmoxin 毕竟蛮贵的，1刀1g😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 700,
+          "like_count": 8380,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 1683
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T15:04:29.000Z",
+        "description": "VPS梦女？（很喜欢这个称呼就拿来用了）｜处于HRT与非HRT叠加态（取决于买完vps还有没有钱…）｜无GD｜全栈｜软件开发｜AI｜ACGN｜JP（N2） EN CH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 23,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 0,
+                "url": "https://t.co/PVGkqciT7N"
+              }
+            ]
+          }
+        },
+        "id": "1995146888249778177",
+        "name": "Rin",
+        "pinned_tweet_id": "2078723691039572235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006297830823215106/c2krAf_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 55,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1004
+        },
+        "url": "https://t.co/PVGkqciT7N",
+        "username": "Rin_Mashiro_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T12:27:43.000Z",
+        "description": "SCP/轻文学/proxy爱好者创作者 猫咪爱好者 \n厌恶ntr\n私信评论回复看到都会回 可以随意找我聊天\n三秋缒小说爱好者\ntg；https://t.co/qXqTtHm6bl\ngit: https://t.co/0FsJQZRzHS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xinmoyu",
+                "end": 89,
+                "expanded_url": "https://t.me/xinmoyu",
+                "start": 66,
+                "url": "https://t.co/qXqTtHm6bl"
+              },
+              {
+                "display_url": "github.com/nekokemoji",
+                "end": 118,
+                "expanded_url": "https://github.com/nekokemoji",
+                "start": 95,
+                "url": "https://t.co/0FsJQZRzHS"
+              }
+            ]
+          }
+        },
+        "id": "2034245121009729536",
+        "name": "浅见墨心🏳️‍⚧️",
+        "pinned_tweet_id": "2073067271787012570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070910174450360320/K4W57DUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 185,
+          "like_count": 219,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 892
+        },
+        "url": "",
+        "username": "qianjianmoxin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2074211141174317493",
+    "created_at": "2026-07-06T19:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T20:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074212513831637034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915233729720770560",
+          "start": 0,
+          "username": "microcharon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074212513831637034",
+    "in_reply_to_user_id": "1915233729720770560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074212380373123141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@microcharon 有人在用bug送"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2074211141174317493",
+        "created_at": "2026-07-06T19:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074212513831637034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915233729720770560",
+              "start": 0,
+              "username": "microcharon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074212513831637034",
+        "in_reply_to_user_id": "1915233729720770560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074212380373123141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@microcharon 有人在用bug送"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915233729720770560",
+        "conversation_id": "2074211141174317493",
+        "created_at": "2026-07-06T19:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074212380373123141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074212380373123141",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074211141174317493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 怎么这么多人突然有了 p+？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 614,
+          "like_count": 6735,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 1382
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-24T02:38:12.000Z",
+        "description": "Avant-Garde Jazz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "microcharon.com",
+                "end": 23,
+                "expanded_url": "https://microcharon.com",
+                "start": 0,
+                "url": "https://t.co/HNrqQNZ4IJ"
+              }
+            ]
+          }
+        },
+        "id": "1915233729720770560",
+        "location": "Germany",
+        "name": "Sherlock Zhang",
+        "pinned_tweet_id": "2066903202826793293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915233784632668160/ppGei9VY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 519,
+          "like_count": 940,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 1777
+        },
+        "url": "https://t.co/HNrqQNZ4IJ",
+        "username": "microcharon",
+        "verified": true
+      }
+    ]
+  }
+}

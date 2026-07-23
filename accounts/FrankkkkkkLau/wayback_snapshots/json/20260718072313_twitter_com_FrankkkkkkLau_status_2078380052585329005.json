@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078372972226899968"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2078380052585329005",
+    "created_at": "2026-07-18T07:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078380052585329005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5yqjiEg8M8",
+          "end": 83,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2078380052585329005/photo/1",
+          "media_key": "3_2078372972226899968",
+          "start": 60,
+          "url": "https://t.co/5yqjiEg8M8"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2077676197279125921",
+          "start": 84,
+          "url": "https://t.co/qZqNrQevMl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078380052585329005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077676197279125921",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "好多地方在推动禁社媒什么的, 希望以后墙的外面不会是更多的墙\n\n（话说为什么不想想禁了主流社媒之后小孩会去哪些平台💀） https://t.co/5yqjiEg8M8 https://t.co/qZqNrQevMl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2468,
+        "media_key": "3_2078372972226899968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfdNOBbcAAZZaj.jpg",
+        "width": 1200
+      },
+      {
+        "height": 456,
+        "media_key": "3_2077674827251691520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNViP1UbsAA-UW3.png",
+        "width": 459
+      },
+      {
+        "height": 794,
+        "media_key": "3_2077674992230359041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNViZb6aYAES0--.png",
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078372972226899968"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2078380052585329005",
+        "created_at": "2026-07-18T07:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078380052585329005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5yqjiEg8M8",
+              "end": 83,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2078380052585329005/photo/1",
+              "media_key": "3_2078372972226899968",
+              "start": 60,
+              "url": "https://t.co/5yqjiEg8M8"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2077676197279125921",
+              "start": 84,
+              "url": "https://t.co/qZqNrQevMl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078380052585329005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077676197279125921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "好多地方在推动禁社媒什么的, 希望以后墙的外面不会是更多的墙\n\n（话说为什么不想想禁了主流社媒之后小孩会去哪些平台💀） https://t.co/5yqjiEg8M8 https://t.co/qZqNrQevMl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077674827251691520",
+            "3_2077674992230359041"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2077676197279125921",
+        "created_at": "2026-07-16T08:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077676197279125921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OniKyZKB87",
+              "end": 68,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2077676197279125921/photo/1",
+              "media_key": "3_2077674827251691520",
+              "start": 45,
+              "url": "https://t.co/OniKyZKB87"
+            },
+            {
+              "display_url": "pic.x.com/OniKyZKB87",
+              "end": 68,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2077676197279125921/photo/1",
+              "media_key": "3_2077674992230359041",
+              "start": 45,
+              "url": "https://t.co/OniKyZKB87"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077676197279125921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8890,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇现在推特除了 澳大利亚、欧盟和英国 还有哪里会要求验证年龄或者直接禁r18内容(?) https://t.co/OniKyZKB87"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 686,
+          "like_count": 8194,
+          "listed_count": 1,
+          "media_count": 364,
+          "tweet_count": 1643
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079625897037164544"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2079625904620536000",
+    "created_at": "2026-07-21T17:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T18:52:27.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079625568778346933",
+      "2079625904620536000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XDuQik7TpG",
+          "end": 39,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2079625904620536000/photo/1",
+          "media_key": "3_2079625897037164544",
+          "start": 16,
+          "url": "https://t.co/XDuQik7TpG"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2079579488002928640",
+          "start": 40,
+          "url": "https://t.co/YUhALAXf6U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079625904620536000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079579488002928640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "（模仿某位推友的帖子整的烂活） https://t.co/XDuQik7TpG https://t.co/YUhALAXf6U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2079625897037164544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxQvCqacAAWw9D.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1059,
+        "media_key": "3_2079577091637678080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwkWMYakAAdEEF.jpg",
+        "width": 1598
+      },
+      {
+        "height": 415,
+        "media_key": "3_2079577100689059840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwkWuGbsAAlGH1.png",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079625561526444032"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2079625568778346933",
+        "created_at": "2026-07-21T17:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:52:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079625568778346933",
+          "2079625904620536000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MmBSIPU4Ca",
+              "end": 35,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2079625568778346933/photo/1",
+              "media_key": "3_2079625561526444032",
+              "start": 12,
+              "url": "https://t.co/MmBSIPU4Ca"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2079579488002928640",
+              "start": 36,
+              "url": "https://t.co/YUhALAXf6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079625568778346933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079579488002928640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "（模仿某位推友的帖子） https://t.co/MmBSIPU4Ca https://t.co/YUhALAXf6U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079625897037164544"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2079625904620536000",
+        "created_at": "2026-07-21T17:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:52:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079625568778346933",
+          "2079625904620536000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDuQik7TpG",
+              "end": 39,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2079625904620536000/photo/1",
+              "media_key": "3_2079625897037164544",
+              "start": 16,
+              "url": "https://t.co/XDuQik7TpG"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2079579488002928640",
+              "start": 40,
+              "url": "https://t.co/YUhALAXf6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079625904620536000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079579488002928640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "（模仿某位推友的帖子整的烂活） https://t.co/XDuQik7TpG https://t.co/YUhALAXf6U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079577091637678080",
+            "3_2079577100689059840"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2079579488002928640",
+        "created_at": "2026-07-21T14:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079579488002928640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k6nJPtRf0I",
+              "end": 68,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2079579488002928640/photo/1",
+              "media_key": "3_2079577091637678080",
+              "start": 45,
+              "url": "https://t.co/k6nJPtRf0I"
+            },
+            {
+              "display_url": "pic.x.com/k6nJPtRf0I",
+              "end": 68,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2079579488002928640/photo/1",
+              "media_key": "3_2079577100689059840",
+              "start": 45,
+              "url": "https://t.co/k6nJPtRf0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079579488002928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1333,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "貌似真中国家宽在Google的库里定位只精确到国家, 不会像送中节点一样有区和邮编(?) https://t.co/k6nJPtRf0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 749,
+          "like_count": 8761,
+          "listed_count": 1,
+          "media_count": 397,
+          "tweet_count": 1750
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

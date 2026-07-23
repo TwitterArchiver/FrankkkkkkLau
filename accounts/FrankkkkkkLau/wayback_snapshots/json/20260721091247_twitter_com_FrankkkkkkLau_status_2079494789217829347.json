@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2079230288945934796",
+    "created_at": "2026-07-21T09:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079494789217829347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2061845670915629060",
+          "start": 0,
+          "username": "HWatson2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079494789217829347",
+    "in_reply_to_user_id": "2061845670915629060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079484226429452616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HWatson2007 草, 确实）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2079230288945934796",
+        "created_at": "2026-07-21T09:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079494789217829347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2061845670915629060",
+              "start": 0,
+              "username": "HWatson2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079494789217829347",
+        "in_reply_to_user_id": "2061845670915629060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079484226429452616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HWatson2007 草, 确实）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061845670915629060",
+        "conversation_id": "2079230288945934796",
+        "created_at": "2026-07-21T08:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079484226429452616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079484226429452616",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079230288945934796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 其实不做也挺好的，反正大多数人翻出来也都是看片。完全就是浪费美国纳税人的钱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 728,
+          "like_count": 8608,
+          "listed_count": 2,
+          "media_count": 389,
+          "tweet_count": 1725
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-02T16:24:55.000Z",
+        "description": "19 years old. Student.\n\n量化 | MEV | 趋势跟踪 | prediction market | market making | 方向不确定，仍在探索中……\n\n正在准备进入机器视觉实验室 | Machine Learning | AI Agent\n\n台湾是一个独立的国家 | 厌恶小粉红和战狼",
+        "id": "2061845670915629060",
+        "name": "Helmholtz W.",
+        "pinned_tweet_id": "2071435798751178759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069618127831453696/k2XhcWQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 96,
+          "like_count": 5832,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 900
+        },
+        "url": "",
+        "username": "HWatson2007",
+        "verified": false
+      }
+    ]
+  }
+}

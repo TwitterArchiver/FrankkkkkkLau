@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079627645592162304",
+        "3_2079627650835128320",
+        "3_2079627656178626560"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2079399862915768598",
+    "created_at": "2026-07-21T18:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T19:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079627662595912165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1884745808605818880",
+          "start": 0,
+          "username": "Bunbohue40037"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cod6IwAS88",
+          "end": 38,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2079627662595912165/photo/1",
+          "media_key": "3_2079627645592162304",
+          "start": 15,
+          "url": "https://t.co/Cod6IwAS88"
+        },
+        {
+          "display_url": "pic.x.com/Cod6IwAS88",
+          "end": 38,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2079627662595912165/photo/1",
+          "media_key": "3_2079627650835128320",
+          "start": 15,
+          "url": "https://t.co/Cod6IwAS88"
+        },
+        {
+          "display_url": "pic.x.com/Cod6IwAS88",
+          "end": 38,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2079627662595912165/photo/1",
+          "media_key": "3_2079627656178626560",
+          "start": 15,
+          "url": "https://t.co/Cod6IwAS88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079627662595912165",
+    "in_reply_to_user_id": "1884745808605818880",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079399862915768598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bunbohue40037 https://t.co/Cod6IwAS88"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_2079627645592162304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxSU0iaUAAj531.jpg",
+        "width": 1200
+      },
+      {
+        "height": 929,
+        "media_key": "3_2079627650835128320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxSVIEboAAFsX_.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2154,
+        "media_key": "3_2079627656178626560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxSVb-a8AA72Ho.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2111,
+        "media_key": "3_2079399857194749952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuDJyoXUAAFgxX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079627645592162304",
+            "3_2079627650835128320",
+            "3_2079627656178626560"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2079399862915768598",
+        "created_at": "2026-07-21T18:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079627662595912165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884745808605818880",
+              "start": 0,
+              "username": "Bunbohue40037"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cod6IwAS88",
+              "end": 38,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2079627662595912165/photo/1",
+              "media_key": "3_2079627645592162304",
+              "start": 15,
+              "url": "https://t.co/Cod6IwAS88"
+            },
+            {
+              "display_url": "pic.x.com/Cod6IwAS88",
+              "end": 38,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2079627662595912165/photo/1",
+              "media_key": "3_2079627650835128320",
+              "start": 15,
+              "url": "https://t.co/Cod6IwAS88"
+            },
+            {
+              "display_url": "pic.x.com/Cod6IwAS88",
+              "end": 38,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2079627662595912165/photo/1",
+              "media_key": "3_2079627656178626560",
+              "start": 15,
+              "url": "https://t.co/Cod6IwAS88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079627662595912165",
+        "in_reply_to_user_id": "1884745808605818880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079399862915768598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunbohue40037 https://t.co/Cod6IwAS88"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079399857194749952"
+          ]
+        },
+        "author_id": "1884745808605818880",
+        "conversation_id": "2079399862915768598",
+        "created_at": "2026-07-21T02:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079399862915768598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eZjkL7H5BI",
+              "end": 42,
+              "expanded_url": "https://x.com/Bunbohue40037/status/2079399862915768598/photo/1",
+              "media_key": "3_2079399857194749952",
+              "start": 19,
+              "url": "https://t.co/eZjkL7H5BI"
+            },
+            {
+              "display_url": "x.com/Bunbohue40037/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/Bunbohue40037/status/2079079404626444688",
+              "start": 43,
+              "url": "https://t.co/FJ8bi2doY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079399862915768598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 685,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079079404626444688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "nice，这个人的仇恨言论被举报掉了 https://t.co/eZjkL7H5BI https://t.co/FJ8bi2doY1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 749,
+          "like_count": 8766,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 1751
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "name": "Bún bò Huế 🍥",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993755498269581312/BXnTU-n5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 529,
+          "like_count": 183475,
+          "listed_count": 5,
+          "media_count": 1408,
+          "tweet_count": 20421
+        },
+        "url": "",
+        "username": "Bunbohue40037",
+        "verified": false
+      }
+    ]
+  }
+}
