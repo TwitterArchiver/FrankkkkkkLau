@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2081960750831014384",
+    "created_at": "2026-07-28T04:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T05:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081962024259694909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2026081318497665024",
+          "start": 0,
+          "username": "85240609891_2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081962024259694909",
+    "in_reply_to_user_id": "2026081318497665024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081960750831014384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@85240609891_2nd 金家人、大使和學生需要用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_2081960726214606848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOScP_JWAAAQqk_.png",
+        "width": 1753
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2081960750831014384",
+        "created_at": "2026-07-28T04:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081962024259694909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2026081318497665024",
+              "start": 0,
+              "username": "85240609891_2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081962024259694909",
+        "in_reply_to_user_id": "2026081318497665024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081960750831014384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@85240609891_2nd 金家人、大使和學生需要用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081960726214606848"
+          ]
+        },
+        "author_id": "2026081318497665024",
+        "conversation_id": "2081960750831014384",
+        "created_at": "2026-07-28T04:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081960750831014384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbHzsrjJnA",
+              "end": 33,
+              "expanded_url": "https://x.com/85240609891_2nd/status/2081960750831014384/photo/1",
+              "media_key": "3_2081960726214606848",
+              "start": 10,
+              "url": "https://t.co/cbHzsrjJnA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081960750831014384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北韓還有國際網路？ https://t.co/cbHzsrjJnA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 857,
+          "like_count": 9815,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 1904
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-23T23:47:34.000Z",
+        "description": "HELLO\n這裡是北極戰警的第二帳戶\n港英派+民國派\n重視政治民主\n🇺🇳🇺🇳🇺🇳🇺🇳🇺🇳🇺🇳",
+        "id": "2026081318497665024",
+        "location": "ROC HK",
+        "name": "北極戰警🇭🇰🎗️",
+        "pinned_tweet_id": "2081889926988046659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080309380814192640/g7IBANK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 228,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "85240609891_2nd",
+        "verified": false
+      }
+    ]
+  }
+}

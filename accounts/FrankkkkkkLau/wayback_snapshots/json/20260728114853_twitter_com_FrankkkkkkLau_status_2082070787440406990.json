@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2082070786068930560"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2082070787440406990",
+    "created_at": "2026-07-28T11:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082070787440406990"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082070787440406990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推友们觉得哪种基于udp的代理协议更适合直连过墙的场景呢\n(因为遇到bug发不出投票所以发了好几遍)"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 7200,
+        "end_datetime": "2026-08-02T11:48:53.000Z",
+        "id": "2082070786068930560",
+        "options": [
+          {
+            "label": "Hysteria 2",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "TUIC",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "其他(评论区补充?)",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2082070786068930560"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2082070787440406990",
+        "created_at": "2026-07-28T11:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082070787440406990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082070787440406990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推友们觉得哪种基于udp的代理协议更适合直连过墙的场景呢\n(因为遇到bug发不出投票所以发了好几遍)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 855,
+          "like_count": 9848,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 1906
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

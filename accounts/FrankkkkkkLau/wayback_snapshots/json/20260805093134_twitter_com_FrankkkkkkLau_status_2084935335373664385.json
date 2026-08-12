@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084935312032317440",
+        "3_2084935321666617344",
+        "3_2084935328247480320"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202045",
+          "name": "Facebook"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202045",
+          "name": "Facebook"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2084935335373664385",
+    "created_at": "2026-08-05T09:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084935335373664385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GMv39Qeqvz",
+          "end": 153,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2084935335373664385/photo/1",
+          "media_key": "3_2084935312032317440",
+          "start": 130,
+          "url": "https://t.co/GMv39Qeqvz"
+        },
+        {
+          "display_url": "pic.x.com/GMv39Qeqvz",
+          "end": 153,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2084935335373664385/photo/1",
+          "media_key": "3_2084935321666617344",
+          "start": 130,
+          "url": "https://t.co/GMv39Qeqvz"
+        },
+        {
+          "display_url": "pic.x.com/GMv39Qeqvz",
+          "end": 153,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2084935335373664385/photo/1",
+          "media_key": "3_2084935328247480320",
+          "start": 130,
+          "url": "https://t.co/GMv39Qeqvz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084935335373664385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Meta系平台有小概率可以在中国内地不开vpn/代理访问。Instagram用起来没什么问题, fb虽然能打开但是几乎是不可用的状态。\n\n可能的一些前提条件: 使用境外doh, 所在地没有白名单模式的防火墙, 支持ipv6和ech, 运营商不限制QUIC协议 https://t.co/GMv39Qeqvz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2607,
+        "media_key": "3_2084935312032317440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8tnq1awAAI79p.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2608,
+        "media_key": "3_2084935321666617344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8toOuagAAP7m1.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2460,
+        "media_key": "3_2084935328247480320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8tonPagAA0V9p.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084935312032317440",
+            "3_2084935321666617344",
+            "3_2084935328247480320"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2084935335373664385",
+        "created_at": "2026-08-05T09:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084935335373664385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMv39Qeqvz",
+              "end": 153,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2084935335373664385/photo/1",
+              "media_key": "3_2084935312032317440",
+              "start": 130,
+              "url": "https://t.co/GMv39Qeqvz"
+            },
+            {
+              "display_url": "pic.x.com/GMv39Qeqvz",
+              "end": 153,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2084935335373664385/photo/1",
+              "media_key": "3_2084935321666617344",
+              "start": 130,
+              "url": "https://t.co/GMv39Qeqvz"
+            },
+            {
+              "display_url": "pic.x.com/GMv39Qeqvz",
+              "end": 153,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2084935335373664385/photo/1",
+              "media_key": "3_2084935328247480320",
+              "start": 130,
+              "url": "https://t.co/GMv39Qeqvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084935335373664385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Meta系平台有小概率可以在中国内地不开vpn/代理访问。Instagram用起来没什么问题, fb虽然能打开但是几乎是不可用的状态。\n\n可能的一些前提条件: 使用境外doh, 所在地没有白名单模式的防火墙, 支持ipv6和ech, 运营商不限制QUIC协议 https://t.co/GMv39Qeqvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1025,
+          "like_count": 10922,
+          "listed_count": 1,
+          "media_count": 481,
+          "tweet_count": 2090
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

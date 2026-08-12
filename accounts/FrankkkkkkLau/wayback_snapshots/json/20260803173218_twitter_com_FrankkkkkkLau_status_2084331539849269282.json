@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2084331539849269282",
+    "created_at": "2026-08-03T17:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084331539849269282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2048331424504463360",
+          "start": 3,
+          "username": "Com0loquieras"
+        }
+      ],
+      "urls": [
+        {
+          "description": "一个简易的跨平台、强伪装、高性能代理协议实现. Contribute to moaeiou/ixa-go development by creating an account on GitHub.",
+          "display_url": "github.com/moaeiou/ixa-go",
+          "end": 42,
+          "expanded_url": "https://github.com/moaeiou/ixa-go",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2084325894861275136/8P4NclBZ?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2084325894861275136/8P4NclBZ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 19,
+          "status": 200,
+          "title": "GitHub - moaeiou/ixa-go: 一个简易的跨平台、强伪装、高性能代理协议实现",
+          "unwound_url": "https://github.com/moaeiou/ixa-go",
+          "url": "https://t.co/V37Zr0fYKX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084331539849269282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084325890784411976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Com0loquieras: https://t.co/V37Zr0fYKX\n你们可以体验一下我自制的协议\n需注意这只是个基础demo不要当真和生产环境用 这就是个测试\n他有很多bug我今天晚些修"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2084331539849269282",
+        "created_at": "2026-08-03T17:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084331539849269282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2048331424504463360",
+              "start": 3,
+              "username": "Com0loquieras"
+            }
+          ],
+          "urls": [
+            {
+              "description": "一个简易的跨平台、强伪装、高性能代理协议实现. Contribute to moaeiou/ixa-go development by creating an account on GitHub.",
+              "display_url": "github.com/moaeiou/ixa-go",
+              "end": 42,
+              "expanded_url": "https://github.com/moaeiou/ixa-go",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2084325894861275136/8P4NclBZ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2084325894861275136/8P4NclBZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 19,
+              "status": 200,
+              "title": "GitHub - moaeiou/ixa-go: 一个简易的跨平台、强伪装、高性能代理协议实现",
+              "unwound_url": "https://github.com/moaeiou/ixa-go",
+              "url": "https://t.co/V37Zr0fYKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084331539849269282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084325890784411976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Com0loquieras: https://t.co/V37Zr0fYKX\n你们可以体验一下我自制的协议\n需注意这只是个基础demo不要当真和生产环境用 这就是个测试\n他有很多bug我今天晚些修"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048331424504463360",
+        "conversation_id": "2084325890784411976",
+        "created_at": "2026-08-03T17:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084325890784411976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一个简易的跨平台、强伪装、高性能代理协议实现. Contribute to moaeiou/ixa-go development by creating an account on GitHub.",
+              "display_url": "github.com/moaeiou/ixa-go",
+              "end": 23,
+              "expanded_url": "https://github.com/moaeiou/ixa-go",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2084325894861275136/8P4NclBZ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2084325894861275136/8P4NclBZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "GitHub - moaeiou/ixa-go: 一个简易的跨平台、强伪装、高性能代理协议实现",
+              "unwound_url": "https://github.com/moaeiou/ixa-go",
+              "url": "https://t.co/V37Zr0fYKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084325890784411976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/V37Zr0fYKX\n你们可以体验一下我自制的协议\n需注意这只是个基础demo不要当真和生产环境用 这就是个测试\n他有很多bug我今天晚些修"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 992,
+          "like_count": 10717,
+          "listed_count": 1,
+          "media_count": 473,
+          "tweet_count": 2054
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-26T09:20:48.000Z",
+        "description": "Producción:2010/10/10 180cm/81kg\nHabilidades:Go,astro,pnpm,Linux,Vibe Código,网络,西班牙语A1\n性格特点：直球的堪比西班牙人 拉美大手子 图灵的诅咒 梦到什么说什么 谈崩专家不善言辞 身体不好 在线求操",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Tortillas111",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Tortillas111",
+                "start": 0,
+                "url": "https://t.co/wa6FNzZep9"
+              }
+            ]
+          }
+        },
+        "id": "2048331424504463360",
+        "location": "Grand Colombia",
+        "name": "Simón Bolívar🇪🇸🇲🇽🇨🇴🇦🇷🇨🇱",
+        "pinned_tweet_id": "2084277227047493688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073259657762848768/-8GxQ6y8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 224,
+          "like_count": 7952,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 3620
+        },
+        "url": "https://t.co/wa6FNzZep9",
+        "username": "Com0loquieras",
+        "verified": true
+      }
+    ]
+  }
+}

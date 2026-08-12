@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2085357957009879040"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2085343328414163048",
+    "created_at": "2026-08-06T13:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085357981642915942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938537315586244608",
+          "start": 0,
+          "username": "ruoruoruoMing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NUhxRmTPk7",
+          "end": 38,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2085357981642915942/photo/1",
+          "media_key": "16_2085357957009879040",
+          "start": 15,
+          "url": "https://t.co/NUhxRmTPk7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085357981642915942",
+    "in_reply_to_user_id": "1938537315586244608",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085351632561492447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ruoruoruoMing https://t.co/NUhxRmTPk7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "16_2085357957009879040",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPCuA2EbsAAVaQp.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPCuA2EbsAAVaQp.mp4"
+          }
+        ],
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2085357957009879040"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2085343328414163048",
+        "created_at": "2026-08-06T13:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085357981642915942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938537315586244608",
+              "start": 0,
+              "username": "ruoruoruoMing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NUhxRmTPk7",
+              "end": 38,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2085357981642915942/photo/1",
+              "media_key": "16_2085357957009879040",
+              "start": 15,
+              "url": "https://t.co/NUhxRmTPk7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085357981642915942",
+        "in_reply_to_user_id": "1938537315586244608",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085351632561492447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ruoruoruoMing https://t.co/NUhxRmTPk7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938537315586244608",
+        "conversation_id": "2085343328414163048",
+        "created_at": "2026-08-06T13:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085351632561492447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085351632561492447",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085343328414163048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@FrankkkkkkLau 恭喜喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 1065,
+          "like_count": 11106,
+          "listed_count": 1,
+          "media_count": 490,
+          "tweet_count": 2121
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-27T09:58:21.000Z",
+        "description": "08|高三毕业生|INFP|十分社恐|交通迷|F1梅奔+法拉利粉|音游|天际线\nmtx?|🏳️‍⚧️友跨|含糖🍥\n互fo喵\n另一个号@feng_sulfone\n可以来找我聊天喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "feng_sulfone"
+              }
+            ]
+          }
+        },
+        "id": "1938537315586244608",
+        "location": "TJ",
+        "name": "ruo_Ming",
+        "pinned_tweet_id": "2080596720095056148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027423783368511488/BkyHZST5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 706,
+          "like_count": 2722,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 797
+        },
+        "url": "",
+        "username": "ruoruoruoMing",
+        "verified": false
+      }
+    ]
+  }
+}

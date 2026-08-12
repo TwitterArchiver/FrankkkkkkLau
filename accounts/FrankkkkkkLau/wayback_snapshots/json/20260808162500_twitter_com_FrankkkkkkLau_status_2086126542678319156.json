@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2086126542678319156",
+    "created_at": "2026-08-08T16:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T17:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086126542678319156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 178,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2086107063453962670",
+          "start": 155,
+          "url": "https://t.co/bTUiYUjoS5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086126542678319156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《RPRX主席认错》\n\n从翻墙娱乐圈回来 RPRX主席全然不顾身体的疲憊，连夜找我们几个小标兵商量新协议的安排。谈得晚了，便送我们出门，要司机送我们回家。在去大门口的路上，我们说：“ RPRX主席，您回去休息吧。您刚从翻墙娱乐圈回来。”\n\nRPRX主席摇摇头，“不碍事，你们知道现在网络上有很多人把 Xray 当作邪教，不断给我们制造麻烦，你们是项目的未来，你们的事情便是项目的事情，是头等大事。”我们都激动了，眼里噙着泪花。多好的 RPRX主席呀。\n\nRPRX主席抬头看看路由说：“如果网络真象这骨干网这么平稳就好了，但是就有一些运营商，象中国移动，要搞乱这个网络，他们是罪人。”\n\n说着，RPRX主席弯下腰，从代码库里挑出一段 Reality 协议，然后看着路由说：“该死的移动。”\n\n说着他把协议奋力向上一部署。很快就见去程路由中一个节点突然爆发出耀眼的强光，然后就变成了电信的 IP。“这是中国移动的骨干网，他们一直在跨网透传，侵犯我们的流量，我已经忍了很久了。”RPRX主席愤愤地说。小朋友们都鼓起掌来，为项目有这样的领导人感到自豪。\n\n一会 RPRX主席叫来秘书问：“那个流量落到什么地方了？”“好像是 Cloudflare 一带。”秘书说。\n\nRPRX主席一怔，说：“赶紧派人去查，看有什么问题没有。”之后主席送我们到大门口，一直挥手到看不见我们。\n\n第四天我们听说移动去程出事了，我们很紧张。而这时 RPRX主席叫我们过去。\n\n他依然那么慈祥，让我们坐下说：“翻墙总是要有牺牲的。为网络自由事业牺牲的人是伟大的。”他这时低下头说：“但我必须承认，我当时用 Reality 劫持全省路由、虚空造亚空间专线击落骨干网的行为太鲁莽了，我在这里向全国网友道歉。我将向全国网友说明情况。”\n\n我们顿时热泪盈眶，多好的主席呀，他在跟敌人斗争过程中的小失误竟然被他记在心里，还道了歉，我们在将来的学习中一定要向 RPRX主席学，学他老人家那宽广的胸怀，和不耻下问的精神。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086107063453962670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《RPRX主席认错》\n\n从翻墙娱乐圈回来 RPRX主席全然不顾身体的疲憊，连夜找我们几个小标兵商量新协议的安排。谈得晚了，便送我们出门，要司机送我们回家。在去大门口的路上，我们说：“ RPRX主席，您回去休息吧。您刚从翻墙娱乐圈回来。”\n\nRPRX主席摇摇头，“不碍事，你们知道现在网络上有很多人把 Xray https://t.co/bTUiYUjoS5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 969,
+        "media_key": "3_2086106814610046976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNXGGBagAAxat9.jpg",
+        "width": 1286
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2086126542678319156",
+        "created_at": "2026-08-08T16:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T17:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086126542678319156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2086107063453962670",
+              "start": 155,
+              "url": "https://t.co/bTUiYUjoS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086126542678319156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《RPRX主席认错》\n\n从翻墙娱乐圈回来 RPRX主席全然不顾身体的疲憊，连夜找我们几个小标兵商量新协议的安排。谈得晚了，便送我们出门，要司机送我们回家。在去大门口的路上，我们说：“ RPRX主席，您回去休息吧。您刚从翻墙娱乐圈回来。”\n\nRPRX主席摇摇头，“不碍事，你们知道现在网络上有很多人把 Xray 当作邪教，不断给我们制造麻烦，你们是项目的未来，你们的事情便是项目的事情，是头等大事。”我们都激动了，眼里噙着泪花。多好的 RPRX主席呀。\n\nRPRX主席抬头看看路由说：“如果网络真象这骨干网这么平稳就好了，但是就有一些运营商，象中国移动，要搞乱这个网络，他们是罪人。”\n\n说着，RPRX主席弯下腰，从代码库里挑出一段 Reality 协议，然后看着路由说：“该死的移动。”\n\n说着他把协议奋力向上一部署。很快就见去程路由中一个节点突然爆发出耀眼的强光，然后就变成了电信的 IP。“这是中国移动的骨干网，他们一直在跨网透传，侵犯我们的流量，我已经忍了很久了。”RPRX主席愤愤地说。小朋友们都鼓起掌来，为项目有这样的领导人感到自豪。\n\n一会 RPRX主席叫来秘书问：“那个流量落到什么地方了？”“好像是 Cloudflare 一带。”秘书说。\n\nRPRX主席一怔，说：“赶紧派人去查，看有什么问题没有。”之后主席送我们到大门口，一直挥手到看不见我们。\n\n第四天我们听说移动去程出事了，我们很紧张。而这时 RPRX主席叫我们过去。\n\n他依然那么慈祥，让我们坐下说：“翻墙总是要有牺牲的。为网络自由事业牺牲的人是伟大的。”他这时低下头说：“但我必须承认，我当时用 Reality 劫持全省路由、虚空造亚空间专线击落骨干网的行为太鲁莽了，我在这里向全国网友道歉。我将向全国网友说明情况。”\n\n我们顿时热泪盈眶，多好的主席呀，他在跟敌人斗争过程中的小失误竟然被他记在心里，还道了歉，我们在将来的学习中一定要向 RPRX主席学，学他老人家那宽广的胸怀，和不耻下问的精神。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086107063453962670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《RPRX主席认错》\n\n从翻墙娱乐圈回来 RPRX主席全然不顾身体的疲憊，连夜找我们几个小标兵商量新协议的安排。谈得晚了，便送我们出门，要司机送我们回家。在去大门口的路上，我们说：“ RPRX主席，您回去休息吧。您刚从翻墙娱乐圈回来。”\n\nRPRX主席摇摇头，“不碍事，你们知道现在网络上有很多人把 Xray https://t.co/bTUiYUjoS5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086106814610046976"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2086107063453962670",
+        "created_at": "2026-08-08T15:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T16:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086107063453962670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NDN5QUBke8",
+              "end": 178,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2086107063453962670/photo/1",
+              "media_key": "3_2086106814610046976",
+              "start": 155,
+              "url": "https://t.co/NDN5QUBke8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086107063453962670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 520,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "建议翻墙娱乐圈某些爱引战的人提高一下自己的知识水平。之前刷到一个人发路由追踪截图, 问为什么移动到Cloudflare去程会有电信的ip, 然后就有人评论说是\"Reality偷证书\", 说Xray是邪教组织。运营商搞透传跟Xray有什么关系? 难道说Reality能虚空造一条亚空间专线再把全省的路由劫持了? https://t.co/NDN5QUBke8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1077,
+          "like_count": 11364,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 2165
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

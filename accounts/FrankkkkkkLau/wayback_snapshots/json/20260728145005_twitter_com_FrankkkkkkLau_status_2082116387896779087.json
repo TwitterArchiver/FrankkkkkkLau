@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2082112556123177010",
+    "created_at": "2026-07-28T14:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082116387896779087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2026081318497665024",
+          "start": 0,
+          "username": "85240609891_2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082116387896779087",
+    "in_reply_to_user_id": "2026081318497665024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082112556123177010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@85240609891_2nd 呢個係邊位?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 813,
+        "media_key": "3_2082112544580468737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUmU-oagAEZzx3.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2082112556123177010",
+        "created_at": "2026-07-28T14:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082116387896779087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2026081318497665024",
+              "start": 0,
+              "username": "85240609891_2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082116387896779087",
+        "in_reply_to_user_id": "2026081318497665024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082112556123177010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@85240609891_2nd 呢個係邊位?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082112544580468737"
+          ]
+        },
+        "author_id": "2026081318497665024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082112556123177010",
+        "created_at": "2026-07-28T14:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082112556123177010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eZsERS1bQl",
+              "end": 37,
+              "expanded_url": "https://x.com/85240609891_2nd/status/2082112556123177010/photo/1",
+              "media_key": "3_2082112544580468737",
+              "start": 14,
+              "url": "https://t.co/eZsERS1bQl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082112556123177010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這是怎麼做到的\n又是特權？ https://t.co/eZsERS1bQl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 856,
+          "like_count": 9873,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 1915
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-23T23:47:34.000Z",
+        "description": "HELLO\n這裡是北極戰警的第二帳戶\n港英派+民國派\n重視政治民主\n🇺🇳🇺🇳🇺🇳🇺🇳🇺🇳🇺🇳\n小粉紅 中國共產黨的基本盤\n如果不想吃我的AWP\n請快速離開",
+        "id": "2026081318497665024",
+        "location": "ROC HK",
+        "name": "🔫AWP北極戰警🇭🇰🎗️第一帳戶被鎖30天",
+        "pinned_tweet_id": "2081889926988046659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082037022252781568/uFiA1RL8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 246,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "85240609891_2nd",
+        "verified": false
+      }
+    ]
+  }
+}

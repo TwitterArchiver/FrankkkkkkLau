@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083182769660911616"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2080693386907124146",
+    "created_at": "2026-07-31T13:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083182845816934703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804344378338480128",
+          "start": 0,
+          "username": "Acmduemsks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uObSAyxnf6",
+          "end": 57,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2083182845816934703/photo/1",
+          "media_key": "3_2083182769660911616",
+          "start": 34,
+          "url": "https://t.co/uObSAyxnf6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083182845816934703",
+    "in_reply_to_user_id": "1804344378338480128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080780187126706301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Acmduemsks 这里指的是Cloudflare的数据中心） https://t.co/uObSAyxnf6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2083182769660911616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjzsRvaYAAqh1y.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083182769660911616"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2080693386907124146",
+        "created_at": "2026-07-31T13:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083182845816934703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804344378338480128",
+              "start": 0,
+              "username": "Acmduemsks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uObSAyxnf6",
+              "end": 57,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2083182845816934703/photo/1",
+              "media_key": "3_2083182769660911616",
+              "start": 34,
+              "url": "https://t.co/uObSAyxnf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083182845816934703",
+        "in_reply_to_user_id": "1804344378338480128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080780187126706301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Acmduemsks 这里指的是Cloudflare的数据中心） https://t.co/uObSAyxnf6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804344378338480128",
+        "conversation_id": "2080693386907124146",
+        "created_at": "2026-07-24T22:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T23:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080780187126706301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080780187126706301",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080693386907124146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@FrankkkkkkLau 为什么你的机场是物理意义上的机场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 906,
+          "like_count": 10237,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 1989
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-22T02:43:37.000Z",
+        "description": "我爱在天钥桥路1号吃徐家汇餐厅麦当劳\n｜萍水相逢有缘人@jazzvoid7｜會講國語🇹🇼普通话🇨🇳上海吴语 🇨🇳 廣東話🇭🇰 and English 🇬🇧｜自我认同是GHC的STG机|我才不告诉你我现在忙什么",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "jazzvoid7"
+              }
+            ]
+          }
+        },
+        "id": "1804344378338480128",
+        "location": "Coventry, England",
+        "name": "我爱食麦当劳",
+        "pinned_tweet_id": "2057754457090502754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003451815254200320/byqlIGkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 631,
+          "like_count": 9971,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 6336
+        },
+        "url": "",
+        "username": "Acmduemsks",
+        "verified": true
+      }
+    ]
+  }
+}

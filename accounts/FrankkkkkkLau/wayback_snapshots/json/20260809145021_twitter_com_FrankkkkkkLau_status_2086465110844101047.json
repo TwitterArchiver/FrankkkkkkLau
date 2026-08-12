@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "card_uri": "https://t.co/oK0SPzeRwc",
+    "conversation_id": "2086010714549006360",
+    "created_at": "2026-08-09T14:50:21.000Z",
+    "display_text_range": [
+      11,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T15:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086465110844101047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2018306514549972992",
+          "start": 0,
+          "username": "bcfqdtfqz"
+        }
+      ],
+      "urls": [
+        {
+          "description": "我们很高兴地宣布为改善互联网上每个人的隐私做出了贡献。Encrypted Client Hello 是一项新标准，可防止网络窥探用户访问的网站，现已在所有 Cloudflare 计划中可用",
+          "display_url": "blog.cloudflare.com/zh-cn/announci…",
+          "end": 34,
+          "expanded_url": "https://blog.cloudflare.com/zh-cn/announcing-encrypted-client-hello/",
+          "start": 11,
+          "status": 200,
+          "title": "Encrypted Client Hello - 隐私的最后一个组成部分",
+          "unwound_url": "https://blog.cloudflare.com/zh-cn/announcing-encrypted-client-hello/",
+          "url": "https://t.co/oK0SPzeRwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086465110844101047",
+    "in_reply_to_user_id": "2018306514549972992",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086269800247144857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@bcfqdtfqz https://t.co/oK0SPzeRwc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "card_uri": "https://t.co/oK0SPzeRwc",
+        "conversation_id": "2086010714549006360",
+        "created_at": "2026-08-09T14:50:21.000Z",
+        "display_text_range": [
+          11,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086465110844101047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ],
+          "urls": [
+            {
+              "description": "我们很高兴地宣布为改善互联网上每个人的隐私做出了贡献。Encrypted Client Hello 是一项新标准，可防止网络窥探用户访问的网站，现已在所有 Cloudflare 计划中可用",
+              "display_url": "blog.cloudflare.com/zh-cn/announci…",
+              "end": 34,
+              "expanded_url": "https://blog.cloudflare.com/zh-cn/announcing-encrypted-client-hello/",
+              "start": 11,
+              "status": 200,
+              "title": "Encrypted Client Hello - 隐私的最后一个组成部分",
+              "unwound_url": "https://blog.cloudflare.com/zh-cn/announcing-encrypted-client-hello/",
+              "url": "https://t.co/oK0SPzeRwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086465110844101047",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086269800247144857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@bcfqdtfqz https://t.co/oK0SPzeRwc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2086010714549006360",
+        "created_at": "2026-08-09T01:54:16.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T02:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086269800247144857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086269800247144857",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086010714549006360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@FrankkkkkkLau 什么是ech流量"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2086465110844101047",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1082,
+          "like_count": 11436,
+          "listed_count": 1,
+          "media_count": 503,
+          "tweet_count": 2176
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2086449788711780659",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 1424,
+          "like_count": 449,
+          "listed_count": 2,
+          "media_count": 835,
+          "tweet_count": 3337
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

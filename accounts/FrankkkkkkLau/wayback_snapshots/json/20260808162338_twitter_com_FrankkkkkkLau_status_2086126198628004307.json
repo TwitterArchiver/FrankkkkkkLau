@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2086107063453962670",
+    "created_at": "2026-08-08T16:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T17:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086126198628004307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2034245121009729536",
+          "start": 0,
+          "username": "qianjianmoxin"
+        },
+        {
+          "end": 29,
+          "id": "1953393801340575744",
+          "start": 15,
+          "username": "n473428097803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086126198628004307",
+    "in_reply_to_user_id": "2034245121009729536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086125699317035063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianjianmoxin @n473428097803 老大你的手怎么反了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2086107063453962670",
+        "created_at": "2026-08-08T16:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T17:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086126198628004307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034245121009729536",
+              "start": 0,
+              "username": "qianjianmoxin"
+            },
+            {
+              "end": 29,
+              "id": "1953393801340575744",
+              "start": 15,
+              "username": "n473428097803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086126198628004307",
+        "in_reply_to_user_id": "2034245121009729536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086125699317035063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianjianmoxin @n473428097803 老大你的手怎么反了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034245121009729536",
+        "conversation_id": "2086107063453962670",
+        "created_at": "2026-08-08T16:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T17:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086125699317035063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1953393801340575744",
+              "start": 0,
+              "username": "n473428097803"
+            },
+            {
+              "end": 29,
+              "id": "1672761170040692739",
+              "start": 15,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086125699317035063",
+        "in_reply_to_user_id": "1953393801340575744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086124598480048422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n473428097803 @FrankkkkkkLau 刘教主🤚😭✋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1077,
+          "like_count": 11364,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 2164
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-18T12:27:43.000Z",
+        "description": "对不起\nhttps://t.co/6vmlATyAXp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/nekokemoji/neko",
+                "end": 27,
+                "expanded_url": "https://github.com/nekokemoji/neko",
+                "start": 4,
+                "url": "https://t.co/6vmlATyAXp"
+              }
+            ]
+          }
+        },
+        "id": "2034245121009729536",
+        "name": "浅见墨心",
+        "pinned_tweet_id": "2083940677122236808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070910174450360320/K4W57DUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 247,
+          "like_count": 462,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1399
+        },
+        "url": "",
+        "username": "qianjianmoxin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T09:52:50.000Z",
+        "description": "I love music",
+        "id": "1953393801340575744",
+        "name": "skth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958218963021893632/IQwGIsj8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 58,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "n473428097803",
+        "verified": false
+      }
+    ]
+  }
+}

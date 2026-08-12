@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2082336185897369877",
+    "created_at": "2026-07-29T08:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082386146001391815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1891722301584048128",
+          "start": 0,
+          "username": "8964shrimp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082386146001391815",
+    "in_reply_to_user_id": "1891722301584048128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082336185897369877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@8964shrimp 草, 我还以为你在台湾）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2082336185897369877",
+        "created_at": "2026-07-29T08:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082386146001391815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1891722301584048128",
+              "start": 0,
+              "username": "8964shrimp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082386146001391815",
+        "in_reply_to_user_id": "1891722301584048128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082336185897369877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@8964shrimp 草, 我还以为你在台湾）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891722301584048128",
+        "conversation_id": "2082336185897369877",
+        "created_at": "2026-07-29T05:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:23:02.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082336072407921121",
+          "2082336133414035468",
+          "2082336185897369877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082336185897369877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "傻逼支那警察幹他媽正式的時候就說沒時間查我網路上的帖子倒是有時間了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 875,
+          "like_count": 9959,
+          "listed_count": 1,
+          "media_count": 439,
+          "tweet_count": 1927
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-18T05:32:05.000Z",
+        "description": "最愛的雨夏老婆：@xiyu86｜友順mtx/f？|自殺干預｜蝦的精神狀態基本穩定 難受了可以找我聊天｜持證含糖：2025.3.12｜單車佬｜雙向｜酸民退散｜政治立場❌政治迷因🉑選擇性互fo\n發癲帳號：@RainKawaii8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "xiyu86"
+              },
+              {
+                "end": 115,
+                "start": 100,
+                "username": "RainKawaii8964"
+              }
+            ]
+          }
+        },
+        "id": "1891722301584048128",
+        "location": "月球",
+        "name": "蝦蝦醬🏳️‍⚧️",
+        "pinned_tweet_id": "2076900555994349722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062537785681362944/QpoDPa-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 660,
+          "like_count": 14152,
+          "listed_count": 3,
+          "media_count": 415,
+          "tweet_count": 2666
+        },
+        "url": "",
+        "username": "8964shrimp",
+        "verified": true
+      }
+    ]
+  }
+}

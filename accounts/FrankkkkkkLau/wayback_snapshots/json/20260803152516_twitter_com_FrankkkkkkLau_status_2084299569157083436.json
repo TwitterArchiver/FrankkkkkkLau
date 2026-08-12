@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2084299569157083436",
+    "created_at": "2026-08-03T15:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084299569157083436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2082388149540618504",
+          "start": 67,
+          "url": "https://t.co/A6vuNLZzDY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084299569157083436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082388149540618504",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "突然想起来好早以前用万人骑节点会被限制, 要做一个人机验证, 然后会比用家宽/移动网络多大概10题, 而且即使全选对了也会弹错误代码 https://t.co/A6vuNLZzDY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2084299569157083436",
+        "created_at": "2026-08-03T15:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084299569157083436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2082388149540618504",
+              "start": 67,
+              "url": "https://t.co/A6vuNLZzDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084299569157083436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082388149540618504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然想起来好早以前用万人骑节点会被限制, 要做一个人机验证, 然后会比用家宽/移动网络多大概10题, 而且即使全选对了也会弹错误代码 https://t.co/A6vuNLZzDY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2082388149540618504",
+        "created_at": "2026-07-29T08:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082388149540618504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082388149540618504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5505,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇Twitter账户会因为ip不干净(被标记为匿名代理或者有滥用记录)被风控或者限流嘛? 试过用warp和tor, 好像没遇到什么限制(?)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 991,
+          "like_count": 10691,
+          "listed_count": 1,
+          "media_count": 472,
+          "tweet_count": 2045
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

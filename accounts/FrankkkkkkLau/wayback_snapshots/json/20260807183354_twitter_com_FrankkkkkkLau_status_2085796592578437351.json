@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085796587788460033"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2085796592578437351",
+    "created_at": "2026-08-07T18:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085796592578437351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yl8SCLW1cL",
+          "end": 34,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2085796592578437351/photo/1",
+          "media_key": "3_2085796587788460033",
+          "start": 11,
+          "url": "https://t.co/Yl8SCLW1cL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085796592578437351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老大我不热爱这个呀喵 https://t.co/Yl8SCLW1cL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1177,
+        "media_key": "3_2085796587788460033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPI88hDaYAEeMqI.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085796587788460033"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2085796592578437351",
+        "created_at": "2026-08-07T18:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085796592578437351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yl8SCLW1cL",
+              "end": 34,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2085796592578437351/photo/1",
+              "media_key": "3_2085796587788460033",
+              "start": 11,
+              "url": "https://t.co/Yl8SCLW1cL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085796592578437351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老大我不热爱这个呀喵 https://t.co/Yl8SCLW1cL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 1068,
+          "like_count": 11194,
+          "listed_count": 1,
+          "media_count": 493,
+          "tweet_count": 2136
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

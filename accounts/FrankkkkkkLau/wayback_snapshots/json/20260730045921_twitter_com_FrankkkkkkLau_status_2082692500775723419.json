@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2082578644493353291",
+    "created_at": "2026-07-30T04:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082692500775723419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065198058443620353",
+          "start": 0,
+          "username": "Autonomous667"
+        },
+        {
+          "end": 31,
+          "id": "2026081318497665024",
+          "start": 15,
+          "username": "85240609891_2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082692500775723419",
+    "in_reply_to_user_id": "2065198058443620353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082653456662475188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autonomous667 @85240609891_2nd 其实是假大陆ip）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2082578644493353291",
+        "created_at": "2026-07-30T04:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082692500775723419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065198058443620353",
+              "start": 0,
+              "username": "Autonomous667"
+            },
+            {
+              "end": 31,
+              "id": "2026081318497665024",
+              "start": 15,
+              "username": "85240609891_2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082692500775723419",
+        "in_reply_to_user_id": "2065198058443620353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082653456662475188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autonomous667 @85240609891_2nd 其实是假大陆ip）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065198058443620353",
+        "conversation_id": "2082578644493353291",
+        "created_at": "2026-07-30T02:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082653456662475188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2026081318497665024",
+              "start": 0,
+              "username": "85240609891_2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082653456662475188",
+        "in_reply_to_user_id": "2026081318497665024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082578644493353291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@85240609891_2nd 有幸用过warp，显示ip是一个ipv6的大陆ip，直连x，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 894,
+          "like_count": 10076,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 1967
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T22:24:09.000Z",
+        "description": "qqqxx，，，清正协会频道：https://t.co/qHS5pY5zmK  欢迎大家踊跃参与  下面那个lol网站是我的论坛，大家可以放开玩",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/qingzhengxh",
+                "end": 38,
+                "expanded_url": "http://t.me/qingzhengxh",
+                "start": 15,
+                "url": "https://t.co/qHS5pY5zmK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "automous.lol",
+                "end": 23,
+                "expanded_url": "https://automous.lol",
+                "start": 0,
+                "url": "https://t.co/cuxICd3LHR"
+              }
+            ]
+          }
+        },
+        "id": "2065198058443620353",
+        "location": "你家的床上",
+        "name": "🌊Autonomous🏳️‍⚧️🇹🇼🇳🇫🍥",
+        "pinned_tweet_id": "2079907481405587714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080489113963413505/xg4ajxIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 137,
+          "like_count": 1466,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 1728
+        },
+        "url": "https://t.co/cuxICd3LHR",
+        "username": "Autonomous667",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-23T23:47:34.000Z",
+        "description": "香港人🇭🇰🎗️\nHELLO\n這裡是北極戰警的第二帳戶\n港英派+民國派\n重視政治民主\n🇺🇳🇺🇳🇺🇳🇺🇳🇺🇳🇺🇳\n小粉紅 中國共產黨的基本盤\n如果不想吃我的AWP\n請快速離開",
+        "id": "2026081318497665024",
+        "location": "ROC HK",
+        "name": "🔫AWP北極戰警🇭🇰🎗️第一帳戶被鎖30天",
+        "pinned_tweet_id": "2081889926988046659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082037022252781568/uFiA1RL8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 287,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "85240609891_2nd",
+        "verified": false
+      }
+    ]
+  }
+}

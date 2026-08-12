@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2082125375166112062",
+    "created_at": "2026-07-28T17:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082158953132421423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774811478480101377",
+          "start": 0,
+          "username": "Yuusea0817"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082158953132421423",
+    "in_reply_to_user_id": "1774811478480101377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082125375166112062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuusea0817 是不是点赞或者评论过类似的帖子）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2082125375166112062",
+        "created_at": "2026-07-28T17:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082158953132421423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774811478480101377",
+              "start": 0,
+              "username": "Yuusea0817"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082158953132421423",
+        "in_reply_to_user_id": "1774811478480101377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082125375166112062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuusea0817 是不是点赞或者评论过类似的帖子）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774811478480101377",
+        "conversation_id": "2082125375166112062",
+        "created_at": "2026-07-28T15:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082125375166112062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082125375166112062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我的推上最近全是长按图片显示的半透明图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 860,
+          "like_count": 9895,
+          "listed_count": 1,
+          "media_count": 437,
+          "tweet_count": 1918
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-01T14:50:25.000Z",
+        "description": "非广告账号有fo必回\n已飞0国|清华北大没考 |诺贝尔奖觊觎者|华籍华人|国家级身份证持有者\n精通简体中文（中国）、简体中文（马来西亚）、简体中文（新加坡）、繁體中文（中國香港）、繁體中文（中國澳門）、正體中文（中華民國台灣）、English (UK), English (US) 等多種语言",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "genyuu.com",
+                "end": 23,
+                "expanded_url": "https://www.genyuu.com/",
+                "start": 0,
+                "url": "https://t.co/2OdKMGE53u"
+              }
+            ]
+          }
+        },
+        "id": "1774811478480101377",
+        "location": "玄幽帝国",
+        "name": "幽汐~（有fo必回版）（上学ing）🇨🇳🇹🇼🇭🇰🇲🇴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051293706507169792/3xL8uExO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 118,
+          "like_count": 3289,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/2OdKMGE53u",
+        "username": "Yuusea0817",
+        "verified": false
+      }
+    ]
+  }
+}

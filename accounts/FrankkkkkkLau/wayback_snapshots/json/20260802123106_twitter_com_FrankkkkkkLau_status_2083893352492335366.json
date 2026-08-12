@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2083893352492335366",
+    "created_at": "2026-08-02T12:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083893352492335366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoshunli/sta…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/xiaoshunli/status/2083433580324352188",
+          "start": 23,
+          "url": "https://t.co/6So6rNrvgo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083893352492335366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083433580324352188",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大事: 指新版聚碳酸酯护照......没来🤓 https://t.co/6So6rNrvgo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2083893352492335366",
+        "created_at": "2026-08-02T12:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083893352492335366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoshunli/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/xiaoshunli/status/2083433580324352188",
+              "start": 23,
+              "url": "https://t.co/6So6rNrvgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083893352492335366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083433580324352188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大事: 指新版聚碳酸酯护照......没来🤓 https://t.co/6So6rNrvgo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452505528106569729",
+        "conversation_id": "2083433580324352188",
+        "created_at": "2026-08-01T06:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083433580324352188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083433580324352188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 1962543,
+          "like_count": 879,
+          "quote_count": 20,
+          "reply_count": 1083,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "出大事了！！！！！\n\n赶紧办护照。 赶紧办护照。 赶紧办护照。\n\n再不办来不及了。再不办来不及了。再不办来不及了。\n\n走不了了。走不了了。走不了了。\n\n啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！！！！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 931,
+          "like_count": 10409,
+          "listed_count": 1,
+          "media_count": 460,
+          "tweet_count": 2007
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-25T05:22:35.000Z",
+        "description": "中文顶级作者｜千万畅销书作家｜All in Crypto｜写人性、财富、婚恋和时代真相。不讲正确废话，只讲难听真话。\n\nARB万倍｜Wormhole4万倍｜ARC 50倍｜Sats百倍｜Trump 50倍 ｜ 4 26倍",
+        "id": "1452505528106569729",
+        "location": "Palo Alto, CA",
+        "name": "大顺利",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034563017992765440/0bmswBC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43118,
+          "following_count": 7444,
+          "like_count": 28168,
+          "listed_count": 525,
+          "media_count": 302,
+          "tweet_count": 18493
+        },
+        "url": "",
+        "username": "xiaoshunli",
+        "verified": true
+      }
+    ]
+  }
+}

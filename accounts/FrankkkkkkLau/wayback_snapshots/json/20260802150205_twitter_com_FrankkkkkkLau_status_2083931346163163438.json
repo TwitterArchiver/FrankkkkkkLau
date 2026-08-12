@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2083926389758304460",
+    "created_at": "2026-08-02T15:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083931346163163438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805775110168887297",
+          "start": 0,
+          "username": "neslet2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083931346163163438",
+    "in_reply_to_user_id": "1805775110168887297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083931202646683761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neslet2333 谢谢啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2083926389758304460",
+        "created_at": "2026-08-02T15:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083931346163163438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805775110168887297",
+              "start": 0,
+              "username": "neslet2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083931346163163438",
+        "in_reply_to_user_id": "1805775110168887297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083931202646683761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neslet2333 谢谢啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805775110168887297",
+        "conversation_id": "2083926389758304460",
+        "created_at": "2026-08-02T15:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083931202646683761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            },
+            {
+              "end": 31,
+              "id": "1920665768750182401",
+              "start": 15,
+              "username": "Restorelife0771"
+            }
+          ],
+          "urls": [
+            {
+              "description": "PiliPlus. Contribute to bggRGjQaUbCoE/PiliPlus development by creating an account on GitHub.",
+              "display_url": "github.com/bggRGjQaUbCoE/…",
+              "end": 55,
+              "expanded_url": "https://github.com/bggRGjQaUbCoE/PiliPlus",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2083873585207328769/9Ausf9jo?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083873585207328769/9Ausf9jo?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "GitHub - bggRGjQaUbCoE/PiliPlus: PiliPlus",
+              "unwound_url": "https://github.com/bggRGjQaUbCoE/PiliPlus",
+              "url": "https://t.co/HemvVCU6mg"
+            },
+            {
+              "description": "PiliPlus 的第三方Fork版本，做了一些自用改动. Contribute to Starfallan/PiliNara development by creating an account on GitHub.",
+              "display_url": "github.com/Starfallan/Pil…",
+              "end": 168,
+              "expanded_url": "https://github.com/Starfallan/PiliNara",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2083931245768232960/NW0Ehn_y?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083931245768232960/NW0Ehn_y?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 145,
+              "status": 200,
+              "title": "GitHub - Starfallan/PiliNara: PiliPlus 的第三方Fork版本，做了一些自用改动",
+              "unwound_url": "https://github.com/Starfallan/PiliNara",
+              "url": "https://t.co/V105UckPZq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083931202646683761",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083929491265790383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau @Restorelife0771 https://t.co/HemvVCU6mg\n这个目前还在维护，也还在更新，算是pilipala的下游的下游，但是稳定性会好很多，会更推荐这个，目前也在积极维护\n如果想要更多花里胡哨的功能可以用下游的下游，pilinara\nhttps://t.co/V105UckPZq\npilinara兼容plus的配置文件"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 933,
+          "like_count": 10450,
+          "listed_count": 1,
+          "media_count": 463,
+          "tweet_count": 2015
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-26T01:28:40.000Z",
+        "description": "17岁 ADHD疑似 🏳️‍⚧️友跨未翻车/🇨🇳🇬🇧🇯🇵学习中/火车迷 只看番/舟批/白河豚/galgame  音游痴(舞萌w0/pjsk/phi)  开源搞机root Arch btw  ham-a证 啥都玩啥都表面\n长期潜水发帖较少 望主动交流喵 同类互fo贴贴！\n渣渣一只……看不见我……\n互fo贴贴",
+        "id": "1805775110168887297",
+        "name": "neslet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933570136323338241/LZ2O_ssL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 176,
+          "like_count": 1336,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "neslet2333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083902266168516608"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10041893654",
+          "name": "Microsoft - Cortana"
+        }
+      }
+    ],
+    "conversation_id": "2083902428731293758",
+    "created_at": "2026-08-02T13:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083902428731293758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M58lHQsJPr",
+          "end": 35,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2083902428731293758/photo/1",
+          "media_key": "3_2083902266168516608",
+          "start": 12,
+          "url": "https://t.co/M58lHQsJPr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083902428731293758",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "?!Cortana!? https://t.co/M58lHQsJPr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_2083902266168516608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuCEfGbIAAHJa8.png",
+        "width": 897
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083902266168516608"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041893654",
+              "name": "Microsoft - Cortana"
+            }
+          }
+        ],
+        "conversation_id": "2083902428731293758",
+        "created_at": "2026-08-02T13:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083902428731293758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M58lHQsJPr",
+              "end": 35,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2083902428731293758/photo/1",
+              "media_key": "3_2083902266168516608",
+              "start": 12,
+              "url": "https://t.co/M58lHQsJPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083902428731293758",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "?!Cortana!? https://t.co/M58lHQsJPr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 931,
+          "like_count": 10422,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 2009
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

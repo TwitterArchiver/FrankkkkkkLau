@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2080667001425678587",
+    "created_at": "2026-07-24T16:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080690186976166338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "211371882",
+          "start": 0,
+          "username": "lmm120127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080690186976166338",
+    "in_reply_to_user_id": "211371882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080684879650693233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmm120127 只是好奇入户的专线用起来是什么感觉啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2080667001425678587",
+        "created_at": "2026-07-24T16:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080690186976166338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "211371882",
+              "start": 0,
+              "username": "lmm120127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080690186976166338",
+        "in_reply_to_user_id": "211371882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080684879650693233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmm120127 只是好奇入户的专线用起来是什么感觉啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "211371882",
+        "conversation_id": "2080667001425678587",
+        "created_at": "2026-07-24T16:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080684879650693233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080684879650693233",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080667001425678587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 这种都是有监控的，你使用这台电脑说什么看什么后台都一目了然"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 796,
+          "like_count": 9307,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 1823
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-03T02:08:14.000Z",
+        "description": "",
+        "id": "211371882",
+        "name": "坏消息晚餐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1158603999/___normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 151,
+          "like_count": 739,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "lmm120127",
+        "verified": false
+      }
+    ]
+  }
+}

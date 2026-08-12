@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2085281702000373795",
+    "created_at": "2026-08-06T08:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T09:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085281702000373795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2082158857712025768",
+          "start": 28,
+          "url": "https://t.co/KvqkhtKevc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085281702000373795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082158857712025768",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以现在还有什么办法能找内地可用的Google IP嘛 https://t.co/KvqkhtKevc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1349,
+        "media_key": "3_2082158434733158400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVQEIxacAAEexC.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2085281702000373795",
+        "created_at": "2026-08-06T08:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085281702000373795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2082158857712025768",
+              "start": 28,
+              "url": "https://t.co/KvqkhtKevc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085281702000373795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082158857712025768",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以现在还有什么办法能找内地可用的Google IP嘛 https://t.co/KvqkhtKevc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082158434733158400"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2082158857712025768",
+        "created_at": "2026-07-28T17:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082158857712025768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LiOKcD9bGT",
+              "end": 37,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2082158857712025768/photo/1",
+              "media_key": "3_2082158434733158400",
+              "start": 14,
+              "url": "https://t.co/LiOKcD9bGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082158857712025768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8235,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "11 years ago草 https://t.co/LiOKcD9bGT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 1061,
+          "like_count": 11048,
+          "listed_count": 1,
+          "media_count": 487,
+          "tweet_count": 2107
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

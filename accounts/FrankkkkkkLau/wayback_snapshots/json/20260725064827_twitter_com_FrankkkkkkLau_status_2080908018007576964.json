@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2080877265299329501",
+    "created_at": "2026-07-25T06:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080908018007576964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "905734073217318912",
+          "start": 0,
+          "username": "keelan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080908018007576964",
+    "in_reply_to_user_id": "905734073217318912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080907896540536834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keelan8964 😱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2080907896540536834].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2080907896540536834",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2080907896540536834"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2080877265299329501",
+        "created_at": "2026-07-25T06:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080908018007576964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "905734073217318912",
+              "start": 0,
+              "username": "keelan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080908018007576964",
+        "in_reply_to_user_id": "905734073217318912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080907896540536834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keelan8964 😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 798,
+          "like_count": 9388,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 1838
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-07T10:06:45.000Z",
+        "description": "10後中學生 queer they/she/it；純生活推噢 ^ ^；有幸與你共同見證這個時代。立場是溫和堅定與長久的愛；浪漫願他不要改 所信是模糊仍肯冀待～alt acc @896for_ever (banned by twitter)；歡迎來找我玩。#八九六四",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "八九六四"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "896for_ever"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keelanlan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keelanlan",
+                "start": 0,
+                "url": "https://t.co/NLLzdUpoff"
+              }
+            ]
+          }
+        },
+        "id": "905734073217318912",
+        "location": "自由天安門 ",
+        "name": "蘭其連 Keelan",
+        "pinned_tweet_id": "2067881951411728450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066147896840364032/id-fwQnn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6849,
+          "following_count": 688,
+          "like_count": 6660,
+          "listed_count": 3,
+          "media_count": 25,
+          "tweet_count": 773
+        },
+        "url": "https://t.co/NLLzdUpoff",
+        "username": "keelan8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083856644317052928"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2083832748603814032",
+    "created_at": "2026-08-02T10:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083858723542585685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1786442629917589505",
+          "start": 0,
+          "username": "LinQi_QAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AH1630d7gp",
+          "end": 111,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2083858723542585685/photo/1",
+          "media_key": "3_2083856644317052928",
+          "start": 88,
+          "url": "https://t.co/AH1630d7gp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083858723542585685",
+    "in_reply_to_user_id": "1786442629917589505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083832748603814032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinQi_QAQ 要一直用家宽代理, 然后这个账号所在地大概两个月变一次(?\n最好去IP2Location看一眼, 如果被标记为数据中心或者代理, 可能还是会有vpn标) https://t.co/AH1630d7gp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1169,
+        "media_key": "3_2083856644317052928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtYk8dbAAAXWO7.png",
+        "width": 2530
+      },
+      {
+        "height": 409,
+        "media_key": "3_2083832601257857024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtCtdFaUAAu64T.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083856644317052928"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2083832748603814032",
+        "created_at": "2026-08-02T10:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083858723542585685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1786442629917589505",
+              "start": 0,
+              "username": "LinQi_QAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AH1630d7gp",
+              "end": 111,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2083858723542585685/photo/1",
+              "media_key": "3_2083856644317052928",
+              "start": 88,
+              "url": "https://t.co/AH1630d7gp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083858723542585685",
+        "in_reply_to_user_id": "1786442629917589505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083832748603814032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinQi_QAQ 要一直用家宽代理, 然后这个账号所在地大概两个月变一次(?\n最好去IP2Location看一眼, 如果被标记为数据中心或者代理, 可能还是会有vpn标) https://t.co/AH1630d7gp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083832601257857024"
+          ]
+        },
+        "author_id": "1786442629917589505",
+        "conversation_id": "2083832748603814032",
+        "created_at": "2026-08-02T08:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083832748603814032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRBeqZG0k0",
+              "end": 43,
+              "expanded_url": "https://x.com/LinQi_QAQ/status/2083832748603814032/photo/1",
+              "media_key": "3_2083832601257857024",
+              "start": 20,
+              "url": "https://t.co/MRBeqZG0k0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083832748603814032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个东西咋去掉？要我一直挂一个家宽吗？ https://t.co/MRBeqZG0k0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 931,
+          "like_count": 10396,
+          "listed_count": 1,
+          "media_count": 460,
+          "tweet_count": 2005
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-03T17:08:30.000Z",
+        "description": "草履虫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linqi-weld.vercel.app",
+                "end": 23,
+                "expanded_url": "https://linqi-weld.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/J12LTC01LF"
+              }
+            ]
+          }
+        },
+        "id": "1786442629917589505",
+        "location": "培养皿",
+        "name": "LinQi",
+        "pinned_tweet_id": "2083398066514931885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054062444159643648/_Bj8y2n7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 293,
+          "like_count": 12346,
+          "listed_count": 1,
+          "media_count": 289,
+          "tweet_count": 1805
+        },
+        "url": "https://t.co/J12LTC01LF",
+        "username": "LinQi_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2083553821327069186",
+    "created_at": "2026-08-01T14:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083562256781181109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1615296697827049474",
+          "start": 0,
+          "username": "Kekahaaa"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol. - Diniboy1123/usque",
+          "display_url": "github.com/Diniboy1123/us…",
+          "end": 42,
+          "expanded_url": "https://github.com/Diniboy1123/usque",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2046885201591062528/o4fvDBG2?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2046885201591062528/o4fvDBG2?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 19,
+          "status": 200,
+          "title": "GitHub - Diniboy1123/usque: Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol.",
+          "unwound_url": "https://github.com/Diniboy1123/usque",
+          "url": "https://t.co/hjyZvWhHvx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083562256781181109",
+    "in_reply_to_user_id": "1615296697827049474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083561615459582080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kekahaaa 试试usque?\nhttps://t.co/hjyZvWhHvx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2083553821327069186",
+        "created_at": "2026-08-01T14:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083562256781181109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1615296697827049474",
+              "start": 0,
+              "username": "Kekahaaa"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol. - Diniboy1123/usque",
+              "display_url": "github.com/Diniboy1123/us…",
+              "end": 42,
+              "expanded_url": "https://github.com/Diniboy1123/usque",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2046885201591062528/o4fvDBG2?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2046885201591062528/o4fvDBG2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 19,
+              "status": 200,
+              "title": "GitHub - Diniboy1123/usque: Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol.",
+              "unwound_url": "https://github.com/Diniboy1123/usque",
+              "url": "https://t.co/hjyZvWhHvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083562256781181109",
+        "in_reply_to_user_id": "1615296697827049474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083561615459582080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kekahaaa 试试usque?\nhttps://t.co/hjyZvWhHvx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615296697827049474",
+        "conversation_id": "2083553821327069186",
+        "created_at": "2026-08-01T14:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083561615459582080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083561615459582080",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083553821327069186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 有没有办法提取 MASQUE 节点？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 912,
+          "like_count": 10323,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 2000
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-17T10:35:34.000Z",
+        "description": "",
+        "id": "1615296697827049474",
+        "location": "Kekaha, HI",
+        "name": "Frank",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 68,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 608
+        },
+        "url": "",
+        "username": "Kekahaaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085341027884535809"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2085341042430357890",
+    "created_at": "2026-08-06T12:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085341042430357890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tWyZAfn9Ky",
+          "end": 37,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2085341042430357890/photo/1",
+          "media_key": "3_2085341027884535809",
+          "start": 14,
+          "url": "https://t.co/tWyZAfn9Ky"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "00a50a40709ed415"
+    },
+    "id": "2085341042430357890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "1000fo了, 开心咪😽 https://t.co/tWyZAfn9Ky"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [00a50a40709ed415].",
+      "parameter": "geo.place_id",
+      "resource_id": "00a50a40709ed415",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "00a50a40709ed415"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2509,
+        "media_key": "3_2085341027884535809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCencKbEAE3Zpj.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085341027884535809"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2085341042430357890",
+        "created_at": "2026-08-06T12:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085341042430357890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tWyZAfn9Ky",
+              "end": 37,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2085341042430357890/photo/1",
+              "media_key": "3_2085341027884535809",
+              "start": 14,
+              "url": "https://t.co/tWyZAfn9Ky"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00a50a40709ed415"
+        },
+        "id": "2085341042430357890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "1000fo了, 开心咪😽 https://t.co/tWyZAfn9Ky"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 1066,
+          "like_count": 11085,
+          "listed_count": 1,
+          "media_count": 488,
+          "tweet_count": 2112
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

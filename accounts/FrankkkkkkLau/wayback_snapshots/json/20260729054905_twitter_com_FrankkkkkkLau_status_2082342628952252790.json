@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2082303756641948094",
+    "created_at": "2026-07-29T05:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T06:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082342628952252790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "873099136022618113",
+          "start": 0,
+          "username": "ytxKDxjoTDXXIA7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082342628952252790",
+    "in_reply_to_user_id": "873099136022618113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082337563411611919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ytxKDxjoTDXXIA7 那个现在还能用）\n貌似是给在境外用国际漫游的人上Google系网站用的, 但是没弄白名单"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2082303756641948094",
+        "created_at": "2026-07-29T05:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082342628952252790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "873099136022618113",
+              "start": 0,
+              "username": "ytxKDxjoTDXXIA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082342628952252790",
+        "in_reply_to_user_id": "873099136022618113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082337563411611919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ytxKDxjoTDXXIA7 那个现在还能用）\n貌似是给在境外用国际漫游的人上Google系网站用的, 但是没弄白名单"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "873099136022618113",
+        "conversation_id": "2082303756641948094",
+        "created_at": "2026-07-29T05:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082337563411611919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082337563411611919",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082303756641948094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 之前还有似乎是中国移动搭的反代ip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 872,
+          "like_count": 9928,
+          "listed_count": 1,
+          "media_count": 439,
+          "tweet_count": 1925
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-09T08:47:10.000Z",
+        "description": "lol",
+        "id": "873099136022618113",
+        "name": "FaQxD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535210129422831616/jhzqbceN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 52,
+          "like_count": 506,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "ytxKDxjoTDXXIA7",
+        "verified": false
+      }
+    ]
+  }
+}

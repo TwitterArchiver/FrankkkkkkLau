@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2081080848749859328",
+    "created_at": "2026-07-25T18:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T19:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081080848749859328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1027764083565711360",
+          "start": 3,
+          "username": "__Inty__"
+        },
+        {
+          "end": 52,
+          "id": "636513296",
+          "start": 41,
+          "username": "nikitabier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081080848749859328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080864353549492307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__Inty__: 大家转发上万，看看能不能引起X主管的注意。\n\nHey @nikitabier, coordinated spam networks are taking over replies across the entire Chinese-speaking…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2100,
+        "media_key": "3_2080862437851430912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOC1XMKWgAA1oFA.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1140,
+        "media_key": "3_2080862747043024896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOC1pL_X0AAZJtn.jpg",
+        "width": 876
+      },
+      {
+        "height": 1526,
+        "media_key": "3_2080863549824331776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOC2X6lWcAArQdB.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2081080848749859328",
+        "created_at": "2026-07-25T18:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081080848749859328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1027764083565711360",
+              "start": 3,
+              "username": "__Inty__"
+            },
+            {
+              "end": 52,
+              "id": "636513296",
+              "start": 41,
+              "username": "nikitabier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081080848749859328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080864353549492307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__Inty__: 大家转发上万，看看能不能引起X主管的注意。\n\nHey @nikitabier, coordinated spam networks are taking over replies across the entire Chinese-speaking…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080862437851430912",
+            "3_2080862747043024896",
+            "3_2080863549824331776"
+          ]
+        },
+        "author_id": "1027764083565711360",
+        "conversation_id": "2080864353549492307",
+        "created_at": "2026-07-25T03:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080864353549492307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "636513296",
+              "start": 27,
+              "username": "nikitabier"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2ifT7AIe8",
+              "end": 280,
+              "expanded_url": "https://x.com/__Inty__/status/2080864353549492307/photo/1",
+              "media_key": "3_2080862437851430912",
+              "start": 257,
+              "url": "https://t.co/n2ifT7AIe8"
+            },
+            {
+              "display_url": "pic.x.com/n2ifT7AIe8",
+              "end": 280,
+              "expanded_url": "https://x.com/__Inty__/status/2080864353549492307/photo/1",
+              "media_key": "3_2080862747043024896",
+              "start": 257,
+              "url": "https://t.co/n2ifT7AIe8"
+            },
+            {
+              "display_url": "pic.x.com/n2ifT7AIe8",
+              "end": 280,
+              "expanded_url": "https://x.com/__Inty__/status/2080864353549492307/photo/1",
+              "media_key": "3_2080863549824331776",
+              "start": 257,
+              "url": "https://t.co/n2ifT7AIe8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080864353549492307",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 38,
+                "id": "636513296",
+                "start": 27,
+                "username": "nikitabier"
+              }
+            ]
+          },
+          "text": "大家转发上万，看看能不能引起X主管的注意。\n\nHey @nikitabier, coordinated spam networks are taking over replies across the entire Chinese-speaking community on X — not just my account.\n\nThousands of bot accounts flood major Chinese posts with Crypto, adult-service and scam ads. Blocking them individually doesn’t work.\n\nPlease investigate and ban these networks, not just individual accounts."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 35549,
+          "like_count": 306,
+          "quote_count": 9,
+          "reply_count": 22,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "大家转发上万，看看能不能引起X主管的注意。\n\nHey @nikitabier, coordinated spam networks are taking over replies across the entire Chinese-speaking community on X — not just my account.\n\nThousands of bot accounts flood major Chinese posts with Crypto, adult-service and scam ads. https://t.co/n2ifT7AIe8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 830,
+          "like_count": 9555,
+          "listed_count": 1,
+          "media_count": 427,
+          "tweet_count": 1874
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-10T03:50:27.000Z",
+        "description": "Anti Chinese Communist Government . Anti Dictatorship. 为你分享世界热点新闻 | 时政聊天群 👇https://t.co/mfY4RFz0h9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Inty_Fanbase",
+                "end": 98,
+                "expanded_url": "https://t.me/Inty_Fanbase",
+                "start": 75,
+                "url": "https://t.co/mfY4RFz0h9"
+              }
+            ]
+          }
+        },
+        "id": "1027764083565711360",
+        "location": "USA",
+        "name": "Inty News",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683004187951665153/9u75ptcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751145,
+          "following_count": 5,
+          "like_count": 2006,
+          "listed_count": 2330,
+          "media_count": 41394,
+          "tweet_count": 105393
+        },
+        "url": "",
+        "username": "__Inty__",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "head of product @x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 16,
+                "username": "x"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "location": "Palo Alto",
+        "name": "Nikita Bier",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240903,
+          "following_count": 2053,
+          "like_count": 39476,
+          "listed_count": 6053,
+          "media_count": 1614,
+          "tweet_count": 11741
+        },
+        "url": "",
+        "username": "nikitabier",
+        "verified": true
+      }
+    ]
+  }
+}

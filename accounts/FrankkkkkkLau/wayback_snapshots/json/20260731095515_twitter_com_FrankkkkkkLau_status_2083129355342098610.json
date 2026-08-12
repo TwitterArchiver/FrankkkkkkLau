@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2083111445680837036",
+    "created_at": "2026-07-31T09:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083129355342098610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048331424504463360",
+          "start": 0,
+          "username": "Com0loquieras"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083129355342098610",
+    "in_reply_to_user_id": "2048331424504463360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083129126538674198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Com0loquieras 我这个是直连warp的啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083129039846526976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjC0ylaUAAAlfb.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2083111445680837036",
+        "created_at": "2026-07-31T09:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083129355342098610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048331424504463360",
+              "start": 0,
+              "username": "Com0loquieras"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083129355342098610",
+        "in_reply_to_user_id": "2048331424504463360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083129126538674198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Com0loquieras 我这个是直连warp的啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083129039846526976"
+          ]
+        },
+        "author_id": "2048331424504463360",
+        "conversation_id": "2083111445680837036",
+        "created_at": "2026-07-31T09:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083129126538674198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aYQnM38Qr6",
+              "end": 97,
+              "expanded_url": "https://x.com/Com0loquieras/status/2083129126538674198/photo/1",
+              "media_key": "3_2083129039846526976",
+              "start": 74,
+              "url": "https://t.co/aYQnM38Qr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083129126538674198",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083111445680837036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@FrankkkkkkLau 我们这也是啊\n两个月前cf pages vless是这个速度\n现在只有46Mbps（没这么高）\n中国移动，cnsm! https://t.co/aYQnM38Qr6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 904,
+          "like_count": 10221,
+          "listed_count": 1,
+          "media_count": 453,
+          "tweet_count": 1988
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-26T09:20:48.000Z",
+        "description": "Producción:2010/10/10\nHabilidades:Go,astro,pnpm,Linux,Vibe Código,前端,网络,西班牙语A1\n性格特点：直球的堪比西班牙人 拉美大手子 图灵的诅咒 梦到什么说什么 \"Reino de 炫压抑\" 谈崩专家不善言辞 在线求操",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Tortillas111",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Tortillas111",
+                "start": 0,
+                "url": "https://t.co/wa6FNzZMeH"
+              }
+            ]
+          }
+        },
+        "id": "2048331424504463360",
+        "location": "大哥伦比亚",
+        "name": "Simón Bolívar🇪🇸🇲🇽🇨🇴🇦🇷🇨🇱",
+        "pinned_tweet_id": "2083050810976690433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073259657762848768/-8GxQ6y8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 195,
+          "like_count": 6930,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 3196
+        },
+        "url": "https://t.co/wa6FNzZMeH",
+        "username": "Com0loquieras",
+        "verified": true
+      }
+    ]
+  }
+}

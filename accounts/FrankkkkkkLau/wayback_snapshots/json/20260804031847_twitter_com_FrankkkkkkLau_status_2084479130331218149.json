@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2084471335036854622",
+    "created_at": "2026-08-04T03:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084479130331218149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3238412713",
+          "start": 0,
+          "username": "isle1021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084479130331218149",
+    "in_reply_to_user_id": "3238412713",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084474315089891620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isle1021 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2084471335036854622",
+        "created_at": "2026-08-04T03:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084479130331218149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3238412713",
+              "start": 0,
+              "username": "isle1021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084479130331218149",
+        "in_reply_to_user_id": "3238412713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084474315089891620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isle1021 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3238412713",
+        "conversation_id": "2084471335036854622",
+        "created_at": "2026-08-04T02:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084474315089891620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084474315089891620",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084471335036854622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 好吃喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 995,
+          "like_count": 10729,
+          "listed_count": 1,
+          "media_count": 475,
+          "tweet_count": 2059
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-07T01:50:39.000Z",
+        "description": "我叫李在焕。这里就爱好和一时感悟, 日报而我打算继续写。副号 →@Neptunus1027\n\n呜呼！！！！\n这是什么绝对的纯白领域啊！！！！！？？\n放眼望去，简直就像是一片银装素裹的雪景啊！！！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Neptunus1027"
+              }
+            ]
+          }
+        },
+        "id": "3238412713",
+        "location": "異能派芸人集団カスアベンジャーズ",
+        "name": "李在焕(旧名: 朝雾 千种, 仓光)",
+        "pinned_tweet_id": "2072991799271166435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082659896332546048/ubRVncuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 1044,
+          "like_count": 47937,
+          "listed_count": 13,
+          "media_count": 9691,
+          "tweet_count": 81867
+        },
+        "url": "",
+        "username": "isle1021",
+        "verified": false
+      }
+    ]
+  }
+}

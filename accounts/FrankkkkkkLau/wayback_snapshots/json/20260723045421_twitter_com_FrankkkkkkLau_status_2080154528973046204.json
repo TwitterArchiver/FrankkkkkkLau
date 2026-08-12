@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080154126672113664"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080154528973046204",
+    "created_at": "2026-07-23T04:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T05:52:47.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080154132590305485",
+      "2080154528973046204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zDvjhecvj2",
+          "end": 68,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2080154528973046204/photo/1",
+          "media_key": "3_2080154126672113664",
+          "start": 45,
+          "url": "https://t.co/zDvjhecvj2"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2080152145815572700",
+          "start": 69,
+          "url": "https://t.co/tWns621Rty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080154528973046204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080152145815572700",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老大你为什么给我发诈骗网站呀喵\n\n（我知道用doh能解决, 只是觉得运营商有点草台班子） https://t.co/zDvjhecvj2 https://t.co/tWns621Rty"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1801,
+        "media_key": "3_2080154126672113664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4xKDZasAAIqhS.jpg",
+        "width": 1037
+      },
+      {
+        "height": 237,
+        "media_key": "3_2080150657655615488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4uAITbsAA_Atz.png",
+        "width": 1374
+      },
+      {
+        "height": 1238,
+        "media_key": "3_2080150662751674368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4uAbSbYAAvnC7.jpg",
+        "width": 2579
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080154120527515649",
+            "3_2080154126672113664"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080154132590305485",
+        "created_at": "2026-07-23T04:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:52:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080154132590305485",
+          "2080154528973046204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FWdGHR5A0O",
+              "end": 68,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2080154132590305485/photo/1",
+              "media_key": "3_2080154120527515649",
+              "start": 45,
+              "url": "https://t.co/FWdGHR5A0O"
+            },
+            {
+              "display_url": "pic.x.com/FWdGHR5A0O",
+              "end": 68,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2080154132590305485/photo/1",
+              "media_key": "3_2080154126672113664",
+              "start": 45,
+              "url": "https://t.co/FWdGHR5A0O"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2080152145815572700",
+              "start": 69,
+              "url": "https://t.co/tWns621Rty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080154132590305485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080152145815572700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老大你为什么给我发诈骗网站呀喵\n\n（我知道用doh能解决, 只是觉得运营商有点草台班子） https://t.co/FWdGHR5A0O https://t.co/tWns621Rty"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080154126672113664"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080154528973046204",
+        "created_at": "2026-07-23T04:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:52:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080154132590305485",
+          "2080154528973046204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDvjhecvj2",
+              "end": 68,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2080154528973046204/photo/1",
+              "media_key": "3_2080154126672113664",
+              "start": 45,
+              "url": "https://t.co/zDvjhecvj2"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2080152145815572700",
+              "start": 69,
+              "url": "https://t.co/tWns621Rty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080154528973046204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080152145815572700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老大你为什么给我发诈骗网站呀喵\n\n（我知道用doh能解决, 只是觉得运营商有点草台班子） https://t.co/zDvjhecvj2 https://t.co/tWns621Rty"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080150657655615488",
+            "3_2080150662751674368"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2080152145815572700",
+        "created_at": "2026-07-23T04:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080152145815572700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRtejtuasr",
+              "end": 51,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2080152145815572700/photo/1",
+              "media_key": "3_2080150657655615488",
+              "start": 28,
+              "url": "https://t.co/IRtejtuasr"
+            },
+            {
+              "display_url": "pic.x.com/IRtejtuasr",
+              "end": 51,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2080152145815572700/photo/1",
+              "media_key": "3_2080150662751674368",
+              "start": 28,
+              "url": "https://t.co/IRtejtuasr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080152145815572700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难绷运营商dns把我朋友家宽建的站劫持到神必诈骗网站了 https://t.co/IRtejtuasr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 775,
+          "like_count": 9023,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 1787
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

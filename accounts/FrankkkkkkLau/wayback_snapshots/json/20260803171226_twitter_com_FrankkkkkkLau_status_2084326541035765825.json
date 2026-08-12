@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2084326541035765825",
+    "created_at": "2026-08-03T17:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084326541035765825"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "⏚FrankLau⏚’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1vJpP…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1vJpPPyPQkOJE",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2084326542243741696/yPd0T3D4?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2084326542243741696/yPd0T3D4?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 是什么, 点一下",
+          "unwound_url": "https://twitter.com/i/spaces/1vJpPPyPQkOJE/peek",
+          "url": "https://t.co/MB1Ol0sGQw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084326541035765825",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/MB1Ol0sGQw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2084326541035765825",
+        "created_at": "2026-08-03T17:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084326541035765825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "⏚FrankLau⏚’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1vJpP…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1vJpPPyPQkOJE",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2084326542243741696/yPd0T3D4?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2084326542243741696/yPd0T3D4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 是什么, 点一下",
+              "unwound_url": "https://twitter.com/i/spaces/1vJpPPyPQkOJE/peek",
+              "url": "https://t.co/MB1Ol0sGQw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084326541035765825",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MB1Ol0sGQw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 992,
+          "like_count": 10708,
+          "listed_count": 1,
+          "media_count": 473,
+          "tweet_count": 2052
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

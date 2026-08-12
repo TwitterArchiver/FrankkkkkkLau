@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2068244369963118854",
+    "created_at": "2026-07-24T02:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T03:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080487046674837544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2061845670915629060",
+          "start": 0,
+          "username": "HWatson2007"
+        }
+      ],
+      "urls": [
+        {
+          "description": "当使用了 Split Tunnel VPN 或 四层分流代理软件 时，这个工具可以查看你在访问不同网站时所使用的出口 IP 地址，帮助你测试网站分流规则 | IP.SKK.MOE，一个可以查看本机 IP 地址及其归属地、测试网络策略路由、查询递归 DNS 出口 IP、查看 CDN 命中节点等的网络环境测试工具 | ip.skk.moe | Sukka | https://ip.skk.moe",
+          "display_url": "ip.skk.moe/split-tunnel",
+          "end": 36,
+          "expanded_url": "https://ip.skk.moe/split-tunnel",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2066016736433098752/YtU1cPn6?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2066016736433098752/YtU1cPn6?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 13,
+          "status": 200,
+          "title": "网站分流测试 | ip.skk.moe | Sukka",
+          "unwound_url": "https://ip.skk.moe/split-tunnel",
+          "url": "https://t.co/pSTwMbMunJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080487046674837544",
+    "in_reply_to_user_id": "2061845670915629060",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080471650253078932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HWatson2007 https://t.co/pSTwMbMunJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2068244369963118854",
+        "created_at": "2026-07-24T02:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080487046674837544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2061845670915629060",
+              "start": 0,
+              "username": "HWatson2007"
+            }
+          ],
+          "urls": [
+            {
+              "description": "当使用了 Split Tunnel VPN 或 四层分流代理软件 时，这个工具可以查看你在访问不同网站时所使用的出口 IP 地址，帮助你测试网站分流规则 | IP.SKK.MOE，一个可以查看本机 IP 地址及其归属地、测试网络策略路由、查询递归 DNS 出口 IP、查看 CDN 命中节点等的网络环境测试工具 | ip.skk.moe | Sukka | https://ip.skk.moe",
+              "display_url": "ip.skk.moe/split-tunnel",
+              "end": 36,
+              "expanded_url": "https://ip.skk.moe/split-tunnel",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2066016736433098752/YtU1cPn6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066016736433098752/YtU1cPn6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "网站分流测试 | ip.skk.moe | Sukka",
+              "unwound_url": "https://ip.skk.moe/split-tunnel",
+              "url": "https://t.co/pSTwMbMunJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080487046674837544",
+        "in_reply_to_user_id": "2061845670915629060",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080471650253078932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HWatson2007 https://t.co/pSTwMbMunJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061845670915629060",
+        "conversation_id": "2068244369963118854",
+        "created_at": "2026-07-24T01:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080471650253078932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080471650253078932",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068244369963118854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 这是哪个测试网站？怎么还有NSFW……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 790,
+          "like_count": 9164,
+          "listed_count": 1,
+          "media_count": 412,
+          "tweet_count": 1810
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-02T16:24:55.000Z",
+        "description": "19 years old. Student.\n\n量化 | MEV | 趋势跟踪 | prediction market | market making | 方向不确定，仍在探索中……\n\n正在准备进入机器视觉实验室 | Machine Learning | AI Agent\n\n台湾是一个独立的国家 | 厌恶小粉红和战狼",
+        "id": "2061845670915629060",
+        "name": "Helmholtz W.",
+        "pinned_tweet_id": "2071435798751178759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069618127831453696/k2XhcWQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 98,
+          "like_count": 6315,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 984
+        },
+        "url": "",
+        "username": "HWatson2007",
+        "verified": false
+      }
+    ]
+  }
+}

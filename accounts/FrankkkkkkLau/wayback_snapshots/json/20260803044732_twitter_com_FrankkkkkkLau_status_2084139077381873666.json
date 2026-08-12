@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084139058176118784"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2084136958054527106",
+    "created_at": "2026-08-03T04:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084139077381873666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1948395176831131648",
+          "start": 0,
+          "username": "zy89644"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PfnN4SP5Pb",
+          "end": 32,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2084139077381873666/photo/1",
+          "media_key": "3_2084139058176118784",
+          "start": 9,
+          "url": "https://t.co/PfnN4SP5Pb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084139077381873666",
+    "in_reply_to_user_id": "1948395176831131648",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084136958054527106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zy89644 https://t.co/PfnN4SP5Pb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 977,
+        "media_key": "3_2084139058176118784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxZbmEa0AAP96N.jpg",
+        "width": 1024
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2084136948915109888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxXg0daAAASFjS.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084139058176118784"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2084136958054527106",
+        "created_at": "2026-08-03T04:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084139077381873666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1948395176831131648",
+              "start": 0,
+              "username": "zy89644"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PfnN4SP5Pb",
+              "end": 32,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2084139077381873666/photo/1",
+              "media_key": "3_2084139058176118784",
+              "start": 9,
+              "url": "https://t.co/PfnN4SP5Pb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084139077381873666",
+        "in_reply_to_user_id": "1948395176831131648",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084136958054527106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zy89644 https://t.co/PfnN4SP5Pb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084136948915109888"
+          ]
+        },
+        "author_id": "1948395176831131648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084136958054527106",
+        "created_at": "2026-08-03T04:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084136958054527106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PqWJeg6p2p",
+              "end": 29,
+              "expanded_url": "https://x.com/zy89644/status/2084136958054527106/photo/1",
+              "media_key": "3_2084136948915109888",
+              "start": 6,
+              "url": "https://t.co/PqWJeg6p2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084136958054527106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吃猪猪饭 https://t.co/PqWJeg6p2p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 967,
+          "like_count": 10547,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 2029
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-24T14:50:02.000Z",
+        "description": "我喜欢听音乐\n最近在收集实体专辑\n381,618,168+55,952,266\n感兴趣就来互fo吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zy89644",
+                "end": 23,
+                "expanded_url": "http://ngl.link/zy89644",
+                "start": 0,
+                "url": "https://t.co/tLgc8L3Uoh"
+              }
+            ]
+          }
+        },
+        "id": "1948395176831131648",
+        "location": "永远亭",
+        "name": "이×3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082060093147979776/1knJuvJr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 291,
+          "like_count": 57004,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 7409
+        },
+        "url": "https://t.co/tLgc8L3Uoh",
+        "username": "zy89644",
+        "verified": false
+      }
+    ]
+  }
+}

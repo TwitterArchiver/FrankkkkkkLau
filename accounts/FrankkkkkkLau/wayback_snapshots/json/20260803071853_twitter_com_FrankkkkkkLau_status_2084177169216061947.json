@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2083926389758304460",
+    "created_at": "2026-08-03T07:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084177169216061947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1482593685808156680",
+          "start": 0,
+          "username": "YuriHana_meo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084177169216061947",
+    "in_reply_to_user_id": "1482593685808156680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084176901061664987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuriHana_meo 😱害怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2083926389758304460",
+        "created_at": "2026-08-03T07:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084177169216061947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1482593685808156680",
+              "start": 0,
+              "username": "YuriHana_meo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084177169216061947",
+        "in_reply_to_user_id": "1482593685808156680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084176901061664987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuriHana_meo 😱害怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482593685808156680",
+        "conversation_id": "2083926389758304460",
+        "created_at": "2026-08-03T07:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084176901061664987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084176901061664987",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083926389758304460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 记得之前看过一个lsp模块，可以让uu加速器作为vpn使用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 972,
+          "like_count": 10573,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 2030
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-16T06:01:10.000Z",
+        "description": "不是萝莉控，只是喜欢的对象刚好都是萝莉",
+        "id": "1482593685808156680",
+        "name": "Yuri Hana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068565292905836544/xPNKxpmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 109,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "YuriHana_meo",
+        "verified": true
+      }
+    ]
+  }
+}

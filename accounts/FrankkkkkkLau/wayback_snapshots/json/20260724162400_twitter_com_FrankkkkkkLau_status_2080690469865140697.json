@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2080667001425678587",
+    "created_at": "2026-07-24T16:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080690469865140697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1146426352595161088",
+          "start": 0,
+          "username": "PolBoran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080690469865140697",
+    "in_reply_to_user_id": "1146426352595161088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080683952357158987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PolBoran 不是, 这种应该是外贸用的那种, 原po主说出口在新加坡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2080667001425678587",
+        "created_at": "2026-07-24T16:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080690469865140697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1146426352595161088",
+              "start": 0,
+              "username": "PolBoran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080690469865140697",
+        "in_reply_to_user_id": "1146426352595161088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080683952357158987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PolBoran 不是, 这种应该是外贸用的那种, 原po主说出口在新加坡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1146426352595161088",
+        "conversation_id": "2080667001425678587",
+        "created_at": "2026-07-24T15:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080683952357158987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080683952357158987",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080667001425678587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 那些中国 IP 的就是这样来的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 796,
+          "like_count": 9308,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 1824
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-03T14:31:56.000Z",
+        "description": "Open to DMs for friendly chats",
+        "id": "1146426352595161088",
+        "location": "冰岛",
+        "name": "Loiter.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927404015857414144/OkCA4gOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 65,
+          "like_count": 557,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 4522
+        },
+        "url": "",
+        "username": "PolBoran",
+        "verified": false
+      }
+    ]
+  }
+}
