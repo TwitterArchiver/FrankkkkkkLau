@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2090326811096039566",
+    "created_at": "2026-08-20T06:42:42.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T07:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090328653385413021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999719301176262658",
+          "start": 0,
+          "username": "snzkYuurei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090328653385413021",
+    "in_reply_to_user_id": "1999719301176262658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090326811096039566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snzkYuurei 这是商宽吧）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 463,
+        "media_key": "3_2090324126254907392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJSt8LaQAAkGtk.jpg",
+        "width": 1017
+      },
+      {
+        "height": 644,
+        "media_key": "3_2090324147431968768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJSvLEakAAwVBY.png",
+        "width": 518
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2090326811096039566",
+        "created_at": "2026-08-20T06:42:42.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090328653385413021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999719301176262658",
+              "start": 0,
+              "username": "snzkYuurei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090328653385413021",
+        "in_reply_to_user_id": "1999719301176262658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090326811096039566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snzkYuurei 这是商宽吧）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090324126254907392",
+            "3_2090324147431968768"
+          ]
+        },
+        "author_id": "1999719301176262658",
+        "conversation_id": "2090326811096039566",
+        "created_at": "2026-08-20T06:35:22.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090326811096039566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X6sesGuWsH",
+              "end": 50,
+              "expanded_url": "https://x.com/snzkYuurei/status/2090326811096039566/photo/1",
+              "media_key": "3_2090324126254907392",
+              "start": 27,
+              "url": "https://t.co/X6sesGuWsH"
+            },
+            {
+              "display_url": "pic.x.com/X6sesGuWsH",
+              "end": 50,
+              "expanded_url": "https://x.com/snzkYuurei/status/2090326811096039566/photo/1",
+              "media_key": "3_2090324147431968768",
+              "start": 27,
+              "url": "https://t.co/X6sesGuWsH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090326811096039566",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090324126254907392"
+          },
+          {
+            "media_key": "3_2090324147431968768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "风险全绿，评分全红，送中家宽。\ndebuff叠满了（ https://t.co/X6sesGuWsH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2090328653385413021",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 1082,
+          "like_count": 12225,
+          "listed_count": 1,
+          "media_count": 542,
+          "tweet_count": 2307
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-13T05:53:41.000Z",
+        "description": "何か喋りたい。何か話したい。何か書きたい。何か歌いたい。何か伝えたい。しかし僕の世界は、言葉も文字も旋律も忘れている。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "komari.yuurei.de",
+                "end": 23,
+                "expanded_url": "https://komari.yuurei.de",
+                "start": 0,
+                "url": "https://t.co/blR0T8PQI8"
+              }
+            ]
+          }
+        },
+        "id": "1999719301176262658",
+        "is_identity_verified": false,
+        "location": "Antipathy World",
+        "most_recent_tweet_id": "2090326811096039566",
+        "name": "篠崎 幽怜",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999719301176262658/1765606652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999724697999855616/6ZjTK6m__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 99,
+          "like_count": 17471,
+          "listed_count": 0,
+          "media_count": 297,
+          "tweet_count": 1090
+        },
+        "url": "https://t.co/blR0T8PQI8",
+        "username": "snzkYuurei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

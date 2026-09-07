@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094454831142612992"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2094455174743949563",
+    "created_at": "2026-08-31T16:00:01.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T17:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094455174743949563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BuMZF69Mqp",
+          "end": 125,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2094455174743949563/photo/1",
+          "media_key": "3_2094454831142612992",
+          "start": 102,
+          "url": "https://t.co/BuMZF69Mqp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094455174743949563",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094454831142612992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前跟人讨论过, 玩gtaol如果组队的人都在国内的话, 是不是可以不开加速器裸连\n然后今天洗澡的时候突然想到三大运营商的家宽跨网跨省互联可能比跨国还烂, 而且很多人的网络环境几乎玩不了P2P联机游戏🫠 https://t.co/BuMZF69Mqp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 635,
+        "media_key": "3_2094454831142612992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRD_knBbMAA8KH6.jpg",
+        "width": 1041
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094454831142612992"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2094455174743949563",
+        "created_at": "2026-08-31T16:00:01.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094455174743949563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuMZF69Mqp",
+              "end": 125,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2094455174743949563/photo/1",
+              "media_key": "3_2094454831142612992",
+              "start": 102,
+              "url": "https://t.co/BuMZF69Mqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094455174743949563",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094454831142612992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前跟人讨论过, 玩gtaol如果组队的人都在国内的话, 是不是可以不开加速器裸连\n然后今天洗澡的时候突然想到三大运营商的家宽跨网跨省互联可能比跨国还烂, 而且很多人的网络环境几乎玩不了P2P联机游戏🫠 https://t.co/BuMZF69Mqp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2094455174743949563",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 1111,
+          "like_count": 12955,
+          "listed_count": 1,
+          "media_count": 569,
+          "tweet_count": 2420
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

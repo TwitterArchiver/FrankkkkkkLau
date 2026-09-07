@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2089346003786924232",
+    "created_at": "2026-08-17T15:07:46.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T16:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089368594828370269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956958284310818816",
+          "start": 0,
+          "username": "qian67068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089368594828370269",
+    "in_reply_to_user_id": "1956958284310818816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089346003786924232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian67068 ip库的问题吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089345900175126528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7ZBsDbcAAZFRU.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2089346003786924232",
+        "created_at": "2026-08-17T15:07:46.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089368594828370269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956958284310818816",
+              "start": 0,
+              "username": "qian67068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089368594828370269",
+        "in_reply_to_user_id": "1956958284310818816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089346003786924232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian67068 ip库的问题吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089345900175126528"
+          ]
+        },
+        "author_id": "1956958284310818816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2089346003786924232",
+        "created_at": "2026-08-17T13:38:00.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:37:39.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089345916255998298",
+          "2089346003786924232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9FWPCSyAkg",
+              "end": 79,
+              "expanded_url": "https://x.com/qian67068/status/2089346003786924232/photo/1",
+              "media_key": "3_2089345900175126528",
+              "start": 56,
+              "url": "https://t.co/9FWPCSyAkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089346003786924232",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089345900175126528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是我剛才用iPhone登錄了，但是中國廣東？？？無論我真實位置還是vpn位置都不在廣東啊？而且這麼多次登錄？😰 https://t.co/9FWPCSyAkg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2089368594828370269",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1077,
+          "like_count": 11980,
+          "listed_count": 1,
+          "media_count": 534,
+          "tweet_count": 2282
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "友跨泛性戀小男娘，人稱代詞隨意\n蓝v互fo 發圖：@qian68069 簡中/繁中/EN 不ban真人 攻受可切的觸手娘\n姐姐@LianQiNian2\n學習🎹ing，愛魚韻、回春丹，研究各種電子軟硬件\n\n愛所有人，但永遠學不會愛人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "qian68069"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "LianQiNian2"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "is_identity_verified": false,
+        "location": "你的浴缸🛁",
+        "most_recent_tweet_id": "2089366576827179343",
+        "name": "Qian触手娘小千🏳️‍🌈",
+        "pinned_tweet_id": "2087903644041789672",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956958284310818816/1784818334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074454790810238976/_o3piX2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 1433,
+          "like_count": 11631,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 3961
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

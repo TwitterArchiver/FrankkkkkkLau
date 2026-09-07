@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2094279568060514534",
+    "created_at": "2026-09-03T09:29:07.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T10:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095443964057022594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095443964057022594",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095426191683699173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auspiceshirley 网页端"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2094279568060514534",
+        "created_at": "2026-09-03T09:29:07.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T10:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095443964057022594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095443964057022594",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095426191683699173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auspiceshirley 网页端"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050253104935997440",
+        "conversation_id": "2094279568060514534",
+        "created_at": "2026-09-03T08:18:29.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095426191683699173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095426191683699173",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094279568060514534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 这是什么客户端🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2095443964057022594",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 1117,
+          "like_count": 13140,
+          "listed_count": 1,
+          "media_count": 578,
+          "tweet_count": 2435
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIhFZ"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2095428226030223774",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2093970945753153613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050253104935997440/1780333609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 644,
+          "like_count": 2552,
+          "listed_count": 1,
+          "media_count": 663,
+          "tweet_count": 4201
+        },
+        "url": "https://t.co/1qfE6dIhFZ",
+        "username": "auspiceshirley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

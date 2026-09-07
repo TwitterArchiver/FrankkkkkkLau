@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2090478225281704330",
+    "created_at": "2026-08-20T17:33:43.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090492487748227561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892143528140267520",
+          "start": 0,
+          "username": "0xfufu_d667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090492487748227561",
+    "in_reply_to_user_id": "1892143528140267520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090478225281704330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xfufu_d667 呜呜呜好羡慕你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1234,
+        "media_key": "3_2090478218315005956",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLe3R1bgAQoCNc.jpg",
+        "width": 1218
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2090478225281704330",
+        "created_at": "2026-08-20T17:33:43.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090492487748227561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892143528140267520",
+              "start": 0,
+              "username": "0xfufu_d667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090492487748227561",
+        "in_reply_to_user_id": "1892143528140267520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090478225281704330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xfufu_d667 呜呜呜好羡慕你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090478218315005956"
+          ]
+        },
+        "author_id": "1892143528140267520",
+        "conversation_id": "2090478225281704330",
+        "created_at": "2026-08-20T16:37:02.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090478225281704330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RzpDulhFdy",
+              "end": 43,
+              "expanded_url": "https://x.com/0xfufu_d667/status/2090478225281704330/photo/1",
+              "media_key": "3_2090478218315005956",
+              "start": 20,
+              "url": "https://t.co/RzpDulhFdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090478225281704330",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090478218315005956"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奴才叩谢马总恩典，愿马总万岁万岁万万岁 https://t.co/RzpDulhFdy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2090492487748227561",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 1085,
+          "like_count": 12283,
+          "listed_count": 1,
+          "media_count": 544,
+          "tweet_count": 2318
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-19T09:25:57.000Z",
+        "description": "我爱fufu！\n分享23岁的退休生活\n长住酒店的酒店爱好者\n全职交易员\n只会hello world的cs本\n舒适旅行专家\n电子硬件发烧友",
+        "id": "1892143528140267520",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090481608159895916",
+        "name": "0xfufu",
+        "pinned_tweet_id": "2079100574663061937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1892143528140267520/1782207516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892143640912543744/-Fx-HI81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 755,
+          "like_count": 12068,
+          "listed_count": 3,
+          "media_count": 330,
+          "tweet_count": 4598
+        },
+        "url": "",
+        "username": "0xfufu_d667",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

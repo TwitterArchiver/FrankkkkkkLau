@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093354839090896896",
+        "3_2093354849945739264"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093332783020249452",
+    "created_at": "2026-08-28T15:08:40.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T16:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093355089675387228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gEHWVfgT2O",
+          "end": 96,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2093355089675387228/photo/1",
+          "media_key": "3_2093354839090896896",
+          "start": 73,
+          "url": "https://t.co/gEHWVfgT2O"
+        },
+        {
+          "display_url": "pic.x.com/gEHWVfgT2O",
+          "end": 96,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2093355089675387228/photo/1",
+          "media_key": "3_2093354849945739264",
+          "start": 73,
+          "url": "https://t.co/gEHWVfgT2O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093355089675387228",
+    "in_reply_to_user_id": "1672761170040692739",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093354839090896896"
+      },
+      {
+        "media_key": "3_2093354849945739264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093332783020249452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我知道什么是回国节点, 小时候在沙迦用过\n我也不想辩论什么是真正的「自由互联网」, 但是我觉得按他们的描述, 这个工具应该是用来在墙内连接墙外的 https://t.co/gEHWVfgT2O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 382,
+        "media_key": "3_2093354839090896896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0XIpTboAAl1dM.jpg",
+        "width": 1318
+      },
+      {
+        "height": 1229,
+        "media_key": "3_2093354849945739264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0XJRvbYAAmUzj.jpg",
+        "width": 2544
+      },
+      {
+        "height": 345,
+        "media_key": "3_2093332777475461120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0DEfYbUAAt_3o.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093354839090896896",
+            "3_2093354849945739264"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093332783020249452",
+        "created_at": "2026-08-28T15:08:40.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T16:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093355089675387228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gEHWVfgT2O",
+              "end": 96,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2093355089675387228/photo/1",
+              "media_key": "3_2093354839090896896",
+              "start": 73,
+              "url": "https://t.co/gEHWVfgT2O"
+            },
+            {
+              "display_url": "pic.x.com/gEHWVfgT2O",
+              "end": 96,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2093355089675387228/photo/1",
+              "media_key": "3_2093354849945739264",
+              "start": 73,
+              "url": "https://t.co/gEHWVfgT2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093355089675387228",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093354839090896896"
+          },
+          {
+            "media_key": "3_2093354849945739264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093332783020249452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道什么是回国节点, 小时候在沙迦用过\n我也不想辩论什么是真正的「自由互联网」, 但是我觉得按他们的描述, 这个工具应该是用来在墙内连接墙外的 https://t.co/gEHWVfgT2O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093332777475461120"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093332783020249452",
+        "created_at": "2026-08-28T13:40:02.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T14:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093332783020249452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKipeJAuFE",
+              "end": 39,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2093332783020249452/photo/1",
+              "media_key": "3_2093332777475461120",
+              "start": 16,
+              "url": "https://t.co/wKipeJAuFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093332783020249452",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093332777475461120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 413,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国节点?!\n不过连不上就是了 https://t.co/wKipeJAuFE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2093355089675387228",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 1101,
+          "like_count": 12752,
+          "listed_count": 1,
+          "media_count": 562,
+          "tweet_count": 2379
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

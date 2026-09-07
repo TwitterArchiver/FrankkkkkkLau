@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090834067239624704"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2090834073103335879",
+    "created_at": "2026-08-21T16:11:03.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T17:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090834073103335879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R3nhzh6cJ9",
+          "end": 30,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2090834073103335879/photo/1",
+          "media_key": "3_2090834067239624704",
+          "start": 7,
+          "url": "https://t.co/R3nhzh6cJ9"
+        },
+        {
+          "display_url": "x.com/puffercatt/sta…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/puffercatt/status/2090779783038718134",
+          "start": 31,
+          "url": "https://t.co/dyWGMKLmxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090834073103335879",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2090834067239624704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090779783038718134",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "oh no😿 https://t.co/R3nhzh6cJ9 https://t.co/dyWGMKLmxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2090834067239624704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQigaYaYAAxeGR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2090779778282356736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPxIYQXAAAHbIN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090834067239624704"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2090834073103335879",
+        "created_at": "2026-08-21T16:11:03.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090834073103335879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R3nhzh6cJ9",
+              "end": 30,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2090834073103335879/photo/1",
+              "media_key": "3_2090834067239624704",
+              "start": 7,
+              "url": "https://t.co/R3nhzh6cJ9"
+            },
+            {
+              "display_url": "x.com/puffercatt/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/puffercatt/status/2090779783038718134",
+              "start": 31,
+              "url": "https://t.co/dyWGMKLmxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090834073103335879",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090834067239624704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090779783038718134",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "oh no😿 https://t.co/R3nhzh6cJ9 https://t.co/dyWGMKLmxA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090779778282356736"
+          ]
+        },
+        "author_id": "1353697691407179776",
+        "conversation_id": "2090779783038718134",
+        "created_at": "2026-08-21T12:35:19.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090779783038718134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lsgVAC5jhG",
+              "end": 48,
+              "expanded_url": "https://x.com/puffercatt/status/2090779783038718134/photo/1",
+              "media_key": "3_2090779778282356736",
+              "start": 25,
+              "url": "https://t.co/lsgVAC5jhG"
+            },
+            {
+              "display_url": "x.com/twolays/status…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/twolays/status/2090599556882841679",
+              "start": 49,
+              "url": "https://t.co/tvO1RXpc6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090779783038718134",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090779778282356736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090599556882841679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Somehow mine is vertical https://t.co/lsgVAC5jhG https://t.co/tvO1RXpc6Z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2090834073103335879",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 1088,
+          "like_count": 12348,
+          "listed_count": 1,
+          "media_count": 547,
+          "tweet_count": 2330
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-25T13:34:26.000Z",
+        "description": "He/Him/any | creative chaos | EN/PL/ZH\n@pufferfiat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "pufferfiat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "puffercat.xyz",
+                "end": 23,
+                "expanded_url": "http://puffercat.xyz",
+                "start": 0,
+                "url": "https://t.co/zfonxR3v5t"
+              }
+            ]
+          }
+        },
+        "id": "1353697691407179776",
+        "is_identity_verified": false,
+        "location": "Krakow, Poland",
+        "most_recent_tweet_id": "2090829885061071168",
+        "name": "Casper",
+        "pinned_tweet_id": "1834709801974350276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353697691407179776/1757955977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809761670778220546/Xpit08IP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 1277,
+          "like_count": 22208,
+          "listed_count": 0,
+          "media_count": 3385,
+          "tweet_count": 14346
+        },
+        "url": "https://t.co/zfonxR3v5t",
+        "username": "puffercatt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

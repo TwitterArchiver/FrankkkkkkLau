@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095076853887479808"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2095076859243311481",
+    "created_at": "2026-09-02T09:10:22.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T10:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095076859243311481"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vw7Eeh3DiW",
+          "end": 76,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2095076859243311481/photo/1",
+          "media_key": "3_2095076853887479808",
+          "start": 53,
+          "url": "https://t.co/vw7Eeh3DiW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095076859243311481",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095076853887479808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开了个tg频道和群, 虽然暂时不知道该发点什么(?), 群链接频道里有, 可以聊代理和服务器之类的东西🤔 https://t.co/vw7Eeh3DiW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095076853887479808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRM1TGUbMAAmECQ.jpg",
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095076853887479808"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2095076859243311481",
+        "created_at": "2026-09-02T09:10:22.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095076859243311481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vw7Eeh3DiW",
+              "end": 76,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2095076859243311481/photo/1",
+              "media_key": "3_2095076853887479808",
+              "start": 53,
+              "url": "https://t.co/vw7Eeh3DiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095076859243311481",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095076853887479808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开了个tg频道和群, 虽然暂时不知道该发点什么(?), 群链接频道里有, 可以聊代理和服务器之类的东西🤔 https://t.co/vw7Eeh3DiW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2095076859243311481",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 1114,
+          "like_count": 13086,
+          "listed_count": 1,
+          "media_count": 576,
+          "tweet_count": 2432
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

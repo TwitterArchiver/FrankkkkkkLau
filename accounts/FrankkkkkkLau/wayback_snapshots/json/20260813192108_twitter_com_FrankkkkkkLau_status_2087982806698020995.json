@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2087926860932157697",
+    "created_at": "2026-08-13T19:21:08.000Z",
+    "display_text_range": [
+      25,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T20:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087982806698020995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519649212736049152",
+          "start": 0,
+          "username": "Mark67358226"
+        },
+        {
+          "end": 24,
+          "id": "2042821777869672450",
+          "start": 14,
+          "username": "UunitSamm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087982806698020995",
+    "in_reply_to_user_id": "1519649212736049152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087929000555364689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mark67358226 @UunitSamm 这个时间线也能干😋"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087929000555364689].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087929000555364689",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087929000555364689"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2087926860932157697",
+        "created_at": "2026-08-13T19:21:08.000Z",
+        "display_text_range": [
+          25,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087982806698020995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            },
+            {
+              "end": 24,
+              "id": "2042821777869672450",
+              "start": 14,
+              "username": "UunitSamm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087982806698020995",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087929000555364689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 @UunitSamm 这个时间线也能干😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2087982806698020995",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1081,
+          "like_count": 11803,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 2243
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 54kg |北京昌平🇨🇳| 主要繁體🇹🇼 簡體🉑 |是mtx喵|日語🇯🇵 朝鮮語🇰🇷也會一點 | LGBT友好 |留長髮中| 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！永遠最好的哥哥/戀人：@Mak1287267 永遠愛你喵🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 129,
+                "username": "Mak1287267"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "is_identity_verified": false,
+        "location": "琉球國首里城",
+        "most_recent_tweet_id": "2087401271351292085",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519649212736049152/1784974138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 1891,
+          "like_count": 41782,
+          "listed_count": 5,
+          "media_count": 579,
+          "tweet_count": 9383
+        },
+        "url": "",
+        "username": "Mark67358226",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-11T04:28:20.000Z",
+        "description": "=早杳\n中表 🐸厨 三共全肯定  \n顺女  lgbtq+友好  🈲非ally顺直\n很无聊的人\n歡迎互fo呀！",
+        "id": "2042821777869672450",
+        "is_identity_verified": false,
+        "location": "和妳的夢鄉",
+        "most_recent_tweet_id": "2087967664966963698",
+        "name": "河間 舂兔",
+        "pinned_tweet_id": "2086516777815842933",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042821777869672450/1780246660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085406241518759939/KRdo0wOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 855,
+          "like_count": 1613,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 720
+        },
+        "url": "",
+        "username": "UunitSamm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

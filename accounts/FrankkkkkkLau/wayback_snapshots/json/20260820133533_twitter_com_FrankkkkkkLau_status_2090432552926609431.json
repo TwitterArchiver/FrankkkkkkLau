@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2090428194109509938",
+    "created_at": "2026-08-20T13:35:33.000Z",
+    "display_text_range": [
+      17,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T14:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090432552926609431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1920665768750182401",
+          "start": 0,
+          "username": "Restorelife0771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090432552926609431",
+    "in_reply_to_user_id": "1920665768750182401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090431265707372938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Restorelife0771 视频流cdn用的确实是Akamai, 但是主站就是只有几个节点, 基本是香港新加坡韩国美国德国拉全世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2090428194109509938",
+        "created_at": "2026-08-20T13:35:33.000Z",
+        "display_text_range": [
+          17,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090432552926609431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920665768750182401",
+              "start": 0,
+              "username": "Restorelife0771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090432552926609431",
+        "in_reply_to_user_id": "1920665768750182401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090431265707372938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Restorelife0771 视频流cdn用的确实是Akamai, 但是主站就是只有几个节点, 基本是香港新加坡韩国美国德国拉全世界"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920665768750182401",
+        "conversation_id": "2090428194109509938",
+        "created_at": "2026-08-20T13:30:26.000Z",
+        "display_text_range": [
+          15,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090431265707372938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "description": "哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。",
+              "display_url": "bilibili.com",
+              "end": 109,
+              "expanded_url": "https://bilibili.com",
+              "start": 86,
+              "status": 200,
+              "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+              "unwound_url": "https://www.bilibili.com/",
+              "url": "https://t.co/M0RsFqAUbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090431265707372938",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090428194109509938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 视频分发是有 Akamai CDN 的我记得。\n如果你用的这个网站有 TraceRoute 的话，用全球各地节点 TraceRoute 一下 https://t.co/M0RsFqAUbq，看看真的是 trace 到香港了，还是 trace 到临近了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2090432552926609431",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 1085,
+          "like_count": 12264,
+          "listed_count": 1,
+          "media_count": 543,
+          "tweet_count": 2312
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-09T02:23:09.000Z",
+        "description": "账号尾数改成 0772 就能搜到我的另一个账号。；\n顺男友跨 ；*非* MtF/顺女 请注意；\n喜欢玩音游 喜欢听电音 在学习日语 成绩很差\n是个胖子 属于 98% 健全人(可能无攻击性)；\nにほんの友達が欲しい\n；有的时候回一些豆包语录是在反串，请知悉",
+        "id": "1920665768750182401",
+        "is_identity_verified": false,
+        "location": "Western North Korea",
+        "most_recent_tweet_id": "2090431265707372938",
+        "name": "Inochi.curve",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1920665768750182401/1746765530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920699900645261312/_sh8PWQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 440,
+          "like_count": 11728,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1877
+        },
+        "url": "",
+        "username": "Restorelife0771",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

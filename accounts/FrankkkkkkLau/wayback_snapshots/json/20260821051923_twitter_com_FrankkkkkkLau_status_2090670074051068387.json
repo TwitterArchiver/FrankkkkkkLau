@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2090507738401087898",
+    "created_at": "2026-08-21T05:19:23.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T06:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090670074051068387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1879792731507281920",
+          "start": 0,
+          "username": "klllnb666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090670074051068387",
+    "in_reply_to_user_id": "1879792731507281920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090662356141654135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@klllnb666 想玩而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2090507738401087898",
+        "created_at": "2026-08-21T05:19:23.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090670074051068387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1879792731507281920",
+              "start": 0,
+              "username": "klllnb666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090670074051068387",
+        "in_reply_to_user_id": "1879792731507281920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090662356141654135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@klllnb666 想玩而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879792731507281920",
+        "conversation_id": "2090507738401087898",
+        "created_at": "2026-08-21T04:48:42.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T05:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090662356141654135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090662356141654135",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090507738401087898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 你为啥想要mtel宽带呢？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2090670074051068387",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 1088,
+          "like_count": 12308,
+          "listed_count": 1,
+          "media_count": 544,
+          "tweet_count": 2324
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-16T07:28:16.000Z",
+        "description": "不知道说啥",
+        "id": "1879792731507281920",
+        "is_identity_verified": false,
+        "location": "洛杉矶数据中心",
+        "most_recent_tweet_id": "2090662356141654135",
+        "name": "兔子",
+        "pinned_tweet_id": "2085350395195609112",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 56,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "klllnb666",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

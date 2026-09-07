@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2095458089457885572",
+    "created_at": "2026-09-03T10:25:14.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T11:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095458089457885572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2094342050342904082",
+          "start": 97,
+          "url": "https://t.co/qLYUaNemKe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095458089457885572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094342050342904082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "反驳一下上个月的自己\n即使推特全面支持ipv6、ech和h3, 中国内地用户数量也不会增加多少。因为对于不会用代理的用户, 配置doh以及 启用/强制 h3的难度和获取一个代理节点的难度差不多 https://t.co/qLYUaNemKe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2095458089457885572",
+        "created_at": "2026-09-03T10:25:14.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095458089457885572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2094342050342904082",
+              "start": 97,
+              "url": "https://t.co/qLYUaNemKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095458089457885572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094342050342904082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "反驳一下上个月的自己\n即使推特全面支持ipv6、ech和h3, 中国内地用户数量也不会增加多少。因为对于不会用代理的用户, 配置doh以及 启用/强制 h3的难度和获取一个代理节点的难度差不多 https://t.co/qLYUaNemKe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2094342050342904082",
+        "created_at": "2026-08-31T08:30:30.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T09:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094342050342904082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2092839953952862497",
+              "start": 58,
+              "url": "https://t.co/VQrCvCbEEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094342050342904082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1086,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092839953952862497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "要是X也支持ech的话, cloudflare-ech[.]com在大陆的待遇估计会和google[.]com一样 https://t.co/VQrCvCbEEQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2095458089457885572",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 1117,
+          "like_count": 13146,
+          "listed_count": 1,
+          "media_count": 579,
+          "tweet_count": 2437
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

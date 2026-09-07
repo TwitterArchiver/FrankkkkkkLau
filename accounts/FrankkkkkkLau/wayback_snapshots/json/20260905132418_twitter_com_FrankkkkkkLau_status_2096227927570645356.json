@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096227919177850881"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2096227927570645356",
+    "created_at": "2026-09-05T13:24:18.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T14:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096227927570645356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KUiozIgflb",
+          "end": 34,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2096227927570645356/photo/1",
+          "media_key": "3_2096227919177850881",
+          "start": 11,
+          "url": "https://t.co/KUiozIgflb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096227927570645356",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096227919177850881"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草怎么还有蹭热度文章 https://t.co/KUiozIgflb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1476,
+        "media_key": "3_2096227919177850881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdML6raIAEzb4W.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096227919177850881"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2096227927570645356",
+        "created_at": "2026-09-05T13:24:18.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096227927570645356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KUiozIgflb",
+              "end": 34,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2096227927570645356/photo/1",
+              "media_key": "3_2096227919177850881",
+              "start": 11,
+              "url": "https://t.co/KUiozIgflb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096227927570645356",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096227919177850881"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草怎么还有蹭热度文章 https://t.co/KUiozIgflb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2096227927570645356",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 1120,
+          "like_count": 13260,
+          "listed_count": 1,
+          "media_count": 586,
+          "tweet_count": 2450
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

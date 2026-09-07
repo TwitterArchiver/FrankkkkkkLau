@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090096492854067200"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2090096502358298718",
+    "created_at": "2026-08-19T15:20:12.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090096502358298718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tJLuLf2iIU",
+          "end": 58,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2090096502358298718/photo/1",
+          "media_key": "3_2090096492854067200",
+          "start": 35,
+          "url": "https://t.co/tJLuLf2iIU"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2090050029612310767",
+          "start": 59,
+          "url": "https://t.co/G78evMq1BR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090096502358298718",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090096492854067200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090050029612310767",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我这里免费版warp masque协议不会像之前那样分配美国ip了😭 https://t.co/tJLuLf2iIU https://t.co/G78evMq1BR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090096492854067200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGDr7rbQAA4sbn.jpg",
+        "width": 991
+      },
+      {
+        "height": 837,
+        "media_key": "3_2090050022406578176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFZa_xXYAAx-Ri.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090096492854067200"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2090096502358298718",
+        "created_at": "2026-08-19T15:20:12.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090096502358298718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJLuLf2iIU",
+              "end": 58,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2090096502358298718/photo/1",
+              "media_key": "3_2090096492854067200",
+              "start": 35,
+              "url": "https://t.co/tJLuLf2iIU"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2090050029612310767",
+              "start": 59,
+              "url": "https://t.co/G78evMq1BR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090096502358298718",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090096492854067200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090050029612310767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这里免费版warp masque协议不会像之前那样分配美国ip了😭 https://t.co/tJLuLf2iIU https://t.co/G78evMq1BR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090050022406578176"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2090050029612310767",
+        "created_at": "2026-08-19T12:15:32.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090050029612310767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JoX7BeSqLn",
+              "end": 67,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2090050029612310767/photo/1",
+              "media_key": "3_2090050022406578176",
+              "start": 44,
+              "url": "https://t.co/JoX7BeSqLn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090050029612310767",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090050022406578176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1189,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才发现我选的是基于https的dns, 这下知道为什么用免费版warp一直上不了网了😔 https://t.co/JoX7BeSqLn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2090096502358298718",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 1079,
+          "like_count": 12192,
+          "listed_count": 1,
+          "media_count": 542,
+          "tweet_count": 2303
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

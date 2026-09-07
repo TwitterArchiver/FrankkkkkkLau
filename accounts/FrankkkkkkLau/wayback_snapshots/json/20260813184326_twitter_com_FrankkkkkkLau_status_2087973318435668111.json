@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2087971244486598995",
+    "created_at": "2026-08-13T18:43:26.000Z",
+    "display_text_range": [
+      17,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T19:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087973318435668111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2026081318497665024",
+          "start": 0,
+          "username": "85240609891_2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087973318435668111",
+    "in_reply_to_user_id": "2026081318497665024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087971244486598995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@85240609891_2nd 過幾天就會在牆內發帖說\"我明明什麼都沒做, 爲什麼要凍結我的賬號\""
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1574,
+        "media_key": "3_2087971235405910016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn2xquaUAA1CWA.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2087971244486598995",
+        "created_at": "2026-08-13T18:43:26.000Z",
+        "display_text_range": [
+          17,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087973318435668111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2026081318497665024",
+              "start": 0,
+              "username": "85240609891_2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087973318435668111",
+        "in_reply_to_user_id": "2026081318497665024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087971244486598995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@85240609891_2nd 過幾天就會在牆內發帖說\"我明明什麼都沒做, 爲什麼要凍結我的賬號\""
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087971235405910016"
+          ]
+        },
+        "author_id": "2026081318497665024",
+        "conversation_id": "2087971244486598995",
+        "created_at": "2026-08-13T18:35:11.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087971244486598995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZkSTRIjme",
+              "end": 35,
+              "expanded_url": "https://x.com/85240609891_2nd/status/2087971244486598995/photo/1",
+              "media_key": "3_2087971235405910016",
+              "start": 12,
+              "url": "https://t.co/GZkSTRIjme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087971244486598995",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087971235405910016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又一位高高在上的大陸人 https://t.co/GZkSTRIjme"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2087973318435668111",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1080,
+          "like_count": 11791,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 2239
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T23:47:34.000Z",
+        "description": "香港仔🇭🇰🎗️\n14年絕對武力player\nHELLO\n呢度係北極戰警嘅second account\n港英派+民國派\n重視政治民主\n撐藍色恐怖\n🇺🇳🇺🇳🇺🇳🇺🇳🇺🇳🇺🇳\n小粉紅 CCP嘅基本盤\nIF U唔想食我嘅AWP+Desert Eagle\n請快速離開\nPLS!!\n已經封鎖萬位",
+        "id": "2026081318497665024",
+        "is_identity_verified": false,
+        "location": "🇭🇰HONG KONG🇭🇰",
+        "most_recent_tweet_id": "2087972885256425637",
+        "name": "🇭🇰🎗️北極戰警 AWP Ver 0.60.4.1989",
+        "pinned_tweet_id": "2085935614126690638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026081318497665024/1786446290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087136103933575168/3a2xOpPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 389,
+          "like_count": 1428,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "85240609891_2nd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

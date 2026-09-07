@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089447377774301185"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2089447384053170562",
+    "created_at": "2026-08-17T20:20:51.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T21:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089447384053170562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NFXeSZ1WhH",
+          "end": 42,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2089447384053170562/photo/1",
+          "media_key": "3_2089447377774301185",
+          "start": 19,
+          "url": "https://t.co/NFXeSZ1WhH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089447384053170562",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089447377774301185"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老大我的首选语言好像就是简体中文吧喵 https://t.co/NFXeSZ1WhH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2089447377774301185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP81Udkb0AEyGX_.jpg",
+        "width": 1881
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089447377774301185"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2089447384053170562",
+        "created_at": "2026-08-17T20:20:51.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T21:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089447384053170562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFXeSZ1WhH",
+              "end": 42,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2089447384053170562/photo/1",
+              "media_key": "3_2089447377774301185",
+              "start": 19,
+              "url": "https://t.co/NFXeSZ1WhH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089447384053170562",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089447377774301185"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老大我的首选语言好像就是简体中文吧喵 https://t.co/NFXeSZ1WhH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2089447384053170562",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 1079,
+          "like_count": 12009,
+          "listed_count": 1,
+          "media_count": 535,
+          "tweet_count": 2287
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

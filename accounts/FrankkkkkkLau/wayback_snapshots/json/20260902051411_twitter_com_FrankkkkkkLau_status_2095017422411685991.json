@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095017417303044096"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2094922736351195319",
+    "created_at": "2026-09-02T05:14:11.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T06:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095017422411685991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "954993200384507909",
+          "start": 0,
+          "username": "Yucohanhan_ROC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tc4vjN9pQq",
+          "end": 46,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2095017422411685991/photo/1",
+          "media_key": "3_2095017417303044096",
+          "start": 23,
+          "url": "https://t.co/tc4vjN9pQq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095017422411685991",
+    "in_reply_to_user_id": "954993200384507909",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095017417303044096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094922736351195319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yucohanhan_ROC 这是在干什么 https://t.co/tc4vjN9pQq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 765,
+        "media_key": "3_2095017417303044096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRL_PbyasAAYk47.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2094922723759915008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRKpHi2agAAO_Ky.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2094922731179704320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRKpH-fbgAAJkQm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095017417303044096"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2094922736351195319",
+        "created_at": "2026-09-02T05:14:11.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095017422411685991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "954993200384507909",
+              "start": 0,
+              "username": "Yucohanhan_ROC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tc4vjN9pQq",
+              "end": 46,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2095017422411685991/photo/1",
+              "media_key": "3_2095017417303044096",
+              "start": 23,
+              "url": "https://t.co/tc4vjN9pQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095017422411685991",
+        "in_reply_to_user_id": "954993200384507909",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095017417303044096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094922736351195319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yucohanhan_ROC 这是在干什么 https://t.co/tc4vjN9pQq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094922723759915008",
+            "3_2094922731179704320"
+          ]
+        },
+        "author_id": "954993200384507909",
+        "conversation_id": "2094922736351195319",
+        "created_at": "2026-09-01T22:57:56.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T23:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094922736351195319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VwmivawWiY",
+              "end": 32,
+              "expanded_url": "https://x.com/Yucohanhan_ROC/status/2094922736351195319/photo/1",
+              "media_key": "3_2094922723759915008",
+              "start": 9,
+              "url": "https://t.co/VwmivawWiY"
+            },
+            {
+              "display_url": "pic.x.com/VwmivawWiY",
+              "end": 32,
+              "expanded_url": "https://x.com/Yucohanhan_ROC/status/2094922736351195319/photo/1",
+              "media_key": "3_2094922731179704320",
+              "start": 9,
+              "url": "https://t.co/VwmivawWiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094922736351195319",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094922723759915008"
+          },
+          {
+            "media_key": "3_2094922731179704320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 83643,
+          "like_count": 1346,
+          "quote_count": 6,
+          "reply_count": 86,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "被揭穿就急成這樣 https://t.co/VwmivawWiY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2095017422411685991",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 1114,
+          "like_count": 13071,
+          "listed_count": 1,
+          "media_count": 575,
+          "tweet_count": 2432
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-21T08:24:56.000Z",
+        "description": "「\n｜🇹🇼 中華民國台灣人 \n｜\n｜🌂個人生活、遊戲動畫\n｜📢社會運動、政治評論\n｜🆕遊戲動畫、傳播資訊\n｜💜反共華獨、台灣認同\n｜\n｜🇹🇼 #Taiwan #RepublicOfChina\n｜🇺🇦 #StandWithUkraine\n｜🇯🇵 #台日友好\n」",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "Taiwan"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "tag": "RepublicOfChina"
+              },
+              {
+                "end": 118,
+                "start": 101,
+                "tag": "StandWithUkraine"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "台日友好"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Discord.gg/32kmMug",
+                "end": 23,
+                "expanded_url": "http://Discord.gg/32kmMug",
+                "start": 0,
+                "url": "https://t.co/tLyvHj5qoD"
+              }
+            ]
+          }
+        },
+        "id": "954993200384507909",
+        "is_identity_verified": false,
+        "location": "Kaohsiung City, Taiwan",
+        "most_recent_tweet_id": "2095008213410435266",
+        "name": "雨可韓韓",
+        "pinned_tweet_id": "2049012245343150530",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/954993200384507909/1778919530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089994842998964224/vGuNXejb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8665,
+          "following_count": 886,
+          "like_count": 40310,
+          "listed_count": 47,
+          "media_count": 13158,
+          "tweet_count": 59102
+        },
+        "url": "https://t.co/tLyvHj5qoD",
+        "username": "Yucohanhan_ROC",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

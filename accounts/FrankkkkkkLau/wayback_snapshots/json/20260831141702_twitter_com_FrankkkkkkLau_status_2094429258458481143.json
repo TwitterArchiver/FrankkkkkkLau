@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2094342050342904082",
+    "created_at": "2026-08-31T14:17:02.000Z",
+    "display_text_range": [
+      17,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094429258458481143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1689465774350413824",
+          "start": 0,
+          "username": "rokedap50929384"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094429258458481143",
+    "in_reply_to_user_id": "1689465774350413824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094428898037473283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@rokedap50929384 cf系网站应该是不能用域前置, 然后你说的这个方法建议最好不要公开）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094428860351934464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDn86SacAAucbG.jpg",
+        "width": 923
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094428860356149248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDn86TawAARJrT.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2094342050342904082",
+        "created_at": "2026-08-31T14:17:02.000Z",
+        "display_text_range": [
+          17,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094429258458481143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1689465774350413824",
+              "start": 0,
+              "username": "rokedap50929384"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094429258458481143",
+        "in_reply_to_user_id": "1689465774350413824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094428898037473283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@rokedap50929384 cf系网站应该是不能用域前置, 然后你说的这个方法建议最好不要公开）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094428860351934464",
+            "3_2094428860356149248"
+          ]
+        },
+        "author_id": "1689465774350413824",
+        "conversation_id": "2094342050342904082",
+        "created_at": "2026-08-31T14:15:36.000Z",
+        "display_text_range": [
+          15,
+          189
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094428898037473283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7aDI5xASW",
+              "end": 213,
+              "expanded_url": "https://x.com/rokedap50929384/status/2094428898037473283/photo/1",
+              "media_key": "3_2094428860351934464",
+              "start": 190,
+              "url": "https://t.co/r7aDI5xASW"
+            },
+            {
+              "display_url": "pic.x.com/r7aDI5xASW",
+              "end": 213,
+              "expanded_url": "https://x.com/rokedap50929384/status/2094428898037473283/photo/1",
+              "media_key": "3_2094428860356149248",
+              "start": 190,
+              "url": "https://t.co/r7aDI5xASW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094428898037473283",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094428860351934464"
+          },
+          {
+            "media_key": "3_2094428860356149248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094342050342904082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@FrankkkkkkLau 其实我发现x[.]com是可以用ech的，只要向HTTPS/SVCB记录中注入 ech=AEX+DQBBbQAgACB7/SBH+xqW4r7SI60BZcc14GXZERm9bXXLDs1CZjL2RwAEAAEAAQASY2xvdWRmbGFyZS1lY2guY29tAAA= 就可以上了。然后我想知道你是如何用什么域前置策略过被封的cf网站的 https://t.co/r7aDI5xASW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2094429258458481143",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 1111,
+          "like_count": 12939,
+          "listed_count": 1,
+          "media_count": 568,
+          "tweet_count": 2418
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-10T02:37:03.000Z",
+        "description": "",
+        "id": "1689465774350413824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094428898037473283",
+        "name": "Teditation",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941854505139666944/SnLLEz5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 43,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "rokedap50929384",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

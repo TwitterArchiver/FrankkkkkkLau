@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2087148016327331945",
+    "created_at": "2026-08-11T12:03:59.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T13:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087148016327331945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hromezhao/stat…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Hromezhao/status/2086818029963477161",
+          "start": 28,
+          "url": "https://t.co/sq72VLjm3b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087148016327331945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086818029963477161",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "然后发现上传到10%的时候家里宽带被全局限速1Mbps https://t.co/sq72VLjm3b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2087148016327331945",
+        "created_at": "2026-08-11T12:03:59.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087148016327331945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hromezhao/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Hromezhao/status/2086818029963477161",
+              "start": 28,
+              "url": "https://t.co/sq72VLjm3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087148016327331945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086818029963477161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "然后发现上传到10%的时候家里宽带被全局限速1Mbps https://t.co/sq72VLjm3b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003256608122683392",
+        "conversation_id": "2086750453199720665",
+        "created_at": "2026-08-10T14:12:44.000Z",
+        "display_text_range": [
+          12,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086818029963477161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086818029963477161",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25434,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086750453199720665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__fanqie__ 帮自己和对方开个网盘会员这么难么？而且一个月两个人也就60块吧，最高等级的会员。如果是啥机密资料那就另说了，要保证绝密那就只能刻录或者用硬盘了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2087148016327331945",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1085,
+          "like_count": 11553,
+          "listed_count": 1,
+          "media_count": 506,
+          "tweet_count": 2192
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-23T00:09:48.000Z",
+        "description": "",
+        "id": "2003256608122683392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087030124445135121",
+        "name": "Hrome",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006587226956713984/sQRTtKTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 73,
+          "like_count": 2710,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 247
+        },
+        "url": "",
+        "username": "Hromezhao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

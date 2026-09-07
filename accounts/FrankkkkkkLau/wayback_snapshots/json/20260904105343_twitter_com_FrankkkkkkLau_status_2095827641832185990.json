@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095827619401080832"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2095827641832185990",
+    "created_at": "2026-09-04T10:53:43.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T11:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095827641832185990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lz2WAbozZJ",
+          "end": 70,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2095827641832185990/photo/1",
+          "media_key": "3_2095827619401080832",
+          "start": 47,
+          "url": "https://t.co/Lz2WAbozZJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095827641832185990",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095827619401080832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "bing中国版: 我们移除了你要搜的官网, 并给你找来了114514个 .cn域名的钓鱼网站 https://t.co/Lz2WAbozZJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095827619401080832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXgHZzaoAArCF9.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095827619401080832"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2095827641832185990",
+        "created_at": "2026-09-04T10:53:43.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T11:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095827641832185990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lz2WAbozZJ",
+              "end": 70,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2095827641832185990/photo/1",
+              "media_key": "3_2095827619401080832",
+              "start": 47,
+              "url": "https://t.co/Lz2WAbozZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095827641832185990",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095827619401080832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bing中国版: 我们移除了你要搜的官网, 并给你找来了114514个 .cn域名的钓鱼网站 https://t.co/Lz2WAbozZJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2095827641832185990",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 1120,
+          "like_count": 13178,
+          "listed_count": 1,
+          "media_count": 582,
+          "tweet_count": 2441
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

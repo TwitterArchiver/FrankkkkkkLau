@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089360172976328704"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2089254657713676398",
+    "created_at": "2026-08-17T14:37:49.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T15:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089361060390449544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HQgCAKD4Pg",
+          "end": 71,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2089361060390449544/photo/1",
+          "media_key": "3_2089360172976328704",
+          "start": 48,
+          "url": "https://t.co/HQgCAKD4Pg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089361060390449544",
+    "in_reply_to_user_id": "1672761170040692739",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2089360172976328704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089254657713676398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "That's why we need Google Translate back again💀 https://t.co/HQgCAKD4Pg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 462,
+        "media_key": "3_2089360172976328704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7mAeYaUAAqbjs.jpg",
+        "width": 1033
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089254649786429440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6GCN3acAAPTDY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089360172976328704"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2089254657713676398",
+        "created_at": "2026-08-17T14:37:49.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089361060390449544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQgCAKD4Pg",
+              "end": 71,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2089361060390449544/photo/1",
+              "media_key": "3_2089360172976328704",
+              "start": 48,
+              "url": "https://t.co/HQgCAKD4Pg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089361060390449544",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089360172976328704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089254657713676398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "That's why we need Google Translate back again💀 https://t.co/HQgCAKD4Pg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089254649786429440"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2089254657713676398",
+        "created_at": "2026-08-17T07:35:01.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T08:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089254657713676398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W1LqNuoUtU",
+              "end": 30,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2089254657713676398/photo/1",
+              "media_key": "3_2089254649786429440",
+              "start": 7,
+              "url": "https://t.co/W1LqNuoUtU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089254657713676398",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089254649786429440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5642,
+          "like_count": 53,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢手冲🤤 https://t.co/W1LqNuoUtU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2089361060390449544",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1076,
+          "like_count": 11973,
+          "listed_count": 1,
+          "media_count": 533,
+          "tweet_count": 2280
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

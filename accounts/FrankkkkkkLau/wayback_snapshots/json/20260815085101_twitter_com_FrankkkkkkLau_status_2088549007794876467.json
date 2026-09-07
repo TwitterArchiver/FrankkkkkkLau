@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2088548988161265664"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2088468833631981978",
+    "created_at": "2026-08-15T08:51:01.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T09:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088549007794876467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1637729471347453952",
+          "start": 0,
+          "username": "yeeeee0529"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DSVtYbL5q3",
+          "end": 40,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2088549007794876467/photo/1",
+          "media_key": "16_2088548988161265664",
+          "start": 17,
+          "url": "https://t.co/DSVtYbL5q3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088549007794876467",
+    "in_reply_to_user_id": "1637729471347453952",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "16_2088548988161265664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088548686209188171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeeeee0529 我也想要 https://t.co/DSVtYbL5q3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "16_2088548988161265664",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPwEPTdakAApVnn.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPwEPTdakAApVnn.mp4"
+          }
+        ],
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2088548988161265664"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2088468833631981978",
+        "created_at": "2026-08-15T08:51:01.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088549007794876467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1637729471347453952",
+              "start": 0,
+              "username": "yeeeee0529"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DSVtYbL5q3",
+              "end": 40,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2088549007794876467/photo/1",
+              "media_key": "16_2088548988161265664",
+              "start": 17,
+              "url": "https://t.co/DSVtYbL5q3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088549007794876467",
+        "in_reply_to_user_id": "1637729471347453952",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "16_2088548988161265664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088548686209188171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeeeee0529 我也想要 https://t.co/DSVtYbL5q3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637729471347453952",
+        "conversation_id": "2088468833631981978",
+        "created_at": "2026-08-15T08:49:44.000Z",
+        "display_text_range": [
+          15,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088548686209188171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Use Speedtest on all your devices with our free desktop and mobile apps.",
+              "display_url": "speedtest.net/my-result/d/85…",
+              "end": 45,
+              "expanded_url": "https://www.speedtest.net/my-result/d/850307237",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/2088548744480632832/_8NoypAd?format=png&name=orig",
+                  "width": 750
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2088548744480632832/_8NoypAd?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 22,
+              "status": 200,
+              "title": "Speedtest by Ookla - The Global Broadband Speed Test",
+              "unwound_url": "https://www.speedtest.net/result/d/850307237",
+              "url": "https://t.co/CvFuLRi6b2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088548686209188171",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088468833631981978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 上下對等♿️\nhttps://t.co/CvFuLRi6b2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2088549007794876467",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 1085,
+          "like_count": 11889,
+          "listed_count": 1,
+          "media_count": 528,
+          "tweet_count": 2265
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-20T08:15:17.000Z",
+        "description": "每天都很想睡覺\n是個絆星💫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yeeeee.me/liuminkai",
+                "end": 23,
+                "expanded_url": "https://yeeeee.me/liuminkai",
+                "start": 0,
+                "url": "https://t.co/2RY8YM2XiM"
+              }
+            ]
+          }
+        },
+        "id": "1637729471347453952",
+        "is_identity_verified": false,
+        "location": "台北",
+        "most_recent_tweet_id": "2088548686209188171",
+        "name": "ㄌㄇㄎ",
+        "pinned_tweet_id": "2033753214810788058",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637729471347453952/1779903724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033950070912258048/mwn_Z6is_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 1761,
+          "like_count": 47809,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2298
+        },
+        "url": "https://t.co/2RY8YM2XiM",
+        "username": "yeeeee0529",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

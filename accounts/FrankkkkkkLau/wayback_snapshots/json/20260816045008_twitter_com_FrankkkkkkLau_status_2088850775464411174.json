@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2088844021083033628",
+    "created_at": "2026-08-16T04:50:08.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T05:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088850775464411174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2038033439719321600",
+          "start": 0,
+          "username": "zhuoxuan2010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088850775464411174",
+    "in_reply_to_user_id": "2038033439719321600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088844021083033628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhuoxuan2010 草怎么都在看这个）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2088844001864818688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0QjXJboAAYQO5.jpg",
+        "width": 1272
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2088844006314942465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0QjnubIAEbAzc.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2088844021083033628",
+        "created_at": "2026-08-16T04:50:08.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088850775464411174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2038033439719321600",
+              "start": 0,
+              "username": "zhuoxuan2010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088850775464411174",
+        "in_reply_to_user_id": "2038033439719321600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088844021083033628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhuoxuan2010 草怎么都在看这个）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088844001864818688",
+            "3_2088844006314942465"
+          ]
+        },
+        "author_id": "2038033439719321600",
+        "conversation_id": "2088844021083033628",
+        "created_at": "2026-08-16T04:23:18.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088844021083033628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jronFkiJLa",
+              "end": 23,
+              "expanded_url": "https://x.com/zhuoxuan2010/status/2088844021083033628/photo/1",
+              "media_key": "3_2088844001864818688",
+              "start": 0,
+              "url": "https://t.co/jronFkiJLa"
+            },
+            {
+              "display_url": "pic.x.com/jronFkiJLa",
+              "end": 23,
+              "expanded_url": "https://x.com/zhuoxuan2010/status/2088844021083033628/photo/1",
+              "media_key": "3_2088844006314942465",
+              "start": 0,
+              "url": "https://t.co/jronFkiJLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088844021083033628",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088844001864818688"
+          },
+          {
+            "media_key": "3_2088844006314942465"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jronFkiJLa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2088850775464411174",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 1083,
+          "like_count": 11913,
+          "listed_count": 1,
+          "media_count": 528,
+          "tweet_count": 2271
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T23:20:19.000Z",
+        "description": "高中生|10后|记录生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/K5s3GXbM1jk/",
+                "end": 23,
+                "expanded_url": "https://v.douyin.com/K5s3GXbM1jk/",
+                "start": 0,
+                "url": "https://t.co/iT9GeGpLwh"
+              }
+            ]
+          }
+        },
+        "id": "2038033439719321600",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2088848982042968222",
+        "name": "ZHUXUAN",
+        "pinned_tweet_id": "2078490688715735161",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038033439719321600/1780999402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056519354393751552/c4ldS2ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 40,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 51
+        },
+        "url": "https://t.co/iT9GeGpLwh",
+        "username": "zhuoxuan2010",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

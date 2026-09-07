@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2087980978006540554",
+    "created_at": "2026-08-13T19:21:45.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T20:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087982961610330305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3318278592",
+          "start": 0,
+          "username": "BigglesworthX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087982961610330305",
+    "in_reply_to_user_id": "3318278592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087980978006540554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigglesworthX 蛛哈气"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2087980946062815233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn_m5vbsAEJH5W.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2087980978006540554",
+        "created_at": "2026-08-13T19:21:45.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087982961610330305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3318278592",
+              "start": 0,
+              "username": "BigglesworthX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087982961610330305",
+        "in_reply_to_user_id": "3318278592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087980978006540554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigglesworthX 蛛哈气"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087980946062815233"
+          ]
+        },
+        "author_id": "3318278592",
+        "conversation_id": "2087980978006540554",
+        "created_at": "2026-08-13T19:13:52.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087980978006540554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2L1QoDrNSf",
+              "end": 23,
+              "expanded_url": "https://x.com/BigglesworthX/status/2087980978006540554/photo/1",
+              "media_key": "3_2087980946062815233",
+              "start": 0,
+              "url": "https://t.co/2L1QoDrNSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087980978006540554",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087980946062815233"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2L1QoDrNSf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2087982961610330305",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1081,
+          "like_count": 11805,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 2244
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider | Banned in 106 Chinese transgender chat group for posting spider pictures.",
+        "id": "3318278592",
+        "is_identity_verified": false,
+        "location": "San Francisco",
+        "most_recent_tweet_id": "2087980978006540554",
+        "name": "Hoggicosa bisexsual",
+        "pinned_tweet_id": "2038488362190020638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3318278592/1721775996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 969,
+          "like_count": 3382,
+          "listed_count": 5,
+          "media_count": 1541,
+          "tweet_count": 7855
+        },
+        "url": "",
+        "username": "BigglesworthX",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

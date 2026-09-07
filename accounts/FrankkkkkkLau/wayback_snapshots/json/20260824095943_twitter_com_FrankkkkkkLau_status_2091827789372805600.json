@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2091813816770158932",
+    "created_at": "2026-08-24T09:59:43.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T10:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091827789372805600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1353697691407179776",
+          "start": 0,
+          "username": "puffercatt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091827789372805600",
+    "in_reply_to_user_id": "1353697691407179776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091813816770158932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puffercatt 有些人会用迅雷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2091813816770158932",
+        "created_at": "2026-08-24T09:59:43.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091827789372805600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1353697691407179776",
+              "start": 0,
+              "username": "puffercatt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091827789372805600",
+        "in_reply_to_user_id": "1353697691407179776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091813816770158932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puffercatt 有些人会用迅雷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353697691407179776",
+        "conversation_id": "2091813816770158932",
+        "created_at": "2026-08-24T09:04:12.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091813816770158932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091813816770158932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国的人是怎么用BT下载的？据我观察，几乎每个机场都会屏蔽BT\n对于习惯了无限制使用国外VPN的人来说，机场的限制程度真的让人感到害怕"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2091827789372805600",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 1090,
+          "like_count": 12482,
+          "listed_count": 1,
+          "media_count": 553,
+          "tweet_count": 2346
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-25T13:34:26.000Z",
+        "description": "He/Him/any | creative chaos | EN/PL/ZH\n@pufferfiat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "pufferfiat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "puffercat.xyz",
+                "end": 23,
+                "expanded_url": "http://puffercat.xyz",
+                "start": 0,
+                "url": "https://t.co/zfonxR3v5t"
+              }
+            ]
+          }
+        },
+        "id": "1353697691407179776",
+        "is_identity_verified": false,
+        "location": "Krakow, Poland",
+        "most_recent_tweet_id": "2091823200581693617",
+        "name": "Casper",
+        "pinned_tweet_id": "1834709801974350276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353697691407179776/1757955977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809761670778220546/Xpit08IP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 1279,
+          "like_count": 22256,
+          "listed_count": 0,
+          "media_count": 3394,
+          "tweet_count": 14376
+        },
+        "url": "https://t.co/zfonxR3v5t",
+        "username": "puffercatt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2094279568060514534",
+    "created_at": "2026-08-31T11:29:17.000Z",
+    "display_text_range": [
+      9,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T12:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094387043229155591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1590227700521652224",
+          "start": 0,
+          "username": "ryofork"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094387043229155591",
+    "in_reply_to_user_id": "1590227700521652224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094282128129441927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ryofork 我连美国节点都没有😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2094279568060514534",
+        "created_at": "2026-08-31T11:29:17.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094387043229155591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1590227700521652224",
+              "start": 0,
+              "username": "ryofork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094387043229155591",
+        "in_reply_to_user_id": "1590227700521652224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094282128129441927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryofork 我连美国节点都没有😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590227700521652224",
+        "conversation_id": "2094279568060514534",
+        "created_at": "2026-08-31T04:32:23.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T05:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094282128129441927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094282128129441927",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094279568060514534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 有盾的好像不能用这个🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2094387043229155591",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 1107,
+          "like_count": 12922,
+          "listed_count": 1,
+          "media_count": 568,
+          "tweet_count": 2412
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-09T06:20:14.000Z",
+        "description": "求求泥关注我吧🥺谢谢喵🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.ryofork.top",
+                "end": 23,
+                "expanded_url": "https://blog.ryofork.top",
+                "start": 0,
+                "url": "https://t.co/un6IhweSG8"
+              }
+            ]
+          }
+        },
+        "id": "1590227700521652224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094282128129441927",
+        "name": "冬屿清",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1590227700521652224/1783042661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092610325518712832/dx5attC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 133,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/un6IhweSG8",
+        "username": "ryofork",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

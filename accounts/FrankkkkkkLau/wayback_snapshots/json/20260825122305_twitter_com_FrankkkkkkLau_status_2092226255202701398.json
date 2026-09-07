@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2092217893023060222",
+    "created_at": "2026-08-25T12:23:05.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092226255202701398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092226255202701398",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092224415161577721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne 毕竟特征太明显了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2092217893023060222",
+        "created_at": "2026-08-25T12:23:05.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092226255202701398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092226255202701398",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092224415161577721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 毕竟特征太明显了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247054463329656832",
+        "conversation_id": "2092217893023060222",
+        "created_at": "2026-08-25T12:15:46.000Z",
+        "display_text_range": [
+          15,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092224415161577721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092224415161577721",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092217893023060222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 我现在校园网用这个已经完全连不上了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2092226255202701398",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 1100,
+          "like_count": 12538,
+          "listed_count": 1,
+          "media_count": 556,
+          "tweet_count": 2362
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "extraSAD｜AuABaABa｜想留德… \n绝望的商科牲 这里是QQ空间｜🏳️‍🌈gay/pan｜🚩🏴🏳️‍⚧️｜數碼、科幻、政治、語言學、Wikier ｜🌐漢(吴/普)/English\n安人 @JunenKim YAC @kyrinxo \n我好想成为人类啊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "JunenKim"
+              },
+              {
+                "end": 121,
+                "start": 113,
+                "username": "kyrinxo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/quasarne",
+                "end": 23,
+                "expanded_url": "https://github.com/quasarne",
+                "start": 0,
+                "url": "https://t.co/w0kS2yNpA0"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "is_identity_verified": false,
+        "location": "北京市西城区长安街174号",
+        "most_recent_tweet_id": "2092225561011892669",
+        "name": "неⒶστήρ |星ない🌹",
+        "pinned_tweet_id": "2078116801129410562",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247054463329656832/1761396959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084628127964377088/Bms90rmR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 1159,
+          "like_count": 88167,
+          "listed_count": 7,
+          "media_count": 1685,
+          "tweet_count": 20929
+        },
+        "url": "https://t.co/w0kS2yNpA0",
+        "username": "quasarne",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

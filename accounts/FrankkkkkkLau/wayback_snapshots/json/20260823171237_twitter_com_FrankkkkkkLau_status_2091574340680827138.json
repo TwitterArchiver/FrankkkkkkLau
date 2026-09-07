@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2091524524152070556",
+    "created_at": "2026-08-23T17:12:37.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T18:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091574340680827138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "736509148351725568",
+          "start": 0,
+          "username": "Naruse_Miku39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091574340680827138",
+    "in_reply_to_user_id": "736509148351725568",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091573258575597842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naruse_Miku39 k90pm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2091524524152070556",
+        "created_at": "2026-08-23T17:12:37.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091574340680827138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "736509148351725568",
+              "start": 0,
+              "username": "Naruse_Miku39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091574340680827138",
+        "in_reply_to_user_id": "736509148351725568",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091573258575597842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naruse_Miku39 k90pm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "736509148351725568",
+        "conversation_id": "2091524524152070556",
+        "created_at": "2026-08-23T17:08:19.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091573258575597842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091573258575597842",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091524524152070556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 17PM？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2091574340680827138",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 1092,
+          "like_count": 12457,
+          "listed_count": 1,
+          "media_count": 553,
+          "tweet_count": 2343
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-28T10:47:19.000Z",
+        "description": "Age :20+男の子 / ブラコン / Language: 中文 日本語\n閲覧注意 ⚠️センシティブ/メディア🔞\n\nOther:Network Engineer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "no-website.com",
+                "end": 23,
+                "expanded_url": "https://no-website.com",
+                "start": 0,
+                "url": "https://t.co/11Bl85c0SO"
+              }
+            ]
+          }
+        },
+        "id": "736509148351725568",
+        "is_identity_verified": false,
+        "location": "東京 中央区",
+        "most_recent_tweet_id": "2091573258575597842",
+        "name": "瀬",
+        "pinned_tweet_id": "2076420971159068848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/736509148351725568/1753531977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943059899325239296/OOycCaUK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 218,
+          "like_count": 283,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 167
+        },
+        "url": "https://t.co/11Bl85c0SO",
+        "username": "Naruse_Miku39",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2088833061224075771",
+    "created_at": "2026-08-16T04:14:18.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T05:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088841758511976775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1548619992001785859",
+          "start": 0,
+          "username": "frankxka05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088841758511976775",
+    "in_reply_to_user_id": "1548619992001785859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088833061224075771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frankxka05 坏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088833052915175424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0GmDIakAAxukU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2088833061224075771",
+        "created_at": "2026-08-16T04:14:18.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088841758511976775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1548619992001785859",
+              "start": 0,
+              "username": "frankxka05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088841758511976775",
+        "in_reply_to_user_id": "1548619992001785859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088833061224075771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frankxka05 坏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088833052915175424"
+          ]
+        },
+        "author_id": "1548619992001785859",
+        "conversation_id": "2088833061224075771",
+        "created_at": "2026-08-16T03:39:45.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088833061224075771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jEMD9FCKiS",
+              "end": 33,
+              "expanded_url": "https://x.com/frankxka05/status/2088833061224075771/photo/1",
+              "media_key": "3_2088833052915175424",
+              "start": 10,
+              "url": "https://t.co/jEMD9FCKiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088833061224075771",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088833052915175424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说我也要赤这个吗 https://t.co/jEMD9FCKiS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2088841758511976775",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 1082,
+          "like_count": 11912,
+          "listed_count": 1,
+          "media_count": 528,
+          "tweet_count": 2270
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T10:46:02.000Z",
+        "description": "ASDer /  Dev / Game / Anime / 🚇🚌🚄🧳💻🧋",
+        "id": "1548619992001785859",
+        "is_identity_verified": false,
+        "location": "Earth",
+        "most_recent_tweet_id": "2088833061224075771",
+        "name": "Flancok",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548619992001785859/1768433856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071246292098203648/9_UhuMJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 215,
+          "like_count": 2419,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 1259
+        },
+        "url": "",
+        "username": "frankxka05",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

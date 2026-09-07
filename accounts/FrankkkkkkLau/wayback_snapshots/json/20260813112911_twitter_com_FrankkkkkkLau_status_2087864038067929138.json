@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2087848951525560807",
+    "created_at": "2026-08-13T11:29:11.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T12:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087864038067929138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2026081318497665024",
+          "start": 0,
+          "username": "85240609891_2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087864038067929138",
+    "in_reply_to_user_id": "2026081318497665024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087863916185755835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@85240609891_2nd 珍珠奶茶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2087848951525560807",
+        "created_at": "2026-08-13T11:29:11.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087864038067929138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2026081318497665024",
+              "start": 0,
+              "username": "85240609891_2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087864038067929138",
+        "in_reply_to_user_id": "2026081318497665024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087863916185755835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@85240609891_2nd 珍珠奶茶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026081318497665024",
+        "conversation_id": "2087848951525560807",
+        "created_at": "2026-08-13T11:28:42.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087863916185755835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087863916185755835",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087848951525560807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 政治午餐？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2087864038067929138",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1079,
+          "like_count": 11747,
+          "listed_count": 1,
+          "media_count": 516,
+          "tweet_count": 2225
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T23:47:34.000Z",
+        "description": "香港仔🇭🇰🎗️\n14年絕對武力player\nHELLO\n呢度係北極戰警嘅second account\n港英派+民國派\n重視政治民主\n撐藍色恐怖\n🇺🇳🇺🇳🇺🇳🇺🇳🇺🇳🇺🇳\n小粉紅 CCP嘅基本盤\nIF U唔想食我嘅AWP+Desert Eagle\n請快速離開\nPLS!!\n已經封鎖萬位",
+        "id": "2026081318497665024",
+        "is_identity_verified": false,
+        "location": "ROC 🇹🇼HK🇭🇰",
+        "most_recent_tweet_id": "2087863916185755835",
+        "name": "🇭🇰🎗️北極戰警 AWP Ver 0.60.4.1989",
+        "pinned_tweet_id": "2085935614126690638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026081318497665024/1786446290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087136103933575168/3a2xOpPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 392,
+          "like_count": 1383,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 636
+        },
+        "url": "",
+        "username": "85240609891_2nd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094736688404938752",
+        "3_2094736693685600256"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2094736698630701068",
+    "created_at": "2026-09-01T10:38:41.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T11:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094736698630701068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bCcun0tmom",
+          "end": 38,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2094736698630701068/photo/1",
+          "media_key": "3_2094736688404938752",
+          "start": 15,
+          "url": "https://t.co/bCcun0tmom"
+        },
+        {
+          "display_url": "pic.x.com/bCcun0tmom",
+          "end": 38,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2094736698630701068/photo/1",
+          "media_key": "3_2094736693685600256",
+          "start": 15,
+          "url": "https://t.co/bCcun0tmom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094736698630701068",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094736688404938752"
+      },
+      {
+        "media_key": "3_2094736693685600256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Google Play爆炸了 https://t.co/bCcun0tmom"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094736688404938752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRH_63JawAA-KG5.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1094,
+        "media_key": "3_2094736693685600256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRH_7K0bQAA2Fpt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094736688404938752",
+            "3_2094736693685600256"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2094736698630701068",
+        "created_at": "2026-09-01T10:38:41.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094736698630701068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCcun0tmom",
+              "end": 38,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2094736698630701068/photo/1",
+              "media_key": "3_2094736688404938752",
+              "start": 15,
+              "url": "https://t.co/bCcun0tmom"
+            },
+            {
+              "display_url": "pic.x.com/bCcun0tmom",
+              "end": 38,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2094736698630701068/photo/1",
+              "media_key": "3_2094736693685600256",
+              "start": 15,
+              "url": "https://t.co/bCcun0tmom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094736698630701068",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094736688404938752"
+          },
+          {
+            "media_key": "3_2094736693685600256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Google Play爆炸了 https://t.co/bCcun0tmom"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2094736698630701068",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 1112,
+          "like_count": 13008,
+          "listed_count": 1,
+          "media_count": 571,
+          "tweet_count": 2426
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
