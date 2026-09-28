@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103845964482330624"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2103845977233006747",
+    "created_at": "2026-09-26T13:55:43.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T14:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103845977233006747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tGwUb5mCse",
+          "end": 39,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2103845977233006747/photo/1",
+          "media_key": "3_2103845964482330624",
+          "start": 16,
+          "url": "https://t.co/tGwUb5mCse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103845977233006747",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103845964482330624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只是在学习高等数学罢了(确信) https://t.co/tGwUb5mCse"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1736,
+        "media_key": "3_2103845964482330624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJcwg8bwAAiigc.jpg",
+        "width": 1736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103845964482330624"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2103845977233006747",
+        "created_at": "2026-09-26T13:55:43.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103845977233006747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGwUb5mCse",
+              "end": 39,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2103845977233006747/photo/1",
+              "media_key": "3_2103845964482330624",
+              "start": 16,
+              "url": "https://t.co/tGwUb5mCse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103845977233006747",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103845964482330624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只是在学习高等数学罢了(确信) https://t.co/tGwUb5mCse"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2103845977233006747",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 1103,
+          "like_count": 14283,
+          "listed_count": 1,
+          "media_count": 638,
+          "tweet_count": 2622
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

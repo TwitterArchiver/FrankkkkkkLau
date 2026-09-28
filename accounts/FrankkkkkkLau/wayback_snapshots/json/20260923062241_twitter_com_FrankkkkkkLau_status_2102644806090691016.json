@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102643784723144704"
+      ],
+      "media_source_tweet_id": [
+        "2102643794466443759"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2102644806090691016",
+    "created_at": "2026-09-23T06:22:41.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T07:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102644806090691016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1107584295026122752",
+          "start": 3,
+          "username": "bingxin233"
+        },
+        {
+          "end": 30,
+          "id": "1672761170040692739",
+          "start": 16,
+          "username": "FrankkkkkkLau"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5greuuFc1W",
+          "end": 54,
+          "expanded_url": "https://x.com/bingxin233/status/2102643794466443759/photo/1",
+          "media_key": "3_2102643784723144704",
+          "start": 31,
+          "url": "https://t.co/5greuuFc1W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102644806090691016",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2102643784723144704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102643794466443759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @bingxin233: @FrankkkkkkLau https://t.co/5greuuFc1W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 958,
+        "media_key": "3_2102643784723144704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4XYcWbIAAZqva.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102643784723144704"
+          ],
+          "media_source_tweet_id": [
+            "2102643794466443759"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102644806090691016",
+        "created_at": "2026-09-23T06:22:41.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T07:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102644806090691016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1107584295026122752",
+              "start": 3,
+              "username": "bingxin233"
+            },
+            {
+              "end": 30,
+              "id": "1672761170040692739",
+              "start": 16,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5greuuFc1W",
+              "end": 54,
+              "expanded_url": "https://x.com/bingxin233/status/2102643794466443759/photo/1",
+              "media_key": "3_2102643784723144704",
+              "start": 31,
+              "url": "https://t.co/5greuuFc1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102644806090691016",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2102643784723144704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102643794466443759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @bingxin233: @FrankkkkkkLau https://t.co/5greuuFc1W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102643784723144704"
+          ]
+        },
+        "author_id": "1107584295026122752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102608389188858315",
+        "created_at": "2026-09-23T06:18:40.000Z",
+        "display_text_range": [
+          14,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T07:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102643794466443759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5greuuFc1W",
+              "end": 38,
+              "expanded_url": "https://x.com/bingxin233/status/2102643794466443759/photo/1",
+              "media_key": "3_2102643784723144704",
+              "start": 15,
+              "url": "https://t.co/5greuuFc1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102643794466443759",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2102643784723144704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102608389188858315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@FrankkkkkkLau https://t.co/5greuuFc1W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2102644806090691016",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 1127,
+          "like_count": 13978,
+          "listed_count": 1,
+          "media_count": 633,
+          "tweet_count": 2583
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-18T10:07:28.000Z",
+        "description": "跨越终焉，拥抱未来。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "byteloid.one",
+                "end": 23,
+                "expanded_url": "https://byteloid.one",
+                "start": 0,
+                "url": "https://t.co/qQZSkNgmSf"
+              }
+            ]
+          }
+        },
+        "id": "1107584295026122752",
+        "is_identity_verified": true,
+        "location": "休伯利安11号 Mars",
+        "most_recent_tweet_id": "2102643794466443759",
+        "name": "笨蛋冰",
+        "pinned_tweet_id": "1893641855545352514",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1107584295026122752/1782670189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764316358668673024/X0aoIUKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 440,
+          "like_count": 5888,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/qQZSkNgmSf",
+        "username": "bingxin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

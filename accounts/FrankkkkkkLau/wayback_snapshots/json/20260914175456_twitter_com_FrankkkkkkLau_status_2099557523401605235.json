@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2099549025867608239",
+    "created_at": "2026-09-14T17:54:56.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T18:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099557523401605235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567670093550858242",
+          "start": 0,
+          "username": "ATRI_5201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099557523401605235",
+    "in_reply_to_user_id": "1567670093550858242",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099556930050220302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ATRI_5201314 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2800,
+        "height": 234,
+        "media_key": "13_2099556919681961984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099556919681961984/img/IdfGprGZJNF8-ij-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099556919681961984/vid/avc1/320x234/u5MbvjAMsNN1iQfN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099556919681961984/pl/jjlkKSJ3VP3KWp3N.m3u8"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2099549025867608239",
+        "created_at": "2026-09-14T17:54:56.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T18:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099557523401605235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567670093550858242",
+              "start": 0,
+              "username": "ATRI_5201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099557523401605235",
+        "in_reply_to_user_id": "1567670093550858242",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099556930050220302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ATRI_5201314 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099556919681961984"
+          ]
+        },
+        "author_id": "1567670093550858242",
+        "conversation_id": "2099549025867608239",
+        "created_at": "2026-09-14T17:52:34.000Z",
+        "display_text_range": [
+          15,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T18:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099556930050220302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzjQ5QEuCk",
+              "end": 65,
+              "expanded_url": "https://x.com/ATRI_5201314/status/2099556930050220302/video/1",
+              "media_key": "13_2099556919681961984",
+              "start": 42,
+              "url": "https://t.co/vzjQ5QEuCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099556930050220302",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099556919681961984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099554947637583968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 雖然知道這張圖發出來不太好，但是我還是想發給你😁😁😁 https://t.co/vzjQ5QEuCk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2099557523401605235",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 1123,
+          "like_count": 13540,
+          "listed_count": 1,
+          "media_count": 610,
+          "tweet_count": 2514
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-08T00:24:28.000Z",
+        "description": "破产IDC老板/计算机科班学生/个人站长/二次元阿宅/小药娘\n关注了这么多小男娘跟小药娘，结果自己却变成小药娘了\n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "id": "1567670093550858242",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2099556930050220302",
+        "name": "往生堂贵宾一位",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567670093550858242/1763626338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991419441511559171/3RprTY8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 80,
+          "like_count": 6018,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 549
+        },
+        "url": "",
+        "username": "ATRI_5201314",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

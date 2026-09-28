@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2099875368429818039",
+    "created_at": "2026-09-15T16:00:19.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T17:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099891068447989879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1953393801340575744",
+          "start": 0,
+          "username": "n473428097803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099891068447989879",
+    "in_reply_to_user_id": "1953393801340575744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099875368429818039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n473428097803 去对岸读大学罢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2099875368429818039",
+        "created_at": "2026-09-15T16:00:19.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099891068447989879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1953393801340575744",
+              "start": 0,
+              "username": "n473428097803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099891068447989879",
+        "in_reply_to_user_id": "1953393801340575744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099875368429818039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n473428097803 去对岸读大学罢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953393801340575744",
+        "conversation_id": "2099875368429818039",
+        "created_at": "2026-09-15T14:57:56.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099875368429818039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099875368429818039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果上大学了要怎么翻墙,真的只能用流量卡了吗🥹,听说大学里面校园网用的深度包检测都是深信服​、锐捷那一些,况且国内中转也不现实,毕竟他直接通过检测协议就可以知道你用的是不是翻墙协议了,以后上大学真的会直接断网了吗😨"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2099891068447989879",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 1123,
+          "like_count": 13564,
+          "listed_count": 1,
+          "media_count": 613,
+          "tweet_count": 2525
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-07T09:52:50.000Z",
+        "description": "正处于破产边缘,希望好心人能送我一个codex😍\n\nStudent. Coder. Maker.\n网络路由 / 硬件改造 /业余电工\n日本語勉強中✍️\nNo English😵‍💫\n虽然不懂代码,但是可以找我咨询一些关于线路vps、Xray管之类的\n玩过很多种类的VPS,对于线路有过深入研究🤔",
+        "id": "1953393801340575744",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099876812017095073",
+        "name": "skth",
+        "pinned_tweet_id": "2098835016910577770",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953393801340575744/1784442574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958218963021893632/IQwGIsj8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 88,
+          "like_count": 1481,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 429
+        },
+        "url": "",
+        "username": "n473428097803",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

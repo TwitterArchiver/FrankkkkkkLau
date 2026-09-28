@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2099766810585539057",
+    "created_at": "2026-09-15T07:46:34.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T08:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099766810585539057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353697691407179776",
+          "start": 3,
+          "username": "puffercatt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099766810585539057",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099756111427485855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @puffercatt: Repeating the question except for Beijing in the next 2 weeks, and part of Beijing if anyone wants to help for like 200 yua…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2099766810585539057",
+        "created_at": "2026-09-15T07:46:34.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T08:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099766810585539057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353697691407179776",
+              "start": 3,
+              "username": "puffercatt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099766810585539057",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099756111427485855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @puffercatt: Repeating the question except for Beijing in the next 2 weeks, and part of Beijing if anyone wants to help for like 200 yua…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353697691407179776",
+        "conversation_id": "2099756111427485855",
+        "created_at": "2026-09-15T07:04:03.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T08:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099756111427485855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/puffercatt/sta…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/puffercatt/status/2099427803888300412",
+              "start": 141,
+              "url": "https://t.co/BaYnH3n84V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099756111427485855",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099427803888300412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Repeating the question except for Beijing in the next 2 weeks, and part of Beijing if anyone wants to help for like 200 yuan I'd be thankful https://t.co/BaYnH3n84V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2099766810585539057",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 1122,
+          "like_count": 13550,
+          "listed_count": 1,
+          "media_count": 610,
+          "tweet_count": 2517
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-25T13:34:26.000Z",
+        "description": "He/Him/any | creative chaos | EN/PL/ZH\n@pufferfiat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "pufferfiat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "puffercat.xyz",
+                "end": 23,
+                "expanded_url": "http://puffercat.xyz",
+                "start": 0,
+                "url": "https://t.co/zfonxR3v5t"
+              }
+            ]
+          }
+        },
+        "id": "1353697691407179776",
+        "is_identity_verified": false,
+        "location": "Krakow, Poland",
+        "most_recent_tweet_id": "2099756111427485855",
+        "name": "Casper",
+        "pinned_tweet_id": "1834709801974350276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353697691407179776/1757955977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809761670778220546/Xpit08IP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 1292,
+          "like_count": 22436,
+          "listed_count": 0,
+          "media_count": 3455,
+          "tweet_count": 14512
+        },
+        "url": "https://t.co/zfonxR3v5t",
+        "username": "puffercatt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

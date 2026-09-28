@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2102909796282466427",
+    "created_at": "2026-09-24T09:25:41.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T10:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103053246831227335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915233729720770560",
+          "start": 0,
+          "username": "microcharon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103053246831227335",
+    "in_reply_to_user_id": "1915233729720770560",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102909796282466427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@microcharon 🫪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2102909789739364352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS8JT-QbMAAVMo7.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2102909796282466427",
+        "created_at": "2026-09-24T09:25:41.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T10:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103053246831227335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915233729720770560",
+              "start": 0,
+              "username": "microcharon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103053246831227335",
+        "in_reply_to_user_id": "1915233729720770560",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102909796282466427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@microcharon 🫪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102909789739364352"
+          ]
+        },
+        "author_id": "1915233729720770560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OnePlus",
+              "id": "911222222865408000",
+              "name": "OnePlus"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OnePlus",
+              "id": "911222222865408000",
+              "name": "OnePlus"
+            }
+          }
+        ],
+        "conversation_id": "2102909796282466427",
+        "created_at": "2026-09-23T23:55:40.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T00:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102909796282466427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JOQSALVy8F",
+              "end": 45,
+              "expanded_url": "https://x.com/microcharon/status/2102909796282466427/photo/1",
+              "media_key": "3_2102909789739364352",
+              "start": 22,
+              "url": "https://t.co/JOQSALVy8F"
+            },
+            {
+              "display_url": "x.com/microcharon/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/microcharon/status/2091341888376950793",
+              "start": 46,
+              "url": "https://t.co/mT5vPza4yr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102909796282466427",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102909789739364352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091341888376950793",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本月测试版中又修好了，终于能再看到青天白日 https://t.co/JOQSALVy8F https://t.co/mT5vPza4yr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2103053246831227335",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 1131,
+          "like_count": 14088,
+          "listed_count": 1,
+          "media_count": 636,
+          "tweet_count": 2603
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-24T02:38:12.000Z",
+        "description": "Avant-Garde Jazz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "microcharon.com",
+                "end": 23,
+                "expanded_url": "https://microcharon.com",
+                "start": 0,
+                "url": "https://t.co/HNrqQNZ4IJ"
+              }
+            ]
+          }
+        },
+        "id": "1915233729720770560",
+        "is_identity_verified": true,
+        "location": "Germany",
+        "most_recent_tweet_id": "2103044315240976762",
+        "name": "Sherlock Zhang",
+        "pinned_tweet_id": "2066903202826793293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915233729720770560/1779799513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074715450437681152/AOJfPzje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 614,
+          "like_count": 1886,
+          "listed_count": 0,
+          "media_count": 674,
+          "tweet_count": 3059
+        },
+        "url": "https://t.co/HNrqQNZ4IJ",
+        "username": "microcharon",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

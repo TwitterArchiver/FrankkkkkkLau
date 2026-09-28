@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2103412178384822661",
+    "created_at": "2026-09-25T12:15:52.000Z",
+    "display_text_range": [
+      25,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T13:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103458461174706349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008360423771316224",
+          "start": 0,
+          "username": "Konizaza"
+        },
+        {
+          "end": 24,
+          "id": "1953393801340575744",
+          "start": 10,
+          "username": "n473428097803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103458461174706349",
+    "in_reply_to_user_id": "2008360423771316224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103445758427218043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Konizaza @n473428097803 送中坏, 不许😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2103412178384822661",
+        "created_at": "2026-09-25T12:15:52.000Z",
+        "display_text_range": [
+          25,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103458461174706349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008360423771316224",
+              "start": 0,
+              "username": "Konizaza"
+            },
+            {
+              "end": 24,
+              "id": "1953393801340575744",
+              "start": 10,
+              "username": "n473428097803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103458461174706349",
+        "in_reply_to_user_id": "2008360423771316224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103445758427218043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Konizaza @n473428097803 送中坏, 不许😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008360423771316224",
+        "conversation_id": "2103412178384822661",
+        "created_at": "2026-09-25T11:25:23.000Z",
+        "display_text_range": [
+          15,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103445758427218043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1953393801340575744",
+              "start": 0,
+              "username": "n473428097803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103445758427218043",
+        "in_reply_to_user_id": "1953393801340575744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103444508251959442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@n473428097803 诶 那怎么样才可以把自己的ip送中啊喵（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2103458461174706349",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 1129,
+          "like_count": 14192,
+          "listed_count": 1,
+          "media_count": 637,
+          "tweet_count": 2610
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互关/互fo喵～｜不见证｜？Tzaza｜08年九月|喜欢喵喵叫｜也喜欢大家｜小号@konizazadesu免得找不到请灌注一下喵～\n赞助（solana）：\n2BgaBDBo6jrSjmsGBva1EVFFbySPC4A5LZMrn6fgA9GZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "konizazadesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konizaza",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konizaza",
+                "start": 0,
+                "url": "https://t.co/UxxyJbfdds"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "is_identity_verified": false,
+        "location": "你的心里（江苏南京）",
+        "most_recent_tweet_id": "2103458220811698184",
+        "name": "❤️Konizaza❤️",
+        "pinned_tweet_id": "2101339237555871914",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008360423771316224/1783678754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 1999,
+          "like_count": 10989,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 4717
+        },
+        "url": "https://t.co/UxxyJbfdds",
+        "username": "Konizaza",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-07T09:52:50.000Z",
+        "description": "正处于破产边缘,希望好心人能送我一个codex😍\n\nStudent. Coder. Maker.\n网络路由 / 硬件改造 /业余电工\n日本語勉強中✍️\nNo English😵‍💫\n虽然不懂代码,但是可以找我咨询一些关于线路vps、Xray管之类的\n玩过很多种类的VPS,对于线路有过深入研究🤔",
+        "id": "1953393801340575744",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103457866984382549",
+        "name": "skth",
+        "pinned_tweet_id": "2098835016910577770",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953393801340575744/1784442574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958218963021893632/IQwGIsj8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 91,
+          "like_count": 1348,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "n473428097803",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

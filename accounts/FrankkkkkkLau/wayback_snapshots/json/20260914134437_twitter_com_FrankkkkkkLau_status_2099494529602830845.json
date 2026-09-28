@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2099494529602830845",
+    "created_at": "2026-09-14T13:44:37.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T14:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099494529602830845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353697691407179776",
+          "start": 3,
+          "username": "puffercatt"
+        }
+      ],
+      "urls": [
+        {
+          "description": "IntroductionOn August 13, 2025, while traveling in Shenzhen, I attempted to open a Chinese bank account at China Merchants Bank.With this bank card (savings card), you can do things such as the following: Depositing and withdrawing RMB Withdrawing local currency UnionPay payments (non-RMB also p",
+          "display_url": "note.com/kuroyei/n/nd63…",
+          "end": 51,
+          "expanded_url": "https://note.com/kuroyei/n/nd63772dd8124?hl=en",
+          "start": 28,
+          "status": 200,
+          "title": "Opening a China Merchants Bank Account as a Visa-Free Traveler! (2025)｜くろえいさん",
+          "unwound_url": "https://note.com/kuroyei/n/nd63772dd8124?hl=en",
+          "url": "https://t.co/1zDibzRqTe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099494529602830845",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099427803888300412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @puffercatt: Ughhhhhhhh\n\nhttps://t.co/1zDibzRqTe\n\nAnyone in Shanghai wanna go with me to the cmb xujiahui branch tomorrow I’ll pay if yo…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099427786939064321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKqcvAWYAE4sky.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099427786947502086",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKqcvCXIAYLn7j.jpg",
+        "width": 945
+      },
+      {
+        "height": 363,
+        "media_key": "3_2099427786943246337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKqcvBWMAEJFjv.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1349,
+        "media_key": "3_2099427786939084802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKqcvAWsAIKzXw.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2099494529602830845",
+        "created_at": "2026-09-14T13:44:37.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099494529602830845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353697691407179776",
+              "start": 3,
+              "username": "puffercatt"
+            }
+          ],
+          "urls": [
+            {
+              "description": "IntroductionOn August 13, 2025, while traveling in Shenzhen, I attempted to open a Chinese bank account at China Merchants Bank.With this bank card (savings card), you can do things such as the following: Depositing and withdrawing RMB Withdrawing local currency UnionPay payments (non-RMB also p",
+              "display_url": "note.com/kuroyei/n/nd63…",
+              "end": 51,
+              "expanded_url": "https://note.com/kuroyei/n/nd63772dd8124?hl=en",
+              "start": 28,
+              "status": 200,
+              "title": "Opening a China Merchants Bank Account as a Visa-Free Traveler! (2025)｜くろえいさん",
+              "unwound_url": "https://note.com/kuroyei/n/nd63772dd8124?hl=en",
+              "url": "https://t.co/1zDibzRqTe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099494529602830845",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099427803888300412",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @puffercatt: Ughhhhhhhh\n\nhttps://t.co/1zDibzRqTe\n\nAnyone in Shanghai wanna go with me to the cmb xujiahui branch tomorrow I’ll pay if yo…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099427786939064321",
+            "3_2099427786947502086",
+            "3_2099427786943246337",
+            "3_2099427786939084802"
+          ]
+        },
+        "author_id": "1353697691407179776",
+        "conversation_id": "2099427803888300412",
+        "created_at": "2026-09-14T09:19:28.000Z",
+        "display_text_range": [
+          0,
+          176
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T10:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099427803888300412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "IntroductionOn August 13, 2025, while traveling in Shenzhen, I attempted to open a Chinese bank account at China Merchants Bank.With this bank card (savings card), you can do things such as the following: Depositing and withdrawing RMB Withdrawing local currency UnionPay payments (non-RMB also p",
+              "display_url": "note.com/kuroyei/n/nd63…",
+              "end": 35,
+              "expanded_url": "https://note.com/kuroyei/n/nd63772dd8124?hl=en",
+              "start": 12,
+              "status": 200,
+              "title": "Opening a China Merchants Bank Account as a Visa-Free Traveler! (2025)｜くろえいさん",
+              "unwound_url": "https://note.com/kuroyei/n/nd63772dd8124?hl=en",
+              "url": "https://t.co/1zDibzRqTe"
+            },
+            {
+              "display_url": "pic.x.com/FBavmqn5g2",
+              "end": 200,
+              "expanded_url": "https://x.com/puffercatt/status/2099427803888300412/photo/1",
+              "media_key": "3_2099427786939064321",
+              "start": 177,
+              "url": "https://t.co/FBavmqn5g2"
+            },
+            {
+              "display_url": "pic.x.com/FBavmqn5g2",
+              "end": 200,
+              "expanded_url": "https://x.com/puffercatt/status/2099427803888300412/photo/1",
+              "media_key": "3_2099427786947502086",
+              "start": 177,
+              "url": "https://t.co/FBavmqn5g2"
+            },
+            {
+              "display_url": "pic.x.com/FBavmqn5g2",
+              "end": 200,
+              "expanded_url": "https://x.com/puffercatt/status/2099427803888300412/photo/1",
+              "media_key": "3_2099427786943246337",
+              "start": 177,
+              "url": "https://t.co/FBavmqn5g2"
+            },
+            {
+              "display_url": "pic.x.com/FBavmqn5g2",
+              "end": 200,
+              "expanded_url": "https://x.com/puffercatt/status/2099427803888300412/photo/1",
+              "media_key": "3_2099427786939084802",
+              "start": 177,
+              "url": "https://t.co/FBavmqn5g2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099427803888300412",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099427786939064321"
+          },
+          {
+            "media_key": "3_2099427786947502086"
+          },
+          {
+            "media_key": "3_2099427786943246337"
+          },
+          {
+            "media_key": "3_2099427786939084802"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Ughhhhhhhh\n\nhttps://t.co/1zDibzRqTe\n\nAnyone in Shanghai wanna go with me to the cmb xujiahui branch tomorrow I’ll pay if you manage to succeed in helping me open the account 🥺🥺 https://t.co/FBavmqn5g2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2099494529602830845",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 1123,
+          "like_count": 13523,
+          "listed_count": 1,
+          "media_count": 608,
+          "tweet_count": 2508
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-25T13:34:26.000Z",
+        "description": "He/Him/any | creative chaos | EN/PL/ZH\n@pufferfiat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "pufferfiat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "puffercat.xyz",
+                "end": 23,
+                "expanded_url": "http://puffercat.xyz",
+                "start": 0,
+                "url": "https://t.co/zfonxR3v5t"
+              }
+            ]
+          }
+        },
+        "id": "1353697691407179776",
+        "is_identity_verified": false,
+        "location": "Krakow, Poland",
+        "most_recent_tweet_id": "2099472669934490093",
+        "name": "Casper",
+        "pinned_tweet_id": "1834709801974350276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353697691407179776/1757955977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809761670778220546/Xpit08IP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 1293,
+          "like_count": 22436,
+          "listed_count": 0,
+          "media_count": 3455,
+          "tweet_count": 14511
+        },
+        "url": "https://t.co/zfonxR3v5t",
+        "username": "puffercatt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

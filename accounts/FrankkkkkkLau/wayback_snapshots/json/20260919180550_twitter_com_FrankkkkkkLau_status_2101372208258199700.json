@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2101364310467571939",
+    "created_at": "2026-09-19T18:05:50.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T19:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101372208258199700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2005261732751802368",
+          "start": 0,
+          "username": "HappyHejsDay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101372208258199700",
+    "in_reply_to_user_id": "2005261732751802368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101364310467571939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyHejsDay 先扛麦子，再谈未来"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13635,
+        "height": 1280,
+        "media_key": "13_2101364236672987136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101364236672987136/img/7AiextDuKcy8m8fv.jpg",
+        "public_metrics": {
+          "view_count": 26
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101364236672987136/vid/avc1/320x630/eT8kg01CMv3XKrMO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101364236672987136/vid/avc1/480x944/_2M7pivuLkZ-W4ev.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101364236672987136/vid/avc1/650x1280/VfmQJTXZjQm_sQRR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101364236672987136/pl/F3saojFVdCrkvI0x.m3u8"
+          }
+        ],
+        "width": 650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2101364310467571939",
+        "created_at": "2026-09-19T18:05:50.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101372208258199700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2005261732751802368",
+              "start": 0,
+              "username": "HappyHejsDay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101372208258199700",
+        "in_reply_to_user_id": "2005261732751802368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101364310467571939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyHejsDay 先扛麦子，再谈未来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101364236672987136"
+          ]
+        },
+        "author_id": "2005261732751802368",
+        "conversation_id": "2101364310467571939",
+        "created_at": "2026-09-19T17:34:27.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101364310467571939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qB2hyG9nb7",
+              "end": 23,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2101364310467571939/video/1",
+              "media_key": "13_2101364236672987136",
+              "start": 0,
+              "url": "https://t.co/qB2hyG9nb7"
+            },
+            {
+              "display_url": "x.com/shungleemain/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/shungleemain/status/2100966982145503409",
+              "start": 24,
+              "url": "https://t.co/SZA8jY4P49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101364310467571939",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2101364236672987136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100966982145503409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/qB2hyG9nb7 https://t.co/SZA8jY4P49"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2101372208258199700",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 1125,
+          "like_count": 13754,
+          "listed_count": 1,
+          "media_count": 623,
+          "tweet_count": 2557
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜惡俗醜貨｜疑似鍵政｜破壞分子｜痛苦大學生｜高齡人士｜🇹🇼🇭🇰🇨🇳｜詭異行蹤｜學術失敗者｜健全逼｜落魄合約交易員｜經濟困難｜歡迎聊天｜同類互fo｜前世@franciswwwww （已徹底死亡）｜玩具@fe_ions 寵物@wwwalce4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "fe_ions"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "wwwalce4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/franciswwwww1",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/franciswwwww1",
+                "start": 0,
+                "url": "https://t.co/Tx5FLFXmTv"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "is_identity_verified": false,
+        "location": "秦城监狱",
+        "most_recent_tweet_id": "2101365662249828390",
+        "name": "𝕙𝕖𝕛😉",
+        "pinned_tweet_id": "2064008531217686815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2005261732751802368/1770155162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039022077857124352/L7EpIiFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 2136,
+          "like_count": 11911,
+          "listed_count": 5,
+          "media_count": 627,
+          "tweet_count": 7363
+        },
+        "url": "https://t.co/Tx5FLFXmTv",
+        "username": "HappyHejsDay",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

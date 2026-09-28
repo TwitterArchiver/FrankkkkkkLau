@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2103870742769377554",
+    "created_at": "2026-09-26T15:39:37.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T16:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103872124243091800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1774264719773409280",
+          "start": 0,
+          "username": "Kassinaeris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103872124243091800",
+    "in_reply_to_user_id": "1774264719773409280",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103871953388077140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kassinaeris ））"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2103871953388077140].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2103871953388077140",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2103871953388077140"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2103870742769377554",
+        "created_at": "2026-09-26T15:39:37.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103872124243091800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1774264719773409280",
+              "start": 0,
+              "username": "Kassinaeris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103872124243091800",
+        "in_reply_to_user_id": "1774264719773409280",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103871953388077140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kassinaeris ））"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2103872124243091800",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 1104,
+          "like_count": 14325,
+          "listed_count": 1,
+          "media_count": 640,
+          "tweet_count": 2633
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-31T02:37:37.000Z",
+        "description": "Besjung världen med sång\n可以叫我kassi酱喵\n\n全世界第一可爱的妹妹@Chatcolate❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "Chatcolate"
+              }
+            ]
+          }
+        },
+        "id": "1774264719773409280",
+        "is_identity_verified": false,
+        "location": "Linköping, Östergötland",
+        "most_recent_tweet_id": "2103036517983936875",
+        "name": "Kassinaeris🍥🌈",
+        "pinned_tweet_id": "1835918114938290560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774264719773409280/1790255347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103108736156069889/ZnyE6eAz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 820,
+          "like_count": 52743,
+          "listed_count": 5,
+          "media_count": 450,
+          "tweet_count": 3239
+        },
+        "url": "",
+        "username": "Kassinaeris",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

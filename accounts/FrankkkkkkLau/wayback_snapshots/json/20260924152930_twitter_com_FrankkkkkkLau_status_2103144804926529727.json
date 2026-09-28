@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103141626483011584",
+        "3_2103143385230094337"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2103144804926529727",
+    "created_at": "2026-09-24T15:29:30.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T16:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103144804926529727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M4vNfRUveM",
+          "end": 170,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2103144804926529727/photo/1",
+          "media_key": "3_2103141626483011584",
+          "start": 147,
+          "url": "https://t.co/M4vNfRUveM"
+        },
+        {
+          "display_url": "pic.x.com/M4vNfRUveM",
+          "end": 170,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2103144804926529727/photo/1",
+          "media_key": "3_2103143385230094337",
+          "start": 147,
+          "url": "https://t.co/M4vNfRUveM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103144804926529727",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103141626483011584"
+      },
+      {
+        "media_key": "3_2103143385230094337"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经常看到有人问为什么不推荐用国内邮箱注册海外平台, 分享一下我的想法:\n时不时会收不到验证邮件，可能是被拦截，也有可能是平台主动拉黑了邮箱后缀\n异地登录提醒邮件会暴露账号信息(比如@handle)和落地节点的IP\n某些平台如果不手动设置，会给你推送热门帖子，如果包含敏感词可能会触发邮箱的风控 https://t.co/M4vNfRUveM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_2103141626483011584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_cKpbbcAAp1e7.png",
+        "width": 949
+      },
+      {
+        "height": 710,
+        "media_key": "3_2103143385230094337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_dxBRaMAE8BJ6.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103141626483011584",
+            "3_2103143385230094337"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2103144804926529727",
+        "created_at": "2026-09-24T15:29:30.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103144804926529727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M4vNfRUveM",
+              "end": 170,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2103144804926529727/photo/1",
+              "media_key": "3_2103141626483011584",
+              "start": 147,
+              "url": "https://t.co/M4vNfRUveM"
+            },
+            {
+              "display_url": "pic.x.com/M4vNfRUveM",
+              "end": 170,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2103144804926529727/photo/1",
+              "media_key": "3_2103143385230094337",
+              "start": 147,
+              "url": "https://t.co/M4vNfRUveM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103144804926529727",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103141626483011584"
+          },
+          {
+            "media_key": "3_2103143385230094337"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经常看到有人问为什么不推荐用国内邮箱注册海外平台, 分享一下我的想法:\n时不时会收不到验证邮件，可能是被拦截，也有可能是平台主动拉黑了邮箱后缀\n异地登录提醒邮件会暴露账号信息(比如@handle)和落地节点的IP\n某些平台如果不手动设置，会给你推送热门帖子，如果包含敏感词可能会触发邮箱的风控 https://t.co/M4vNfRUveM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2103144804926529727",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 1130,
+          "like_count": 14111,
+          "listed_count": 1,
+          "media_count": 637,
+          "tweet_count": 2605
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

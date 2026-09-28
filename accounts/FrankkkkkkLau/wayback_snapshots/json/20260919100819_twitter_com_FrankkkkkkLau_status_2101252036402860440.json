@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2101006227979563359",
+    "created_at": "2026-09-19T10:08:19.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T11:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101252036402860440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "759637054435110912",
+          "start": 0,
+          "username": "nebulucia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101252036402860440",
+    "in_reply_to_user_id": "759637054435110912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101222476516905066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nebulucia 🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2101006227979563359",
+        "created_at": "2026-09-19T10:08:19.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T11:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101252036402860440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "759637054435110912",
+              "start": 0,
+              "username": "nebulucia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101252036402860440",
+        "in_reply_to_user_id": "759637054435110912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101222476516905066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nebulucia 🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "759637054435110912",
+        "conversation_id": "2101006227979563359",
+        "created_at": "2026-09-19T08:10:51.000Z",
+        "display_text_range": [
+          32,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101222476516905066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            },
+            {
+              "end": 31,
+              "id": "1788485889225834496",
+              "start": 15,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101222476516905066",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101009231810109601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau @YesterdayOrange 看看你的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2101252036402860440",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 1123,
+          "like_count": 13705,
+          "listed_count": 1,
+          "media_count": 622,
+          "tweet_count": 2549
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-31T06:29:21.000Z",
+        "description": "Together, we shall prevail!",
+        "id": "759637054435110912",
+        "is_identity_verified": false,
+        "location": "Adelaide, South Australia",
+        "most_recent_tweet_id": "2101222915597627548",
+        "name": "y.a.e🇦🇺",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/759637054435110912/1670507232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047865620671438848/7cAzrO3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 250,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "nebulucia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

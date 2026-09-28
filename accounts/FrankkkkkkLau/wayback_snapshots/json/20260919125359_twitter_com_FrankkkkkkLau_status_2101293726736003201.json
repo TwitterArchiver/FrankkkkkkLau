@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2101293726736003201",
+    "created_at": "2026-09-19T12:53:59.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T13:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101293726736003201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "控制台命令: console.log(document.querySelector(\"meta[http-equiv='refresh...",
+          "display_url": "youtu.be/w0nk1yzQKeA",
+          "end": 42,
+          "expanded_url": "https://youtu.be/w0nk1yzQKeA",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2101293729814626304/SjsX14E_?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2101293729814626304/SjsX14E_?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 19,
+          "status": 200,
+          "title": "最強免費VPN CloudflareOne從入門到精通！白嫖付費版和提取配置教學",
+          "unwound_url": "https://www.youtube.com/watch?v=w0nk1yzQKeA&feature=youtu.be",
+          "url": "https://t.co/23l4Pdg5iC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101293726736003201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "做了一个非常短的擸𢶍视频\n欢迎订阅🤓\nhttps://t.co/23l4Pdg5iC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2101293726736003201",
+        "created_at": "2026-09-19T12:53:59.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101293726736003201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "控制台命令: console.log(document.querySelector(\"meta[http-equiv='refresh...",
+              "display_url": "youtu.be/w0nk1yzQKeA",
+              "end": 42,
+              "expanded_url": "https://youtu.be/w0nk1yzQKeA",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2101293729814626304/SjsX14E_?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101293729814626304/SjsX14E_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 19,
+              "status": 200,
+              "title": "最強免費VPN CloudflareOne從入門到精通！白嫖付費版和提取配置教學",
+              "unwound_url": "https://www.youtube.com/watch?v=w0nk1yzQKeA&feature=youtu.be",
+              "url": "https://t.co/23l4Pdg5iC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101293726736003201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "做了一个非常短的擸𢶍视频\n欢迎订阅🤓\nhttps://t.co/23l4Pdg5iC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2101293726736003201",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 1123,
+          "like_count": 13714,
+          "listed_count": 1,
+          "media_count": 623,
+          "tweet_count": 2550
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

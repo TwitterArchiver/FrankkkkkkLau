@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102644400539258880"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2102644411398304051",
+    "created_at": "2026-09-23T06:21:07.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T07:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102644411398304051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MTy2kpSLHS",
+          "end": 31,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2102644411398304051/photo/1",
+          "media_key": "3_2102644400539258880",
+          "start": 8,
+          "url": "https://t.co/MTy2kpSLHS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102644411398304051",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102644400539258880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道在干什么 https://t.co/MTy2kpSLHS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3456,
+        "media_key": "3_2102644400539258880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4X8ScbUAAzUET.jpg",
+        "width": 3790
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102644400539258880"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2102644411398304051",
+        "created_at": "2026-09-23T06:21:07.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T07:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102644411398304051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTy2kpSLHS",
+              "end": 31,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2102644411398304051/photo/1",
+              "media_key": "3_2102644400539258880",
+              "start": 8,
+              "url": "https://t.co/MTy2kpSLHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102644411398304051",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102644400539258880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道在干什么 https://t.co/MTy2kpSLHS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2102644411398304051",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 1127,
+          "like_count": 13976,
+          "listed_count": 1,
+          "media_count": 633,
+          "tweet_count": 2582
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

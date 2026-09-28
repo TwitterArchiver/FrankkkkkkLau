@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2097640277137883153",
+    "created_at": "2026-09-09T10:56:28.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T11:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097640277137883153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/czy194/status/…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/czy194/status/2097571463356449263",
+          "start": 61,
+          "url": "https://t.co/Jg5Gt4kX5y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097640277137883153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097571463356449263",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "卖节点和开一家传统运营商的成本完全不是一个量级。\n运营商确实很黑, 但是拿代理节点和网络接入服务的费用对比有点不太合适🥶 https://t.co/Jg5Gt4kX5y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2097640277137883153",
+        "created_at": "2026-09-09T10:56:28.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097640277137883153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/czy194/status/…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/czy194/status/2097571463356449263",
+              "start": 61,
+              "url": "https://t.co/Jg5Gt4kX5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097640277137883153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097571463356449263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "卖节点和开一家传统运营商的成本完全不是一个量级。\n运营商确实很黑, 但是拿代理节点和网络接入服务的费用对比有点不太合适🥶 https://t.co/Jg5Gt4kX5y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657035603748192259",
+        "conversation_id": "2097571463356449263",
+        "created_at": "2026-09-09T06:23:02.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T07:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097571463356449263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097571463356449263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 46372,
+          "like_count": 161,
+          "quote_count": 1,
+          "reply_count": 99,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "当你发现 VPN 一个月只要十几块钱\n\n便宜的甚至一年十几块都用不完的时候\n\n就知道中国移动之流到底有多黑了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2097640277137883153",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 1122,
+          "like_count": 13357,
+          "listed_count": 1,
+          "media_count": 593,
+          "tweet_count": 2464
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-12T14:51:20.000Z",
+        "description": "世界很大，一起看看",
+        "id": "1657035603748192259",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097637437598253185",
+        "name": "放纵的小男孩",
+        "pinned_tweet_id": "2075059865618436531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657035603748192259/1683986659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070450610001100800/HvDYZ9Rl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2537,
+          "following_count": 2073,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 456,
+          "tweet_count": 3117
+        },
+        "url": "",
+        "username": "czy194",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

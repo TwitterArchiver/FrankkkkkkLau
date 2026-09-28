@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2100454204393542137",
+    "created_at": "2026-09-17T05:18:01.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T06:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100454204393542137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "肝战雷, 炒作以及滥用上行带宽",
+          "display_url": "x.com/i/broadcasts/1…",
+          "end": 32,
+          "expanded_url": "https://x.com/i/broadcasts/1PKqrNwZBNNGb",
+          "images": [
+            {
+              "height": 1440,
+              "url": "https://pbs.twimg.com/news_img/2100454208663429120/5TuojUn2?format=jpg&name=orig",
+              "width": 2560
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2100454208663429120/5TuojUn2?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 9,
+          "status": 200,
+          "title": "⏚FrankLau⏚",
+          "unwound_url": "https://x.com/i/broadcasts/1PKqrNwZBNNGb",
+          "url": "https://t.co/vqarAewP8y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100454204393542137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正在品鉴紫色雷霆\nhttps://t.co/vqarAewP8y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2100454204393542137",
+        "created_at": "2026-09-17T05:18:01.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T06:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100454204393542137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "肝战雷, 炒作以及滥用上行带宽",
+              "display_url": "x.com/i/broadcasts/1…",
+              "end": 32,
+              "expanded_url": "https://x.com/i/broadcasts/1PKqrNwZBNNGb",
+              "images": [
+                {
+                  "height": 1440,
+                  "url": "https://pbs.twimg.com/news_img/2100454208663429120/5TuojUn2?format=jpg&name=orig",
+                  "width": 2560
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2100454208663429120/5TuojUn2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 9,
+              "status": 200,
+              "title": "⏚FrankLau⏚",
+              "unwound_url": "https://x.com/i/broadcasts/1PKqrNwZBNNGb",
+              "url": "https://t.co/vqarAewP8y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100454204393542137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在品鉴紫色雷霆\nhttps://t.co/vqarAewP8y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2100454204393542137",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 1123,
+          "like_count": 13603,
+          "listed_count": 1,
+          "media_count": 615,
+          "tweet_count": 2533
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

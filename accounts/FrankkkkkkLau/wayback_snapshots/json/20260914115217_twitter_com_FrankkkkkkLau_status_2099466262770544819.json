@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2099462413447815346",
+    "created_at": "2026-09-14T11:52:17.000Z",
+    "display_text_range": [
+      12,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T12:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099466262770544819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1353697691407179776",
+          "start": 0,
+          "username": "puffercatt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099466262770544819",
+    "in_reply_to_user_id": "1353697691407179776",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099462613767782794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puffercatt 😢omg what happened?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1972,
+        "media_key": "3_2099462577495375872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLKFz7WgAAw1k9.jpg",
+        "width": 988
+      },
+      {
+        "height": 1972,
+        "media_key": "3_2099462589612695552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLKGhEWIAAzFAi.jpg",
+        "width": 988
+      },
+      {
+        "height": 1972,
+        "media_key": "3_2099462602615123969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLKHRgXcAEr528.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2099462413447815346",
+        "created_at": "2026-09-14T11:52:17.000Z",
+        "display_text_range": [
+          12,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099466262770544819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1353697691407179776",
+              "start": 0,
+              "username": "puffercatt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099466262770544819",
+        "in_reply_to_user_id": "1353697691407179776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099462613767782794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puffercatt 😢omg what happened?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099462577495375872",
+            "3_2099462589612695552",
+            "3_2099462602615123969"
+          ]
+        },
+        "author_id": "1353697691407179776",
+        "conversation_id": "2099462413447815346",
+        "created_at": "2026-09-14T11:37:47.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099462613767782794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 74,
+              "id": "1672761170040692739",
+              "start": 60,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8jrsJQC46y",
+              "end": 107,
+              "expanded_url": "https://x.com/puffercatt/status/2099462613767782794/photo/1",
+              "media_key": "3_2099462577495375872",
+              "start": 84,
+              "url": "https://t.co/8jrsJQC46y"
+            },
+            {
+              "display_url": "pic.x.com/8jrsJQC46y",
+              "end": 107,
+              "expanded_url": "https://x.com/puffercatt/status/2099462613767782794/photo/1",
+              "media_key": "3_2099462589612695552",
+              "start": 84,
+              "url": "https://t.co/8jrsJQC46y"
+            },
+            {
+              "display_url": "pic.x.com/8jrsJQC46y",
+              "end": 107,
+              "expanded_url": "https://x.com/puffercatt/status/2099462613767782794/photo/1",
+              "media_key": "3_2099462602615123969",
+              "start": 84,
+              "url": "https://t.co/8jrsJQC46y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099462613767782794",
+        "in_reply_to_user_id": "1353697691407179776",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099462577495375872"
+          },
+          {
+            "media_key": "3_2099462589612695552"
+          },
+          {
+            "media_key": "3_2099462602615123969"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099462413447815346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Authentic china experience what is going on today holy fuck @FrankkkkkkLau help 😭😭😭 https://t.co/8jrsJQC46y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2099466262770544819",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 1123,
+          "like_count": 13521,
+          "listed_count": 1,
+          "media_count": 608,
+          "tweet_count": 2505
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-25T13:34:26.000Z",
+        "description": "He/Him/any | creative chaos | EN/PL/ZH\n@pufferfiat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "pufferfiat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "puffercat.xyz",
+                "end": 23,
+                "expanded_url": "http://puffercat.xyz",
+                "start": 0,
+                "url": "https://t.co/zfonxR3v5t"
+              }
+            ]
+          }
+        },
+        "id": "1353697691407179776",
+        "is_identity_verified": false,
+        "location": "Krakow, Poland",
+        "most_recent_tweet_id": "2099462613767782794",
+        "name": "Casper",
+        "pinned_tweet_id": "1834709801974350276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353697691407179776/1757955977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809761670778220546/Xpit08IP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 1293,
+          "like_count": 22436,
+          "listed_count": 0,
+          "media_count": 3455,
+          "tweet_count": 14509
+        },
+        "url": "https://t.co/zfonxR3v5t",
+        "username": "puffercatt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

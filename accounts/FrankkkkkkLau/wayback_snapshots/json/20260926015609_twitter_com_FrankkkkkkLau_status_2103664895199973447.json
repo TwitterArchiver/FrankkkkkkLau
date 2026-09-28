@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2103664895199973447",
+    "created_at": "2026-09-26T01:56:09.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T02:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103664895199973447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1853887123738300416",
+          "start": 3,
+          "username": "lowest_world"
+        },
+        {
+          "end": 32,
+          "id": "1269248147726843904",
+          "start": 18,
+          "username": "Goliback1234v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103664895199973447",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103494437393584618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lowest_world: @Goliback1234v 政治で淫夢を汚すな"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2103664895199973447",
+        "created_at": "2026-09-26T01:56:09.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T02:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103664895199973447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853887123738300416",
+              "start": 3,
+              "username": "lowest_world"
+            },
+            {
+              "end": 32,
+              "id": "1269248147726843904",
+              "start": 18,
+              "username": "Goliback1234v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103664895199973447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103494437393584618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lowest_world: @Goliback1234v 政治で淫夢を汚すな"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853887123738300416",
+        "conversation_id": "2103415349085704426",
+        "created_at": "2026-09-25T14:38:49.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T15:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103494437393584618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1269248147726843904",
+              "start": 0,
+              "username": "Goliback1234v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103494437393584618",
+        "in_reply_to_user_id": "1269248147726843904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18504,
+          "like_count": 270,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103415349085704426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goliback1234v 政治で淫夢を汚すな"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2103664895199973447",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 1130,
+          "like_count": 14228,
+          "listed_count": 1,
+          "media_count": 636,
+          "tweet_count": 2612
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-05T19:48:39.000Z",
+        "description": "我从地狱回来了",
+        "id": "1853887123738300416",
+        "is_identity_verified": false,
+        "location": "CT:RN-43062",
+        "most_recent_tweet_id": "2103494437393584618",
+        "name": "電鯨棍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853887123738300416/1732211640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090733952327880704/rGEg6pCg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 1025,
+          "like_count": 2089,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1423
+        },
+        "url": "",
+        "username": "lowest_world",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-06T12:45:54.000Z",
+        "description": "BF6エンジョイ勢",
+        "id": "1269248147726843904",
+        "is_identity_verified": false,
+        "location": "記念館エクソダス号",
+        "most_recent_tweet_id": "2103657880855707829",
+        "name": "ゴリラ@エクソダス号海底２万マイル",
+        "pinned_tweet_id": "1956915333245378837",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1269248147726843904/1593705257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565742876851843072/dcnWRryh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10806,
+          "following_count": 1137,
+          "like_count": 91317,
+          "listed_count": 122,
+          "media_count": 7339,
+          "tweet_count": 106689
+        },
+        "url": "",
+        "username": "Goliback1234v",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

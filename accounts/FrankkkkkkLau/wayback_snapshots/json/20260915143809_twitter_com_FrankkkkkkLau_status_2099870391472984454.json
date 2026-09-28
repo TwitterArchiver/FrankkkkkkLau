@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099870372686680064"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099870391472984454",
+    "created_at": "2026-09-15T14:38:09.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099870391472984454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4gzBvJbQBj",
+          "end": 23,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2099870391472984454/photo/1",
+          "media_key": "3_2099870372686680064",
+          "start": 0,
+          "url": "https://t.co/4gzBvJbQBj"
+        },
+        {
+          "display_url": "x.com/FrankkkkkkLau/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2099860934223393249",
+          "start": 24,
+          "url": "https://t.co/MB0nyht5am"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099870391472984454",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2099870372686680064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099860934223393249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/4gzBvJbQBj https://t.co/MB0nyht5am"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1228,
+        "media_key": "3_2099870372686680064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQ8-nZbUAA_nuF.jpg",
+        "width": 2461
+      },
+      {
+        "height": 940,
+        "media_key": "3_2099859852164222976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQzaPZaUAAW60W.jpg",
+        "width": 2074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099870372686680064"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099870391472984454",
+        "created_at": "2026-09-15T14:38:09.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099870391472984454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gzBvJbQBj",
+              "end": 23,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2099870391472984454/photo/1",
+              "media_key": "3_2099870372686680064",
+              "start": 0,
+              "url": "https://t.co/4gzBvJbQBj"
+            },
+            {
+              "display_url": "x.com/FrankkkkkkLau/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/FrankkkkkkLau/status/2099860934223393249",
+              "start": 24,
+              "url": "https://t.co/MB0nyht5am"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099870391472984454",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2099870372686680064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099860934223393249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/4gzBvJbQBj https://t.co/MB0nyht5am"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099859852164222976"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2099860934223393249",
+        "created_at": "2026-09-15T14:00:34.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099860934223393249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxSOPXS4gD",
+              "end": 35,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2099860934223393249/photo/1",
+              "media_key": "3_2099859852164222976",
+              "start": 12,
+              "url": "https://t.co/BxSOPXS4gD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099860934223393249",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099859852164222976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "战争已经结束了, CU https://t.co/BxSOPXS4gD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2099870391472984454",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 1123,
+          "like_count": 13558,
+          "listed_count": 1,
+          "media_count": 613,
+          "tweet_count": 2521
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

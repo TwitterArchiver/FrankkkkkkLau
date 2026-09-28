@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2098010591013281926",
+    "created_at": "2026-09-10T11:27:58.000Z",
+    "display_text_range": [
+      0,
+      162
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T12:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098010591013281926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "You can view and join @naokonging right away.",
+          "display_url": "telegram.me/naokonging",
+          "end": 132,
+          "expanded_url": "https://telegram.me/naokonging",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2098010597673799680/xoOr47oQ?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2098010597673799680/xoOr47oQ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 109,
+          "status": 200,
+          "title": "葡萄牙民國海島市腦控中心",
+          "unwound_url": "https://telegram.me/naokonging",
+          "url": "https://t.co/h8p1oZ4L76"
+        },
+        {
+          "display_url": "x.com/i/chat/group_j…",
+          "end": 162,
+          "expanded_url": "https://x.com/i/chat/group_join/g2094375187739537564/gt6xW2ZBS5",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2094466496592510976/V19gtcEI?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2094466496592510976/V19gtcEI?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 139,
+          "status": 200,
+          "title": "X",
+          "unwound_url": "https://x.com/i/chat/group_join/g2094375187739537564/gt6xW2ZBS5",
+          "url": "https://t.co/pdCZ4I9xOU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098010591013281926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "再来宣传一下我的群组, 可以聊服务器、代理、宽带, 骂isp什么的。也欢迎各类技术向问题和偏日常的逼逼扯扯, 但请不要当教师爷, 也不要乱删邀请链接。\n如果不喜欢X Chat也可以加tg群组(目前人超级少), 链接在 https://t.co/h8p1oZ4L76 这个频道里\nhttps://t.co/pdCZ4I9xOU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2098010591013281926",
+        "created_at": "2026-09-10T11:27:58.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098010591013281926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @naokonging right away.",
+              "display_url": "telegram.me/naokonging",
+              "end": 132,
+              "expanded_url": "https://telegram.me/naokonging",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2098010597673799680/xoOr47oQ?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2098010597673799680/xoOr47oQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 109,
+              "status": 200,
+              "title": "葡萄牙民國海島市腦控中心",
+              "unwound_url": "https://telegram.me/naokonging",
+              "url": "https://t.co/h8p1oZ4L76"
+            },
+            {
+              "display_url": "x.com/i/chat/group_j…",
+              "end": 162,
+              "expanded_url": "https://x.com/i/chat/group_join/g2094375187739537564/gt6xW2ZBS5",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2094466496592510976/V19gtcEI?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2094466496592510976/V19gtcEI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 139,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/chat/group_join/g2094375187739537564/gt6xW2ZBS5",
+              "url": "https://t.co/pdCZ4I9xOU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098010591013281926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "再来宣传一下我的群组, 可以聊服务器、代理、宽带, 骂isp什么的。也欢迎各类技术向问题和偏日常的逼逼扯扯, 但请不要当教师爷, 也不要乱删邀请链接。\n如果不喜欢X Chat也可以加tg群组(目前人超级少), 链接在 https://t.co/h8p1oZ4L76 这个频道里\nhttps://t.co/pdCZ4I9xOU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2098010591013281926",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 1121,
+          "like_count": 13418,
+          "listed_count": 1,
+          "media_count": 596,
+          "tweet_count": 2474
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

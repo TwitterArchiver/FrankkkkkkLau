@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2103859088321105925",
+    "created_at": "2026-09-27T12:33:18.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104187626769273202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2081779662104236032",
+          "start": 0,
+          "username": "Kusuriawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104187626769273202",
+    "in_reply_to_user_id": "2081779662104236032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104187232903221553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Kusuriawa 是有点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2103859088321105925",
+        "created_at": "2026-09-27T12:33:18.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104187626769273202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2081779662104236032",
+              "start": 0,
+              "username": "Kusuriawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104187626769273202",
+        "in_reply_to_user_id": "2081779662104236032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104187232903221553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Kusuriawa 是有点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081779662104236032",
+        "conversation_id": "2103859088321105925",
+        "created_at": "2026-09-27T12:31:44.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104187232903221553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104187232903221553",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103859088321105925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@FrankkkkkkLau 跟抖音挺像的🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2104187626769273202",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 1110,
+          "like_count": 14411,
+          "listed_count": 1,
+          "media_count": 641,
+          "tweet_count": 2644
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-27T16:33:40.000Z",
+        "description": "ワタシは誰か？\nSecond account: @KusuriSecond",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "KusuriSecond"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusuriawa",
+                "end": 23,
+                "expanded_url": "https://t.me/Kusuriawa",
+                "start": 0,
+                "url": "https://t.co/jop92rDtDb"
+              }
+            ]
+          }
+        },
+        "id": "2081779662104236032",
+        "is_identity_verified": false,
+        "location": "230519120525",
+        "most_recent_tweet_id": "2104187232903221553",
+        "name": "Kusuri",
+        "pinned_tweet_id": "2103090331042668696",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081779662104236032/1790381599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103638247461335040/T2g7_wog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 255,
+          "like_count": 1273,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/jop92rDtDb",
+        "username": "Kusuriawa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2102280241037414773",
+    "created_at": "2026-09-22T06:33:45.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T07:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102285203268088246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1741705364217966592",
+          "start": 0,
+          "username": "Steven15911051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102285203268088246",
+    "in_reply_to_user_id": "1741705364217966592",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102284370036060442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Steven15911051 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2102280241037414773",
+        "created_at": "2026-09-22T06:33:45.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T07:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102285203268088246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1741705364217966592",
+              "start": 0,
+              "username": "Steven15911051"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102285203268088246",
+        "in_reply_to_user_id": "1741705364217966592",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102284370036060442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Steven15911051 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741705364217966592",
+        "conversation_id": "2102280241037414773",
+        "created_at": "2026-09-22T06:30:27.000Z",
+        "display_text_range": [
+          15,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T07:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102284370036060442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102284370036060442",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102280241037414773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@FrankkkkkkLau 啊哈！西西米托！金发先生！这瓶镶钻版古董龙舌兰酒真是太赞了。像这样的好酒应该拿出来大家一起欣赏，而不是被锁起来，我们必须给它自由，您说对吧？oh，先生你知道吗  你费这么大劲 大老远跑过来只为了一瓶酒，这与我产生了很深层次的共鸣。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2102285203268088246",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 1126,
+          "like_count": 13875,
+          "listed_count": 1,
+          "media_count": 629,
+          "tweet_count": 2572
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T06:18:46.000Z",
+        "description": "这里是Steven😋当了多年阴暗b终于出来和大家玩了🥺在玩Flutter、CV、AI、嵌入式(现已退休)🐢晶哥摇了我罢😭",
+        "id": "1741705364217966592",
+        "is_identity_verified": false,
+        "location": "🥺",
+        "most_recent_tweet_id": "2102284370036060442",
+        "name": "Steven",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741705364217966592/1704103739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741713919440474112/7AygvetD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 1171,
+          "like_count": 174172,
+          "listed_count": 3,
+          "media_count": 392,
+          "tweet_count": 15014
+        },
+        "url": "",
+        "username": "Steven15911051",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103825730476130304"
+      ],
+      "media_source_tweet_id": [
+        "2103825736687669666"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103864383722185175",
+    "created_at": "2026-09-26T15:08:51.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T16:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103864383722185175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1873291956614500352",
+          "start": 3,
+          "username": "STARMAN810369"
+        },
+        {
+          "end": 34,
+          "id": "266980765",
+          "start": 19,
+          "username": "ZohranKMamdani"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xjD82CTzEx",
+          "end": 58,
+          "expanded_url": "https://x.com/STARMAN810369/status/2103825736687669666/photo/1",
+          "media_key": "3_2103825730476130304",
+          "start": 35,
+          "url": "https://t.co/xjD82CTzEx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103864383722185175",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2103825730476130304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103825736687669666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @STARMAN810369: @ZohranKMamdani https://t.co/xjD82CTzEx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 250,
+        "media_key": "3_2103825730476130304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJKWvZbQAAIkEV.jpg",
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103825730476130304"
+          ],
+          "media_source_tweet_id": [
+            "2103825736687669666"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103864383722185175",
+        "created_at": "2026-09-26T15:08:51.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103864383722185175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1873291956614500352",
+              "start": 3,
+              "username": "STARMAN810369"
+            },
+            {
+              "end": 34,
+              "id": "266980765",
+              "start": 19,
+              "username": "ZohranKMamdani"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjD82CTzEx",
+              "end": 58,
+              "expanded_url": "https://x.com/STARMAN810369/status/2103825736687669666/photo/1",
+              "media_key": "3_2103825730476130304",
+              "start": 35,
+              "url": "https://t.co/xjD82CTzEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103864383722185175",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2103825730476130304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103825736687669666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @STARMAN810369: @ZohranKMamdani https://t.co/xjD82CTzEx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103825730476130304"
+          ]
+        },
+        "author_id": "1873291956614500352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          }
+        ],
+        "conversation_id": "2103549630835273764",
+        "created_at": "2026-09-26T12:35:17.000Z",
+        "display_text_range": [
+          15,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T13:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103825736687669666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "266980765",
+              "start": 0,
+              "username": "ZohranKMamdani"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjD82CTzEx",
+              "end": 39,
+              "expanded_url": "https://x.com/STARMAN810369/status/2103825736687669666/photo/1",
+              "media_key": "3_2103825730476130304",
+              "start": 16,
+              "url": "https://t.co/xjD82CTzEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103825736687669666",
+        "in_reply_to_user_id": "266980765",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2103825730476130304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 64535,
+          "like_count": 1635,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103549630835273764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZohranKMamdani https://t.co/xjD82CTzEx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2103864383722185175",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 1104,
+          "like_count": 14298,
+          "listed_count": 1,
+          "media_count": 639,
+          "tweet_count": 2627
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-29T08:56:54.000Z",
+        "description": "本アカの方で淫夢ネタ嫌う方がいたので\n本アカで淫夢ネタ封印して淫夢垢として\n間違って作ったアカウントを再利用\n淫夢×陰謀論の淫謀論という過激すぎる語りをします\n\n野獣先輩は日月神事の救世主\n114514の合計数は16で菊花紋章の花弁の数と同じ\n中国で野獣先輩は自由の象徴",
+        "id": "1873291956614500352",
+        "is_identity_verified": false,
+        "location": "ガイアの法則で世界の中心となる地、日本",
+        "most_recent_tweet_id": "2103833326494888005",
+        "name": "良世⦿来世（淫謀論者）",
+        "pinned_tweet_id": "1966925227528777863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1873291956614500352/1778832262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054491423056240640/v2kvxlsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 193,
+          "like_count": 30767,
+          "listed_count": 20,
+          "media_count": 1810,
+          "tweet_count": 23049
+        },
+        "url": "",
+        "username": "STARMAN810369",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-03-16T03:57:57.000Z",
+        "description": "Mayor of New York City",
+        "id": "266980765",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2103661347083038809",
+        "name": "Zohran Kwame Mamdani",
+        "pinned_tweet_id": "2068819465890881880",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/266980765/1762364581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986127121501032448/oefzvYhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301632,
+          "following_count": 1002,
+          "like_count": 47448,
+          "listed_count": 2271,
+          "media_count": 3632,
+          "tweet_count": 17868
+        },
+        "url": "",
+        "username": "ZohranKMamdani",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

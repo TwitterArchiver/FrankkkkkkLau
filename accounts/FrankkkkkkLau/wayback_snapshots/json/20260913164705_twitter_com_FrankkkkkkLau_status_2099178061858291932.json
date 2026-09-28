@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099178053088030721"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      }
+    ],
+    "conversation_id": "2099178061858291932",
+    "created_at": "2026-09-13T16:47:05.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T17:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099178061858291932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jf4QIs8J5O",
+          "end": 38,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2099178061858291932/photo/1",
+          "media_key": "3_2099178053088030721",
+          "start": 15,
+          "url": "https://t.co/Jf4QIs8J5O"
+        },
+        {
+          "display_url": "x.com/feni_book/stat…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/feni_book/status/2099082623716913263",
+          "start": 39,
+          "url": "https://t.co/JJZiZggxMu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099178061858291932",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099178053088030721"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099082623716913263",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还以为grok翻译又犯蠢了 https://t.co/Jf4QIs8J5O https://t.co/JJZiZggxMu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1639,
+        "media_key": "3_2099178053088030721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSHHUT6bsAEMDTi.jpg",
+        "width": 1200
+      },
+      {
+        "height": 3376,
+        "media_key": "3_2099082611994046464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFwg6IasAAWSHJ.jpg",
+        "width": 3376
+      },
+      {
+        "height": 3495,
+        "media_key": "3_2099082611998294016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFwg6JbgAA4Arf.jpg",
+        "width": 3495
+      },
+      {
+        "height": 3747,
+        "media_key": "3_2099082611989897216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFwg6HbYAAAQjv.jpg",
+        "width": 3747
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099178053088030721"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          }
+        ],
+        "conversation_id": "2099178061858291932",
+        "created_at": "2026-09-13T16:47:05.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099178061858291932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jf4QIs8J5O",
+              "end": 38,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2099178061858291932/photo/1",
+              "media_key": "3_2099178053088030721",
+              "start": 15,
+              "url": "https://t.co/Jf4QIs8J5O"
+            },
+            {
+              "display_url": "x.com/feni_book/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/feni_book/status/2099082623716913263",
+              "start": 39,
+              "url": "https://t.co/JJZiZggxMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099178061858291932",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099178053088030721"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099082623716913263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还以为grok翻译又犯蠢了 https://t.co/Jf4QIs8J5O https://t.co/JJZiZggxMu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099082611994046464",
+            "3_2099082611998294016",
+            "3_2099082611989897216"
+          ]
+        },
+        "author_id": "1688376187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099082623716913263",
+        "created_at": "2026-09-13T10:27:51.000Z",
+        "display_text_range": [
+          0,
+          220
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099082623716913263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H31JIb3UCM",
+              "end": 244,
+              "expanded_url": "https://x.com/feni_book/status/2099082623716913263/photo/1",
+              "media_key": "3_2099082611994046464",
+              "start": 221,
+              "url": "https://t.co/H31JIb3UCM"
+            },
+            {
+              "display_url": "pic.x.com/H31JIb3UCM",
+              "end": 244,
+              "expanded_url": "https://x.com/feni_book/status/2099082623716913263/photo/1",
+              "media_key": "3_2099082611998294016",
+              "start": 221,
+              "url": "https://t.co/H31JIb3UCM"
+            },
+            {
+              "display_url": "pic.x.com/H31JIb3UCM",
+              "end": 244,
+              "expanded_url": "https://x.com/feni_book/status/2099082623716913263/photo/1",
+              "media_key": "3_2099082611989897216",
+              "start": 221,
+              "url": "https://t.co/H31JIb3UCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099082623716913263",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2099082611994046464"
+          },
+          {
+            "media_key": "3_2099082611998294016"
+          },
+          {
+            "media_key": "3_2099082611989897216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "🇰🇷 뭐야?! 이상한 일이 생겼습니다. 한국에 도착하고 나서 제가 가져온 이 북한 스마트폰이 갑자기 전원이 제대로 켜지지 않고, 무한 재부팅에 빠졌습니다. 😱\n\n🇺🇸 WTF?! Something really strange happened. After I arrived in South Korea, the North Korean smartphone I brought with me suddenly stopped booting properly and got stuck in an endless reboot loop. 😱"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 4084,
+          "like_count": 58,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "🇰🇷 뭐야?! 이상한 일이 생겼습니다. 한국에 도착하고 나서 제가 가져온 이 북한 스마트폰이 갑자기 전원이 제대로 켜지지 않고, 무한 재부팅에 빠졌습니다. 😱\n\n🇺🇸 WTF?! Something really strange happened. After I arrived in South Korea, the North Korean smartphone I brought with me suddenly https://t.co/H31JIb3UCM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2099178061858291932",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 1123,
+          "like_count": 13482,
+          "listed_count": 1,
+          "media_count": 607,
+          "tweet_count": 2498
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-08-21T13:41:39.000Z",
+        "description": "Tech enthusiast | Veteran Android user | Former imaging engineer\nSmartphones · Cameras · Chips · Displays · Leaks\nDriven by passion. Happy to share.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@fenibook",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@fenibook",
+                "start": 0,
+                "url": "https://t.co/vWeteNCrUs"
+              }
+            ]
+          }
+        },
+        "id": "1688376187",
+        "is_identity_verified": false,
+        "location": "Taichung City, Taiwan",
+        "most_recent_tweet_id": "2099159458056380777",
+        "name": "fenibook",
+        "pinned_tweet_id": "2097225747727540280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688376187/1750523047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092800518339084288/n1klXD4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2656,
+          "following_count": 343,
+          "like_count": 2326,
+          "listed_count": 12,
+          "media_count": 1285,
+          "tweet_count": 2636
+        },
+        "url": "https://t.co/vWeteNCrUs",
+        "username": "feni_book",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

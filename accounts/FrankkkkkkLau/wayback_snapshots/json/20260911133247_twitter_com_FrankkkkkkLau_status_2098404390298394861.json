@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098401907811532800"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2098404390298394861",
+    "created_at": "2026-09-11T13:32:47.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T14:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098404390298394861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IJryEoPTOx",
+          "end": 112,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2098404390298394861/photo/1",
+          "media_key": "3_2098401907811532800",
+          "start": 89,
+          "url": "https://t.co/IJryEoPTOx"
+        },
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2098222495119876428",
+          "start": 113,
+          "url": "https://t.co/kHUJffNNLk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098404390298394861",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098401907811532800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098222495119876428",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这件事告诉我们:\n不要用校内DNS解析敏感域名\n不要在设备上安装来路不明的根证书\n不要开启节点的\"允许不安全的连接\"\n\n有条件的话可以考虑用传统vpn回家, 用自己的家里云中转 https://t.co/IJryEoPTOx https://t.co/kHUJffNNLk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1147,
+        "media_key": "3_2098401907811532800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8FatcbwAAAE-J.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1264,
+        "media_key": "3_2098016834586914829",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2nMf5XsA0_hLj.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2098016834754916352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2nMghbMAAe9Ve.jpg",
+        "width": 790
+      },
+      {
+        "height": 695,
+        "media_key": "3_2098016834620444678",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2nMgBXUAYxUmq.jpg",
+        "width": 1124
+      },
+      {
+        "height": 688,
+        "media_key": "3_2098016834653974528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2nMgJW8AAAW0Y.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098401907811532800"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2098404390298394861",
+        "created_at": "2026-09-11T13:32:47.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098404390298394861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJryEoPTOx",
+              "end": 112,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2098404390298394861/photo/1",
+              "media_key": "3_2098401907811532800",
+              "start": 89,
+              "url": "https://t.co/IJryEoPTOx"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2098222495119876428",
+              "start": 113,
+              "url": "https://t.co/kHUJffNNLk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098404390298394861",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098401907811532800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098222495119876428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这件事告诉我们:\n不要用校内DNS解析敏感域名\n不要在设备上安装来路不明的根证书\n不要开启节点的\"允许不安全的连接\"\n\n有条件的话可以考虑用传统vpn回家, 用自己的家里云中转 https://t.co/IJryEoPTOx https://t.co/kHUJffNNLk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098016834586914829",
+            "3_2098016834754916352",
+            "3_2098016834620444678",
+            "3_2098016834653974528"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2098222495119876428",
+        "created_at": "2026-09-11T01:30:00.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098222495119876428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFI4lgAm62",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098222495119876428/photo/1",
+              "media_key": "3_2098016834586914829",
+              "start": 95,
+              "url": "https://t.co/OFI4lgAm62"
+            },
+            {
+              "display_url": "pic.x.com/OFI4lgAm62",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098222495119876428/photo/1",
+              "media_key": "3_2098016834754916352",
+              "start": 95,
+              "url": "https://t.co/OFI4lgAm62"
+            },
+            {
+              "display_url": "pic.x.com/OFI4lgAm62",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098222495119876428/photo/1",
+              "media_key": "3_2098016834620444678",
+              "start": 95,
+              "url": "https://t.co/OFI4lgAm62"
+            },
+            {
+              "display_url": "pic.x.com/OFI4lgAm62",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098222495119876428/photo/1",
+              "media_key": "3_2098016834653974528",
+              "start": 95,
+              "url": "https://t.co/OFI4lgAm62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098222495119876428",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098016834586914829"
+          },
+          {
+            "media_key": "3_2098016834754916352"
+          },
+          {
+            "media_key": "3_2098016834620444678"
+          },
+          {
+            "media_key": "3_2098016834653974528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 296,
+          "impression_count": 459543,
+          "like_count": 1175,
+          "quote_count": 12,
+          "reply_count": 372,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "高校校园也能监控“翻墙”\n\n9月10日，甘肃一名网友曝光某高校监控学生“翻墙”行为：该校“网安信息化办公室”甚至将使用校园网“翻墙”的同学名单列出，还将登录外网社交媒体的时长精确监控到秒。 https://t.co/OFI4lgAm62"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2098404390298394861",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 1123,
+          "like_count": 13395,
+          "listed_count": 1,
+          "media_count": 602,
+          "tweet_count": 2488
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2098401177318703164",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264190,
+          "following_count": 1083,
+          "like_count": 10480,
+          "listed_count": 8902,
+          "media_count": 53592,
+          "tweet_count": 60922
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

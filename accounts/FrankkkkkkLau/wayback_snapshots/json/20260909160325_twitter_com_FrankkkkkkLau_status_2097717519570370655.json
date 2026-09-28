@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097717058645680128"
+      ]
+    },
+    "author_id": "1672761170040692739",
+    "conversation_id": "2097717519570370655",
+    "created_at": "2026-09-09T16:03:25.000Z",
+    "display_text_range": [
+      0,
+      147
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T17:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097717519570370655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E0xKVzuXsV",
+          "end": 171,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2097717519570370655/photo/1",
+          "media_key": "3_2097717058645680128",
+          "start": 148,
+          "url": "https://t.co/E0xKVzuXsV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097717519570370655",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097717058645680128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "一直觉得\"原生IP\"这个概念极易误导小白。\n很多IP库的判定标准, 只看IP段的注册地与使用地是否一致, 不一致就标记为\"非原生/广播\"。但网上很多信息让小白觉得\"原生IP=服务器物理位置与IP库定位一致\", \"非原生/广播=服务器位置与IP库定位不一致\", 甚至盲信\"原生=好 非原生=坏\", 然后花大价钱买纯国际线路本土小idc的机器, 被坑了钱还沾沾自喜。\n事实上, 按照这个标准, 很多跨国企业和运营商的IP段也会被标成\"广播IP\"。而且一旦上游数据库信息滞后或者定位有误, 连本土本地资源也会被误伤。\n总之, 各类查IP网站的数据当个参考就好, 像ping0这种当成娱乐网站看就行。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "一直觉得\"原生IP\"这个概念极易误导小白。\n很多IP库的判定标准, 只看IP段的注册地与使用地是否一致, 不一致就标记为\"非原生/广播\"。但网上很多信息让小白觉得\"原生IP=服务器物理位置与IP库定位一致\", \"非原生/广播=服务器位置与IP库定位不一致\", 甚至盲信\"原生=好 非原生=坏\", https://t.co/E0xKVzuXsV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 954,
+        "media_key": "3_2097717058645680128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyWjPfaYAAHDQu.jpg",
+        "width": 1167
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097717058645680128"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2097717519570370655",
+        "created_at": "2026-09-09T16:03:25.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097717519570370655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0xKVzuXsV",
+              "end": 171,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2097717519570370655/photo/1",
+              "media_key": "3_2097717058645680128",
+              "start": 148,
+              "url": "https://t.co/E0xKVzuXsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097717519570370655",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097717058645680128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "一直觉得\"原生IP\"这个概念极易误导小白。\n很多IP库的判定标准, 只看IP段的注册地与使用地是否一致, 不一致就标记为\"非原生/广播\"。但网上很多信息让小白觉得\"原生IP=服务器物理位置与IP库定位一致\", \"非原生/广播=服务器位置与IP库定位不一致\", 甚至盲信\"原生=好 非原生=坏\", 然后花大价钱买纯国际线路本土小idc的机器, 被坑了钱还沾沾自喜。\n事实上, 按照这个标准, 很多跨国企业和运营商的IP段也会被标成\"广播IP\"。而且一旦上游数据库信息滞后或者定位有误, 连本土本地资源也会被误伤。\n总之, 各类查IP网站的数据当个参考就好, 像ping0这种当成娱乐网站看就行。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "一直觉得\"原生IP\"这个概念极易误导小白。\n很多IP库的判定标准, 只看IP段的注册地与使用地是否一致, 不一致就标记为\"非原生/广播\"。但网上很多信息让小白觉得\"原生IP=服务器物理位置与IP库定位一致\", \"非原生/广播=服务器位置与IP库定位不一致\", 甚至盲信\"原生=好 非原生=坏\", https://t.co/E0xKVzuXsV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2097717519570370655",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 1122,
+          "like_count": 13370,
+          "listed_count": 1,
+          "media_count": 594,
+          "tweet_count": 2468
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

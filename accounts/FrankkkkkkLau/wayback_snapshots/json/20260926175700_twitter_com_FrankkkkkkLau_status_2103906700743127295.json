@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1672761170040692739",
+    "conversation_id": "2103875657172422661",
+    "created_at": "2026-09-26T17:57:00.000Z",
+    "display_text_range": [
+      17,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T18:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103906700743127295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041191753483476993",
+          "start": 0,
+          "username": "beingoncaugwong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103906700743127295",
+    "in_reply_to_user_id": "2041191753483476993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103891797873397787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@beingoncaugwong 🥺但是没有合适的衣服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672761170040692739",
+        "conversation_id": "2103875657172422661",
+        "created_at": "2026-09-26T17:57:00.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T18:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103906700743127295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041191753483476993",
+              "start": 0,
+              "username": "beingoncaugwong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103906700743127295",
+        "in_reply_to_user_id": "2041191753483476993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103891797873397787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@beingoncaugwong 🥺但是没有合适的衣服了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041191753483476993",
+        "conversation_id": "2103875657172422661",
+        "created_at": "2026-09-26T16:57:47.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103891797873397787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103891797873397787",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103875657172422661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@FrankkkkkkLau 對唔住，我鍾意睇😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2103906700743127295",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 1104,
+          "like_count": 14366,
+          "listed_count": 1,
+          "media_count": 641,
+          "tweet_count": 2637
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T16:30:34.000Z",
+        "description": "中文普通話/廣東話/English, Aviation & Photography Enthusiast\n\nNo security, no access.",
+        "id": "2041191753483476993",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103891797873397787",
+        "name": "bei2 ngon6 cau1 gwong1",
+        "pinned_tweet_id": "2092918303031517611",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101171266250260480/HZoQtLaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 295,
+          "like_count": 21679,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "beingoncaugwong",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
